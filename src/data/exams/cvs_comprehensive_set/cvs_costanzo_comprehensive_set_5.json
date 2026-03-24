@@ -1,0 +1,333 @@
+{
+    "info": {
+        "set_name": "Cardiovascular Comprehensive Set 1: Regulation of Arterial Pressure (Short answer)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "short_answer",
+            "prompt": "What is the mathematical relationship between mean arterial pressure (P_a), cardiac output (CO), and total peripheral resistance (TPR)?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "P_a = Cardiac Output \u00d7 TPR."
+            ]
+        },
+        "q2": {
+            "type": "short_answer",
+            "prompt": "Which regulatory system is responsible for the fast, second-to-second adjustment of arterial pressure, and which system is responsible for long-term regulation via blood volume?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The baroreceptor reflex provides fast, second-to-second regulation; the renin-angiotensin-aldosterone system provides slow, long-term regulation."
+            ]
+        },
+        "q3": {
+            "type": "short_answer",
+            "prompt": "Where are the primary high-pressure baroreceptors located, and what is the specific stimulus that activates them?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "They are in the carotid sinus and aortic arch; they are activated by stretch (changes in arterial pressure)."
+            ]
+        },
+        "q4": {
+            "type": "short_answer",
+            "prompt": "Identify the two cranial nerves that transmit afferent information from the carotid sinus and the aortic arch to the brainstem.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The glossopharyngeal nerve (CN IX) (carotid sinus) and the vagus nerve (CN X) (aortic arch)."
+            ]
+        },
+        "q5": {
+            "type": "short_answer",
+            "prompt": "Within the medulla, which specific nucleus receives and integrates afferent baroreceptor information?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The nucleus tractus solitarius."
+            ]
+        },
+        "q6": {
+            "type": "short_answer",
+            "prompt": "How does an increase in the firing rate of the carotid sinus nerve affect the activity of the parasympathetic and sympathetic nervous systems?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It increases parasympathetic outflow and decreases sympathetic outflow."
+            ]
+        },
+        "q7": {
+            "type": "short_answer",
+            "prompt": "What are the four primary efferent effects of the sympathetic nervous system on the heart and vasculature used to increase arterial pressure?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "(1) Increased heart rate; (2) increased contractility/stroke volume; (3) arteriolar vasoconstriction (increased TPR); (4) venoconstriction (increased venous return)."
+            ]
+        },
+        "q8": {
+            "type": "short_answer",
+            "prompt": "Describe the \"resetting\" of baroreceptors in the context of chronic hypertension.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "In chronic hypertension, baroreceptors increase their set point or decrease sensitivity, treating the elevated pressure as normal."
+            ]
+        },
+        "q9": {
+            "type": "short_answer",
+            "prompt": "In the Renin-Angiotensin II-Aldosterone System (RAAS), what is the primary stimulus for the secretion of renin from the juxtaglomerular cells?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Decreased renal perfusion pressure (sensed by mechanoreceptors in afferent arterioles)."
+            ]
+        },
+        "q10": {
+            "type": "short_answer",
+            "prompt": "Which enzyme is responsible for converting Angiotensin I to Angiotensin II, and where is it primarily located?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Angiotensin-converting enzyme (ACE); located primarily in the lungs (and kidneys)."
+            ]
+        },
+        "q11": {
+            "type": "short_answer",
+            "prompt": "What are the four major physiological effects of Angiotensin II that contribute to increasing arterial pressure?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "(1) Stimulates aldosterone secretion; (2) increases thirst; (3) causes arteriolar vasoconstriction; (4) stimulates renal Na^+/H^+ exchange."
+            ]
+        },
+        "q12": {
+            "type": "short_answer",
+            "prompt": "Where does aldosterone act within the nephron, and what is its specific effect on sodium and blood volume?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It acts on the principal cells of the late distal tubule and collecting duct to increase Na^+ reabsorption, thereby increasing ECF and blood volume."
+            ]
+        },
+        "q13": {
+            "type": "short_answer",
+            "prompt": "By what molecular mechanism does aldosterone increase sodium reabsorption, and why does this result in a slow response time?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It acts via gene transcription and new protein synthesis (e.g., Na^+ channels), which requires hours to days to take effect."
+            ]
+        },
+        "q14": {
+            "type": "short_answer",
+            "prompt": "Distinguish between the V_1 and V_2 receptors for Antidiuretic Hormone (ADH) regarding their location and physiological actions.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "V_1 receptors are on vascular smooth muscle (causing vasoconstriction); V_2 receptors are in renal principal cells (increasing water reabsorption)."
+            ]
+        },
+        "q15": {
+            "type": "short_answer",
+            "prompt": "What are the three primary stimuli that trigger the release of ADH from the posterior pituitary?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "(1) Increased serum osmolarity; (2) decreased blood volume; (3) decreased blood pressure."
+            ]
+        },
+        "q16": {
+            "type": "short_answer",
+            "prompt": "How does Atrial Natriuretic Peptide (ANP) respond to an increase in blood volume, and what is its effect on TPR and sodium excretion?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It is released in response to increased blood volume; it decreases TPR (vasodilation) and increases Na^+ and water excretion."
+            ]
+        },
+        "q17": {
+            "type": "short_answer",
+            "prompt": "What are the \"low-pressure\" baroreceptors, and where are they located to sense the \"fullness\" of the vascular system?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Cardiopulmonary baroreceptors; located in the veins, atria, and pulmonary arteries."
+            ]
+        },
+        "q18": {
+            "type": "short_answer",
+            "prompt": "Explain the \"Bainbridge reflex\" in response to an increase in venous pressure.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "An increase in pressure at the venous low-pressure receptors produces an increase in heart rate to increase cardiac output and renal perfusion."
+            ]
+        },
+        "q19": {
+            "type": "short_answer",
+            "prompt": "Which blood parameters are sensed by the peripheral chemoreceptors in the carotid and aortic bodies?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Decreased P_(O2), increased P_(CO2) , and decreased pH."
+            ]
+        },
+        "q20": {
+            "type": "short_answer",
+            "prompt": "What is the threshold level for arterial P_(O2) below which the peripheral chemoreceptors significantly increase the breathing rate?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "P_(O2) <60 mmHg."
+            ]
+        },
+        "q21": {
+            "type": "short_answer",
+            "prompt": "Describe the \"Cushing reaction\" and the physiological stimulus that initiates it.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It is a response to increased intracranial pressure causing cerebral ischemia; it results in profound hypertension and reflex bradycardia."
+            ]
+        },
+        "q22": {
+            "type": "short_answer",
+            "prompt": "How does the body distinguish between \"Effective Arterial Blood Volume\" (EABV) and total extracellular fluid (ECF) volume in a state like heart failure?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "EABV is the portion of ECF in the arteries effectively perfusing tissues; in heart failure, ECF is high (edema), but EABV is low due to poor pump function."
+            ]
+        },
+        "q23": {
+            "type": "short_answer",
+            "prompt": "Why does the baroreceptor reflex produce a \"rebound\" bradycardia immediately following the cessation of a Valsalva maneuver?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The sudden return of venous return causes a rebound increase in P_a, which is sensed by baroreceptors, directing a decrease in heart rate."
+            ]
+        },
+        "q24": {
+            "type": "short_answer",
+            "prompt": "Define \"orthostatic hypotension\" and explain why it occurs upon standing too quickly.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "A decrease in arterial pressure upon standing; it occurs because blood pools in the veins of the lower extremities, decreasing venous return and cardiac output."
+            ]
+        },
+        "q25": {
+            "type": "short_answer",
+            "prompt": "How does the arteriolar vasoconstriction following a hemorrhage help restore blood volume via capillary dynamics?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Arteriolar constriction decreases capillary hydrostatic pressure (P_c), which shifts the Starling balance to favor fluid absorption from the interstitium."
+            ]
+        }
+    }
+}

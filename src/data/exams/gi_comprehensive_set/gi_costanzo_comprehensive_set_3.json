@@ -1,0 +1,411 @@
+{
+    "info": {
+        "set_name": "Gastrointestinal Comprehensive Set 1: GI Motility (Short Answer)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "short_answer",
+            "prompt": "Identify the specific cells located in the myenteric plexus that serve as the pacemakers for gastrointestinal smooth muscle electrical activity.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Interstitial cells of Cajal."
+            ]
+        },
+        "q2": {
+            "type": "short_answer",
+            "prompt": "Define \"slow waves\" in the context of gastrointestinal smooth muscle and clarify if they are considered action potentials.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "They are oscillating membrane potentials (depolarization/repolarization), not action potentials, though they determine the pattern of action potentials."
+            ]
+        },
+        "q3": {
+            "type": "short_answer",
+            "prompt": "Which specific ion channel opening is responsible for the depolarising phase of a slow wave?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Calcium (Ca^(2+)) channels."
+            ]
+        },
+        "q4": {
+            "type": "short_answer",
+            "prompt": "Which specific ion movement is responsible for the repolarising phase of a slow wave?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Outward potassium (K^+) current."
+            ]
+        },
+        "q5": {
+            "type": "short_answer",
+            "prompt": "State the characteristic frequency of slow waves in the stomach versus the duodenum.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Stomach: 3 per minute; Duodenum: 12 per minute."
+            ]
+        },
+        "q6": {
+            "type": "short_answer",
+            "prompt": "Although slow waves are not action potentials, what is their relationship to the threshold potential and subsequent muscle contraction?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Slow waves bring the membrane potential toward threshold; if threshold is reached, action potentials occur on the peak of the slow wave, triggering contraction."
+            ]
+        },
+        "q7": {
+            "type": "short_answer",
+            "prompt": "How does the number of action potentials occurring at the peak of a slow wave correlate with the resulting muscle tension?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The greater the number of action potentials, the higher the tension/force of the phasic contraction."
+            ]
+        },
+        "q8": {
+            "type": "short_answer",
+            "prompt": "Explain the \"all-or-none\" property as it applies to GI action potentials.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "If a stimulus is at or above threshold, the action potential occurs with a constant amplitude and form; it will not occur if the stimulus is subthreshold."
+            ]
+        },
+        "q9": {
+            "type": "short_answer",
+            "prompt": "Name the three phases of the swallowing reflex and specify which are voluntary and which are involuntary.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Oral (voluntary), pharyngeal (involuntary), and esophageal (involuntary)."
+            ]
+        },
+        "q10": {
+            "type": "short_answer",
+            "prompt": "Where is the swallowing center located in the brainstem?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Medulla (and lower pons)."
+            ]
+        },
+        "q11": {
+            "type": "short_answer",
+            "prompt": "Describe the protective mechanisms that prevent food from entering the nasopharynx and trachea during the pharyngeal phase of swallowing.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Nasopharynx: Soft palate is pulled upward. Trachea: Epiglottis covers the larynx, and the larynx moves upward."
+            ]
+        },
+        "q12": {
+            "type": "short_answer",
+            "prompt": "Contrast primary esophageal peristalsis with secondary esophageal peristalsis regarding their triggers.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Primary: Triggered by the swallowing reflex. Secondary: Triggered by distension of the esophagus by remaining food."
+            ]
+        },
+        "q13": {
+            "type": "short_answer",
+            "prompt": "Which neurotransmitter, released by postganglionic peptidergic vagal fibers, is primarily responsible for the relaxation of the lower esophageal sphincter (LES)?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Vasoactive Intestinal Peptide (VIP)."
+            ]
+        },
+        "q14": {
+            "type": "short_answer",
+            "prompt": "Explain the \"receptive relaxation\" (accommodation) reflex of the orad stomach and name the vagal neurotransmitter involved.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "A vagovagal reflex that allows the orad stomach to expand to accommodate food without a large pressure increase; mediated by VIP."
+            ]
+        },
+        "q15": {
+            "type": "short_answer",
+            "prompt": "Contrast the primary motor functions of the orad region versus the caudad region of the stomach.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Orad: Receiving and storage (reservoir). Caudad: Mixing, digestion (trituration), and propulsion."
+            ]
+        },
+        "q16": {
+            "type": "short_answer",
+            "prompt": "Describe the process of \"retropulsion\" in the gastric antrum and its functional significance for digestion.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The propulsion of chyme back into the stomach when the wave of contraction closes the pylorus; it facilitates mixing and particle size reduction."
+            ]
+        },
+        "q17": {
+            "type": "short_answer",
+            "prompt": "What are the \"migrating myoelectric complexes\" (MMC), and how frequently do they occur during the interdigestive state?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Periodic contractions/peristaltic waves that clear the gut of residue; they occur every 90 minutes."
+            ]
+        },
+        "q18": {
+            "type": "short_answer",
+            "prompt": "Which hormone is the primary mediator for initiating MMCs?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Motilin."
+            ]
+        },
+        "q19": {
+            "type": "short_answer",
+            "prompt": "How do liquids, solids, and non-isotonic chyme differ in their rates of gastric emptying?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Liquids empty fastest; solids empty slower (must be reduced to <1mm\u00b3); isotonic contents empty faster than hypertonic or hypotonic contents."
+            ]
+        },
+        "q20": {
+            "type": "short_answer",
+            "prompt": "Which duodenal hormone, released in response to fat, acts to slow gastric emptying?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Cholecystokinin (CCK)."
+            ]
+        },
+        "q21": {
+            "type": "short_answer",
+            "prompt": "Explain how low pH in the duodenum inhibits gastric emptying.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Mediated by enteric nervous system reflexes; H^+ receptors in the duodenum detect low pH and slow emptying to allow for neutralization by pancreatic bicarbonate."
+            ]
+        },
+        "q22": {
+            "type": "short_answer",
+            "prompt": "Contrast the mechanical goals of segmentation contractions versus peristaltic contractions in the small intestine.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Segmentation: Mixing chyme and exposing it to enzymes/mucosa. Peristalsis: Propelling chyme along the tract."
+            ]
+        },
+        "q23": {
+            "type": "short_answer",
+            "prompt": "In the peristaltic reflex of the small intestine, what is the coordinated response of the circular and longitudinal muscles behind (orad to) the food bolus?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Circular muscle contracts; longitudinal muscle relaxes."
+            ]
+        },
+        "q24": {
+            "type": "short_answer",
+            "prompt": "In the peristaltic reflex, what is the coordinated response of the circular and longitudinal muscles in front of (caudad to) the food bolus?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Circular muscle relaxes; longitudinal muscle contracts."
+            ]
+        },
+        "q25": {
+            "type": "short_answer",
+            "prompt": "Which substance, released by mucosal enterochromaffin-like (ECL) cells, initiates the peristaltic reflex by binding to receptors on intrinsic primary afferent neurons (IPANs)?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Serotonin (5-HT)."
+            ]
+        },
+        "q26": {
+            "type": "short_answer",
+            "prompt": "What are the characteristic saclike segments formed by contractions of the large intestine called?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Haustra."
+            ]
+        },
+        "q27": {
+            "type": "short_answer",
+            "prompt": "Define \"mass movements\" in the colon and state how often they typically occur.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Powerful contractile waves that move contents over long distances; 1 to 3 times per day."
+            ]
+        },
+        "q28": {
+            "type": "short_answer",
+            "prompt": "Explain the \"gastrocolic reflex\" and identify the hormones that mediate its efferent limb.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Food in the stomach increases colonic motility/mass movements; mediated by CCK and gastrin."
+            ]
+        },
+        "q29": {
+            "type": "short_answer",
+            "prompt": "Describe the \"rectosphincteric reflex\" triggered by the filling of the rectum.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Rectal distension causing the rectal wall to contract and the internal anal sphincter to relax."
+            ]
+        },
+        "q30": {
+            "type": "short_answer",
+            "prompt": "Contrast the muscle types and innervation of the internal versus the external anal sphincters.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Internal: Unitary smooth muscle (involuntary); External: Striated muscle (voluntary)."
+            ]
+        },
+        "q31": {
+            "type": "short_answer",
+            "prompt": "Identify the clinical condition caused by a congenital absence of the myenteric plexus in the distal colon, resulting in severe constipation.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Megacolon (Hirschsprung's disease)."
+            ]
+        }
+    }
+}

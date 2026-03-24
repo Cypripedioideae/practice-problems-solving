@@ -1,0 +1,530 @@
+{
+    "info": {
+        "set_name": "Gastrointestinal Comprehensive Set 2: Hepatobiliary (MCQ)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A 45-year-old patient undergoes an extensive resection of the terminal ileum. Three months later, he reports fatty, foul-smelling stools. Which of the following best describes the physiological status of his bile acid pool and the compensatory response of his liver?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased bile acid pool due to up-regulation of apical Na^+-bile salt cotransporters."
+                },
+                {
+                    "id": "b",
+                    "label": "Decreased bile acid pool due to feedback inhibition of cholesterol 7\u03b1-hydroxylase."
+                },
+                {
+                    "id": "c",
+                    "label": "Decreased bile acid pool despite maximal stimulation of de novo bile acid synthesis."
+                },
+                {
+                    "id": "d",
+                    "label": "Normal bile acid pool maintained by increased passive diffusion in the colon."
+                },
+                {
+                    "id": "e",
+                    "label": "Normal bile acid pool due to decreased secretion of cholecystokinin (CCK)."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A 55-year-old woman with a history of gallstones presents with yellowing of the sclera and dark urine. Laboratory results show a significant elevation in direct-acting (conjugated) bilirubin with only a mild increase in indirect-acting bilirubin. Which of the following is the most likely physiological cause of her jaundice?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Excessive breakdown of erythrocytes in the reticuloendothelial system."
+                },
+                {
+                    "id": "b",
+                    "label": "Obstruction of the common bile duct preventing the entry of bilirubin into the duodenum."
+                },
+                {
+                    "id": "c",
+                    "label": "Congenital deficiency of the enzyme UDP-glucuronyl transferase."
+                },
+                {
+                    "id": "d",
+                    "label": "Failure of the ileal enterocytes to reabsorb urobilinogen via the portal blood."
+                },
+                {
+                    "id": "e",
+                    "label": "Inability of albumin to bind and transport free bilirubin to the hepatocytes."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "An experimental drug is administered to a volunteer that selectively inhibits the cytochrome P-450 enzyme system in hepatocytes. Which of the following metabolic processes would be most significantly impaired?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The conjugation of bilirubin with glucuronic acid (Phase II)."
+                },
+                {
+                    "id": "b",
+                    "label": "The conversion of ammonia to urea via the urea cycle."
+                },
+                {
+                    "id": "c",
+                    "label": "The esterification of free fatty acids into triglycerides."
+                },
+                {
+                    "id": "d",
+                    "label": "The synthesis of plasma proteins such as albumin and globulins."
+                },
+                {
+                    "id": "e",
+                    "label": "The initial oxidative modification of exogenous toxins (Phase I)."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "In a patient with advanced alcoholic cirrhosis, the liver's ability to synthesize plasma proteins is severely compromised. Which of the following alterations in Starling forces across skeletal muscle capillaries is the predicted result of this hepatic failure?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Decreased capillary oncotic pressure leading to increased net filtration and edema."
+                },
+                {
+                    "id": "b",
+                    "label": "Increased capillary hydrostatic pressure due to systemic hypertension."
+                },
+                {
+                    "id": "c",
+                    "label": "Increased interstitial oncotic pressure due to a \"washout\" of proteins."
+                },
+                {
+                    "id": "d",
+                    "label": "Decreased hydraulic conductance of the capillary wall."
+                },
+                {
+                    "id": "e",
+                    "label": "Increased plasma protein concentration due to ECF volume contraction."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "A researcher is studying the properties of bile salts compared to primary bile acids. Why are bile salts, such as glycocholic acid, more effective for lipid assimilation in the duodenal environment (pH 3-5) than their non-conjugated counterparts?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Bile salts have higher pKs, ensuring they remain non-ionized and lipid-soluble."
+                },
+                {
+                    "id": "b",
+                    "label": "Bile acids are more effective at forming mixed micelles with triglycerides."
+                },
+                {
+                    "id": "c",
+                    "label": "Bile salts are primarily reabsorbed in the duodenum via simple diffusion."
+                },
+                {
+                    "id": "d",
+                    "label": "Bile salts have lower pKs, ensuring they remain ionized and water-soluble at acidic pH."
+                },
+                {
+                    "id": "e",
+                    "label": "Conjugation with glycine increases the hydrophobic steroid nucleus surface area."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "A patient with severe chronic pancreatitis is found to have a deficiency in all pancreatic exocrine secretions. In addition to impaired macronutrient digestion, he is unable to absorb Vitamin B12. What is the physiological basis for this specific micronutrient malabsorption?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Inability of the gastric parietal cells to secrete intrinsic factor."
+                },
+                {
+                    "id": "b",
+                    "label": "Failure of pancreatic proteases to degrade R proteins and release Vitamin B12."
+                },
+                {
+                    "id": "c",
+                    "label": "Premature degradation of the B12-intrinsic factor complex by gastric pepsin."
+                },
+                {
+                    "id": "d",
+                    "label": "Lack of bile salts to form micelles around the water-soluble Vitamin B12."
+                },
+                {
+                    "id": "e",
+                    "label": "Destruction of the specific B12-IF receptors in the terminal ileum."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "During the \"First Run,\" we discussed that the liver receives 75% of its blood from the portal vein. Which of the following describes the hemodynamic profile of this portal circulation compared to the systemic arterial circulation?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "High resistance, high pressure, and high flow."
+                },
+                {
+                    "id": "b",
+                    "label": "High resistance, low pressure, and low flow."
+                },
+                {
+                    "id": "c",
+                    "label": "Low resistance, low pressure, and high flow."
+                },
+                {
+                    "id": "d",
+                    "label": "Low resistance, high pressure, and high flow."
+                },
+                {
+                    "id": "e",
+                    "label": "High resistance, high pressure, and low flow."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "A patient is treated with a medication that sequesters bile acids in the intestinal lumen, preventing their reabsorption in the ileum. Which of the following is the predicted effect on hepatic cholesterol metabolism?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased blood cholesterol due to inhibition of the 7\u03b1-hydroxylase enzyme."
+                },
+                {
+                    "id": "b",
+                    "label": "Decreased synthesis of primary bile acids from cholesterol."
+                },
+                {
+                    "id": "c",
+                    "label": "Decreased hepatic uptake of LDL-cholesterol from the circulation."
+                },
+                {
+                    "id": "d",
+                    "label": "Increased conversion of cholesterol into new bile acids to replenish the pool."
+                },
+                {
+                    "id": "e",
+                    "label": "Total cessation of micelle formation in the duodenal bulb."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "In a patient with end-stage liver disease, the conversion of ammonia to urea is significantly reduced. Which of the following integrated physiological outcomes is most consistent with this finding?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased blood ammonia levels leading to potentially fatal hepatic encephalopathy."
+                },
+                {
+                    "id": "b",
+                    "label": "Decreased plasma pH due to the accumulation of urea-cycle intermediates."
+                },
+                {
+                    "id": "c",
+                    "label": "Increased urinary excretion of ammonium salts to compensate for urea loss."
+                },
+                {
+                    "id": "d",
+                    "label": "Inhibition of the Na^+/K^+ ATPase in the renal proximal tubule."
+                },
+                {
+                    "id": "e",
+                    "label": "Massive increase in the filtered load of non-essential amino acids."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "A 2-day-old neonate presents with mild jaundice. The physician explains that this is \"physiological jaundice of the newborn.\" This condition is primarily attributed to a developmental delay in which hepatic process?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The extraction of albumin-bound bilirubin from the portal blood."
+                },
+                {
+                    "id": "b",
+                    "label": "The conversion of biliverdin to bilirubin by heme oxygenase."
+                },
+                {
+                    "id": "c",
+                    "label": "The synthesis of bile salts from cholesterol in the zona glomerulosa."
+                },
+                {
+                    "id": "d",
+                    "label": "The reabsorption of urobilinogen from the terminal ileum."
+                },
+                {
+                    "id": "e",
+                    "label": "The conjugation of bilirubin with glucuronic acid by UDP-glucuronyl transferase."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q11": {
+            "type": "mcq",
+            "prompt": "A medical student analyzes a sample of gallbladder bile and compares it to hepatic bile. She finds that the gallbladder bile is significantly more concentrated. Which of the following transport mechanisms is primarily responsible for this concentrating action?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Active secretion of bile salts into the gallbladder lumen."
+                },
+                {
+                    "id": "b",
+                    "label": "Passive diffusion of water into the pericholecystic capillaries."
+                },
+                {
+                    "id": "c",
+                    "label": "Isosmotic absorption of Na^+, Cl^-, and H_2O across the gallbladder epithelium."
+                },
+                {
+                    "id": "d",
+                    "label": "Facilitated diffusion of cholesterol and phospholipids into the blood."
+                },
+                {
+                    "id": "e",
+                    "label": "Secondary active transport of bilirubin into the cystic duct."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q12": {
+            "type": "mcq",
+            "prompt": "Following the ingestion of a meal high in triglycerides and proteins, the I cells of the duodenum secrete CCK. Which set of responses correctly describes the integrated hepatobiliary effect of this hormone?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Relaxation of the gallbladder and contraction of the sphincter of Oddi."
+                },
+                {
+                    "id": "b",
+                    "label": "Contraction of the gallbladder and relaxation of the sphincter of Oddi."
+                },
+                {
+                    "id": "c",
+                    "label": "Inhibition of bile acid synthesis and stimulation of secretin release."
+                },
+                {
+                    "id": "d",
+                    "label": "Increased hepatic synthesis of cholesterol and decreased gastric emptying."
+                },
+                {
+                    "id": "e",
+                    "label": "Contraction of both the gallbladder and the internal anal sphincter."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q13": {
+            "type": "mcq",
+            "prompt": "In the \"Physiolego\" of metabolic integration, the liver's role during a 24-hour fast is crucial. Which of the following describes the liver's primary contribution to glucose homeostasis in this state?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Net glycogenesis and storage of absorbed glucose from the portal vein."
+                },
+                {
+                    "id": "b",
+                    "label": "Inhibition of glycogen phosphorylase by high circulating insulin levels."
+                },
+                {
+                    "id": "c",
+                    "label": "Conversion of fatty acids into glucose via the process of gluconeogenesis."
+                },
+                {
+                    "id": "d",
+                    "label": "Active transport of glucose into hepatocytes via GLUT4 transporters."
+                },
+                {
+                    "id": "e",
+                    "label": "Hepatic glycogenolysis and gluconeogenesis from lactate, glycerol, and amino acids."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q14": {
+            "type": "mcq",
+            "prompt": "A patient with a history of sickle cell anemia is admitted with severe right upper quadrant pain. Ultrasound reveals multiple gallstones. Given the patient's underlying condition, these stones are most likely composed of which substance?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Bilirubin pigments."
+                },
+                {
+                    "id": "b",
+                    "label": "Pure cholesterol."
+                },
+                {
+                    "id": "c",
+                    "label": "Calcium oxalate."
+                },
+                {
+                    "id": "d",
+                    "label": "Magnesium ammonium phosphate."
+                },
+                {
+                    "id": "e",
+                    "label": "Sodium urate."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q15": {
+            "type": "mcq",
+            "prompt": "Secretin is released from the S cells of the duodenum in response to luminal H^+. Aside from its effects on the pancreas, what is the effect of secretin on the hepatobiliary system?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Stimulation of bile acid synthesis from cholesterol."
+                },
+                {
+                    "id": "b",
+                    "label": "Inhibition of the enterohepatic circulation of bile salts."
+                },
+                {
+                    "id": "c",
+                    "label": "Relaxation of the gallbladder to allow for storage."
+                },
+                {
+                    "id": "d",
+                    "label": "Stimulation of a bicarbonate-rich aqueous secretion by the bile duct epithelia."
+                },
+                {
+                    "id": "e",
+                    "label": "Potentiation of CCK-mediated contraction of the cystic duct."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q16": {
+            "type": "mcq",
+            "prompt": "Phase II detoxification reactions in the liver are essential for rendering substances more water-soluble for excretion. Which of the following is a classic example of a Phase II reaction?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Hydroxylation of a drug by the cytochrome P-450 system."
+                },
+                {
+                    "id": "b",
+                    "label": "Conjugation of a substance with glucuronide, sulfate, or glutathione."
+                },
+                {
+                    "id": "c",
+                    "label": "Phagocytosis of colonic bacteria by Kupffer cells."
+                },
+                {
+                    "id": "d",
+                    "label": "Deamination of amino acids to produce ammonia."
+                },
+                {
+                    "id": "e",
+                    "label": "Oxidation of ethanol to acetaldehyde by alcohol dehydrogenase."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q17": {
+            "type": "mcq",
+            "prompt": "A patient presents with steatorrhea and a positive 13C-urea breath test. If the patient's low duodenal pH is found to be denaturing his pancreatic lipase, which of the following is the most likely underlying diagnosis?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Primary biliary cirrhosis."
+                },
+                {
+                    "id": "b",
+                    "label": "Tropical sprue."
+                },
+                {
+                    "id": "c",
+                    "label": "Zollinger-Ellison syndrome."
+                },
+                {
+                    "id": "d",
+                    "label": "Celiac disease."
+                },
+                {
+                    "id": "e",
+                    "label": "Hirschsprung's disease."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q18": {
+            "type": "mcq",
+            "prompt": "Which of the following hepatic cells are considered part of the reticuloendothelial system and are responsible for clearing bacteria that may have entered the portal blood from the colon?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Kupffer cells."
+                },
+                {
+                    "id": "b",
+                    "label": "Hepatocytes."
+                },
+                {
+                    "id": "c",
+                    "label": "Canalicular cells."
+                },
+                {
+                    "id": "d",
+                    "label": "Stellate (Ito) cells."
+                },
+                {
+                    "id": "e",
+                    "label": "Endothelial cells of the vasa recta."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        }
+    }
+}

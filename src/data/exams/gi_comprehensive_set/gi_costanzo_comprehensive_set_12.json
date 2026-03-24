@@ -1,0 +1,588 @@
+{
+    "info": {
+        "set_name": "Gastrointestinal Comprehensive Set 2: Digestion and Absorption (MCQ)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A newborn is diagnosed with a rare genetic mutation that renders the SGLT1 transporter non-functional. Which of the following dietary modifications would be most effective in allowing the infant to absorb carbohydrate energy while preventing severe osmotic diarrhoea?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Use of a formula containing exclusively corn starch."
+                },
+                {
+                    "id": "b",
+                    "label": "Supplementation of every feed with oral lactase tablets."
+                },
+                {
+                    "id": "c",
+                    "label": "Replacement of dietary glucose with sucrose."
+                },
+                {
+                    "id": "d",
+                    "label": "Use of a formula where fructose is the only carbohydrate source."
+                },
+                {
+                    "id": "e",
+                    "label": "Intravenous infusion of insulin with every feeding to promote uptake."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A patient is found to have a total congenital deficiency of enterokinase (enteropeptidase) in the duodenal brush border. Which of the following outcomes is the most likely physiological consequence?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Inability to activate any of the major pancreatic proteases."
+                },
+                {
+                    "id": "b",
+                    "label": "Impairment of the activation of pepsinogen to pepsin in the stomach."
+                },
+                {
+                    "id": "c",
+                    "label": "A compensatory increase in the endocytosis of intact proteins via M cells."
+                },
+                {
+                    "id": "d",
+                    "label": "An increased rate of starch digestion by pancreatic amylase to compensate."
+                },
+                {
+                    "id": "e",
+                    "label": "Normal protein digestion due to the independent action of chymotrypsin."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "A patient with a gastrin-secreting tumor (Zollinger-Ellison syndrome) presents with severe steatorrhoea. What is the primary physiological explanation for this fat malabsorption?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Excessive gastrin directly inhibits the movement of micelles to the brush border."
+                },
+                {
+                    "id": "b",
+                    "label": "High levels of gastrin stimulate a massive increase in the bile acid pool, causing soap formation."
+                },
+                {
+                    "id": "c",
+                    "label": "Gastric H^+ secretion is so low that it fails to activate pro-colipase in the lumen."
+                },
+                {
+                    "id": "d",
+                    "label": "The trophic effect of gastrin on the colon interferes with the exit of chylomicrons."
+                },
+                {
+                    "id": "e",
+                    "label": "The low duodenal pH denatures pancreatic lipase and causes bile salts to precipitate."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "A patient is diagnosed with abetalipoproteinemia. After a meal containing triglycerides, a biopsy of the intestinal mucosa is performed. What is the predicted histological finding within the enterocytes?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Complete absence of smooth endoplasmic reticulum."
+                },
+                {
+                    "id": "b",
+                    "label": "Total depletion of intracellular fatty acid-binding proteins (FABPs)."
+                },
+                {
+                    "id": "c",
+                    "label": "Hypertrophy of the Golgi apparatus filled with secretory vesicles."
+                },
+                {
+                    "id": "d",
+                    "label": "The cells are engorged with re-esterified triglycerides and lipids."
+                },
+                {
+                    "id": "e",
+                    "label": "Atrophy of the brush border with a significant loss of microvillar height."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "In a research experiment, the Na^+ in the intestinal lumen is completely replaced by an equal concentration of K^+. Which of the following is the predicted effect on the transport of fructose and glucose?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Fructose transport will stop, but glucose transport will be unaffected."
+                },
+                {
+                    "id": "b",
+                    "label": "Glucose transport will decrease significantly, while fructose transport will be unaffected."
+                },
+                {
+                    "id": "c",
+                    "label": "Both fructose and glucose transport will be completely abolished."
+                },
+                {
+                    "id": "d",
+                    "label": "Glucose transport will increase in rate to compensate for the loss of Na^+."
+                },
+                {
+                    "id": "e",
+                    "label": "Both sugars will now be absorbed via K^+-dependent secondary active transport."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "During a physiological study, it is noted that the absorption of a specific dipeptide is significantly more rapid than the absorption of its constituent free amino acids. This observation is best explained by:",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The utilization of an H^+ gradient by the PepT1 transporter for peptide uptake."
+                },
+                {
+                    "id": "b",
+                    "label": "The higher density of Na^+-amino acid cotransporters compared to peptide carriers."
+                },
+                {
+                    "id": "c",
+                    "label": "The fact that dipeptides skip the cytosolic peptidase step."
+                },
+                {
+                    "id": "d",
+                    "label": "The presence of specific basolateral transporters for all tripeptides."
+                },
+                {
+                    "id": "e",
+                    "label": "The inhibition of amino acid carriers by the presence of luminal H^+."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "A 65-year-old patient with severe Crohn's disease undergoes a surgical resection of the terminal 100 cm of the ileum. Which of the following is the most likely long-term consequence regarding the liver?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "A decrease in the fecal excretion of bile salts."
+                },
+                {
+                    "id": "b",
+                    "label": "An increase in the concentration of bile salts in the portal blood."
+                },
+                {
+                    "id": "c",
+                    "label": "Permanent relaxation of the gallbladder due to a loss of CCK."
+                },
+                {
+                    "id": "d",
+                    "label": "An increase in the synthesis of primary bile acids from cholesterol."
+                },
+                {
+                    "id": "e",
+                    "label": "A reduction in the total bile acid pool that becomes unresponsive to hepatic feedback."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "A patient with chronic pancreatitis has severely decreased pancreatic lipase secretion. Which of the following will be the most significantly affected component of their nutritional status?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Absorption of water-soluble B-complex vitamins via Na^+-cotransport."
+                },
+                {
+                    "id": "b",
+                    "label": "Uptake of medium-chain fatty acids into the portal blood."
+                },
+                {
+                    "id": "c",
+                    "label": "Digestion of internal peptide bonds in dietary proteins."
+                },
+                {
+                    "id": "d",
+                    "label": "Initial hydrolysis of starch by salivary amylase in the mouth."
+                },
+                {
+                    "id": "e",
+                    "label": "Solubilization and absorption of fat-soluble vitamins (A, D, E, K)."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "Hartnup's disease is characterized by a deficiency in the Na^+-dependent transporter for neutral amino acids. Despite this, patients often show few signs of protein malnutrition. What is the physiological reason for this?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Neutral amino acids are non-essential and can be synthesized from glucose."
+                },
+                {
+                    "id": "b",
+                    "label": "Neutral amino acids are still absorbed efficiently as dipeptides and tripeptides."
+                },
+                {
+                    "id": "c",
+                    "label": "The stomach enzyme pepsin can completely compensate for the brush-border defect."
+                },
+                {
+                    "id": "d",
+                    "label": "Intestinal bacteria synthesize neutral amino acids and release them into the colon for absorption."
+                },
+                {
+                    "id": "e",
+                    "label": "Neutral amino acids are primarily absorbed by facilitated diffusion via GLUT2."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "In an oral glucose tolerance test, 50g of glucose is administered. A subject with a congenital GLUT2 deficiency is compared to a healthy control. What is the expected blood glucose profile in the GLUT2-deficient subject?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "A flattened blood glucose curve because glucose is trapped inside the enterocytes."
+                },
+                {
+                    "id": "b",
+                    "label": "A much more rapid spike in blood glucose due to faster exit from the basolateral membrane."
+                },
+                {
+                    "id": "c",
+                    "label": "A normal curve because SGLT1 can also transport glucose directly into the blood."
+                },
+                {
+                    "id": "d",
+                    "label": "A massive increase in blood glucose because SGLT1 is up-regulated in the absence of GLUT2."
+                },
+                {
+                    "id": "e",
+                    "label": "A curve identical to a patient with Type II diabetes and insulin resistance."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q11": {
+            "type": "mcq",
+            "prompt": "Colipase is a critical cofactor for lipid digestion secreted by the pancreas. What is its specific function in the duodenal lumen?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "It directly hydrolyzes the 2-position ester bond of phospholipids."
+                },
+                {
+                    "id": "b",
+                    "label": "It acts as a detergent to emulsify large fat globules into 1-micron droplets."
+                },
+                {
+                    "id": "c",
+                    "label": "It binds to Apoprotein B to facilitate the packaging of chylomicrons."
+                },
+                {
+                    "id": "d",
+                    "label": "It converts primary bile acids into more soluble secondary bile salts."
+                },
+                {
+                    "id": "e",
+                    "label": "It prevents the inactivation of pancreatic lipase by displacing inhibitory bile salts."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q12": {
+            "type": "mcq",
+            "prompt": "Which of the following describes the correct temporal order of protein digestion and absorption?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Activation of trypsinogen -> action of pepsin -> brush border hydrolysis -> peptide transport."
+                },
+                {
+                    "id": "b",
+                    "label": "Peptide transport -> activation of trypsinogen -> action of pepsin -> cytosolic peptidase action."
+                },
+                {
+                    "id": "c",
+                    "label": "Pancreatic protease action -> peptide transport -> action of pepsin -> brush border hydrolysis."
+                },
+                {
+                    "id": "d",
+                    "label": "Action of pepsin -> peptide transport -> pancreatic protease action -> brush border hydrolysis."
+                },
+                {
+                    "id": "e",
+                    "label": "Action of pepsin -> activation of trypsinogen -> pancreatic protease action -> peptide transport."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q13": {
+            "type": "mcq",
+            "prompt": "A patient experiences severe osmotic diarrhoea and flatulence shortly after eating a bowl of cereal with milk. An H2-breath test is positive. This condition is primarily a result of:",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Failure of the SGLT1 transporter to move glucose across the apical membrane."
+                },
+                {
+                    "id": "b",
+                    "label": "The inability of colonic bacteria to ferment unabsorbed disaccharides."
+                },
+                {
+                    "id": "c",
+                    "label": "Rapid gastric emptying of hypertonic chyme into the terminal ileum."
+                },
+                {
+                    "id": "d",
+                    "label": "Undigested lactose in the lumen increasing the osmotic pressure and holding water."
+                },
+                {
+                    "id": "e",
+                    "label": "Inhibition of the Na^+/K^+ ATPase by the presence of luminal sugars."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q14": {
+            "type": "mcq",
+            "prompt": "Medium-chain fatty acids (C6-C12) are often used in clinical nutrition for patients with malabsorption. How does their absorption differ from long-chain fatty acids?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "They are water-soluble and can enter the portal blood directly as free fatty acids."
+                },
+                {
+                    "id": "b",
+                    "label": "They require micelle formation but not chylomicron packaging for exit."
+                },
+                {
+                    "id": "c",
+                    "label": "They are re-esterified into triglycerides in the smooth ER before exiting the cell."
+                },
+                {
+                    "id": "d",
+                    "label": "They must enter the lacteals bound to apoprotein B within chylomicrons."
+                },
+                {
+                    "id": "e",
+                    "label": "Their absorption is strictly dependent on the presence of the master switch trypsin."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q15": {
+            "type": "mcq",
+            "prompt": "Trypsin is often called the \"master switch\" of pancreatic protein digestion. This is because trypsin:",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Is the only protease capable of digesting meat collagen."
+                },
+                {
+                    "id": "b",
+                    "label": "Is the only protease that functions at an acidic pH in the duodenal bulb."
+                },
+                {
+                    "id": "c",
+                    "label": "Directly activates itself and all other pancreatic pro-proteases."
+                },
+                {
+                    "id": "d",
+                    "label": "Is secreted in its active form by the gastric chief cells to ensure early digestion."
+                },
+                {
+                    "id": "e",
+                    "label": "Inhibits the action of enterokinase to prevent over-digestion of the mucosa."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q16": {
+            "type": "mcq",
+            "prompt": "During the digestion of a meal containing phospholipids, which pancreatic enzyme is responsible for yielding lysophosphatidylcholine and a free fatty acid?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Pancreatic lipase."
+                },
+                {
+                    "id": "b",
+                    "label": "Phospholipase A2."
+                },
+                {
+                    "id": "c",
+                    "label": "Cholesterol ester hydrolase."
+                },
+                {
+                    "id": "d",
+                    "label": "Alpha-dextrinase."
+                },
+                {
+                    "id": "e",
+                    "label": "Lingual lipase."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q17": {
+            "type": "mcq",
+            "prompt": "In the \"Physiolego\" of carbohydrate absorption, the SGLT1 transporter is considered a secondary active transporter. What is the immediate consequence of administering an inhibitor of the Na^+/K^+ ATPase (like ouabain) to the enterocyte?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Fructose absorption will increase via SGLT1 to compensate for the loss of glucose."
+                },
+                {
+                    "id": "b",
+                    "label": "Glucose will be transported into the cell in exchange for K^+ exit via a new pathway."
+                },
+                {
+                    "id": "c",
+                    "label": "The Na^+ gradient will dissipate, eventually stopping the secondary active absorption of glucose."
+                },
+                {
+                    "id": "d",
+                    "label": "GLUT2 will move to the apical membrane to allow glucose entry by facilitated diffusion."
+                },
+                {
+                    "id": "e",
+                    "label": "The cell will hyperpolarize, increasing the driving force for glucose entry."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q18": {
+            "type": "mcq",
+            "prompt": "Which of the following is a characteristic of mixed micelles that distinguishes them from chylomicrons?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "They contain triglycerides at their core."
+                },
+                {
+                    "id": "b",
+                    "label": "They are packaged in the Golgi apparatus."
+                },
+                {
+                    "id": "c",
+                    "label": "They exit the enterocyte via exocytosis into the lacteals."
+                },
+                {
+                    "id": "d",
+                    "label": "They are formed in the intestinal lumen to solubilize hydrophobic lipids."
+                },
+                {
+                    "id": "e",
+                    "label": "They require apoprotein B for their structural integrity."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q19": {
+            "type": "mcq",
+            "prompt": "A patient with Celiac disease has significant atrophy of the villi in the proximal small intestine. Which of the following is the most likely clinical finding?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased absorption of iron and folate due to loss of inhibitory feedback."
+                },
+                {
+                    "id": "b",
+                    "label": "Hyperchlorhydria due to a lack of secretin-mediated inhibition of the stomach."
+                },
+                {
+                    "id": "c",
+                    "label": "Decreased absorption of all macronutrients due to a reduction in total surface area."
+                },
+                {
+                    "id": "d",
+                    "label": "An increase in the bile acid pool size due to faster recirculation."
+                },
+                {
+                    "id": "e",
+                    "label": "Rapid gastric emptying caused by the excessive release of CCK."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q20": {
+            "type": "mcq",
+            "prompt": "Which brush-border enzyme is specifically responsible for debranching starch by breaking alpha-1,6-glycosidic bonds?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Alpha-amylase."
+                },
+                {
+                    "id": "b",
+                    "label": "Alpha-dextrinase."
+                },
+                {
+                    "id": "c",
+                    "label": "Maltase."
+                },
+                {
+                    "id": "d",
+                    "label": "Sucrase."
+                },
+                {
+                    "id": "e",
+                    "label": "Trehalase."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        }
+    }
+}

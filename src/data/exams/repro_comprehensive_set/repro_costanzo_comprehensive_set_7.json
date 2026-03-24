@@ -1,0 +1,268 @@
+{
+    "info": {
+        "set_name": "Reproductive Comprehensive Set 1: Menstrual Cycle (Short Answer)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "short_answer",
+            "prompt": "Identify the two main phases of the 28-day menstrual cycle and specify which one is constant in duration and which one is variable.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Follicular phase (variable) and Luteal phase (constant at 14 days)."
+            ]
+        },
+        "q2": {
+            "type": "short_answer",
+            "prompt": "What is the average duration of the follicular phase in a standard 28-day cycle, and what is its alternative name based on endometrial activity?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "14 days; Proliferative phase."
+            ]
+        },
+        "q3": {
+            "type": "short_answer",
+            "prompt": "Which hormone is primarily responsible for the proliferation of the endometrial lining, and which ovarian cells are its primary source?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "17\u03b2-estradiol (estrogen); Granulosa cells."
+            ]
+        },
+        "q4": {
+            "type": "short_answer",
+            "prompt": "Describe the specific pattern of GnRH secretion required to drive the menstrual cycle and the consequence of switching to a continuous infusion.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Pulsatile secretion; continuous secretion down-regulates receptors and inhibits FSH/LH secretion."
+            ]
+        },
+        "q5": {
+            "type": "short_answer",
+            "prompt": "By what day of the cycle is a single \"dominant\" follicle typically selected for ovulation?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Days 5-7."
+            ]
+        },
+        "q6": {
+            "type": "short_answer",
+            "prompt": "Explain the \"positive feedback\" event that occurs at mid-cycle. Which hormone triggers it, and what specific threshold must be met?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "High levels of estradiol (at least 200 pg/mL) trigger the LH surge via positive feedback on the anterior pituitary."
+            ]
+        },
+        "q7": {
+            "type": "short_answer",
+            "prompt": "What are the two primary actions of the LH surge on the follicle and the oocyte?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Rupture of the dominant follicle (ovulation) and completion of the first meiotic division of the oocyte."
+            ]
+        },
+        "q8": {
+            "type": "short_answer",
+            "prompt": "Describe the characteristics of cervical mucus during the late follicular phase. What is \"ferning\" and what is its physiologic purpose?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Watery, copious, and elastic; \"ferning\" refers to the salt crystallization pattern that indicates channels for sperm penetration."
+            ]
+        },
+        "q9": {
+            "type": "short_answer",
+            "prompt": "What is the alternative name for the luteal phase, and which steroid hormone is its dominant secretory product?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Secretory phase; Progesterone."
+            ]
+        },
+        "q10": {
+            "type": "short_answer",
+            "prompt": "Identify the endocrine structure formed from the ruptured follicle after ovulation and name the pituitary hormone that maintains it during the luteal phase.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Corpus luteum; Luteinizing Hormone (LH)."
+            ]
+        },
+        "q11": {
+            "type": "short_answer",
+            "prompt": "How does progesterone affect the hypothalamic thermoregulatory center, and how is this used to retrospectively identify ovulation?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It increases the hypothalamic set-point temperature, leading to a rise in basal body temperature."
+            ]
+        },
+        "q12": {
+            "type": "short_answer",
+            "prompt": "Describe the effect of progesterone on the consistency of cervical mucus and its penetrability by sperm.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It becomes thick, non-elastic, and less abundant, making it impenetrable to sperm."
+            ]
+        },
+        "q13": {
+            "type": "short_answer",
+            "prompt": "What specific vascular and glandular changes occur in the endometrium during the secretory phase to prepare for a fertilized egg?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Uterine glands become tortuous and accumulate glycogen; spiral arteries elongate and become coiled; stroma becomes edematous."
+            ]
+        },
+        "q14": {
+            "type": "short_answer",
+            "prompt": "Explain the mechanism of \"menses.\" What hormonal event triggers the sloughing of the functional layer of the endometrium?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Regression of the corpus luteum leads to an abrupt decrease in estradiol and progesterone levels."
+            ]
+        },
+        "q15": {
+            "type": "short_answer",
+            "prompt": "During the luteal phase, which two hormones exert negative feedback on the anterior pituitary to suppress the development of a new cohort of follicles?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Progesterone and Estrogen."
+            ]
+        },
+        "q16": {
+            "type": "short_answer",
+            "prompt": "What happens to the corpus luteum if fertilization does not occur, and what is the name of the resulting scar tissue?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It regresses (involutes) and becomes the corpus albicans."
+            ]
+        },
+        "q17": {
+            "type": "short_answer",
+            "prompt": "According to the \"two-cell theory,\" which hormone stimulates theca cells to produce androgens, and which hormone stimulates granulosa cells to convert those androgens to estradiol?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "LH stimulates theca cells; FSH stimulates granulosa cells."
+            ]
+        },
+        "q18": {
+            "type": "short_answer",
+            "prompt": "Which non-steroidal hormone is produced by granulosa cells and provides negative feedback specifically to inhibit FSH secretion?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Inhibin."
+            ]
+        },
+        "q19": {
+            "type": "short_answer",
+            "prompt": "If a woman has a 35-day cycle, on approximately which day would ovulation occur?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Day 21 (14 days before the next menses)."
+            ]
+        },
+        "q20": {
+            "type": "short_answer",
+            "prompt": "Describe the state of the spiral arteries just before the onset of menstrual bleeding.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "They undergo intense vasoconstriction, leading to ischemic necrosis of the endometrium."
+            ]
+        }
+    }
+}

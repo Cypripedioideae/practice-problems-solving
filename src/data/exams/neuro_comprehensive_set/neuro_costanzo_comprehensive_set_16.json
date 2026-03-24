@@ -1,0 +1,360 @@
+{
+    "info": {
+        "set_name": "Comprehensive Neuro Set 2: Nociception (MCQ)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A 22-year-old man is involved in a knife fight and sustains a hemisection of the spinal cord at the T10 level on the right side. Which of the following sensory deficits would be most likely observed in his lower extremities?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Loss of vibration and proprioception in the left leg; loss of pain and temperature in the right leg."
+                },
+                {
+                    "id": "b",
+                    "label": "Loss of pain and temperature in the right leg; loss of fine touch in the left leg."
+                },
+                {
+                    "id": "c",
+                    "label": "Loss of pain and temperature in the left leg; loss of proprioception in the right leg."
+                },
+                {
+                    "id": "d",
+                    "label": "Loss of all sensation in the right leg; no sensory loss in the left leg."
+                },
+                {
+                    "id": "e",
+                    "label": "Loss of vibration and proprioception in the left leg; no sensory loss in the right leg."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A patient accidentally touches a hot iron and immediately pulls her hand away. Moments later, she begins to rub the area vigorously, which she claims helps \"take the edge off\" the pain. According to the gate-control theory, what is the physiological basis for this reduction in pain perception?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Activation of inhibitory interneurons in the dorsal horn by large-diameter myelinated mechanoreceptor fibers."
+                },
+                {
+                    "id": "b",
+                    "label": "Inhibition of A-delta fibers by the release of prostaglandins from damaged skin cells."
+                },
+                {
+                    "id": "c",
+                    "label": "Depletion of Substance P from the presynaptic terminals of C fibers due to mechanical friction."
+                },
+                {
+                    "id": "d",
+                    "label": "Stimulation of the periaqueductal gray (PAG), which directly inhibits the primary afferent nociceptor."
+                },
+                {
+                    "id": "e",
+                    "label": "Occlusion of the spinothalamic tract by competing proprioceptive signals at the level of the thalamus."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "In the management of severe chronic pain, a patient is administered an intrathecal opioid. Which of the following describes the most likely postsynaptic mechanism by which these endogenous or exogenous opioids inhibit pain transmission?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Closure of voltage-gated Na^+channels, preventing the initiation of the upstroke."
+                },
+                {
+                    "id": "b",
+                    "label": "Blockade of nicotinic receptors on the projection neuron in the dorsal horn."
+                },
+                {
+                    "id": "c",
+                    "label": "Activation of Gqproteins, leading to an increase in intracellular Ca^(2+)."
+                },
+                {
+                    "id": "d",
+                    "label": "Closure of Cl^-channels, leading to a graded depolarization block."
+                },
+                {
+                    "id": "e",
+                    "label": "Activation of K^+channels, leading to K^+  efflux and hyperpolarization of the spinothalamic neuron."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "Following a minor burn to the forearm, a patient notices that even a light touch to the reddened area is perceived as painful. This phenomenon of \"hyperalgesia\" is primarily driven by the action of which substance on the free nerve endings?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Acetylcholine, which increases the threshold for firing in the nociceptor."
+                },
+                {
+                    "id": "b",
+                    "label": "Prostaglandins, which sensitize the nociceptor by lowering its firing threshold."
+                },
+                {
+                    "id": "c",
+                    "label": "Enkephalin, which increases the conductance of the Na^+  channel activation gate."
+                },
+                {
+                    "id": "d",
+                    "label": "GABA, which produces a persistent depolarization of the primary afferent terminal."
+                },
+                {
+                    "id": "e",
+                    "label": "Glycine, which acts as a competitive antagonist at the Substance P receptor."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "A 45-year-old woman presents with sharp pain in her right shoulder. Physical examination and imaging reveal no musculoskeletal injury to the shoulder, but she is subsequently diagnosed with inflammation of the gallbladder (cholecystitis). The perception of pain in the shoulder rather than the gallbladder is best explained by:",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The lack of nociceptors in the visceral organs of the abdomen."
+                },
+                {
+                    "id": "b",
+                    "label": "The high density of A-delta fibers in the diaphragm relative to the skin."
+                },
+                {
+                    "id": "c",
+                    "label": "The labeling of visceral lines in the primary somatosensory cortex."
+                },
+                {
+                    "id": "d",
+                    "label": "Convergence of visceral afferents and somatic afferents from the C3-C5 dermatomes onto common second-order neurons."
+                },
+                {
+                    "id": "e",
+                    "label": "The presence of \"silent\" nociceptors that only respond to somatic temperature changes."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "Electrical stimulation of the periaqueductal gray (PAG) area in the midbrain has been shown to produce significant analgesia. Which neurochemical event in the descending suppression system is a direct consequence of this stimulation?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Release of glutamate from the thalamic relay nuclei."
+                },
+                {
+                    "id": "b",
+                    "label": "Inhibition of the dorsal root ganglion cell bodies."
+                },
+                {
+                    "id": "c",
+                    "label": "Release of serotonin from neurons in the nucleus raphe magnus onto spinal interneurons."
+                },
+                {
+                    "id": "d",
+                    "label": "Blockade of Na^+  channels in the lateral spinothalamic tract."
+                },
+                {
+                    "id": "e",
+                    "label": "Activation of alpha-motoneurons, producing a protective muscle spasm."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "A medical student accidentally pricks her finger with a needle. She feels an immediate, sharp, well-localized \"first pain,\" followed seconds later by a dull, aching, poorly localized \"second pain.\" Which pairing correctly identifies the nerve fiber types responsible for these two distinct sensations?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "First pain: Group Ib; Second pain: Group IV."
+                },
+                {
+                    "id": "b",
+                    "label": "First pain: A-beta; Second pain: A-delta."
+                },
+                {
+                    "id": "c",
+                    "label": "First pain: C fibers; Second pain: A-delta fibers."
+                },
+                {
+                    "id": "d",
+                    "label": "First pain: A-delta fibers; Second pain: C fibers."
+                },
+                {
+                    "id": "e",
+                    "label": "First pain: Group II; Second pain: Group III."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "A patient describes visceral pain as \"deep, sickening, and difficult to pinpoint.\" Why is visceral pain generally poorly localized compared to cutaneous pain?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Visceral nociceptive signals converge onto the same second-order neurons that receive somatic input."
+                },
+                {
+                    "id": "b",
+                    "label": "Viscera are entirely devoid of thermal and mechanical nociceptors."
+                },
+                {
+                    "id": "c",
+                    "label": "Visceral afferents bypass the thalamus and project directly to the limbic system."
+                },
+                {
+                    "id": "d",
+                    "label": "The primary sensory cortex lacks a topographic representation for the internal organs."
+                },
+                {
+                    "id": "e",
+                    "label": "Visceral pain is transmitted exclusively via fast-conducting A-alpha fibers."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "In a clinical pharmacology experiment, a nerve is treated with a local anesthetic that preferentially blocks unmyelinated fibers before myelinated ones. If the nerve is also subjected to moderate mechanical pressure (which impacts large myelinated fibers first), which sensation would most likely be lost last?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Fine, discriminative touch (A-beta)."
+                },
+                {
+                    "id": "b",
+                    "label": "Sharp, localized pricking pain (A-delta)."
+                },
+                {
+                    "id": "c",
+                    "label": "Position sense and proprioception (A-alpha)."
+                },
+                {
+                    "id": "d",
+                    "label": "Rapidly changing vibration (Pacinian)."
+                },
+                {
+                    "id": "e",
+                    "label": "Motor command to the skeletal muscle."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "During intense inflammation, nociceptors can perform a \"neuroeffector\" function. Which of the following events occurs when Substance P is released from the peripheral terminals of activated nociceptors?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Systemic vasoconstriction and increased arterial blood pressure."
+                },
+                {
+                    "id": "b",
+                    "label": "Inhibition of local mast cell degranulation to limit injury."
+                },
+                {
+                    "id": "c",
+                    "label": "Immediate hyperpolarization of nearby thermoreceptors."
+                },
+                {
+                    "id": "d",
+                    "label": "Increased reuptake of potassium ions into the intracellular fluid."
+                },
+                {
+                    "id": "e",
+                    "label": "Local vasodilation, neurogenic edema, and further release of histamine."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q11": {
+            "type": "mcq",
+            "prompt": "A researcher is studying the \"gate-control\" mechanism in the spinal cord. He finds that stimulation of a specific group of peripheral fibers can inhibit the transmission of pain in the spinothalamic tract. Which fiber type is he most likely stimulating?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Type IV"
+                },
+                {
+                    "id": "c",
+                    "label": "fibers."
+                },
+                {
+                    "id": "b",
+                    "label": "Type III (A-delta) fibers."
+                },
+                {
+                    "id": "c",
+                    "label": "Type II (A-beta) fibers."
+                },
+                {
+                    "id": "d",
+                    "label": "Type Ib (Golgi tendon) fibers."
+                },
+                {
+                    "id": "e",
+                    "label": "Postganglionic sympathetic C fibers."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q12": {
+            "type": "mcq",
+            "prompt": "A 30-year-old woman experiences severe facial pain triggered by light touch to her cheek (trigeminal neuralgia). If this pain signal is processed normally, in which thalamic relay nucleus will the second-order neurons for this facial nociceptive pathway synapse?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Ventral posterolateral (VPL) nucleus."
+                },
+                {
+                    "id": "b",
+                    "label": "Ventral posteromedial (VPM) nucleus."
+                },
+                {
+                    "id": "c",
+                    "label": "Lateral geniculate nucleus (LGN)."
+                },
+                {
+                    "id": "d",
+                    "label": "Medial geniculate nucleus (MGN)."
+                },
+                {
+                    "id": "e",
+                    "label": "Anterior nucleus."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        }
+    }
+}

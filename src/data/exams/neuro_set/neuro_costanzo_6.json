@@ -1,0 +1,858 @@
+{
+    "info": {
+        "set_name": "Neurophysiology 6",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "tf",
+            "prompt": "Peripheral nerve fibers categorized as Type C are myelinated and possess the highest conduction velocities in the human body.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q2": {
+            "type": "tf",
+            "prompt": "During the rapid upstroke phase of a nerve action potential, the membrane potential is driven toward the sodium equilibrium potential.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q3": {
+            "type": "tf",
+            "prompt": "Hyperkalemia causes skeletal muscle weakness primarily by hyperpolarizing the resting membrane potential, making it more difficult to reach threshold.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q4": {
+            "type": "tf",
+            "prompt": "The opening of ligand-gated chloride channels in a postsynaptic neuron typically produces an inhibitory postsynaptic potential (IPSP).",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q5": {
+            "type": "tf",
+            "prompt": "In a patient diagnosed with myopia, a convex lens is required to shift the focal point from in front of the retina onto the retinal surface.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q6": {
+            "type": "tf",
+            "prompt": "If an alpha-motoneuron is stimulated without simultaneous gamma-motoneuron activation, the intrafusal fibers of the muscle spindle will become slack during contraction.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q7": {
+            "type": "tf",
+            "prompt": "A complete lesion of the left optic tract results in the loss of the right visual field for both the left and right eyes.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q8": {
+            "type": "tf",
+            "prompt": "The primary sensory endings of the muscle spindle (Ia afferent fibers) increase their firing rate when the extrafusal muscle is passively stretched.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q9": {
+            "type": "tf",
+            "prompt": "Under conditions of darkness, rod photoreceptors are relatively depolarized due to a \"dark current\" mediated by cGMP-gated sodium channels.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q10": {
+            "type": "tf",
+            "prompt": "Administration of a drug that inhibits acetylcholinesterase at the neuromuscular junction will increase the amplitude and duration of the end-plate potential.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q11": {
+            "type": "tf",
+            "prompt": "A unilateral lesion of the left nucleus gracilis in the medulla results in a loss of fine touch and vibration sense on the ipsilateral (left) side of the body.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q12": {
+            "type": "tf",
+            "prompt": "High-frequency sound waves entering the cochlea cause the greatest displacement of the basilar membrane near the helicotrema at the apex.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q13": {
+            "type": "tf",
+            "prompt": "The absolute refractory period of a neuron is primarily limited by the time required for voltage-gated sodium channels to recover from their inactivated state.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q14": {
+            "type": "tf",
+            "prompt": "An increase in the extracellular calcium concentration shifts the threshold potential for firing an action potential to a more positive (less negative) value.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q15": {
+            "type": "tf",
+            "prompt": "Activation of the Golgi tendon organ reflex (inverse myotatic reflex) results in the monosynaptic excitation of the homonymous alpha-motoneuron.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q16": {
+            "type": "tf",
+            "prompt": "During the initial phase of rotating the head to the right, the endolymph in the horizontal semicircular canals moves to the left relative to the crista ampullaris.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q17": {
+            "type": "tf",
+            "prompt": "Renshaw cells in the spinal cord are inhibitory interneurons that receive input from motor neuron collaterals and inhibit the same motor neurons.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q18": {
+            "type": "tf",
+            "prompt": "A muscarinic antagonist drug, such as atropine, causes the pupil to constrict by blocking the sympathetic innervation to the radial muscle.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q19": {
+            "type": "tf",
+            "prompt": "During Rapid Eye Movement (REM) sleep, the electroencephalogram (EEG) is characterized by high-amplitude, low-frequency delta wave activity.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q20": {
+            "type": "tf",
+            "prompt": "Athetosis, a condition of slow and continuous writhing movements, is the hallmark clinical finding of a lesion in the subthalamic nucleus.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q21": {
+            "type": "tf",
+            "prompt": "The transmission of sensory information in the anterolateral system involves second-order neurons that cross the midline within the spinal cord.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q22": {
+            "type": "tf",
+            "prompt": "The blood-brain barrier is significantly more permeable to small, lipid-soluble molecules like carbon dioxide than to charged ions like hydrogen.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q23": {
+            "type": "tf",
+            "prompt": "A patient with Broca's aphasia generally retains the ability to understand spoken language despite an inability to produce articulate, fluent speech.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q24": {
+            "type": "tf",
+            "prompt": "In the stretch reflex arc, the Ia afferent fiber provides a direct inhibitory synaptic input to the alpha-motoneuron of the same (homonymous) muscle.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q25": {
+            "type": "tf",
+            "prompt": "In an experimental setting, increasing the stimulation pulse to a neuron from 25 millivolts to 100 millivolts will quadruple the action potential conduction velocity.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q26": {
+            "type": "tf",
+            "prompt": "The \"all-or-none\" principle of neurophysiology implies that the amplitude of a propagated action potential is independent of the stimulus strength, provided the threshold is met.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q27": {
+            "type": "tf",
+            "prompt": "The Purkinje cells of the cerebellum represent the sole output of the cerebellar cortex and exert a primarily excitatory influence on the deep cerebellar nuclei.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q28": {
+            "type": "tf",
+            "prompt": "A patient presenting with an intention tremor, dysmetria, and ataxia is more likely to have a lesion in the basal ganglia than in the cerebellum.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q29": {
+            "type": "tf",
+            "prompt": "Lateral inhibition improves sensory discrimination by suppressing the activity of neurons whose receptive fields are adjacent to the center of a stimulus.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q30": {
+            "type": "tf",
+            "prompt": "The \"labeled line\" principle refers to the mechanism by which the central nervous system determines the intensity of a stimulus based on the total number of active fibers.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q31": {
+            "type": "tf",
+            "prompt": "During the repolarization phase of an action potential, the ratio of sodium permeability to potassium permeability is significantly higher than it is during the peak of the upstroke.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q32": {
+            "type": "tf",
+            "prompt": "Smooth muscle can maintain a high level of tension with very little ATP consumption because dephosphorylated myosin heads can remain attached to actin in a \"latch\" state.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q33": {
+            "type": "tf",
+            "prompt": "The presence of a positive Babinski sign in an adult patient is a physiological indicator that the corticospinal (pyramidal) tracts are intact and functioning.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q34": {
+            "type": "tf",
+            "prompt": "In the visual transduction process, light activation of rhodopsin triggers a biochemical cascade that reduces intracellular cGMP levels, leading to the closure of sodium channels.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q35": {
+            "type": "tf",
+            "prompt": "The molecular basis for long-term potentiation involves the repetitive depolarization of the postsynaptic membrane, which expels magnesium ions from NMDA receptor channels.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q36": {
+            "type": "tf",
+            "prompt": "A midline lesion of the optic chiasm that destroys all decussating fibers results in binasal hemianopia, where vision is lost in the nasal fields of both eyes.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q37": {
+            "type": "tf",
+            "prompt": "The flexor-withdrawal reflex is a polysynaptic reflex that incorporates a crossed-extensor component to provide postural support when a limb is removed from a painful stimulus.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q38": {
+            "type": "tf",
+            "prompt": "Synaptic fatigue is primarily attributed to the exhaustion of ATP stores within the postsynaptic neuron during periods of high-frequency stimulation.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q39": {
+            "type": "tf",
+            "prompt": "In the dorsal column-medial lemniscal system, the cell bodies of the second-order neurons are located within the dorsal horn of the spinal cord.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q40": {
+            "type": "tf",
+            "prompt": "In Parkinson's disease, the characteristic resting tremor is caused by a massive overproduction and release of dopamine from the neurons of the substantia nigra.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q41": {
+            "type": "tf",
+            "prompt": "The otolith organs (utricle and saccule) are primarily responsible for detecting angular acceleration of the head, whereas the semicircular canals detect linear acceleration.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q42": {
+            "type": "tf",
+            "prompt": "The hyperpolarizing afterpotential (undershoot) occurs because the membrane's conductance to potassium remains elevated above its resting level for a short period after repolarization.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q43": {
+            "type": "tf",
+            "prompt": "In a many-to-one synaptic arrangement, a single action potential arriving at an excitatory presynaptic terminal is typically sufficient to bring the postsynaptic neuron to threshold.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q44": {
+            "type": "tf",
+            "prompt": "Prosopagnosia, the clinical inability to recognize familiar faces, is a sensory deficit typically caused by damage to the primary motor cortex in the frontal lobe.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q45": {
+            "type": "tf",
+            "prompt": "If the Na^+, K^+-ATPase pump is suddenly inhibited, the resting membrane potential of a neuron will immediately drop to zero because the pump generates 100% of the potential.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q46": {
+            "type": "tf",
+            "prompt": "Phasic receptors, such as the Pacinian corpuscle, are specifically designed to provide a continuous signal regarding the intensity of a steady, unchanging stimulus.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q47": {
+            "type": "tf",
+            "prompt": "The Cushing reaction is an emergency cardiovascular response to increased intracranial pressure characterized by systemic hypertension and a reflex bradycardia.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q48": {
+            "type": "tf",
+            "prompt": "In the inverse stretch reflex, the Ib afferent fibers from Golgi tendon organs activate inhibitory interneurons that reduce the firing of alpha-motoneurons to the same muscle.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q49": {
+            "type": "tf",
+            "prompt": "At the peak of a typical nerve action potential, the membrane potential is closer to the potassium equilibrium potential than it is to the sodium equilibrium potential.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q50": {
+            "type": "tf",
+            "prompt": "A stroke damaging Wernicke's area in the categorical hemisphere will likely result in a \"fluent\" aphasia where the patient's speech is grammatically correct but lacks meaning.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        }
+    }
+}

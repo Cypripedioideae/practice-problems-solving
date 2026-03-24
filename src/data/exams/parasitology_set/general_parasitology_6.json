@@ -1,0 +1,299 @@
+{
+    "info": {
+        "set_name": " General parasitology 6",
+        "description": "",
+        "source": ""
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A 35-year-old HIV-positive patient with a CD4 count of 75 cells/mm\u00b3 presents with a new-onset headache and focal neurological deficits; an MRI of the brain reveals multiple ring-enhancing lesions in the basal ganglia. Which process is the most likely cause of this clinical presentation?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Dissemination of tachyzoites from a primary lung infection"
+                },
+                {
+                    "id": "b",
+                    "label": "Entry of amebae through the cribriform plate during swimming"
+                },
+                {
+                    "id": "c",
+                    "label": "Hematogenous spread of larvae from the large intestine"
+                },
+                {
+                    "id": "d",
+                    "label": "Multiplication of trophozoites within the cerebrospinal fluid"
+                },
+                {
+                    "id": "e",
+                    "label": "Reactivation of bradyzoites within latent tissue cysts"
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A 24-year-old woman presents with a profuse, frothy, yellow-green vaginal discharge and intense itching; physical examination reveals punctate hemorrhages on the cervix (\"strawberry cervix\"). Which organism is responsible for these findings?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Candida albicans"
+                },
+                {
+                    "id": "b",
+                    "label": "Chlamydia trachomatis"
+                },
+                {
+                    "id": "c",
+                    "label": "Gardnerella vaginalis"
+                },
+                {
+                    "id": "d",
+                    "label": "Neisseria gonorrhoeae"
+                },
+                {
+                    "id": "e",
+                    "label": "Trichomonas vaginalis"
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "A public health official is investigating a food-borne outbreak of Cyclospora cayetanensis linked to imported raspberries. Why is direct person-to-person transmission via fresh fecal matter not observed with this parasite?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Oocysts are only produced during the sexual cycle in feline hosts"
+                },
+                {
+                    "id": "b",
+                    "label": "Oocysts must mature and sporulate in the environment to become infectious"
+                },
+                {
+                    "id": "c",
+                    "label": "Parasites require an intermediate snail host for larval development"
+                },
+                {
+                    "id": "d",
+                    "label": "The infectious stage is a fragile trophozoite that dies outside the host"
+                },
+                {
+                    "id": "e",
+                    "label": "Trophozoites must encyst within the gallbladder before being passed"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "During a microscopic examination of a stained stool specimen from an asymptomatic patient, a laboratory technologist identifies a large spherical cyst (20 \u00b5m) containing eight distinct nuclei and an eccentric karyosome. Which of the following has been identified?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Balantidium coli"
+                },
+                {
+                    "id": "b",
+                    "label": "Entamoeba coli"
+                },
+                {
+                    "id": "c",
+                    "label": "Entamoeba histolytica"
+                },
+                {
+                    "id": "d",
+                    "label": "Giardia lamblia"
+                },
+                {
+                    "id": "e",
+                    "label": "Iodamoeba b\u00fctschlii"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "A 42-year-old patient with chronic Schistosoma mansoni infection presents with hematemesis and splenomegaly; clinical evaluation confirms the presence of portal hypertension and periportal fibrosis. Which event in the parasite's life cycle is the primary cause of these manifestations?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Attachment of adult worms to the bladder wall"
+                },
+                {
+                    "id": "b",
+                    "label": "Deposition of eggs in the mesenteric vessels and liver"
+                },
+                {
+                    "id": "c",
+                    "label": "Direct invasion of the spleen by cercariae"
+                },
+                {
+                    "id": "d",
+                    "label": "Migration of miracidia through the pulmonary capillaries"
+                },
+                {
+                    "id": "e",
+                    "label": "Multiplication of schizonts within the hepatocytes"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "A patient being treated for a Bacteroides fragilis infection is prescribed Metronidazole; two days later, after consuming a single beer, they develop severe facial flushing, tachycardia, and nausea. What is the mechanism behind this adverse reaction?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Accumulation of acetaldehyde due to enzyme inhibition"
+                },
+                {
+                    "id": "b",
+                    "label": "Hypersensitivity reaction to the nitroimidazole ring"
+                },
+                {
+                    "id": "c",
+                    "label": "Induction of the cytochrome P-450 system"
+                },
+                {
+                    "id": "d",
+                    "label": "Irreversible inhibition of the DNA synthesis complex"
+                },
+                {
+                    "id": "e",
+                    "label": "Massive release of toxins from killed anaerobic bacteria"
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "A patient with chronic malabsorption and fatty stools undergoes a string test (Entero-Test); microscopy of the bile-stained mucus reveals pear-shaped, flagellated trophozoites containing two nuclei. Which parasite is the most likely cause?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Chilomastix mesnili"
+                },
+                {
+                    "id": "b",
+                    "label": "Dientamoeba fragilis"
+                },
+                {
+                    "id": "c",
+                    "label": "Entamoeba histolytica"
+                },
+                {
+                    "id": "d",
+                    "label": "Giardia lamblia"
+                },
+                {
+                    "id": "e",
+                    "label": "Trichomonas hominis"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "A physician in an endemic region is screening patients for lymphatic filariasis using a thick peripheral blood film. Which diagnostic stage is the technologist looking for under the microscope?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Adult worms"
+                },
+                {
+                    "id": "b",
+                    "label": "Cercariae"
+                },
+                {
+                    "id": "c",
+                    "label": "Embryonated eggs"
+                },
+                {
+                    "id": "d",
+                    "label": "Microfilariae"
+                },
+                {
+                    "id": "e",
+                    "label": "Rhabditiform larvae"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "A 70-year-old man who lived in an endemic region decades ago is prescribed high-dose corticosteroids for an autoimmune condition; shortly after, he develops a hyperinfection syndrome with disseminated larvae. Which mechanism allowed this parasite to persist within the host for such a long duration?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Formation of calcified hydatid cysts in the liver"
+                },
+                {
+                    "id": "b",
+                    "label": "Internal autoinfection by filariform larvae"
+                },
+                {
+                    "id": "c",
+                    "label": "Sequestration of bradyzoites in skeletal muscle"
+                },
+                {
+                    "id": "d",
+                    "label": "Survival of adult worms in the mesenteric veins"
+                },
+                {
+                    "id": "e",
+                    "label": "Transformation of eggs into dormant hypnozoites"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "A community's municipal water supply is found to be contaminated with protozoal cysts. Which of the following interventions is most effective for rendering the water safe for consumption given that standard chlorination is insufficient?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Addition of fluoride"
+                },
+                {
+                    "id": "b",
+                    "label": "Boiling the water"
+                },
+                {
+                    "id": "c",
+                    "label": "Increasing water pressure"
+                },
+                {
+                    "id": "d",
+                    "label": "Prolonged sedimentation"
+                },
+                {
+                    "id": "e",
+                    "label": "UV light exposure for 30 seconds"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        }
+    }
+}

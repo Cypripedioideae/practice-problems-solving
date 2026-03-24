@@ -1,0 +1,298 @@
+{
+    "info": {
+        "set_name": "Renal Comprehensive Set 2: Integrative Response (MCQ)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "Antidiuretic hormone (ADH) maintains water balance by acting on two distinct receptor types with different second messenger systems. Which of the following correctly pairs the receptor with its primary location and cellular mechanism?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "V_1 receptors; principal cells of the collecting duct; cyclic adenosine monophosphate (cAMP)"
+                },
+                {
+                    "id": "b",
+                    "label": "V_1 receptors; renal afferent arterioles; cyclic guanosine monosphophate (cGMP)"
+                },
+                {
+                    "id": "c",
+                    "label": "V_1 receptors; vascular smooth muscle; inositol 1,4,5-triphosphate (IP_3) and Ca^(2+)"
+                },
+                {
+                    "id": "d",
+                    "label": "V_2 receptors; vascular smooth muscle; cyclic adenosine monophosphate (cAMP)"
+                },
+                {
+                    "id": "e",
+                    "label": "V_2 receptors; medullary collecting duct; inositol 1,4,5-triphosphate (IP_3) and Ca^(2+)"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A patient is suspected of having a high anion gap metabolic acidosis. The serum anion gap is calculated to determine the presence of unmeasured anions such as lactate or ketoacids. Which formula is used to calculate the plasma anion gap?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "[Na^+] - ([Cl^-] + [HCO_3^-])"
+                },
+                {
+                    "id": "b",
+                    "label": "([Na^+] + [K^+]) - ([Cl^-]+[HCO_3^-])"
+                },
+                {
+                    "id": "c",
+                    "label": "2 \u00d7 [Na^+] + [Glucose]/18 + [BUN]/2.8"
+                },
+                {
+                    "id": "d",
+                    "label": "[Cl^-] + [HCO_3^-] - [Na^+]"
+                },
+                {
+                    "id": "e",
+                    "label": "[P_(osm)] - [Estimated P_(osm)]"
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "Antidiuretic hormone (ADH) influences the corticopapillary osmotic gradient not only by increasing water permeability but also by affecting urea handling. In the presence of high circulating ADH, which segment of the nephron increases its permeability to urea via the UT1 transporter?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Cortical collecting duct"
+                },
+                {
+                    "id": "b",
+                    "label": "Inner medullary collecting duct"
+                },
+                {
+                    "id": "c",
+                    "label": "Thick ascending limb of Henle"
+                },
+                {
+                    "id": "d",
+                    "label": "Proximal convoluted tubule"
+                },
+                {
+                    "id": "e",
+                    "label": "Outer medullary collecting duct"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "A medical student is reviewing the determinants of the glomerular filtration rate (GFR) and the profile of Starling forces along the glomerular capillary. Which statement best describes the changes that occur as fluid moves from the afferent to the efferent end of the capillary?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Glomerular capillary hydrostatic pressure (P_(GC)) falls significantly to allow for reabsorption"
+                },
+                {
+                    "id": "b",
+                    "label": "Bowman's space hydrostatic pressure (P_(BS)) increases as the tubule fills"
+                },
+                {
+                    "id": "c",
+                    "label": "Net ultrafiltration pressure remains constant along the entire length"
+                },
+                {
+                    "id": "d",
+                    "label": "Glomerular capillary oncotic pressure (\u03c0_(GC)) increases until filtration equilibrium is reached"
+                },
+                {
+                    "id": "e",
+                    "label": "The filtration coefficient (K_f) decreases as the podocytes contract"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "Renal autoregulation allows the kidney to maintain a constant renal blood flow (RBF) and GFR despite fluctuations in mean arterial pressure between 80 and 200 mm Hg. Which of the following is the initial event in the myogenic mechanism of autoregulation when arterial pressure increases?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Activation of the macula densa leading to adenosine release"
+                },
+                {
+                    "id": "b",
+                    "label": "Constriction of the efferent arteriole via angiotensin II"
+                },
+                {
+                    "id": "c",
+                    "label": "Inhibition of the Na^+-K^+-2Cl^- cotransporter in the thick ascending limb"
+                },
+                {
+                    "id": "d",
+                    "label": "Relaxation of afferent arteriolar smooth muscle"
+                },
+                {
+                    "id": "e",
+                    "label": "Opening of stretch-activated calcium channels in the afferent arteriole"
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "Acid-base disturbances are frequently associated with shifts in potassium between the intracellular and extracellular fluid (ICF and ECF). Which of the following scenarios would most likely lead to hyperkalemia?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Respiratory alkalosis"
+                },
+                {
+                    "id": "b",
+                    "label": "Treatment with \u03b2_2-adrenergic agonists"
+                },
+                {
+                    "id": "c",
+                    "label": "Metabolic acidosis"
+                },
+                {
+                    "id": "d",
+                    "label": "Insulin administration"
+                },
+                {
+                    "id": "e",
+                    "label": "Metabolic alkalosis"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "A 68-year-old man with a long history of smoking is admitted with chronic obstructive pulmonary disease (COPD) and a P_(aCO2) of 70 mm Hg. His kidneys compensate for this primary respiratory disorder over several days. What is the expected renal response in this state of chronic respiratory acidosis?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Decreased reabsorption of filtered bicarbonate"
+                },
+                {
+                    "id": "b",
+                    "label": "Increased excretion of H^+ as titratable acid and NH_4^+"
+                },
+                {
+                    "id": "c",
+                    "label": "Decreased synthesis of \"new\" bicarbonate by the distal nephron"
+                },
+                {
+                    "id": "d",
+                    "label": "Decreased activity of the Na^+/H^+ exchanger in the proximal tubule"
+                },
+                {
+                    "id": "e",
+                    "label": "Excretion of a highly alkaline urine to restore blood pH"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "A patient with untreated type I diabetes mellitus presents in a comatose state with a blood glucose of 650 mg/dL and signs of severe dehydration. Which set of physiologic findings is most likely present?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased ECF volume, decreased ICF volume, and respiratory alkalosis"
+                },
+                {
+                    "id": "b",
+                    "label": "Decreased ECF volume, increased ICF volume, and metabolic alkalosis"
+                },
+                {
+                    "id": "c",
+                    "label": "Normal blood volume, increased ICF volume, and high anion gap"
+                },
+                {
+                    "id": "d",
+                    "label": "Decreased ECF volume, decreased ICF volume, and high anion gap"
+                },
+                {
+                    "id": "e",
+                    "label": "Increased blood volume, increased ICF volume, and low anion gap"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "Persistent vomiting of gastric contents leads to a complex acid-base disturbance. Even after vomiting stops, the metabolic alkalosis is often maintained by \"contraction alkalosis.\" Which mechanism is primarily responsible for maintaining the high blood [HCO_3^-] in this state?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Inhibition of Na^+/H^+ exchange by low P_(CO2)"
+                },
+                {
+                    "id": "b",
+                    "label": "Suppression of the renin-angiotensin-aldosterone system"
+                },
+                {
+                    "id": "c",
+                    "label": "Increased HCO_3^- filtration exceeding the renal transport maximum"
+                },
+                {
+                    "id": "d",
+                    "label": "Dilation of the efferent arteriole by high atrial natriuretic peptide levels"
+                },
+                {
+                    "id": "e",
+                    "label": "Increased HCO_3^- reabsorption in the proximal tubule stimulated by Angiotensin II"
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "Following an acute hemorrhage and a significant drop in blood pressure, the kidneys participate in the integrated compensatory response. Which of the following describes the renal hormonal response to restore arterial pressure?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Activation of the renin-angiotensin-aldosterone system and increased ADH secretion"
+                },
+                {
+                    "id": "b",
+                    "label": "Increased secretion of atrial natriuretic peptide to increase GFR"
+                },
+                {
+                    "id": "c",
+                    "label": "Dilation of the afferent arteriole to bypass the baroreceptor reflex"
+                },
+                {
+                    "id": "d",
+                    "label": "Inhibition of Na^+/H^+ exchange in the proximal tubule to conserve potassium"
+                },
+                {
+                    "id": "e",
+                    "label": "Decreased renal Na^+ reabsorption to maintain urine flow"
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        }
+    }
+}

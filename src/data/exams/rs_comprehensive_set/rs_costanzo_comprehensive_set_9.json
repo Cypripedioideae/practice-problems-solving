@@ -1,0 +1,414 @@
+{
+    "info": {
+        "set_name": "Comprehensive Respiratory Set 2: Static Lungs Mechanics (MCQ)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A patient with a tidal volume of 450 mL and a respiratory rate of 15 breaths/min has a measured Pa_(CO2) of 40 mmHg and a mixed expired P_(CO2) of 30 mmHg. Based on these parameters, what is the patient's calculated alveolar ventilation?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "3375.0 mL/min"
+                },
+                {
+                    "id": "b",
+                    "label": "4125.0 mL/min"
+                },
+                {
+                    "id": "c",
+                    "label": "5062.5 mL/min"
+                },
+                {
+                    "id": "d",
+                    "label": "5875.0 mL/min"
+                },
+                {
+                    "id": "e",
+                    "label": "6750.0 mL/min"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A 25-year-old medical student participating in a study has her functional residual capacity (FRC) measured via the helium dilution method. If the initial helium concentration in the 5 L spirometer is 10% and the final equilibrated concentration is 6.25%, what is her FRC?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "1.5 L"
+                },
+                {
+                    "id": "b",
+                    "label": "2.0 L"
+                },
+                {
+                    "id": "c",
+                    "label": "2.5 L"
+                },
+                {
+                    "id": "d",
+                    "label": "3.0 L"
+                },
+                {
+                    "id": "e",
+                    "label": "4.0 L"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "During an experimental procedure, a subject's intrapleural pressure is measured while transitioning from a standing to a supine position. Which of the following best describes the expected change in the functional residual capacity (FRC) and the physiological reason for this shift?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "FRC increases because the abdominal contents pull the diaphragm downward."
+                },
+                {
+                    "id": "b",
+                    "label": "FRC remains constant as it is an intrinsic property of the lung tissue."
+                },
+                {
+                    "id": "c",
+                    "label": "FRC decreases because the outward recoil of the chest wall is partially countered by abdominal pressure on the diaphragm."
+                },
+                {
+                    "id": "d",
+                    "label": "FRC increases because the lung compliance is higher in the supine position."
+                },
+                {
+                    "id": "e",
+                    "label": "FRC decreases because the residual volume (RV) is expelled during the transition."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "A patient is found to have a total lung capacity (TLC) of 6.0 L and a vital capacity (VC) of 4.5 L. Which of the following represents a volume that cannot be measured using simple spirometry in this patient?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Inspiratory Reserve Volume (IRV)"
+                },
+                {
+                    "id": "b",
+                    "label": "Expiratory Reserve Volume (ERV)"
+                },
+                {
+                    "id": "c",
+                    "label": "Inspiratory Capacity (IC)"
+                },
+                {
+                    "id": "d",
+                    "label": "Residual Volume (RV)"
+                },
+                {
+                    "id": "e",
+                    "label": "Tidal Volume (TV)"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "A climber at an altitude where the barometric pressure is 447 mmHg (P_(H_2O) = 47 mmHg) has an arterial P_(CO2) of 32 mmHg and a respiratory exchange ratio (R) of 0.8. What is the calculated alveolar P_(O2)(PA_(O2) ) for this individual?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "44 mmHg"
+                },
+                {
+                    "id": "b",
+                    "label": "54 mmHg"
+                },
+                {
+                    "id": "c",
+                    "label": "72 mmHg"
+                },
+                {
+                    "id": "d",
+                    "label": "84 mmHg"
+                },
+                {
+                    "id": "e",
+                    "label": "100 mmHg"
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "In a patient suffering from a large pulmonary embolism, which of the following best describes the relationship between the anatomic dead space and the physiologic dead space?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Physiologic dead space increases and becomes significantly larger than the anatomic dead space."
+                },
+                {
+                    "id": "b",
+                    "label": "Both physiologic and anatomic dead spaces remain equal and constant."
+                },
+                {
+                    "id": "c",
+                    "label": "Anatomic dead space increases to compensate for the lack of perfusion."
+                },
+                {
+                    "id": "d",
+                    "label": "Physiologic dead space decreases because the non-perfused alveoli collapse."
+                },
+                {
+                    "id": "e",
+                    "label": "Physiologic dead space becomes zero because gas exchange ceases."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "At the end of a normal, quiet expiration (at FRC), which of the following is true regarding the pressures within the respiratory system?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Alveolar pressure is negative relative to atmospheric pressure."
+                },
+                {
+                    "id": "b",
+                    "label": "The expanding force on the chest wall is greater than the collapsing force on the lungs."
+                },
+                {
+                    "id": "c",
+                    "label": "The collapsing force on the lungs is exactly balanced by the expanding force on the chest wall."
+                },
+                {
+                    "id": "d",
+                    "label": "Intrapleural pressure is equal to atmospheric pressure."
+                },
+                {
+                    "id": "e",
+                    "label": "Transpulmonary pressure is zero."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "Chronic exposure to cigarette smoke impairs the mucociliary escalator by damaging specific structural components of the conducting zone. Which of the following is the most direct functional consequence of this anatomical damage?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased surfactant production by Type II pneumocytes."
+                },
+                {
+                    "id": "b",
+                    "label": "Decreased resistance to airflow in the terminal bronchioles."
+                },
+                {
+                    "id": "c",
+                    "label": "Decreased clearance of trapped particles from the tracheobronchial tree."
+                },
+                {
+                    "id": "d",
+                    "label": "Increased rate of gas diffusion in the respiratory zone."
+                },
+                {
+                    "id": "e",
+                    "label": "Enhanced phagocytic activity by alveolar macrophages."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "A patient's pulmonary function tests show a Tidal Volume of 500 mL, an Inspiratory Capacity of 3500 mL, and a Functional Residual Capacity of 2500 mL. If the Residual Volume is 1200 mL, what is the patient's Vital Capacity?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "3000 mL"
+                },
+                {
+                    "id": "b",
+                    "label": "3800 mL"
+                },
+                {
+                    "id": "c",
+                    "label": "4200 mL"
+                },
+                {
+                    "id": "d",
+                    "label": "4800 mL"
+                },
+                {
+                    "id": "e",
+                    "label": "5500 mL"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "Which of the following scenarios would result in an alveolar P_(O2) (PA_(O2)) of approximately 150 mmHg and an alveolar P_(CO2) (PA_(CO2)) of 0 mmHg?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "An alveolus with a ventilation/perfusion (V/Q) ratio of 0.8."
+                },
+                {
+                    "id": "b",
+                    "label": "An alveolus with a V/Q ratio of zero."
+                },
+                {
+                    "id": "c",
+                    "label": "An alveolus undergoing maximal gas exchange during exercise."
+                },
+                {
+                    "id": "d",
+                    "label": "A pulmonary capillary with perfusion-limited oxygen transport."
+                },
+                {
+                    "id": "e",
+                    "label": "An alveolus that is ventilated but has zero blood flow (V/Q = \u221e)."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q11": {
+            "type": "mcq",
+            "prompt": "A healthy individual is standing upright. Which of the following best analyzes the distribution of ventilation (V) per unit volume between the apex and the base?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Ventilation is higher at the base because the alveoli there are more compliant due to a less negative intrapleural pressure."
+                },
+                {
+                    "id": "b",
+                    "label": "Ventilation is higher at the apex because the alveoli are larger and contain more air."
+                },
+                {
+                    "id": "c",
+                    "label": "Ventilation is uniform throughout the lung as it is driven by a constant diaphragm contraction."
+                },
+                {
+                    "id": "d",
+                    "label": "Ventilation is higher at the base because gravitational force increases the transpulmonary pressure."
+                },
+                {
+                    "id": "e",
+                    "label": "Ventilation is higher at the apex because it is closer to the conducting airways."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q12": {
+            "type": "mcq",
+            "prompt": "A researcher is comparing the static lung mechanics of a saline-filled lung versus an air-filled lung. Which statement best explains the difference in compliance observed?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The air-filled lung has higher compliance because air is less dense than saline."
+                },
+                {
+                    "id": "b",
+                    "label": "The saline-filled lung has lower compliance because the saline resists expansion."
+                },
+                {
+                    "id": "c",
+                    "label": "The saline-filled lung has higher compliance because the liquid-air interface and surface tension are eliminated."
+                },
+                {
+                    "id": "d",
+                    "label": "The air-filled lung has higher compliance due to the presence of nitrogen."
+                },
+                {
+                    "id": "e",
+                    "label": "The saline-filled lung has lower compliance because surfactant is washed out."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q13": {
+            "type": "mcq",
+            "prompt": "A patient has a Pa_(CO2)of 40 mmHg and a V_(CO2) of 200 mL/min. If their alveolar ventilation is suddenly doubled while metabolic P_(CO2)production remains constant, what is the expected new Pa_(CO2) ?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "10 mmHg"
+                },
+                {
+                    "id": "b",
+                    "label": "20 mmHg"
+                },
+                {
+                    "id": "c",
+                    "label": "40 mmHg"
+                },
+                {
+                    "id": "d",
+                    "label": "60 mmHg"
+                },
+                {
+                    "id": "e",
+                    "label": "80 mmHg"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q14": {
+            "type": "mcq",
+            "prompt": "In the tracheobronchial tree, which generation marks the transition where the total cross-sectional area increases so dramatically that the velocity of airflow becomes very slow, facilitating diffusion?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The trachea (Generation 0)."
+                },
+                {
+                    "id": "b",
+                    "label": "The medium-sized bronchi (Generations 3-4)."
+                },
+                {
+                    "id": "c",
+                    "label": "The terminal bronchioles (Generation 16)."
+                },
+                {
+                    "id": "d",
+                    "label": "The respiratory bronchioles and alveolar ducts (Generations 17-23)."
+                },
+                {
+                    "id": "e",
+                    "label": "The respiratory zone is characterized by the highest airflow velocity."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        }
+    }
+}

@@ -1,0 +1,359 @@
+{
+    "info": {
+        "set_name": "Comprehensive Respiratory Set 1: Pulmonary Circulation and V/Q (Short Answer)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "short_answer",
+            "prompt": "What is the normal mean pressure in the pulmonary artery compared to the mean pressure in the aorta?,",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Pulmonary artery mean pressure is approximately 15 mmHg, whereas aortic mean pressure is 100 mmHg.,"
+            ]
+        },
+        "q2": {
+            "type": "short_answer",
+            "prompt": "Why is pulmonary vascular resistance (PVR) significantly lower than systemic vascular resistance (SVR)?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Because the pulmonary vessels are more compliant and the pressure head required to drive the same cardiac output is much lower.,"
+            ]
+        },
+        "q3": {
+            "type": "short_answer",
+            "prompt": "In a person with healthy lungs, by what factor is pulmonary vascular resistance lower than systemic vascular resistance at rest?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Approximately one-sixth."
+            ]
+        },
+        "q4": {
+            "type": "short_answer",
+            "prompt": "How do the pulmonary blood vessels respond to an increase in pulmonary arterial pressure or cardiac output to prevent a massive rise in pressure?,",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Through the recruitment of underperfused vessels and the distention of patent vessels.,"
+            ]
+        },
+        "q5": {
+            "type": "short_answer",
+            "prompt": "What is the primary factor that regulates pulmonary blood flow by causing local vasoconstriction?,,",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Alveolar P_(O2)(hypoxic pulmonary vasoconstriction).,,"
+            ]
+        },
+        "q6": {
+            "type": "short_answer",
+            "prompt": "According to the gravitational effect on hydrostatic pressure, by how much does the arterial pressure increase for every centimetre below the heart's level?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "0.77 mmHg."
+            ]
+        },
+        "q7": {
+            "type": "short_answer",
+            "prompt": "Where in the lungs is blood flow lowest when a person is standing upright?,",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The apex (top) of the lungs.,"
+            ]
+        },
+        "q8": {
+            "type": "short_answer",
+            "prompt": "Describe the pressure relationship that characterizes Zone 1 of the lung, and state what can cause this zone to become prominent.,,",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "PA>Pa>Pv; it can occur if arterial pressure is decreased (hemorrhage) or alveolar pressure is increased (positive pressure ventilation).,,"
+            ]
+        },
+        "q9": {
+            "type": "short_answer",
+            "prompt": "In which lung zone is blood flow driven by the difference between arterial pressure and venous pressure (Pa>Pv>PA )?,",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Zone 3.,"
+            ]
+        },
+        "q10": {
+            "type": "short_answer",
+            "prompt": "What is the \"physiologic shunt,\" and what are its two primary anatomical sources?,,",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It is the small fraction of cardiac output (~2%) that bypasses oxygenation; the sources are bronchial blood flow and coronary blood flow via thebesian veins.,,"
+            ]
+        },
+        "q11": {
+            "type": "short_answer",
+            "prompt": "What is the characteristic effect of a right-to-left shunt on systemic arterial P_(O2) ?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Hypoxemia (decreased systemic arterial P_(O2))."
+            ]
+        },
+        "q12": {
+            "type": "short_answer",
+            "prompt": "Define the ventilation/perfusion (V\u02d9/Q\u02d9 ) ratio.,",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The ratio of alveolar ventilation to pulmonary blood flow.,"
+            ]
+        },
+        "q13": {
+            "type": "short_answer",
+            "prompt": "What is the normal average value for theV\u02d9/Q\u02d9  ratio for the entire lung?,,",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Approximately 0.8.,,"
+            ]
+        },
+        "q14": {
+            "type": "short_answer",
+            "prompt": "How does theV\u02d9/Q\u02d9  ratio change from the base to the apex of the upright lung?,",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It increases from the base (~0.6) to the apex (~3.0).,"
+            ]
+        },
+        "q15": {
+            "type": "short_answer",
+            "prompt": "Which specific region of the upright lung (apex or base) has the highest Pa_(O2)and the lowest Pa_(CO2) ?,",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The apex.,"
+            ]
+        },
+        "q16": {
+            "type": "short_answer",
+            "prompt": "What is theV\u02d9/Q\u02d9  ratio in a lung region where the airway is completely obstructed?,",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Zero.,"
+            ]
+        },
+        "q17": {
+            "type": "short_answer",
+            "prompt": "What gas composition (P_(O2)and P_(CO2)) does pulmonary capillary blood approach when theV\u02d9/Q\u02d9  ratio is zero?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It approaches mixed venous blood levels (P_(O2)=40 mmHg and P_(CO2)=46 mmHg)."
+            ]
+        },
+        "q18": {
+            "type": "short_answer",
+            "prompt": "What is theV\u02d9/Q\u02d9  ratio in a lung region where blood flow is completely blocked by an embolism?,",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Infinite.,"
+            ]
+        },
+        "q19": {
+            "type": "short_answer",
+            "prompt": "What happens to the alveolar P_(O2)and P_(CO2)in a region of dead space whereV\u02d9/Q\u02d9  is infinite?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "They approach the values of humidified inspired air (P_(O2)=150 mmHg and P_(CO2)=0 mmHg)."
+            ]
+        },
+        "q20": {
+            "type": "short_answer",
+            "prompt": "Why does a right-to-left shunt result in an increased A-a gradient?,",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Because shunted (venous) blood bypasses oxygenation and dilutes the P_(O2)of the arterialized blood.,"
+            ]
+        },
+        "q21": {
+            "type": "short_answer",
+            "prompt": "What happens to the distribution ofV\u02d9/Q\u02d9  ratios throughout the lung during strenuous exercise?,",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "TheV\u02d9/Q\u02d9ratio becomes more uniform or \"even\" throughout the lung.,"
+            ]
+        },
+        "q22": {
+            "type": "short_answer",
+            "prompt": "Why does breathing 100% O2have a limited effect on raising arterial P_(O2)  in a patient with a large right-to-left shunt?,,",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Because the shunted blood never reaches the ventilated alveoli to be oxygenated, regardless of the alveolar P_(O2).,,"
+            ]
+        },
+        "q23": {
+            "type": "short_answer",
+            "prompt": "What is the effect of increased lung volume on the resistance of alveolar capillaries versus extra-alveolar vessels?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Increased lung volume crushes alveolar vessels (increasing resistance) but pulls open extra-alveolar vessels (decreasing resistance)."
+            ]
+        },
+        "q24": {
+            "type": "short_answer",
+            "prompt": "At which specific lung volume is total pulmonary vascular resistance at its lowest point?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Functional Residual Capacity (FRC)."
+            ]
+        },
+        "q25": {
+            "type": "short_answer",
+            "prompt": "Name three local vasoactive substances (besides oxygen) that act as pulmonary vasodilators.,",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Prostacyclin (Prostaglandin I2), nitric oxide, and bradykinin.,"
+            ]
+        },
+        "q26": {
+            "type": "short_answer",
+            "prompt": "What is the effect of Thromboxane A2 on pulmonary vascular resistance?,",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It is a powerful local vasoconstrictor of both pulmonary arterioles and veins.,"
+            ]
+        },
+        "q27": {
+            "type": "short_answer",
+            "prompt": "By what mechanical mechanism does the body compensate for the increased pulmonary resistance caused by chronic global hypoxia at high altitude?,",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Right ventricular hypertrophy.,"
+            ]
+        }
+    }
+}

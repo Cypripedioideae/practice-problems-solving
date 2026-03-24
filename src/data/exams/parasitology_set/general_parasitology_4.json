@@ -1,0 +1,299 @@
+{
+    "info": {
+        "set_name": "General parasitology 4",
+        "description": "",
+        "source": ""
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A 50-year-old farmer presents with persistent bloody diarrhea and abdominal pain; stool microscopy reveals large, ovoid trophozoites covered in cilia. Which morphological feature is most diagnostic for the causative ciliate?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "A small central karyosome"
+                },
+                {
+                    "id": "b",
+                    "label": "A large, kidney-shaped macronucleus"
+                },
+                {
+                    "id": "c",
+                    "label": "Presence of ingested erythrocytes"
+                },
+                {
+                    "id": "d",
+                    "label": "Multiple pairs of flagella"
+                },
+                {
+                    "id": "e",
+                    "label": "A terminal spine on the cyst wall"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A public health official is investigating an outbreak of diarrheal disease in a community where the water supply is treated only with standard chlorination. Which characteristic of Giardia lamblia and Entamoeba histolytica explains why this treatment is insufficient?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Ability to replicate in the external environment"
+                },
+                {
+                    "id": "b",
+                    "label": "Presence of a heat-labile toxin"
+                },
+                {
+                    "id": "c",
+                    "label": "Resistance of the cyst stage to chlorine"
+                },
+                {
+                    "id": "d",
+                    "label": "Requirement for an intermediate snail host"
+                },
+                {
+                    "id": "e",
+                    "label": "Secretion of a protective biofilm"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "A 28-year-old immigrant from Sudan presents with intense generalized pruritus and blurred vision; physical examination reveals thickened skin and scattered maculopapular lesions. Which diagnostic procedure is required to confirm the presence of the suspected parasite?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Daytime peripheral blood film"
+                },
+                {
+                    "id": "b",
+                    "label": "Microscopic examination of skin snips"
+                },
+                {
+                    "id": "c",
+                    "label": "Nocturnal thick blood smear"
+                },
+                {
+                    "id": "d",
+                    "label": "Stool examination for larvae"
+                },
+                {
+                    "id": "e",
+                    "label": "Urinalysis for terminal-spined eggs"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "A patient develops a localized itchy rash (\"swimmer's itch\") after bathing in a freshwater lake; several weeks later, they present with fever and malaise, eventually progressing to portal hypertension. Which process is responsible for the chronic systemic manifestations of this disease?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Direct invasion of the brain parenchyma by cercariae"
+                },
+                {
+                    "id": "b",
+                    "label": "Immune reaction against eggs deposited in the tissues"
+                },
+                {
+                    "id": "c",
+                    "label": "Mechanical obstruction of the small intestine by adult worms"
+                },
+                {
+                    "id": "d",
+                    "label": "Migration of rhabditiform larvae through the lungs"
+                },
+                {
+                    "id": "e",
+                    "label": "Multiplication of trophozoites in the biliary tract"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "During a routine stool examination of an asymptomatic food handler, spherical cysts measuring 14 \u00b5m in diameter are identified. The presence of four nuclei within these cysts is diagnostic for which organism?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Balantidium coli"
+                },
+                {
+                    "id": "b",
+                    "label": "Cryptosporidium hominis"
+                },
+                {
+                    "id": "c",
+                    "label": "Entamoeba histolytica"
+                },
+                {
+                    "id": "d",
+                    "label": "Giardia lamblia"
+                },
+                {
+                    "id": "e",
+                    "label": "Isospora belli"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "A 35-year-old man presents with fever, hemoptysis, and dyspnea after frequently consuming raw freshwater crabs. Which infective stage is responsible for this condition?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Cercariae"
+                },
+                {
+                    "id": "b",
+                    "label": "Embryonated egg"
+                },
+                {
+                    "id": "c",
+                    "label": "Filariform larvae"
+                },
+                {
+                    "id": "d",
+                    "label": "Metacercariae"
+                },
+                {
+                    "id": "e",
+                    "label": "Plerocercoid larvae"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "A 36-year-old woman presents with recurrent right upper quadrant pain and fever; imaging and laboratory tests confirm the presence of recurrent pyogenic cholangiohepatitis. Which combination of pathogens is most likely associated with this clinical presentation?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Ascaris lumbricoides and Klebsiella spp."
+                },
+                {
+                    "id": "b",
+                    "label": "Entamoeba histolytica and Escherichia coli"
+                },
+                {
+                    "id": "c",
+                    "label": "Fasciola hepatica and Salmonella Typhi"
+                },
+                {
+                    "id": "d",
+                    "label": "Opisthorchis sinensis and Shigella sonnei"
+                },
+                {
+                    "id": "e",
+                    "label": "Strongyloides stercoralis and Bacteroides fragilis"
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "A physician is ordering a thick blood film for a patient with suspected lymphatic filariasis caused by Wuchereria bancrofti. At what time should the blood specimen be collected to maximize diagnostic sensitivity?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "During the onset of a high fever"
+                },
+                {
+                    "id": "b",
+                    "label": "Early morning immediately after waking"
+                },
+                {
+                    "id": "c",
+                    "label": "Mid-day when the patient is most active"
+                },
+                {
+                    "id": "d",
+                    "label": "Late afternoon during the peak of symptoms"
+                },
+                {
+                    "id": "e",
+                    "label": "At night due to the periodicity of the microfilariae"
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "A patient in a region endemic for lymphatic filariasis presents with significant lymphedema of the scrotum and recurrent \"filarial fever.\" What is the gold standard for the laboratory diagnosis of this condition?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Detection of adult worms in the stool"
+                },
+                {
+                    "id": "b",
+                    "label": "Identification of microfilariae in a thick blood film"
+                },
+                {
+                    "id": "c",
+                    "label": "Microscopic examination of sputum for eggs"
+                },
+                {
+                    "id": "d",
+                    "label": "Presence of rhabditiform larvae in the feces"
+                },
+                {
+                    "id": "e",
+                    "label": "Visualizing trophozoites in a skin biopsy"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "A 56-year-old man with a history of consuming raw freshwater fish is diagnosed with a chronic Clonorchis sinensis infection of the biliary tree. This patient is at a significantly increased long-term risk for developing which of the following conditions?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Cholangiocarcinoma"
+                },
+                {
+                    "id": "b",
+                    "label": "Hepatocellular carcinoma"
+                },
+                {
+                    "id": "c",
+                    "label": "Pancreatic adenocarcinoma"
+                },
+                {
+                    "id": "d",
+                    "label": "Renal cell carcinoma"
+                },
+                {
+                    "id": "e",
+                    "label": "Squamous cell bladder cancer"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        }
+    }
+}

@@ -1,0 +1,278 @@
+{
+  "info": {
+    "set_name": "Antibacterial Agents 1",
+    "source": "-"
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "Which antibacterial agent exerts its effect by binding to the D-Ala-D-Ala terminus of nascent peptidoglycan pentapeptides, thereby sterically hindering peptidoglycan cross-linking and polymerization?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Vancomycin"
+        },
+        {
+          "id": "b",
+          "label": "Ciprofloxacin"
+        },
+        {
+          "id": "c",
+          "label": "Gentamicin"
+        },
+        {
+          "id": "d",
+          "label": "Amoxicillin"
+        },
+        {
+          "id": "e",
+          "label": "Bacitracin"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q2": {
+      "type": "mcq",
+      "prompt": "A 24-year-old woman presents with a thin, grayish-white vaginal discharge and a \"fishy\" odor that intensifies after adding KOH to the sample. Which of the following antibacterial is used as the drug of choice for this condition and act by mechanisms involving DNAs?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Azithromycin"
+        },
+        {
+          "id": "b",
+          "label": "Clindamycin"
+        },
+        {
+          "id": "c",
+          "label": "Ciprofloxacin"
+        },
+        {
+          "id": "d",
+          "label": "Rifampin"
+        },
+        {
+          "id": "e",
+          "label": "Metronidazole"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q3": {
+      "type": "mcq",
+      "prompt": "A 23-week pregnant patient requires treatment for an acute uncomplicated cystitis. Which of the following drugs is appropriate for this patient?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Trimethoprim-sulfamethoxazole"
+        },
+        {
+          "id": "b",
+          "label": "Ciprofloxacin"
+        },
+        {
+          "id": "c",
+          "label": "Doxycycline"
+        },
+        {
+          "id": "d",
+          "label": "Amikacin"
+        },
+        {
+          "id": "e",
+          "label": "Nitrofurantoin"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q4": {
+      "type": "mcq",
+      "prompt": "A member of which class of antibacterial agents inhibits bacterial cell wall synthesis by interfering with the movement of peptidoglycan precursors across the cytoplasmic membrane?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Monobactams"
+        },
+        {
+          "id": "b",
+          "label": "Cephalosporins"
+        },
+        {
+          "id": "c",
+          "label": "Glycopeptides"
+        },
+        {
+          "id": "d",
+          "label": "Polypeptides"
+        },
+        {
+          "id": "e",
+          "label": "Carbapenems"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q5": {
+      "type": "mcq",
+      "prompt": "A 7-year-old child presents with a localized skin infection caused by Methicillin-Susceptible Staphylococcus aureus (MSSA). Which of the following is a first-line oral antibiotic for this condition?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Dicloxacillin"
+        },
+        {
+          "id": "b",
+          "label": "Piperacillin"
+        },
+        {
+          "id": "c",
+          "label": "Amoxicillin"
+        },
+        {
+          "id": "d",
+          "label": "Benzathine penicillin G"
+        },
+        {
+          "id": "e",
+          "label": "Penicillin V"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q6": {
+      "type": "mcq",
+      "prompt": "A patient undergoing treatment for *Mycobacterium tuberculosis* complains that their tears and urine have turned an orange-red colour. Which bacterial enzyme is specifically inhibited by the antibiotic responsible for this side effect?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Mycolic acid synthase"
+        },
+        {
+          "id": "b",
+          "label": "Enolpyruvate transferase"
+        },
+        {
+          "id": "c",
+          "label": "DNA-dependent RNA polymerase"
+        },
+        {
+          "id": "d",
+          "label": "DNA gyrase"
+        },
+        {
+          "id": "e",
+          "label": "Arabinosyl transferase"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "A 12-year-old boy requires treatment for a suspected Gram-negative infection. Which antibiotic class should be avoided in this patient due to its potential to cause damage to developing cartilage and tendons?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Aminoglycosides"
+        },
+        {
+          "id": "b",
+          "label": "Carbapenems"
+        },
+        {
+          "id": "c",
+          "label": "Tetracyclines"
+        },
+        {
+          "id": "d",
+          "label": "Fluoroquinolones"
+        },
+        {
+          "id": "e",
+          "label": "Macrolides"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q8": {
+      "type": "mcq",
+      "prompt": "Which of the following \u03b2-lactam antibiotics is unique among cephalosporins for its clinical activity against Methicillin-Resistant Staphylococcus aureus (MRSA)?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Cefuroxime"
+        },
+        {
+          "id": "b",
+          "label": "Ceftaroline"
+        },
+        {
+          "id": "c",
+          "label": "Cefepime"
+        },
+        {
+          "id": "d",
+          "label": "Cefazolin"
+        },
+        {
+          "id": "e",
+          "label": "Ceftazidime"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q9": {
+      "type": "mcq",
+      "prompt": "Which antibiotic prevents the formation of the bacterial initiation complex by specifically binding to the 50S ribosomal subunit?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Clindamycin"
+        },
+        {
+          "id": "b",
+          "label": "Linezolid"
+        },
+        {
+          "id": "c",
+          "label": "Doxycycline"
+        },
+        {
+          "id": "d",
+          "label": "Tetracycline"
+        },
+        {
+          "id": "e",
+          "label": "Amikacin"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q10": {
+      "type": "mcq",
+      "prompt": "Azithromycin is frequently used to treat atypical pneumonia caused by *Mycoplasma pneumoniae*. Which of the following best describes its primary mechanism of action?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Prevention of polypeptide elongation at the 50S ribosome"
+        },
+        {
+          "id": "b",
+          "label": "Inhibition of DNA gyrase and topoisomerase IV"
+        },
+        {
+          "id": "c",
+          "label": "Binding to the 30S ribosomal subunit to block mRNA translation"
+        },
+        {
+          "id": "d",
+          "label": "Inhibition of cell wall peptidoglycan synthesis"
+        },
+        {
+          "id": "e",
+          "label": "Disruption of the bacterial cell membrane integrity"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    }
+  }
+}

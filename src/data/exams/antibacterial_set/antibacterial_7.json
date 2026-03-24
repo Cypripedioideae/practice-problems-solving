@@ -1,0 +1,278 @@
+{
+  "info": {
+    "set_name": "Antibacterial Agents 7",
+    "source": "-"
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "Which first-generation cephalosporin, commonly used as surgical prophylaxis against *Staphylococcus aureus* wound infections, works by inhibiting cell wall synthesis through the prevention of peptidoglycan cross-linking?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Cefazolin"
+        },
+        {
+          "id": "b",
+          "label": "Ceftazidime"
+        },
+        {
+          "id": "c",
+          "label": "Ceftriaxone"
+        },
+        {
+          "id": "d",
+          "label": "Cefuroxime"
+        },
+        {
+          "id": "e",
+          "label": "Cefepime"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q2": {
+      "type": "mcq",
+      "prompt": "What is the molecular basis for penicillin G resistance in most *Staphylococcus aureus* isolates?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Acquisition of the mecA gene encoding an altered PBP2a"
+        },
+        {
+          "id": "b",
+          "label": "Overproduction of p-aminobenzoic acid (PABA)"
+        },
+        {
+          "id": "c",
+          "label": "Mutation in the rpoB gene encoding RNA polymerase"
+        },
+        {
+          "id": "d",
+          "label": "Synthesis of a dipeptide with reduced affinity for glycopeptides"
+        },
+        {
+          "id": "e",
+          "label": "Production of \u03b2-lactamase enzymes that cleave the drug"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q3": {
+      "type": "mcq",
+      "prompt": "Which bacteriostatic antibiotic inhibits peptidyl transferase at the 50S subunit but is restricted in use due to the risk of aplastic anemia and Gray Baby Syndrome?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Clindamycin"
+        },
+        {
+          "id": "b",
+          "label": "Doxycycline"
+        },
+        {
+          "id": "c",
+          "label": "Chloramphenicol"
+        },
+        {
+          "id": "d",
+          "label": "Linezolid"
+        },
+        {
+          "id": "e",
+          "label": "Azithromycin"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q4": {
+      "type": "mcq",
+      "prompt": "Which glycopeptide antibiotic binds to the D-Ala-D-Ala portion of cell wall precursors and is associated with \"red man syndrome\" during intravenous infusion?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Azithromycin"
+        },
+        {
+          "id": "b",
+          "label": "Gentamicin"
+        },
+        {
+          "id": "c",
+          "label": "Amoxicillin"
+        },
+        {
+          "id": "d",
+          "label": "Vancomycin"
+        },
+        {
+          "id": "e",
+          "label": "Daptomycin"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q5": {
+      "type": "mcq",
+      "prompt": "",
+      "options": [
+        {
+          "id": "a",
+          "label": "Reduction of drug permeability through porin channel mutations"
+        },
+        {
+          "id": "b",
+          "label": "Synthesis of a dipeptide with reduced affinity for glycopeptides"
+        },
+        {
+          "id": "c",
+          "label": "Acquisition of the mecA gene encoding an altered PBP2a"
+        },
+        {
+          "id": "d",
+          "label": "Production of \u03b2-lactamases that cleave the antibiotic nucleus"
+        },
+        {
+          "id": "e",
+          "label": "Production of aminoglycoside-modifying enzymes (AMEs)"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q6": {
+      "type": "mcq",
+      "prompt": "A 30-year-old male presents with an atypical pneumonia caused by *Mycoplasma pneumoniae*, he is then started on the treatment. Later on during the treatment, he is brought to the emergency department after a sudden episode of palpitations and lightheadedness. An electrocardiogram (ECG) demonstrates a prolonged QTc interval. Which of the following is the specific molecular target of the medication responsible for this patient's ECG findings?",
+      "options": [
+        {
+          "id": "a",
+          "label": "30S ribosomal subunit"
+        },
+        {
+          "id": "b",
+          "label": "50S ribosomal subunit"
+        },
+        {
+          "id": "c",
+          "label": "DNA-dependent RNA polymerase"
+        },
+        {
+          "id": "d",
+          "label": "DNA gyrase"
+        },
+        {
+          "id": "e",
+          "label": "Peptidyltransferase"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "A 52-year-old male is hospitalized for a persistent bloodstream infection following an orthopedic procedure. Blood cultures grow *Staphylococcus aureus* that is resistant to methicillin and possesses a high minimum inhibitory concentration for vancomycin. The patient is initiated on a cyclic lipopeptide agent that is notably inactivated by pulmonary surfactant. Which of the following best describes the molecular mechanism of this drug?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Binding to the D-Ala-D-Ala terminus of peptidoglycan precursors"
+        },
+        {
+          "id": "b",
+          "label": "Insertion into the cytoplasmic membrane to create transmembrane channels"
+        },
+        {
+          "id": "c",
+          "label": "Binding to the 23S rRNA of the 50S ribosomal subunit to block translocation"
+        },
+        {
+          "id": "d",
+          "label": "Binding to Penicillin-Binding Protein 2a (PBP2a) to inhibit cross-linking"
+        },
+        {
+          "id": "e",
+          "label": "Prevention of the formation of the 70S ribosomal initiation complex"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q8": {
+      "type": "mcq",
+      "prompt": "A 52-year-old male undergoing treatment for pulmonary tuberculosis presents to the clinic with concerns of decreased vision. Physical examination reveals impaired visual acuity and an inability to distinguish between red and green colours. Which of the following describes the molecular mechanism of action of the drug most likely responsible for these symptoms?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Inhibition of mycolic acid synthesis"
+        },
+        {
+          "id": "b",
+          "label": "Inhibition of DNA-dependent RNA polymerase"
+        },
+        {
+          "id": "c",
+          "label": "Inhibition of arabinosyltransferase"
+        },
+        {
+          "id": "d",
+          "label": "Interference with the 30S ribosomal subunit"
+        },
+        {
+          "id": "e",
+          "label": "Disruption of cell membrane function"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q9": {
+      "type": "mcq",
+      "prompt": "A 72-year-old male with a history of chronic obstructive pulmonary disease (COPD) presents with an acute respiratory infection. He reports taking a leftover course of amoxicillin for three days prior to his visit with no clinical improvement. A Gram stain of his sputum reveals numerous Gram-negative diplococci with flattened adjacent sides. Which of the following is the most likely mechanism of resistance responsible for the failure of amoxicillin in this patient?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Production of \u03b2-lactamase enzymes"
+        },
+        {
+          "id": "b",
+          "label": "Alteration of the penicillin-binding proteins"
+        },
+        {
+          "id": "c",
+          "label": "Lack of a peptidoglycan cell wall"
+        },
+        {
+          "id": "d",
+          "label": "Active efflux of the drug via membrane pumps"
+        },
+        {
+          "id": "e",
+          "label": "Structural modification of the 30S ribosomal subunit"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q10": {
+      "type": "mcq",
+      "prompt": "A 62-year-old male develops an infection by *Pseudomonas aeruginosa* during his hospitalization. He receives an intravenous antibiotic for his treatment. Later on, the patient develops spontaneous bleeding from his gums. Laboratory evaluation reveals a significantly prolonged prothrombin time (PT), and the clinician suspects interference with vitamin K-dependent coagulation factors. Which of the following antibiotic was most likely administered to this patient?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Cefoperazone"
+        },
+        {
+          "id": "b",
+          "label": "Cefepime"
+        },
+        {
+          "id": "c",
+          "label": "Ceftriaxone"
+        },
+        {
+          "id": "d",
+          "label": "Cefazolin"
+        },
+        {
+          "id": "e",
+          "label": "Cefuroxime"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    }
+  }
+}

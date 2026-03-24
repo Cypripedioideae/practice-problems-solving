@@ -1,0 +1,216 @@
+{
+    "info": {
+        "set_name": "Comprehensive Neuro Set 1: Olfaction and Gustation (Short Answer)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "short_answer",
+            "prompt": "How are olfactory receptor cells unique compared to other sensory receptors (like those for taste or hearing) in terms of their neural classification?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "They are primary afferent neurons (true neurons) that conduct action potentials directly into the CNS, unlike other receptors which are specialized epithelial cells."
+            ]
+        },
+        "q2": {
+            "type": "short_answer",
+            "prompt": "What specific type of cell in the olfactory epithelium acts as a stem cell to continuously replace olfactory receptor neurons throughout adult life?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Basal cells."
+            ]
+        },
+        "q3": {
+            "type": "short_answer",
+            "prompt": "Name the specific bone structure that olfactory axons must pass through to reach the olfactory bulb, and identify the clinical condition that results if these axons are severed here.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The cribriform plate (of the ethmoid bone); damage results in anosmia (loss of smell)."
+            ]
+        },
+        "q4": {
+            "type": "short_answer",
+            "prompt": "In the biochemical cascade of olfactory transduction, which specific G protein is activated, and what is the resulting second messenger?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The G protein is Golf; the second messenger is cyclic AMP (cAMP)."
+            ]
+        },
+        "q5": {
+            "type": "short_answer",
+            "prompt": "Which specific ion channels are opened by increased intracellular cAMP in the olfactory receptor membrane to produce a depolarizing receptor potential?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Cation channels (permeable to Na^+, K^+, and Ca^(2+))."
+            ]
+        },
+        "q6": {
+            "type": "short_answer",
+            "prompt": "Define \"glomeruli\" within the context of the olfactory bulb and identify the second-order neurons that synapse there.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Glomeruli are clusters of synapses in the olfactory bulb where approximately 1000 olfactory receptor axons converge onto a single mitral cell (the second-order neuron)."
+            ]
+        },
+        "q7": {
+            "type": "short_answer",
+            "prompt": "What is the primary function of granule and periglomerular cells in the olfactory bulb regarding the \"sharpening\" of sensory information?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "They are inhibitory interneurons that provide lateral inhibition, sharpening the contrast between different odors."
+            ]
+        },
+        "q8": {
+            "type": "short_answer",
+            "prompt": "Which major olfactory tract projects to the primary olfactory cortex (prepiriform cortex) without first relaying in the thalamus?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The lateral olfactory tract."
+            ]
+        },
+        "q9": {
+            "type": "short_answer",
+            "prompt": "Distinguish between the three cell types found within a taste bud: receptor cells, supporting cells, and basal cells.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Receptor cells are the transducers; supporting cells have an unknown function (do not respond to stimuli); basal cells are stem cell precursors."
+            ]
+        },
+        "q10": {
+            "type": "short_answer",
+            "prompt": "Which type of taste papillae is the largest, contains the most taste buds, and is arranged in a V-shape on the posterior tongue?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Circumvallate papillae."
+            ]
+        },
+        "q11": {
+            "type": "short_answer",
+            "prompt": "Match the three cranial nerves (VII, IX, and X) to the specific regions of the tongue or throat they innervate for the sense of taste.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "CN VII (Facial/Chorda tympani): anterior two-thirds of the tongue. CN IX (Glossopharyngeal): posterior one-third of the tongue. CN X (Vagus): back of the throat and epiglottis."
+            ]
+        },
+        "q12": {
+            "type": "short_answer",
+            "prompt": "Describe the cellular mechanism by which \"salty\" and \"sour\" tastes are transduced in a taste receptor cell.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Salty (Na^+): Na^+enters directly through epithelial Na^+channels (ENaC). Sour (H^+): H^+enters through ENaC or blocks K^+channels, leading to depolarization."
+            ]
+        },
+        "q13": {
+            "type": "short_answer",
+            "prompt": "Which G protein and second messenger system are utilized for the transduction of \"bitter,\" \"sweet,\" and \"umami\" tastes?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The G protein gustducin; it uses the IP3/Ca^(2+)mechanism to open transient receptor potential (TRP) channels."
+            ]
+        },
+        "q14": {
+            "type": "short_answer",
+            "prompt": "Identify the specific thalamic relay nucleus and the brainstem nucleus (within the solitary tract) where taste information is processed en route to the cortex.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Brainstem: Solitary nucleus (medulla). Thalamus: Ventral posteromedial (VPM) nucleus."
+            ]
+        },
+        "q15": {
+            "type": "short_answer",
+            "prompt": "Which elementary taste quality generally has the lowest stimulation threshold, and what is the presumed evolutionary benefit of this sensitivity?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Bitter has the lowest threshold; it serves as a protective mechanism against many toxic substances found in nature."
+            ]
+        },
+        "q16": {
+            "type": "short_answer",
+            "prompt": "What is the role of the vomeronasal organ (VNO) found in many mammals?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It detects pheromones, which influence social and sexual behavior."
+            ]
+        }
+    }
+}

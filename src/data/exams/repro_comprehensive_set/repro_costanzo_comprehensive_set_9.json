@@ -1,0 +1,268 @@
+{
+    "info": {
+        "set_name": "Reproductive Comprehensive Set 1: Parturition, Lactation, Integration (Short Answer)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "short_answer",
+            "prompt": "What specific change in the estrogen-to-progesterone ratio occurs near term to increase uterine excitability?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Near term, the estrogen/progesterone ratio increases, which overcomes the \"progesterone block\" and makes the myometrium more sensitive to contractile stimuli."
+            ]
+        },
+        "q2": {
+            "type": "short_answer",
+            "prompt": "Which two prostaglandins are stimulated by the rising estrogen levels late in pregnancy, and what are their specific roles in labor?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Prostaglandins PGE2 and PGF2\u03b1; they increase intracellular calcium in uterine smooth muscle to enhance contractility and promote gap junction formation for synchronous contraction."
+            ]
+        },
+        "q3": {
+            "type": "short_answer",
+            "prompt": "Explain the positive feedback loop involving the \"Ferguson reflex\" and the role of oxytocin during parturition.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Dilation of the cervix stimulates oxytocin release from the posterior pituitary, which increases uterine contractions, further dilating the cervix and reinforcing the cycle."
+            ]
+        },
+        "q4": {
+            "type": "short_answer",
+            "prompt": "Identify the primary physiological events occurring in each of the three stages of normal labor.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Stage 1: Uterine contractions widen and thin the cervix; Stage 2: The fetus is delivered through the vagina; Stage 3: The placenta is delivered and uterine vessels constrict."
+            ]
+        },
+        "q5": {
+            "type": "short_answer",
+            "prompt": "Which hormone is primarily responsible for lactogenesis (milk production), and how is its secretion tonically regulated by the hypothalamus in non-pregnant individuals?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Prolactin; it is tonically inhibited by dopamine (prolactin-inhibiting factor) from the hypothalamus."
+            ]
+        },
+        "q6": {
+            "type": "short_answer",
+            "prompt": "Describe the inhibitory mechanism that prevents milk secretion during pregnancy despite the presence of high prolactin levels.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "High levels of estrogen and progesterone during pregnancy down-regulate prolactin receptors in the breast and block its lactogenic action."
+            ]
+        },
+        "q7": {
+            "type": "short_answer",
+            "prompt": "What is the \"milk letdown\" reflex, and which hormone mediates the contraction of myoepithelial cells for milk ejection?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The milk ejection reflex; it is mediated by oxytocin, which causes the myoepithelial cells lining the mammary ducts to contract."
+            ]
+        },
+        "q8": {
+            "type": "short_answer",
+            "prompt": "How does suckling provide a de facto method of contraception by suppressing the hypothalamic-pituitary-ovarian axis?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Suckling-induced prolactin secretion inhibits the synthesis and release of GnRH, which in turn inhibits FSH and LH secretion and prevents ovulation."
+            ]
+        },
+        "q9": {
+            "type": "short_answer",
+            "prompt": "Define menopause and identify the fundamental reason for the cessation of menstrual cycles in women around age 50.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Menopause is the cessation of menstrual cycles caused by the depletion of functioning ovarian follicles."
+            ]
+        },
+        "q10": {
+            "type": "short_answer",
+            "prompt": "Why do the plasma levels of follicle-stimulating hormone (FSH) and luteinizing hormone (LH) increase to their highest points in the lifespan after menopause?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The loss of negative feedback from ovarian steroids (estrogen/progesterone) leads to a massive increase in the secretion of gonadotropins by the anterior pituitary."
+            ]
+        },
+        "q11": {
+            "type": "short_answer",
+            "prompt": "Which hormone, secreted by the trophoblast, is responsible for \"rescuing\" the corpus luteum from regression in early pregnancy?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Human chorionic gonadotropin (HCG)."
+            ]
+        },
+        "q12": {
+            "type": "short_answer",
+            "prompt": "Explain why the placenta is considered an incomplete steroidogenic organ that requires a \"fetoplacental unit\" to synthesize estriol.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The placenta lacks the enzyme 17\u03b1-hydroxylase and cannot convert progesterone to androgens; it must use androgen precursors (DHEA-S) from the fetal adrenal glands and liver to produce estriol."
+            ]
+        },
+        "q13": {
+            "type": "short_answer",
+            "prompt": "Describe the role of human placental lactogen (hPL) in coordinating the maternal-fetal fuel economy.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "hPL increases maternal lipolysis and decreases maternal glucose utilization, shunting glucose and fatty acids toward the fetus for energy."
+            ]
+        },
+        "q14": {
+            "type": "short_answer",
+            "prompt": "What specific pressure change in the heart causes the functional closure of the foramen ovale within minutes after delivery?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "An increase in left atrial pressure (due to increased pulmonary venous return) that exceeds right atrial pressure (due to the loss of umbilical flow)."
+            ]
+        },
+        "q15": {
+            "type": "short_answer",
+            "prompt": "Why does the ductus arteriosus, which shunts blood from the pulmonary artery to the aorta in the fetus, normally close within 48-72 hours after birth?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Closure is triggered by the high partial pressure of oxygen (P_(O2)) in the blood after birth and the loss of placental prostaglandins (PGE2), causing the systemic vessel to constrict."
+            ]
+        },
+        "q16": {
+            "type": "short_answer",
+            "prompt": "Which substance, essential for neonatal lung stability, is produced by type II alveolar cells, and what is its role in decreasing surface tension?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Pulmonary surfactant; it reduces the collapsing pressure on small alveoli by lowering surface tension, preventing atelectasis."
+            ]
+        },
+        "q17": {
+            "type": "short_answer",
+            "prompt": "Describe the importance of the lecithin-to-sphingomyelin (L-S) ratio in evaluating fetal development.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It assesses fetal lung maturity; an L-S ratio > 2:1 indicates adequate surfactant for extrauterine life."
+            ]
+        },
+        "q18": {
+            "type": "short_answer",
+            "prompt": "How does the activation of the fetal hypothalamic-pituitary-adrenal axis near term contribute to the initiation of labor?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Increased fetal cortisol secretion increases the estrogen/progesterone ratio and stimulates the production of prostaglandins that trigger uterine contractions."
+            ]
+        },
+        "q19": {
+            "type": "short_answer",
+            "prompt": "In an integrative context, how does progesterone affect maternal respiratory physiology during pregnancy?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Progesterone stimulates the brainstem respiratory centers to increase alveolar ventilation, resulting in a physiological decrease in arterial P_(CO2) (hypocapnia)."
+            ]
+        },
+        "q20": {
+            "type": "short_answer",
+            "prompt": "Contrast the genetic sex, gonadal sex, and phenotypic sex of an individual with Androgen Insensitivity Syndrome.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Genetic sex: 46, XY; Gonadal sex: Testes are present; Phenotypic sex: Female external genitalia (due to absent androgen receptors)."
+            ]
+        }
+    }
+}

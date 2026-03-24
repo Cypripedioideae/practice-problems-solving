@@ -1,0 +1,333 @@
+{
+    "info": {
+        "set_name": "Comprehensive Respiratory Set 1: Carbon Dioxide Transport and Acid-Base(Short Answer)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "short_answer",
+            "prompt": "Identify the three primary forms in which CO2  is transported in the blood and their relative percentages.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Dissolved CO2(approx. 5%), Carbaminohaemoglobin (approx. 3%), and Bicarbonate (HCO3-) (approx. 90%)."
+            ]
+        },
+        "q2": {
+            "type": "short_answer",
+            "prompt": "Which enzyme is responsible for accelerating the hydration of CO2into H2CO3  within erythrocytes?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Carbonic anhydrase."
+            ]
+        },
+        "q3": {
+            "type": "short_answer",
+            "prompt": "Describe the \"chloride shift\" (Hamburger effect) and explain why it occurs during CO2  uptake in systemic tissues.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It is the movement of Cl^-into the red blood cell in exchange for HCO3-leaving the cell; it maintains electroneutrality as HCO3-levels rise in the cell during CO2uptake."
+            ]
+        },
+        "q4": {
+            "type": "short_answer",
+            "prompt": "What specific protein in the red blood cell membrane facilitates the exchange of bicarbonate for chloride?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Band three protein (anion exchange protein)."
+            ]
+        },
+        "q5": {
+            "type": "short_answer",
+            "prompt": "Why is deoxyhaemoglobin considered a more effective buffer for hydrogen ions than oxyhaemoglobin?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Because its pK (7.9) is closer to the pH of blood than that of oxyhaemoglobin (pK 6.7)."
+            ]
+        },
+        "q6": {
+            "type": "short_answer",
+            "prompt": "Define the Haldane effect and explain how it facilitates CO2  loading in the tissues and unloading in the lungs.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It states that deoxygenation of blood increases its CO2-carrying capacity (affinity); this allows blood to pick up more CO2at the tissues as O2is released."
+            ]
+        },
+        "q7": {
+            "type": "short_answer",
+            "prompt": "What is the approximate ratio of dissolved CO2to carbonic acid (H2CO3 ) in the blood?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Approximately 400:1 (400 CO2molecules for every 1 H2CO3)."
+            ]
+        },
+        "q8": {
+            "type": "short_answer",
+            "prompt": "According to the alveolar ventilation equation, what happens to the arterial P_(CO2)if alveolar ventilation is exactly halved while CO2  production remains constant?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The arterial P_(CO2)will double."
+            ]
+        },
+        "q9": {
+            "type": "short_answer",
+            "prompt": "What is the \"isohydric principle,\" and how does it relate to the multiple buffer systems in the body fluids?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It states that all body buffer pairs are in equilibrium with the same H^+concentration; a change in one buffer will affect all others."
+            ]
+        },
+        "q10": {
+            "type": "short_answer",
+            "prompt": "Define metabolic acidosis and state its primary respiratory compensatory mechanism.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "A primary decrease in blood HCO3-concentration; the compensatory response is hyperventilation (decreased P_(CO2))."
+            ]
+        },
+        "q11": {
+            "type": "short_answer",
+            "prompt": "What is the formula for calculating the serum anion gap, and what are its standard normal values?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Anion Gap=[Na^+]-([Cl^-]+[HCO3-]); normal range is 8-16 mEq/L."
+            ]
+        },
+        "q12": {
+            "type": "short_answer",
+            "prompt": "In the context of metabolic acidosis, how does the anion gap differ between diarrhea and diabetic ketoacidosis?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "In diarrhea, the anion gap is normal (hyperchloraemic acidosis); in ketoacidosis, the anion gap is increased due to unmeasured anions."
+            ]
+        },
+        "q13": {
+            "type": "short_answer",
+            "prompt": "Define \"contraction alkalosis\" and identify the hormonal signals that maintain this condition during extracellular fluid (ECF) volume loss.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Metabolic alkalosis secondary to ECF volume contraction; maintained by Angiotensin II (stimulating Na^+-H^+exchange) and Aldosterone (stimulating H^+secretion)."
+            ]
+        },
+        "q14": {
+            "type": "short_answer",
+            "prompt": "How do the kidneys compensate for a chronic respiratory acidosis over a period of several days?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "By increasing H^+excretion and the synthesis/reabsorption of \"new\" HCO3-."
+            ]
+        },
+        "q15": {
+            "type": "short_answer",
+            "prompt": "What is the minimum urinary pH that the human kidney can achieve?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "pH 4.4."
+            ]
+        },
+        "q16": {
+            "type": "short_answer",
+            "prompt": "How does hyperkalemia affect renal ammonia (NH3 ) synthesis, and what is the resulting impact on acid-base balance?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It inhibits NH3synthesis, reducing the ability to excrete H^+as NH4+and leading to metabolic acidosis."
+            ]
+        },
+        "q17": {
+            "type": "short_answer",
+            "prompt": "What are the typical normal values for arterial pH, arterial P_(CO2) , and plasma bicarbonate concentration?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "pH=7.4, P_(CO2)=40 mmHg, HCO3-=24 mEq/L."
+            ]
+        },
+        "q18": {
+            "type": "short_answer",
+            "prompt": "Distinguish between volatile and nonvolatile (fixed) acids in the human body.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Volatile acid (CO2) is excreted by the lungs; nonvolatile acids (e.g., sulphuric, phosphoric) must be excreted by the kidneys."
+            ]
+        },
+        "q19": {
+            "type": "short_answer",
+            "prompt": "What is the pK of the bicarbonate/CO2  buffer system in human plasma?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "6.1."
+            ]
+        },
+        "q20": {
+            "type": "short_answer",
+            "prompt": "Why is the bicarbonate/CO2  system a more effective buffer than phosphate despite its pK being further from physiological pH?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "HCO3-is present in much higher concentrations and its acid form (CO2) is volatile and easily expired."
+            ]
+        },
+        "q21": {
+            "type": "short_answer",
+            "prompt": "What constitutes the \"alkaline tide\" sometimes observed in venous blood draining the stomach?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The increase in blood pH (increase in HCO3-) that occurs after a meal due to the secretion of H^+into the stomach lumen."
+            ]
+        },
+        "q22": {
+            "type": "short_answer",
+            "prompt": "Define \"acidemia\" and \"alkalemia\" based on the arterial pH scale.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Acidemia: pH<7.37; Alkalemia: pH>7.42."
+            ]
+        },
+        "q23": {
+            "type": "short_answer",
+            "prompt": "Describe the Bohr effect regarding the impact of P_(CO2)  and pH on haemoglobin's oxygen affinity.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Increased P_(CO2)and decreased pH decrease haemoglobin's affinity for O2, causing a rightward shift of the dissociation curve."
+            ]
+        },
+        "q24": {
+            "type": "short_answer",
+            "prompt": "How does the kidney generate \"new\" bicarbonate while excreting hydrogen ions?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "By excreting H^+as titratable acid or NH4+; for every H^+excreted, one HCO3-molecule is synthesized and returned to the blood."
+            ]
+        },
+        "q25": {
+            "type": "short_answer",
+            "prompt": "Within what pH range is human life generally sustainable?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "pH 6.8 to 8.0."
+            ]
+        }
+    }
+}

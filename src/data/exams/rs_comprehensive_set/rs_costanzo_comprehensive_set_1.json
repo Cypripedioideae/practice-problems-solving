@@ -1,0 +1,203 @@
+{
+    "info": {
+        "set_name": "Comprehensive Respiratory Set 1: Functional Anatomy (Short Answer)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "short_answer",
+            "prompt": "In the zero-to-23 generation model of the tracheobronchial tree, which generation is assigned to the trachea?.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Generation zero.."
+            ]
+        },
+        "q2": {
+            "type": "short_answer",
+            "prompt": "What are the physiological roles of the conducting zone regarding the physical properties of inspired air?.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "To warm, humidify, and filter the air.."
+            ]
+        },
+        "q3": {
+            "type": "short_answer",
+            "prompt": "By what cellular mechanism do the conducting airways remove inhaled particles that bypass the nasal filters?.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Via the beating of cilia which sweep mucus-trapped particles upwards.."
+            ]
+        },
+        "q4": {
+            "type": "short_answer",
+            "prompt": "At which specific generation of the airway does the \"respiratory zone\" begin?.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The 17th generation (respiratory bronchioles).."
+            ]
+        },
+        "q5": {
+            "type": "short_answer",
+            "prompt": "How is the anatomic dead space volume typically estimated for an adult based on their body weight?.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Approximately 1 millilitre per pound of body weight.."
+            ]
+        },
+        "q6": {
+            "type": "short_answer",
+            "prompt": "According to the Bohr equation, how does the partial pressure of CO2  in mixed expired air compare to alveolar air when physiologic dead space is present?.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The partial pressure of CO2in expired air is lower than in alveolar air due to dilution by dead space air.."
+            ]
+        },
+        "q7": {
+            "type": "short_answer",
+            "prompt": "Which three primary lung volumes must be summed to calculate the Vital Capacity?.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Tidal Volume (VT), Inspiratory Reserve Volume (IRV), and Expiratory Reserve Volume (ERV).."
+            ]
+        },
+        "q8": {
+            "type": "short_answer",
+            "prompt": "Why is the Functional Residual Capacity (FRC) defined as the equilibrium volume of the combined lung-chest wall system?.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Because the inward collapsing force of the lungs is exactly balanced by the outward expanding force of the chest wall.."
+            ]
+        },
+        "q9": {
+            "type": "short_answer",
+            "prompt": "Which specific lung volume remains in the lungs after a maximal expiratory effort and cannot be measured by simple spirometry?.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Residual Volume (RV).."
+            ]
+        },
+        "q10": {
+            "type": "short_answer",
+            "prompt": "How does the calculation for Alveolar Ventilation (V\u02d9A) differ from that of Minute Ventilation (V\u02d9E ) in terms of \"wasted\" air?.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Alveolar Ventilation subtracts the dead space volume (VD) from each tidal volume (VT) before multiplying by the frequency.."
+            ]
+        },
+        "q11": {
+            "type": "short_answer",
+            "prompt": "What is the definition of \"Alveolar Dead Space,\" and in what clinical circumstance might it significantly increase?.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It refers to ventilated alveoli that do not participate in gas exchange, often due to a ventilation/perfusion defect like a pulmonary embolism.."
+            ]
+        },
+        "q12": {
+            "type": "short_answer",
+            "prompt": "What is the approximate value for the partial pressure of CO2  in the anatomic dead space?.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Approximately 0 mmHg.."
+            ]
+        },
+        "q13": {
+            "type": "short_answer",
+            "prompt": "Which alveolar cell type is responsible for the synthesis of dipalmitoyl phosphatidylcholine?.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Type II pneumocytes.."
+            ]
+        },
+        "q14": {
+            "type": "short_answer",
+            "prompt": "What is the Respiratory Exchange Ratio (R), and what is its normal resting value?.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It is the ratio of CO2production to O2consumption, typically 0.8 at rest.."
+            ]
+        },
+        "q15": {
+            "type": "short_answer",
+            "prompt": "What is the partial pressure of O2  in humidified tracheal air at 37\u00b0C at sea level?.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "150 mmHg.."
+            ]
+        }
+    }
+}

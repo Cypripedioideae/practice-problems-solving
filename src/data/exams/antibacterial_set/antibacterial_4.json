@@ -1,0 +1,278 @@
+{
+  "info": {
+    "set_name": "Antibacterial Agents 4",
+    "source": "-"
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "A 68-year-old female is hospitalized for a complicated intra-abdominal infection. Culture results identify an extended-spectrum β-lactamase (ESBL) producing *Escherichia coli*. The patient is initiated on aantimicrobial agent that is considered the drug of choice for this resistance pattern. Shortly after starting the medication, the patient experiences a generalized tonic-clonic seizure. Which of the following agents was most likely administered?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Ceftazidime"
+        },
+        {
+          "id": "b",
+          "label": "Imipenem"
+        },
+        {
+          "id": "c",
+          "label": "Piperacillin/tazobactam"
+        },
+        {
+          "id": "d",
+          "label": "Vancomycin"
+        },
+        {
+          "id": "e",
+          "label": "Colistin"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q2": {
+      "type": "mcq",
+      "prompt": "Which lipopeptide antibacterial agent exerts its bactericidal effect by binding to the cytoplasmic membrane of Gram-positive cocci to cause depolarization and ion leakage, but is inactivated by pulmonary surfactant?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Vancomycin"
+        },
+        {
+          "id": "b",
+          "label": "Daptomycin"
+        },
+        {
+          "id": "c",
+          "label": "Ceftaroline"
+        },
+        {
+          "id": "d",
+          "label": "Linezolid"
+        },
+        {
+          "id": "e",
+          "label": "Polymyxin B"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q3": {
+      "type": "mcq",
+      "prompt": "A 7-year-old child with a history of a maculopapular rash after taking amoxicillin is diagnosed with Group A streptococcal pharyngitis. Which of the following is the most appropriate bacteriostatic alternative?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Azithromycin"
+        },
+        {
+          "id": "b",
+          "label": "Penicillin V"
+        },
+        {
+          "id": "c",
+          "label": "Cefazolin"
+        },
+        {
+          "id": "d",
+          "label": "Levofloxacin"
+        },
+        {
+          "id": "e",
+          "label": "Doxycycline"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q4": {
+      "type": "mcq",
+      "prompt": "A 42-year-old male is prescribed oral levofloxacin for community-acquired pneumonia. He also regularly takes an over-the-counter antacid containing magnesium hydroxide and aluminum hydroxide to manage frequent heartburn. After five days of therapy, his cough and fever persist without improvement. Which of the following mechanisms best explains the reason for the treatment failure in this patient?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Induction of hepatic CYP450 enzymes by the antacid"
+        },
+        {
+          "id": "b",
+          "label": "Increased renal clearance of the drug due to alkaline urine"
+        },
+        {
+          "id": "c",
+          "label": "Inhibition of the drug's absorption by multivalent cations"
+        },
+        {
+          "id": "d",
+          "label": "Inability to absorb the drug due to decreased acidity"
+        },
+        {
+          "id": "e",
+          "label": "Inactivation of the drug by bacterial β-lactamases"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q5": {
+      "type": "mcq",
+      "prompt": "A patient receiving a rapid intravenous infusion of vancomycin develops sudden-onset flushing and a pruritic rash on the face and neck. Which physiological mediator is responsible for this reaction?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Histamine"
+        },
+        {
+          "id": "b",
+          "label": "Prostaglandin E_2"
+        },
+        {
+          "id": "c",
+          "label": "Bradykinin"
+        },
+        {
+          "id": "d",
+          "label": "Interleukin-1"
+        },
+        {
+          "id": "e",
+          "label": "Tumor necrosis factor-alpha"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q6": {
+      "type": "mcq",
+      "prompt": "Which agent prevents the formation of the ribosome complex that initiates protein synthesis by binding to the 50S ribosomal subunit and is specifically indicated for Vancomycin-Resistant Enterococci (VRE) and MRSA infections?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Clindamycin"
+        },
+        {
+          "id": "b",
+          "label": "Chloramphenicol"
+        },
+        {
+          "id": "c",
+          "label": "Tigecycline"
+        },
+        {
+          "id": "d",
+          "label": "Erythromycin"
+        },
+        {
+          "id": "e",
+          "label": "Linezolid"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "A patient with a chronic cough and fever is found to have *Moraxella catarrhalis* on sputum culture. Which of the following is the most appropriate initial treatment for this patient?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Imipenem-cilastatin"
+        },
+        {
+          "id": "b",
+          "label": "Piperacillin-tazobactam"
+        },
+        {
+          "id": "c",
+          "label": "Amoxicillin-clavulanate"
+        },
+        {
+          "id": "d",
+          "label": "Ceftazidime-avibactam"
+        },
+        {
+          "id": "e",
+          "label": "Ampicillin-gentamicin"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q8": {
+      "type": "mcq",
+      "prompt": "Methicillin resistance in *Staphylococcus aureus* involves the acquisition of the mecA gene. What is the specific molecular result of this genetic acquisition?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Overproduction of dihydropteroate synthase"
+        },
+        {
+          "id": "b",
+          "label": "Enzymatic cleavage of the beta-lactam ring"
+        },
+        {
+          "id": "c",
+          "label": "Synthesis of a dipeptide with reduced affinity for glycopeptides"
+        },
+        {
+          "id": "d",
+          "label": "Reduction of drug permeability through porin channel mutation"
+        },
+        {
+          "id": "e",
+          "label": "Production of an altered PBP2a with low affinity for beta-lactams"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q9": {
+      "type": "mcq",
+      "prompt": "What is the molecular target of rifampin, and what is its primary role when used in a multi-drug regimen for *Mycobacterium tuberculosis*?",
+      "options": [
+        {
+          "id": "a",
+          "label": "30S ribosomal subunit; to inhibit tRNA attachment"
+        },
+        {
+          "id": "b",
+          "label": "DNA gyrase; to inhibit DNA supercoiling"
+        },
+        {
+          "id": "c",
+          "label": "Arabinosyl transferase; to disrupt cell wall assembly"
+        },
+        {
+          "id": "d",
+          "label": "Beta-subunit of DNA-dependent RNA polymerase; to prevent emergence of resistance"
+        },
+        {
+          "id": "e",
+          "label": "Enolpyruvate transferase; to block peptidoglycan precursor synthesis"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q10": {
+      "type": "mcq",
+      "prompt": "Which of the following defines the clinical principle of \"synergism\" as it applies to the combination of penicillin and gentamicin?",
+      "options": [
+        {
+          "id": "a",
+          "label": "The combined antimicrobial activity is significantly greater than the sum of their individual effects"
+        },
+        {
+          "id": "b",
+          "label": "The total inhibitory activity is exactly equal to the sum of the activity of each drug used alone"
+        },
+        {
+          "id": "c",
+          "label": "The presence of one drug induces the expression of efflux pumps for the second drug"
+        },
+        {
+          "id": "d",
+          "label": "One drug inhibits the metabolic degradation of the other in the renal tubules"
+        },
+        {
+          "id": "e",
+          "label": "The drugs compete for the same binding site on the 30S ribosomal subunit"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    }
+  }
+}

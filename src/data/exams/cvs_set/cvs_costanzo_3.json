@@ -1,0 +1,858 @@
+{
+    "info": {
+        "set_name": "Cardiovascular Physiology 3",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "TF",
+            "prompt": "In the sinoatrial (SA) node, the Phase 0 upstroke is primarily the result of a transient increase in calcium conductance (gCa) through L-type calcium channels.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q2": {
+            "type": "TF",
+            "prompt": "The \"a\" wave observed in a standard jugular venous pulse recording is produced by the contraction of the right atrium.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q3": {
+            "type": "TF",
+            "prompt": "During the cardiac cycle, aortic pressure is at its lowest value at the exact moment the aortic valve opens at the end of isovolumetric contraction.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q4": {
+            "type": "TF",
+            "prompt": "Activation of the sympathetic nervous system leads to the phosphorylation of phospholamban, which subsequently decreases the activity of the Ca^(2+)-ATPase (SERCA) in the sarcoplasmic reticulum.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q5": {
+            "type": "TF",
+            "prompt": "According to the Bowditch staircase effect, an increase in heart rate increases myocardial contractility because the cumulative intracellular calcium concentration increases over several beats.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q6": {
+            "type": "TF",
+            "prompt": "According to the law of Laplace for a sphere, the wall tension required to generate a specific intraventricular pressure is inversely proportional to the radius of the ventricular chamber.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q7": {
+            "type": "TF",
+            "prompt": "If the stroke volume of the left ventricle remains constant while the heart rate doubles, the mean arterial pressure will likely increase significantly, assuming total peripheral resistance remains unchanged.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q8": {
+            "type": "TF",
+            "prompt": "In a patient diagnosed with cardiac tamponade, a hallmark physiological finding is the near-equalization of diastolic pressures in all four cardiac chambers.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q9": {
+            "type": "TF",
+            "prompt": "The \"funny\" current (If), which is responsible for Phase 4 depolarization in the sinoatrial node, is activated by membrane hyperpolarization following the preceding action potential.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q10": {
+            "type": "TF",
+            "prompt": "A positive chronotropic effect is defined physiologically as an increase in the slope of the Phase 4 spontaneous depolarization in the pacemaker cells.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q11": {
+            "type": "TF",
+            "prompt": "Unlike skeletal muscle, cardiac muscle cannot be tetanised because the absolute refractory period lasts almost as long as the entire mechanical contraction (twitch).",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q12": {
+            "type": "TF",
+            "prompt": "The second heart sound (S2) is physiologically produced when the pressure within the ventricles falls below the pressure within the atria, causing the atrioventricular valves to open.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q13": {
+            "type": "TF",
+            "prompt": "A decrease in venous compliance results in a shift of blood volume from the unstressed volume to the stressed volume, thereby increasing mean systemic filling pressure.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q14": {
+            "type": "TF",
+            "prompt": "Atrial natriuretic peptide (ANP) acts on the kidneys to decrease the glomerular filtration rate (GFR) by constricting the afferent arterioles.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q15": {
+            "type": "TF",
+            "prompt": "The linear velocity of blood flow is significantly lower in the capillaries than in the aorta because the hydrodynamic resistance of a single capillary is much higher than that of the aorta.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q16": {
+            "type": "TF",
+            "prompt": "Cardiac glycosides such as digoxin increase myocardial contractility by inhibiting the Na^+/K^+ ATPase, which reduces the Na^+ gradient required for Ca^(2+) extrusion via the Na^+-Ca^(2+) exchanger.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q17": {
+            "type": "TF",
+            "prompt": "An increase in myocardial contractility results in a shift of the left ventricular pressure-volume loop such that the end-systolic volume is decreased while the stroke volume is increased.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q18": {
+            "type": "TF",
+            "prompt": "Mean systemic filling pressure is a parameter determined primarily by total blood volume and venous compliance, and it remains unchanged by alterations in total peripheral resistance (TPR).",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q19": {
+            "type": "TF",
+            "prompt": "In the coronary circulation, the extraction of oxygen from the blood is so high under resting conditions that any significant increase in myocardial oxygen demand must be met by an increase in blood flow.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q20": {
+            "type": "TF",
+            "prompt": "In a healthy subject, the intravenous infusion of pure norepinephrine typically results in a reflex decrease in heart rate due to the baroreceptor response to systemic vasoconstriction.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q21": {
+            "type": "TF",
+            "prompt": "Dromotropic effects refer to changes in the intrinsic strength of myocardial contraction, whereas inotropic effects refer to changes in conduction velocity.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q22": {
+            "type": "TF",
+            "prompt": "The absolute refractory period (ARP) of a cardiac ventricular myocyte concludes when the cell has repolarized to a membrane potential of approximately -50 mV.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q23": {
+            "type": "TF",
+            "prompt": "According to the principles of hemodynamics, if the resistance of an arteriole is reduced by exactly 50% while the pressure gradient remains constant, the blood flow through that vessel will increase 16-fold.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q24": {
+            "type": "TF",
+            "prompt": "On a standard electrocardiogram, the T wave represents the electrical depolarization of the Purkinje system.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q25": {
+            "type": "TF",
+            "prompt": "Myocardial oxygen consumption is significantly higher for pressure work (pumping against a high afterload) than for volume work (pumping a high stroke volume against a low afterload).",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q26": {
+            "type": "TF",
+            "prompt": "The Frank-Starling law of the heart serves as an intrinsic mechanism that ensures the cardiac output from the left ventricle matches the venous return.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q27": {
+            "type": "TF",
+            "prompt": "In a patient with significant aortic valve stenosis, the pressure within the left ventricle is essentially equal to the pressure in the aorta during the rapid ejection phase.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q28": {
+            "type": "TF",
+            "prompt": "The first heart sound (S1) is normally heard at the beginning of the reduced ventricular ejection phase of the cardiac cycle.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q29": {
+            "type": "TF",
+            "prompt": "Local vasodilator metabolites, specifically adenosine and carbon dioxide, are the primary regulators of blood flow in the coronary circulation.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q30": {
+            "type": "TF",
+            "prompt": "The most significant drop in mean blood pressure within the systemic circulation occurs as blood passes through the capillary beds.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q31": {
+            "type": "TF",
+            "prompt": "A positive dromotropic effect on the atrioventricular (AV) node is represented on the electrocardiogram by a shortening of the P-R interval.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q32": {
+            "type": "TF",
+            "prompt": "Parasympathetic stimulation slows the heart rate primarily by decreasing the potassium (K^+) conductance in the sinoatrial node, which moves the maximum diastolic potential further from threshold.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q33": {
+            "type": "TF",
+            "prompt": "If a patient's cardiac output is 6 L/min and their heart rate is 60 beats/min, their calculated stroke volume is 100 mL per beat.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q34": {
+            "type": "TF",
+            "prompt": "A patient suffering from severe isosmotic volume contraction, such as from diarrhea, will exhibit a decrease in their mean systemic filling pressure.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q35": {
+            "type": "TF",
+            "prompt": "The presence of a large arteriovenous (AV) fistula causes a decrease in the total peripheral resistance and a compensatory increase in the cardiac output.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q36": {
+            "type": "TF",
+            "prompt": "The \"v\" wave of the jugular venous pulse corresponds to the period of isovolumetric contraction when the ventricles are building pressure.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q37": {
+            "type": "TF",
+            "prompt": "An increase in the filtration fraction leads to an increase in the oncotic pressure of the peritubular capillary blood, which subsequently promotes isosmotic reabsorption in the proximal tubule.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q38": {
+            "type": "TF",
+            "prompt": "Carotid sinus baroreceptors are physiologically sensitive to both increases and decreases in arterial pressure, whereas aortic arch baroreceptors respond primarily to increases.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q39": {
+            "type": "TF",
+            "prompt": "The vasa recta capillaries serve as the primary countercurrent multipliers responsible for actively generating the medullary osmotic gradient.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q40": {
+            "type": "TF",
+            "prompt": "Adding a new systemic blood vessel in a parallel arrangement within an organ circuit results in an increase in the total vascular resistance of that organ.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q41": {
+            "type": "TF",
+            "prompt": "A decrease in venous compliance, often termed venoconstriction, shifts the vascular function curve to the right along the right atrial pressure axis.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q42": {
+            "type": "TF",
+            "prompt": "During the plateau phase (Phase 2) of a ventricular action potential, the net membrane current is zero because the inward calcium current is balanced by an outward potassium current.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q43": {
+            "type": "TF",
+            "prompt": "Based on the Fick principle, if a patient has an arterial O2 content of 20 mL/dL and a mixed venous O2 content of 15 mL/dL, a cardiac output of 5 L/min implies an O2 consumption of 250 mL/min.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q44": {
+            "type": "TF",
+            "prompt": "On a combined function graph, a positive inotropic effect results in a lower steady-state right atrial pressure and a higher cardiac output.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q45": {
+            "type": "TF",
+            "prompt": "A sudden fall in mean arterial pressure results in a baroreceptor-mediated decrease in the firing rate of the carotid sinus nerve (glossopharyngeal nerve).",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q46": {
+            "type": "TF",
+            "prompt": "A patient with untreated hyperthyroidism typically exhibits a decreased pulse pressure because the resulting tachycardia significantly reduces ventricular filling time.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q47": {
+            "type": "TF",
+            "prompt": "In a patient with mitral valve stenosis, the measured pulmonary capillary wedge pressure is typically higher than the left ventricular end-diastolic pressure.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q48": {
+            "type": "TF",
+            "prompt": "The myogenic response to an increase in transmural pressure in a renal arteriole involves the opening of stretch-activated calcium channels in the smooth muscle cell membrane.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q49": {
+            "type": "TF",
+            "prompt": "During the phase of reduced ventricular ejection, the left ventricular volume reaches its absolute minimum for that cardiac cycle.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q50": {
+            "type": "TF",
+            "prompt": "Parasympathetic stimulation of the heart involves the release of norepinephrine at the sinoatrial node to produce a negative chronotropic effect.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        }
+    }
+}

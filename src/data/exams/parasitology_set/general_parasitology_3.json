@@ -1,0 +1,299 @@
+{
+    "info": {
+        "set_name": "General parasitology 3",
+        "description": "",
+        "source": ""
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A stool specimen from a patient with chronic diarrhea and malabsorption is examined microscopically. The laboratory identifies a pear-shaped trophozoite containing two nuclei and four pairs of flagella. Which parasite has been identified?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Balantidium coli"
+                },
+                {
+                    "id": "b",
+                    "label": "Dientamoeba fragilis"
+                },
+                {
+                    "id": "c",
+                    "label": "Entamoeba histolytica"
+                },
+                {
+                    "id": "d",
+                    "label": "Giardia lamblia"
+                },
+                {
+                    "id": "e",
+                    "label": "Trichomonas vaginalis"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A patient diagnosed with Plasmodium vivax malaria is prescribed a combination of Chloroquine and Primaquine. What is the specific clinical purpose of including Primaquine in this treatment regimen?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "To eradicate the asexual erythrocytic stages"
+                },
+                {
+                    "id": "b",
+                    "label": "To inhibit the digestion of hemoglobin in the digestive vacuole"
+                },
+                {
+                    "id": "c",
+                    "label": "To prevent transmission by killing circulating gametocytes"
+                },
+                {
+                    "id": "d",
+                    "label": "To target latent hypnozoites in the liver and prevent relapse"
+                },
+                {
+                    "id": "e",
+                    "label": "To treat the acute symptoms of high fever and chills"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "A 28-year-old hiker presents with bloating, flatulence, and foul-smelling fatty stools following a camping trip where he consumed untreated stream water. Which medication is the most appropriate first-line treatment for this condition?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Albendazole"
+                },
+                {
+                    "id": "b",
+                    "label": "Iodoquinol"
+                },
+                {
+                    "id": "c",
+                    "label": "Metronidazole"
+                },
+                {
+                    "id": "d",
+                    "label": "Nitazoxanide"
+                },
+                {
+                    "id": "e",
+                    "label": "Praziquantel"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "A 45-year-old man who recently traveled to Thailand presents with right upper quadrant pain and fever; an ultrasound reveals a large mass in the liver, and percutaneous drainage yields chocolate-like pus. Which mechanism best explains the development of this extraintestinal lesion?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Direct migration of adult worms from the biliary tract"
+                },
+                {
+                    "id": "b",
+                    "label": "Hematogenous spread via the portal vein after intestinal invasion"
+                },
+                {
+                    "id": "c",
+                    "label": "Ingestion of infectious eggs that hatch in the hepatic parenchyma"
+                },
+                {
+                    "id": "d",
+                    "label": "Larval transport of intestinal bacteria through the diaphragm"
+                },
+                {
+                    "id": "e",
+                    "label": "Multiplication of sporozoites within the hepatocytes"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "During the laboratory evaluation of a cerebrospinal fluid (CSF) sample from a patient with suspected meningoencephalitis, an ameba is observed under the microscope. Which characteristic movement is associated with the motile stage of Naegleria fowleri?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Ball-throwing movement"
+                },
+                {
+                    "id": "b",
+                    "label": "Falling-leaf movement"
+                },
+                {
+                    "id": "c",
+                    "label": "Jerky, nondirectional movement"
+                },
+                {
+                    "id": "d",
+                    "label": "Limacine movement"
+                },
+                {
+                    "id": "e",
+                    "label": "Pseudopodial spikes"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "A previously healthy teenager develops a high fever, neck stiffness, and seizures three days after swimming in a warm freshwater lake. Despite intensive care, the patient dies within a week of symptom onset. Which organism is most likely responsible for this rapidly fatal infection?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Acanthamoeba spp."
+                },
+                {
+                    "id": "b",
+                    "label": "Cryptosporidium hominis"
+                },
+                {
+                    "id": "c",
+                    "label": "Entamoeba histolytica"
+                },
+                {
+                    "id": "d",
+                    "label": "Naegleria fowleri"
+                },
+                {
+                    "id": "e",
+                    "label": "Toxoplasma gondii"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "A patient with AIDS is diagnosed with multiple ring-enhancing brain lesions on MRI, which are determined to be caused by Toxoplasma gondii. Which process most likely led to the development of these abscesses?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Continuous ingestion of infectious oocysts from cat feces"
+                },
+                {
+                    "id": "b",
+                    "label": "Hematogenous spread of trophozoites from a lung infection"
+                },
+                {
+                    "id": "c",
+                    "label": "Primary infection during the current immunosuppressed state"
+                },
+                {
+                    "id": "d",
+                    "label": "Reactivation of bradyzoites within latent tissue cysts"
+                },
+                {
+                    "id": "e",
+                    "label": "Sequestration of merozoites in the microvasculature"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "A 50-year-old immigrant from Southeast Asia presents with epigastric pain and jaundice; an endoscopic retrograde cholangiopancreatography (ERCP) shows intrahepatic bile duct dilation with multiple filing defects. Which parasite is the most likely cause?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Ascaris lumbricoides"
+                },
+                {
+                    "id": "b",
+                    "label": "Fasciola hepatica"
+                },
+                {
+                    "id": "c",
+                    "label": "Fasciolopsis buski"
+                },
+                {
+                    "id": "d",
+                    "label": "Opisthorchis sinensis"
+                },
+                {
+                    "id": "e",
+                    "label": "Schistosoma japonicum"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "During a microscopic examination of a stool sample from a patient with abdominal pain and diarrhea, a laboratory technologist identifies a brownish, barrel-shaped egg measuring 60 x 45 \u00b5m with clear mucoid plugs at both ends. Which parasite has been identified?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Ancylostoma duodenale"
+                },
+                {
+                    "id": "b",
+                    "label": "Ascaris lumbricoides"
+                },
+                {
+                    "id": "c",
+                    "label": "Enterobius vermicularis"
+                },
+                {
+                    "id": "d",
+                    "label": "Strongyloides stercoralis"
+                },
+                {
+                    "id": "e",
+                    "label": "Trichuris trichiura"
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "A 21-year-old man emigrates from an endemic region and presents with a chronic cough, hemoptysis, and chest pain; he reports a history of consuming raw freshwater crabs. To confirm a diagnosis of paragonimiasis, which specimen should be primarily collected to look for operculated eggs?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Duodenal aspirate"
+                },
+                {
+                    "id": "b",
+                    "label": "Early morning urine"
+                },
+                {
+                    "id": "c",
+                    "label": "Peripheral blood film"
+                },
+                {
+                    "id": "d",
+                    "label": "Sputum"
+                },
+                {
+                    "id": "e",
+                    "label": "Vaginal swab"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        }
+    }
+}

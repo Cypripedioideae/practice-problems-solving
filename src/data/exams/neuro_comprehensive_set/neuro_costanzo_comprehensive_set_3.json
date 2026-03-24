@@ -1,0 +1,372 @@
+{
+    "info": {
+        "set_name": "Comprehensive Neuro Set 1: Autonomic Nervous System (Short Answer)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "short_answer",
+            "prompt": "Based on their anatomical origin in the central nervous system (CNS), what are the specific names given to the two primary divisions of the ANS?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Sympathetic and Parasympathetic."
+            ]
+        },
+        "q2": {
+            "type": "short_answer",
+            "prompt": "Which spinal cord segments contain the cell bodies of the preganglionic sympathetic neurons?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "T1 to L3 (Thoracolumbar)."
+            ]
+        },
+        "q3": {
+            "type": "short_answer",
+            "prompt": "In which specific regions of the CNS do the preganglionic parasympathetic neurons originate?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Nuclei of cranial nerves (III, VII, IX, X) and S2-S4 (Craniosacral)."
+            ]
+        },
+        "q4": {
+            "type": "short_answer",
+            "prompt": "How do the lengths of preganglionic and postganglionic axons compare between the sympathetic and parasympathetic divisions?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Sympathetic: Short preganglionic, long postganglionic. Parasympathetic: Long preganglionic, short postganglionic."
+            ]
+        },
+        "q5": {
+            "type": "short_answer",
+            "prompt": "What is the classification (A, B, or C) of the preganglionic and postganglionic motor fibers in terms of conduction velocity and myelination?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Preganglionic fibers are myelinated B fibers; postganglionic fibers are unmyelinated C fibers."
+            ]
+        },
+        "q6": {
+            "type": "short_answer",
+            "prompt": "Which neurotransmitter is released by all preganglionic neurons of the ANS, regardless of division?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Acetylcholine (ACh)."
+            ]
+        },
+        "q7": {
+            "type": "short_answer",
+            "prompt": "What specific type of cholinergic receptor is found on the cell bodies of all postganglionic autonomic neurons?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Nicotinic (N_2)."
+            ]
+        },
+        "q8": {
+            "type": "short_answer",
+            "prompt": "Which sympathetic effector organ is a notable exception to the rule that sympathetic postganglionic neurons are adrenergic?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Thermoregulatory sweat glands (innervated by sympathetic cholinergic neurons)."
+            ]
+        },
+        "q9": {
+            "type": "short_answer",
+            "prompt": "Explain the concept of \"en passant\" synapses and the role of varicosities in autonomic neuroeffector junctions.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Postganglionic autonomic neurons form diffuse branching networks with beads called varicosities, which are the sites of transmitter synthesis and release along the target tissue."
+            ]
+        },
+        "q10": {
+            "type": "short_answer",
+            "prompt": "What is the standard ratio of epinephrine and norepinephrine secreted by the chromaffin cells of the adrenal medulla?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "80% Epinephrine and 20% Norepinephrine."
+            ]
+        },
+        "q11": {
+            "type": "short_answer",
+            "prompt": "Which enzyme, required for the synthesis of epinephrine in the adrenal medulla, requires cortisol for its induction?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Phenylethanolamine-N-methyltransferase (PNMT)."
+            ]
+        },
+        "q12": {
+            "type": "short_answer",
+            "prompt": "List two examples of \"non-adrenergic, non-cholinergic\" neurotransmitters released by some postganglionic parasympathetic neurons in the GI tract.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Vasoactive intestinal peptide (VIP), substance P, or nitric oxide (NO)."
+            ]
+        },
+        "q13": {
+            "type": "short_answer",
+            "prompt": "Which adrenergic receptor type is found primarily on vascular smooth muscle of the skin and splanchnic regions, and what is its effect upon activation?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "\u03b1_1 receptors; they produce excitation (contraction/constriction)."
+            ]
+        },
+        "q14": {
+            "type": "short_answer",
+            "prompt": "Describe the second-messenger signaling pathway used by \u03b11  receptors.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "G_q protein activates phospholipase C, which produces IP_3 and diacylglycerol, leading to increased intracellular Ca^(2+)."
+            ]
+        },
+        "q15": {
+            "type": "short_answer",
+            "prompt": "What is the physiological significance of \u03b1_2  receptors acting as \"autoreceptors\" on presynaptic adrenergic terminals?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "They inhibit further release of norepinephrine from the terminal (negative feedback)."
+            ]
+        },
+        "q16": {
+            "type": "short_answer",
+            "prompt": "Which G protein and second messenger system are utilized by \u03b1_2  receptors?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "G_i protein; it inhibits adenylyl cyclase and decreases cAMP."
+            ]
+        },
+        "q17": {
+            "type": "short_answer",
+            "prompt": "Name the primary locations of \u03b2_1  receptors and the three major effects they have on cardiac tissue.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "SA node, AV node, and ventricular muscle. Effects: Increased heart rate, increased conduction velocity, and increased contractility."
+            ]
+        },
+        "q18": {
+            "type": "short_answer",
+            "prompt": "What is the common second messenger mechanism shared by all \u03b2 adrenergic receptors?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Stimulation of adenylyl cyclase via Gsprotein, leading to increased cAMP."
+            ]
+        },
+        "q19": {
+            "type": "short_answer",
+            "prompt": "Which adrenergic receptor is responsible for the dilation of bronchioles and vascular smooth muscle in skeletal muscle?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "\u03b2_2 receptors."
+            ]
+        },
+        "q20": {
+            "type": "short_answer",
+            "prompt": "In the cardiac SA node, what is the mechanism by which the M_2 muscarinic receptor decreases the heart rate?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It activates a G_i protein that directly opens K^+ channels (I(K-ACh)) and inhibits adenylyl cyclase, slowing the rate of phase 4 depolarization and hyperpolarizing the cell."
+            ]
+        },
+        "q21": {
+            "type": "short_answer",
+            "prompt": "Which cholinergic receptor type and signaling pathway (second messenger) are responsible for increasing GI motility and gland secretion?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Muscarinic (M3) receptors; Gqprotein, phospholipase C, IP3/Ca^(2+)."
+            ]
+        },
+        "q22": {
+            "type": "short_answer",
+            "prompt": "Distinguish between the effect of sympathetic and parasympathetic stimulation on the muscles of the iris (pupil size).",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Sympathetic (\u03b11): Radial muscle contraction (mydriasis/dilation). Parasympathetic (M): Circular/sphincter muscle contraction (miosis/constriction)."
+            ]
+        },
+        "q23": {
+            "type": "short_answer",
+            "prompt": "Describe the autonomic coordination required for the filling phase of the urinary bladder regarding the detrusor muscle and internal sphincter.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Sympathetic (\u03b22) relaxes the detrusor muscle; sympathetic (\u03b11) contracts the internal sphincter."
+            ]
+        },
+        "q24": {
+            "type": "short_answer",
+            "prompt": "Which receptor type mediates the sympathetic stimulation of renin secretion by the kidneys?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "\u03b21receptors."
+            ]
+        },
+        "q25": {
+            "type": "short_answer",
+            "prompt": "Which division of the ANS is responsible for male penile erection, and which is responsible for ejaculation?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Parasympathetic (erection); Sympathetic (ejaculation)."
+            ]
+        },
+        "q26": {
+            "type": "short_answer",
+            "prompt": "Where are the primary autonomic centers for vasomotor, respiratory, and swallowing functions located?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Medulla oblongata."
+            ]
+        },
+        "q27": {
+            "type": "short_answer",
+            "prompt": "Describe the \"Size Principle\" in the context of motoneuron recruitment.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Small motoneurons have the lowest threshold and fire first, generating small force; larger motoneurons fire last and generate large force."
+            ]
+        },
+        "q28": {
+            "type": "short_answer",
+            "prompt": "What is the mechanism of action for the ganglionic blocker hexamethonium?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It is a nicotinic antagonist that blocks the N_2 receptors in autonomic ganglia but not the N_1 receptors at the neuromuscular junction."
+            ]
+        }
+    }
+}

@@ -1,0 +1,1708 @@
+{
+    "info": {
+        "set_name": "Physiology 7",
+        "source": "All"
+    },
+    "questions": {
+        "q1": {
+            "type": "TF",
+            "prompt": "If a red blood cell is placed in a 300 mOsm/L urea solution, it will eventually lyse because urea has a reflection coefficient near zero, making the solution functionally hypotonic.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q2": {
+            "type": "TF",
+            "prompt": "The direct electrogenic activity of the membrane Na^+/K^+ ATPase is responsible for approximately 60% of the negative resting membrane potential in a typical neuron.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q3": {
+            "type": "TF",
+            "prompt": "Primary cilia on renal epithelial cells function as mechanosensors of fluid flow, and their dysfunction is a primary factor in the pathogenesis of polycystic kidney disease.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q4": {
+            "type": "TF",
+            "prompt": "In skeletal muscle, the maximum active tension is generated at a sarcomere length of 2.0 to 2.2 \u03bcm because this represents the point of optimal overlap between thick and thin filaments.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q5": {
+            "type": "TF",
+            "prompt": "In the cross-bridge cycle of skeletal muscle, the \"power stroke\" or force-generation step is directly triggered by the binding of a new ATP molecule to the myosin head.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q6": {
+            "type": "TF",
+            "prompt": "Retrograde axonal transport is the process that moves synaptic vesicles from the neuronal soma toward the axon terminal via the molecular motor kinesin.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q7": {
+            "type": "TF",
+            "prompt": "In the absence of light, retinal photoreceptors remain hyperpolarized due to the closure of cGMP-gated sodium channels.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q8": {
+            "type": "TF",
+            "prompt": "A patient with hyperkalemia develops muscle weakness because a sustained partial depolarization of the cell membrane leads to the inactivation of voltage-gated Na^+ channels.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q9": {
+            "type": "TF",
+            "prompt": "Neuropeptides are synthesized within the cytosol of the presynaptic nerve terminal and are stored in small clear vesicles for rapid release.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q10": {
+            "type": "TF",
+            "prompt": "In the auditory system, the depolarization of hair cells is caused by an influx of K^+ from the endolymph, driven by a positive endocochlear potential of approximately +85 mV.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q11": {
+            "type": "TF",
+            "prompt": "The blood-brain barrier is formed primarily by tight junctions (zona occludens) between the endothelial cells of the cerebral capillaries.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q12": {
+            "type": "TF",
+            "prompt": "Presynaptic inhibition works by increasing the chloride conductance of the presynaptic terminal, which reduces the amplitude of the action potential and the subsequent calcium influx.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q13": {
+            "type": "TF",
+            "prompt": "Cerebrospinal fluid (CSF) contains a glucose concentration that is nearly double that of blood plasma to support the high metabolic rate of the brain.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q14": {
+            "type": "TF",
+            "prompt": "Pulmonary surfactant, secreted by Type II pneumocytes, prevents alveolar collapse at low lung volumes by significantly increasing the surface tension of the fluid lining the alveoli.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q15": {
+            "type": "TF",
+            "prompt": "In a patient with a massive intrapulmonary shunt (e.g., 50%), administering 100% O2 will restore arterial P_(O2) to normal levels by significantly increasing the amount of dissolved oxygen in the blood.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q16": {
+            "type": "TF",
+            "prompt": "Hypoxic pulmonary vasoconstriction (HPV) is a local mechanism that optimizes gas exchange by shunting blood flow away from poorly ventilated alveoli toward well-ventilated areas.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q17": {
+            "type": "TF",
+            "prompt": "Central chemoreceptors in the medulla respond directly to increases in arterial H^+ concentration because protons cross the blood-brain barrier more easily than CO2.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q18": {
+            "type": "TF",
+            "prompt": "In restrictive lung diseases such as pulmonary fibrosis, the FEV_1/FVC ratio is typically significantly decreased (below 0.7) because the increased airway resistance limits flow.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q19": {
+            "type": "TF",
+            "prompt": "According to the law of Laplace, as the radius of a cardiac chamber increases during dilation, the myocardium must generate greater wall tension to produce the same intraventricular pressure.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q20": {
+            "type": "TF",
+            "prompt": "The second heart sound (S2) corresponds with the closure of the semilunar valves at the end of ventricular ejection and the beginning of isovolumetric relaxation.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q21": {
+            "type": "TF",
+            "prompt": "Cardiac glycosides like digitalis increase myocardial contractility by inhibiting the Na^+/K^+ ATPase, which decreases the Na^+ gradient and reduces Ca^(2+) efflux via the Na^+-Ca^(2+) exchanger.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q22": {
+            "type": "TF",
+            "prompt": "In the sinoatrial (SA) node, the phase 4 pacemaker potential is primarily driven by a progressive increase in K^+ conductance and a simultaneous decrease in Na^+ permeability.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q23": {
+            "type": "TF",
+            "prompt": "Total peripheral resistance (TPR) decreases during strenuous exercise because local metabolic vasodilation in active skeletal muscle overrides the sympathetic vasoconstriction occurring in other organs.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q24": {
+            "type": "TF",
+            "prompt": "The macula densa consists of specialized epithelial cells located in the proximal convoluted tubule that monitor the filtered load of sodium and chloride.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q25": {
+            "type": "TF",
+            "prompt": "If the renal clearance of a hypothetical substance is 150 mL/min and the GFR (inulin clearance) is 100 mL/min, the substance must undergo net tubular secretion.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q26": {
+            "type": "TF",
+            "prompt": "Aldosterone increases sodium reabsorption in the collecting duct by stimulating the insertion of epithelial sodium channels (ENaC) into the apical membrane of principal cells.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q27": {
+            "type": "TF",
+            "prompt": "Glomerulotubular balance is an intrarenal mechanism that ensures a constant absolute amount of Na^+ is reabsorbed by the proximal tubule regardless of fluctuations in the filtered load.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q28": {
+            "type": "TF",
+            "prompt": "The thick ascending limb of the loop of Henle is highly permeable to water, allowing for the concentration of tubular fluid as it moves toward the distal tubule.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q29": {
+            "type": "TF",
+            "prompt": "Loop diuretics, such as furosemide, produce their clinical effect by inhibiting the Na^+-Cl^- cotransporter in the early distal convoluted tubule.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q30": {
+            "type": "TF",
+            "prompt": "A selective reduction in efferent arteriolar resistance will cause a simultaneous increase in both the renal blood flow and the glomerular filtration rate.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q31": {
+            "type": "TF",
+            "prompt": "Thiazide diuretics are effective in treating idiopathic hypercalciuria because they increase the reabsorption of Ca^(2+) in the distal tubule.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q32": {
+            "type": "TF",
+            "prompt": "Cholecystokinin (CCK) is the primary hormone responsible for the rhythmic contraction of the gallbladder and the simultaneous relaxation of the sphincter of Oddi during a meal.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q33": {
+            "type": "TF",
+            "prompt": "Micelles are complex lipid packages that are absorbed intact into the intestinal enterocyte and then secreted directly into the portal venous blood.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q34": {
+            "type": "TF",
+            "prompt": "The primary driving force for the secretion of HCl in the stomach is the H^+/K^+ ATPase pump located on the apical membrane of gastric parietal cells.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q35": {
+            "type": "TF",
+            "prompt": "Secondary bile acids are synthesized in the liver from cholesterol and are conjugated with glycine or taurine before being secreted into the bile.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q36": {
+            "type": "TF",
+            "prompt": "Secretin is an endocrine hormone that stimulates the pancreatic acinar cells to secrete a juice rich in digestive enzymes like amylase and lipase.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q37": {
+            "type": "TF",
+            "prompt": "The frequency of electrical slow waves in the gastrointestinal tract is highest in the stomach (3/min) and lowest in the duodenum (12/min).",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q38": {
+            "type": "TF",
+            "prompt": "Conjugation of bilirubin with glucuronic acid in the hepatocyte is necessary to make the molecule water-soluble for effective excretion into the bile.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q39": {
+            "type": "TF",
+            "prompt": "Growth hormone (GH) secretion is characteristically suppressed during deep sleep to conserve energy for the brain.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q40": {
+            "type": "TF",
+            "prompt": "Oxytocin is synthesized in the hypothalamus and transported to the posterior pituitary, where it is released into the blood to stimulate milk ejection from the mammary glands.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q41": {
+            "type": "TF",
+            "prompt": "Parathyroid hormone (PTH) maintains calcium homeostasis by stimulating bone deposition and increasing the renal reabsorption of phosphate.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q42": {
+            "type": "TF",
+            "prompt": "In a genetic male with 5-alpha reductase deficiency, the internal reproductive structures such as the epididymis and vas deferens develop normally because they are dependent on testosterone.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q43": {
+            "type": "TF",
+            "prompt": "The placenta lacks the enzymes necessary to convert progesterone to androgens, making the fetal adrenal glands essential for the production of estriol during pregnancy.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q44": {
+            "type": "TF",
+            "prompt": "Testosterone is synthesized and secreted by the Sertoli cells of the testes under the influence of follicle-stimulating hormone (FSH).",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q45": {
+            "type": "TF",
+            "prompt": "The rise in basal body temperature observed immediately following ovulation is due to the thermogenic effects of increased plasma progesterone.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q46": {
+            "type": "TF",
+            "prompt": "Acclimatization to high altitude involves a renal compensation for respiratory alkalosis that is characterized by an increase in the renal reabsorption of filtered bicarbonate.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q47": {
+            "type": "TF",
+            "prompt": "During the Valsalva maneuver, the initial increase in arterial pressure is caused by the transmission of intrathoracic pressure to the aorta, followed by a fall in pressure due to venous compression.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q48": {
+            "type": "TF",
+            "prompt": "During prolonged starvation, the brain adapts to use ketone bodies, synthesized by the liver from fatty acids, as its major fuel source.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q49": {
+            "type": "TF",
+            "prompt": "A \"right shift\" of the oxyhemoglobin dissociation curve signifies an increase in P_(50) and a decrease in hemoglobin affinity for oxygen, typically caused by acidosis or fever.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q50": {
+            "type": "TF",
+            "prompt": "The Cushing reaction is an integrative response to increased intracranial pressure that involves a massive sympathetic discharge leading to systemic hypertension and reflex bradycardia.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q51": {
+            "type": "TF",
+            "prompt": "The Na^+/K^+ ATPase pump contributes directly to the resting membrane potential primarily through its electrogenic stoichiometry, but its largest role is indirect through the maintenance of the K^+ concentration gradient.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q52": {
+            "type": "TF",
+            "prompt": "Facilitated diffusion of glucose requires metabolic energy in the form of ATP to transport glucose against its concentration gradient.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q53": {
+            "type": "TF",
+            "prompt": "In skeletal muscle, the elastic protein titin anchors the thick filaments to the Z-disk and provides a molecular scaffold for the sarcomere.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q54": {
+            "type": "TF",
+            "prompt": "Skeletal muscle contraction terminates when ATP levels fall sufficiently to allow the myosin heads to detach from actin.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q55": {
+            "type": "TF",
+            "prompt": "Action potentials in the sinoatrial (SA) node do not possess a fast upstroke phase because these cells lack functional voltage-gated Na^+ channels.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q56": {
+            "type": "TF",
+            "prompt": "Retrograde axonal transport, which moves substances toward the cell body, is primarily powered by the molecular motor dynein.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q57": {
+            "type": "TF",
+            "prompt": "Stimulation of the photoreceptor by light leads to a decrease in intracellular cGMP levels, causing Na^+ channels in the outer segment to close and the cell to hyperpolarize.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q58": {
+            "type": "TF",
+            "prompt": "During the absolute refractory period of a cardiac ventricular myocyte, a supramaximal stimulus can trigger a second action potential, provided the T-tubules are fully repolarized.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q59": {
+            "type": "TF",
+            "prompt": "The blood-brain barrier (BBB) is highly permeable to small ions like sodium and protons but relatively impermeable to lipid-soluble gases like carbon dioxide.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q60": {
+            "type": "TF",
+            "prompt": "Alpha-gamma coactivation ensures that the muscle spindle remains \"on-line\" and sensitive to stretch during active muscle shortening.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q61": {
+            "type": "TF",
+            "prompt": "A complete lesion of the left optic nerve will result in a right homonymous hemianopia affecting the temporal field of the right eye and the nasal field of the left eye.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q62": {
+            "type": "TF",
+            "prompt": "In the vestibular system, rotation of the head to the left causes depolarization of the hair cells in the left horizontal semicircular canal due to endolymph movement.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q63": {
+            "type": "TF",
+            "prompt": "Pulmonary surfactant increases the surface tension within the alveoli to assist in the forceful expiration of residual lung volume.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q64": {
+            "type": "TF",
+            "prompt": "In a patient with a pathological intrapulmonary shunt (V/Q = 0), arterial P_(O2) remains significantly low even when 100% supplemental oxygen is administered.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q65": {
+            "type": "TF",
+            "prompt": "The Bohr effect describes the mechanism where an increase in blood pH or a decrease in P_(CO2) shifts the oxyhemoglobin dissociation curve to the right to facilitate oxygen loading in the lungs.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q66": {
+            "type": "TF",
+            "prompt": "Hypoxic pulmonary vasoconstriction (HPV) is a mechanism that redirects blood flow away from underventilated alveoli to optimize ventilation-perfusion matching.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q67": {
+            "type": "TF",
+            "prompt": "The majority of carbon dioxide in the human blood is transported as carbaminohemoglobin bound to the heme portion of the hemoglobin molecule.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q68": {
+            "type": "TF",
+            "prompt": "The first heart sound (S1) is produced by the closure of the atrioventricular (mitral and tricuspid) valves at the beginning of ventricular systole.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q69": {
+            "type": "TF",
+            "prompt": "According to the Frank-Starling law, an increase in end-diastolic volume leads to an increase in stroke volume because the cardiac muscle fibers are stretched to a more optimal length for cross-bridge overlap.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q70": {
+            "type": "TF",
+            "prompt": "Inhibition of the Na^+/K^+ ATPase by cardiac glycosides leads to a decrease in intracellular [Na^+], which enhances the activity of the Na^+-Ca^(2+) exchanger to increase contractility.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q71": {
+            "type": "TF",
+            "prompt": "Total peripheral resistance (TPR) decreases during heavy exercise because local metabolic vasodilation in active skeletal muscle outweighs sympathetic vasoconstriction in other areas.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q72": {
+            "type": "TF",
+            "prompt": "The Law of Laplace predicts that for a given intraventricular pressure, wall tension must decrease as the radius of the ventricle increases during dilation.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q73": {
+            "type": "TF",
+            "prompt": "Renal clearance of inulin is equal to the glomerular filtration rate (GFR) because inulin is freely filtered but neither reabsorbed nor secreted by the renal tubules.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q74": {
+            "type": "TF",
+            "prompt": "The thick ascending limb of the loop of Henle is known as the \"diluting segment\" because it is permeable to solutes but highly impermeable to water.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q75": {
+            "type": "TF",
+            "prompt": "Aldosterone increases potassium secretion by acting on the alpha-intercalated cells of the cortical collecting duct.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q76": {
+            "type": "TF",
+            "prompt": "A selective decrease in efferent arteriolar resistance results in an increase in both the glomerular filtration rate and the filtration fraction.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q77": {
+            "type": "TF",
+            "prompt": "Antidiuretic hormone (ADH) increases the water permeability of the medullary collecting duct by stimulating the insertion of aquaporin-2 channels into the apical membrane.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q78": {
+            "type": "TF",
+            "prompt": "Thiazide diuretics produce their clinical effect by inhibiting the Na^+-K^+-2Cl^- cotransporter in the thick ascending limb of the loop of Henle.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q79": {
+            "type": "TF",
+            "prompt": "In the proximal tubule, the reabsorption of filtered bicarbonate requires the action of the enzyme carbonic anhydrase on the luminal brush border.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q80": {
+            "type": "TF",
+            "prompt": "Gastric parietal cells are the primary source of gastrin, which is released in response to stomach distension.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q81": {
+            "type": "TF",
+            "prompt": "Cholecystokinin (CCK) is the primary endocrine hormone that triggers gallbladder contraction and the relaxation of the sphincter of Oddi.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q82": {
+            "type": "TF",
+            "prompt": "Fat-soluble vitamins (A, D, E, K) are absorbed in the small intestine via simple diffusion after being packaged into micelles with bile salts.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q83": {
+            "type": "TF",
+            "prompt": "The Migrating Motility Complex (MMC) occurs primarily in the fed state to facilitate the rapid transit of a meal through the small intestine.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q84": {
+            "type": "TF",
+            "prompt": "Secondary esophageal peristalsis is a reflex initiated by local distension of the esophagus that can occur independently of the swallowing center in the medulla.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q85": {
+            "type": "TF",
+            "prompt": "Secretory diarrhea caused by the cholera toxin results from the irreversible activation of adenylyl cyclase, leading to high intracellular cAMP and the opening of apical Cl^- channels.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q86": {
+            "type": "TF",
+            "prompt": "Trypsinogen is converted to its active form, trypsin, by the action of the gastric enzyme pepsin.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q87": {
+            "type": "TF",
+            "prompt": "Bilirubin is conjugated with glucuronic acid in the liver to increase its water solubility for excretion into the bile.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q88": {
+            "type": "TF",
+            "prompt": "Growth hormone (GH) increases the rate of glucose uptake in skeletal muscle and adipose tissue to provide energy for tissue growth.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q89": {
+            "type": "TF",
+            "prompt": "The preovulatory surge of luteinizing hormone (LH) is an example of a positive feedback loop triggered by high levels of estrogen from the dominant follicle.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q90": {
+            "type": "TF",
+            "prompt": "Oxytocin is the primary hormone responsible for milk production in the alveolar cells of the mammary gland.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q91": {
+            "type": "TF",
+            "prompt": "In target tissues like the prostate, testosterone is converted into the more potent androgen dihydrotestosterone by the action of the enzyme 5-alpha reductase.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q92": {
+            "type": "TF",
+            "prompt": "Parathyroid hormone (PTH) maintains calcium homeostasis by increasing bone resorption and stimulating the renal reabsorption of phosphate.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q93": {
+            "type": "TF",
+            "prompt": "Human chorionic gonadotropin (hCG) is secreted by the trophoblast to prevent the regression of the corpus luteum during the first trimester of pregnancy.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q94": {
+            "type": "TF",
+            "prompt": "Insufficient levels of 21-beta-hydroxylase lead to a deficiency in cortisol and aldosterone, resulting in an overproduction of adrenal androgens.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q95": {
+            "type": "TF",
+            "prompt": "Insulin secretion from pancreatic beta cells is triggered by the closure of ATP-sensitive potassium channels following glucose metabolism.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q96": {
+            "type": "TF",
+            "prompt": "Acclimatization to high altitude involves renal compensation for respiratory alkalosis, characterized by an increase in the renal excretion of bicarbonate.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q97": {
+            "type": "TF",
+            "prompt": "The Cushing reaction is an integrative response to cerebral ischemia that results in massive sympathetic discharge, causing systemic hypertension and reflex bradycardia.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q98": {
+            "type": "TF",
+            "prompt": "During prolonged exercise, the respiratory exchange ratio (RQ) of the body increases because the skeletal muscles switch to carbohydrate oxidation as glycogen stores are depleted.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q99": {
+            "type": "TF",
+            "prompt": "Stimulation of the baroreceptor reflex following a sudden fall in arterial pressure leads to increased parasympathetic outflow and decreased sympathetic outflow to the heart.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q100": {
+            "type": "TF",
+            "prompt": "In the fetal circulation, the blood with the highest partial pressure of oxygen (P_(O2)) is found in the umbilical vein returning from the placenta.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        }
+    }
+}

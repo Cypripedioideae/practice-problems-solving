@@ -1,0 +1,299 @@
+{
+    "info": {
+        "set_name": "General Virology 4",
+        "description": "",
+        "source": ""
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A 7-year-old child with sickle cell disease presents with a sudden, life-threatening drop in hemoglobin and a low reticulocyte count shortly after experiencing a mild febrile illness. Which virus is the most likely cause of this transient aplastic crisis by infecting and lysing erythroid progenitor cells?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Parvovirus B19"
+                },
+                {
+                    "id": "b",
+                    "label": "Adenovirus"
+                },
+                {
+                    "id": "c",
+                    "label": "Respiratory Syncytial Virus"
+                },
+                {
+                    "id": "d",
+                    "label": "Rotavirus"
+                },
+                {
+                    "id": "e",
+                    "label": "Epstein-Barr Virus"
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "HIV protease inhibitors, such as lopinavir and ritonavir, are essential components of antiretroviral therapy. These drugs function by binding to the catalytic site of the viral protease enzyme, thereby preventing which specific step in the production of infectious virions?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Attachment of the virus to the host CD4 receptor"
+                },
+                {
+                    "id": "b",
+                    "label": "Reverse transcription of genomic RNA into DNA"
+                },
+                {
+                    "id": "c",
+                    "label": "Maturation of the virus via proteolytic cleavage of polyproteins"
+                },
+                {
+                    "id": "d",
+                    "label": "Integration of the viral genome into the host chromosome"
+                },
+                {
+                    "id": "e",
+                    "label": "Uncoating of the viral capsid within the host cytoplasm"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "Individuals who are homozygous for the CCR5-delta 32 mutation exhibit significant natural resistance to infection by common macrophage-tropic strains of HIV. Which specific process of the viral life cycle is fundamentally blocked by this genetic variation?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Production of high-titer neutralizing anti-envelope antibodies"
+                },
+                {
+                    "id": "b",
+                    "label": "Docking and entry mediated by the coreceptor interaction"
+                },
+                {
+                    "id": "c",
+                    "label": "Intracellular degradation of viral genomic RNA"
+                },
+                {
+                    "id": "d",
+                    "label": "Translation of the viral Gag-Pol polyprotein precursor"
+                },
+                {
+                    "id": "e",
+                    "label": "Syncytium formation between infected CD4+ T cells"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "Zika virus is an enveloped flavivirus associated with congenital Zika syndrome and microcephaly in neonates. To establish infection in target cells, such as neural progenitor cells, the virus utilizes which specific cellular receptor for entry?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "CD21"
+                },
+                {
+                    "id": "b",
+                    "label": "ACE2"
+                },
+                {
+                    "id": "c",
+                    "label": "AXL"
+                },
+                {
+                    "id": "d",
+                    "label": "P antigen"
+                },
+                {
+                    "id": "e",
+                    "label": "Nicotinic AChR"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "Favipiravir is an antiviral medication utilized in the treatment of various RNA viruses, including SARS-CoV-2 and certain influenza strains. What is the primary mechanism of action for the active triphosphate form of this drug?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Blockade of viral attachment to the host cell membrane"
+                },
+                {
+                    "id": "b",
+                    "label": "Inhibition of the viral RNA-dependent RNA polymerase (RdRp)"
+                },
+                {
+                    "id": "c",
+                    "label": "Interference with the host cell's ribosomal protein synthesis"
+                },
+                {
+                    "id": "d",
+                    "label": "Prevention of mature virion release from the cell surface"
+                },
+                {
+                    "id": "e",
+                    "label": "Competitive inhibition of the viral integrase enzyme"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "A 19-year-old patient presents with painful vesicular lesions on the genitalia. A Tzanck smear prepared from the lesion reveals the presence of multinucleated giant cells. This microscopic finding confirms an infection by a member of which viral family?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Adenoviridae"
+                },
+                {
+                    "id": "b",
+                    "label": "Herpesviridae"
+                },
+                {
+                    "id": "c",
+                    "label": "Picornaviridae"
+                },
+                {
+                    "id": "d",
+                    "label": "Papillomaviridae"
+                },
+                {
+                    "id": "e",
+                    "label": "Hepadnaviridae"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "In the replication cycle of HIV, the viral enzyme integrase is responsible for a critical step following the synthesis of double-stranded DNA. What is the primary function of this enzyme?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Cleaving large viral polyproteins into functional subunits"
+                },
+                {
+                    "id": "b",
+                    "label": "Synthesizing a DNA copy from the viral RNA template"
+                },
+                {
+                    "id": "c",
+                    "label": "Inserting the linear viral DNA into the host cell chromosome"
+                },
+                {
+                    "id": "d",
+                    "label": "Promoting the budding of new viral particles from the membrane"
+                },
+                {
+                    "id": "e",
+                    "label": "Facilitating the uncoating of the viral core in the cytoplasm"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "The process of \"reassortment,\" which can lead to major antigenic shifts and global pandemics, occurs when two different viral strains infect the same cell and exchange genetic material. This process is possible only in viruses that possess which of the following genomic features?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "A double-stranded DNA genome"
+                },
+                {
+                    "id": "b",
+                    "label": "A segmented RNA genome"
+                },
+                {
+                    "id": "c",
+                    "label": "A circular DNA genome"
+                },
+                {
+                    "id": "d",
+                    "label": "A positive-sense single-stranded RNA genome"
+                },
+                {
+                    "id": "e",
+                    "label": "A diploid DNA genome"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "Palivizumab is a monoclonal antibody used for prophylaxis in premature infants to prevent severe lower respiratory tract disease. This medication acts by targeting which specific surface protein of the Respiratory Syncytial Virus (RSV)?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "M2 protein"
+                },
+                {
+                    "id": "b",
+                    "label": "Neuraminidase"
+                },
+                {
+                    "id": "c",
+                    "label": "Fusion (F) protein"
+                },
+                {
+                    "id": "d",
+                    "label": "Hemagglutinin"
+                },
+                {
+                    "id": "e",
+                    "label": "RNA-dependent RNA polymerase"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "In a laboratory experiment, a cell is simultaneously infected with Virus A and Virus B. During the assembly phase, the genome of Virus A is packaged within a protein coat (capsid/envelope) derived entirely from Virus B. What determines the tropism (the ability to infect a specific cell type) of this resulting hybrid progeny?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The genetic material derived from Virus A"
+                },
+                {
+                    "id": "b",
+                    "label": "The protein coat derived from Virus B"
+                },
+                {
+                    "id": "c",
+                    "label": "Reassortment of genomic segments between both viruses"
+                },
+                {
+                    "id": "d",
+                    "label": "Host cell-derived tRNA molecules"
+                },
+                {
+                    "id": "e",
+                    "label": "The site of viral replication in the cytoplasm"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        }
+    }
+}

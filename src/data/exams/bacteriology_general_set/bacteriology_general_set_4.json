@@ -1,0 +1,413 @@
+{
+  "info": {
+    "set_name": "General Bacteriology 4",
+    "source": "-"
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "A 22-year-old female presents with symptoms of a urinary tract infection. Laboratory cultures of the urine grow Gram-positive cocci in clusters that are catalase-positive and coagulase-negative. Which organism is the most likely causative agent?",
+      "options": [
+        {
+          "id": "a",
+          "label": "*Enterococcus faecalis*"
+        },
+        {
+          "id": "b",
+          "label": "*Streptococcus agalactiae*"
+        },
+        {
+          "id": "c",
+          "label": "*Staphylococcus epidermidis*"
+        },
+        {
+          "id": "d",
+          "label": "*Staphylococcus saprophyticus*"
+        },
+        {
+          "id": "e",
+          "label": "*Staphylococcus aureus*"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q2": {
+      "type": "mcq",
+      "prompt": "A throat swab from a patient with a suspected pharyngeal infection grows an organism that produces a potent exotoxin. According to the source material, what is the molecular mechanism of the toxin produced by *Corynebacterium diphtheriae*?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Inactivation of Elongation Factor-2 (EF-2)"
+        },
+        {
+          "id": "b",
+          "label": "Disruption of epidermal desmosomes"
+        },
+        {
+          "id": "c",
+          "label": "Activation of adenylate cyclase"
+        },
+        {
+          "id": "d",
+          "label": "Cleavage of sIgA1 antibodies"
+        },
+        {
+          "id": "e",
+          "label": "Inactivation of 60S ribosomal subunits"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q3": {
+      "type": "mcq",
+      "prompt": "A patient presents with meningitis and permanent hearing loss after consuming a traditional dish containing raw pig blood. The laboratory isolates a Group R streptococcus. Which of the following is a laboratory characteristic of the most likely causative agent?",
+      "options": [
+        {
+          "id": "a",
+          "label": "\u03b2-hemolysis"
+        },
+        {
+          "id": "b",
+          "label": "Quellung reaction positive"
+        },
+        {
+          "id": "c",
+          "label": "Catalase positive"
+        },
+        {
+          "id": "d",
+          "label": "\u03b1-hemolysis"
+        },
+        {
+          "id": "e",
+          "label": "\u03b3-hemolysis"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q4": {
+      "type": "mcq",
+      "prompt": "A 10-year-old child develops acute glomerulonephritis (AGN) three weeks after a suppurative skin infection. Which laboratory test is a serological marker to aid in the diagnosis of a prior Group A Streptococci infection?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Urease breath test"
+        },
+        {
+          "id": "b",
+          "label": "Optochin sensitivity test"
+        },
+        {
+          "id": "c",
+          "label": "CAMP test"
+        },
+        {
+          "id": "d",
+          "label": "Bile solubility test"
+        },
+        {
+          "id": "e",
+          "label": "Anti-DNase B titer"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q5": {
+      "type": "mcq",
+      "prompt": "A clinician suspects a *Neisseria gonorrhoeae* infection in a patient and collects a rectal specimen for culture. Which specialized medium is used to selectively isolate this fastidious pathogen while inhibiting the overgrowth of normal microbiota?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Buffered charcoal yeast extract (BCYE) agar"
+        },
+        {
+          "id": "b",
+          "label": "Tellurite blood agar"
+        },
+        {
+          "id": "c",
+          "label": "Hektoen enteric agar"
+        },
+        {
+          "id": "d",
+          "label": "Modified Thayer-Martin agar"
+        },
+        {
+          "id": "e",
+          "label": "MacConkey agar"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q6": {
+      "type": "mcq",
+      "prompt": "A 3-year-old boy presents with fever and ear pain. Examination shows a bulging, erythematous tympanic membrane. A Gram stain of the middle ear aspirate reveals small Gram-negative coccobacilli. Which of the following pairs of factors must be present in the culture medium to support the growth of this organism?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Factor X and Factor V"
+        },
+        {
+          "id": "b",
+          "label": "Bile salts and Crystal violet"
+        },
+        {
+          "id": "c",
+          "label": "Alginate and Lipid A"
+        },
+        {
+          "id": "d",
+          "label": "Factor VII and Factor VIII"
+        },
+        {
+          "id": "e",
+          "label": "Factor III and Factor V"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "A neutropenic patient with a high fever develops necrotic skin lesions with a black center, identified as ecthyma gangrenosum. Laboratory cultures yield Gram-negative slim bacilli that produce blue-green pigments and a characteristic grape-like odor. Which pathogen is most likely responsible?",
+      "options": [
+        {
+          "id": "a",
+          "label": "*Burkholderia pseudomallei*"
+        },
+        {
+          "id": "b",
+          "label": "*Pseudomonas aeruginosa*"
+        },
+        {
+          "id": "c",
+          "label": "*Acinetobacter baumannii*"
+        },
+        {
+          "id": "d",
+          "label": "*Stenotrophomonas maltophilia*"
+        },
+        {
+          "id": "e",
+          "label": "*Klebsiella pneumoniae*"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q8": {
+      "type": "mcq",
+      "prompt": "A patient presents with a painless skin lesion that has progressed into a black eschar. A Gram stain of the site reveals large Gram-positive bacilli arranged in chains. Which structural component is identified in the source material as a defensive virulence factor for this pathogen?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Pyocyanin pigment"
+        },
+        {
+          "id": "b",
+          "label": "Toxin A and Toxin B"
+        },
+        {
+          "id": "c",
+          "label": "ActA protein"
+        },
+        {
+          "id": "d",
+          "label": "Type III secretion system (T3SS)"
+        },
+        {
+          "id": "e",
+          "label": "Capsule"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q9": {
+      "type": "mcq",
+      "prompt": "A 44-year-old male presents to the emergency department complaining of double vision and difficulty swallowing that began suddenly this morning. He also notes a heavy feeling in his shoulders and arms that seems to be worsening. His history is significant for consuming several jars of home-canned green beans over the last 48 hours. Which of the following is the specific molecular mechanism of the toxin responsible for this patient's clinical presentation?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Autoimmune-mediated demyelination of peripheral motor axons"
+        },
+        {
+          "id": "b",
+          "label": "Cytolytic destruction of the lower motor neurons in the anterior horn of the spinal cord"
+        },
+        {
+          "id": "c",
+          "label": "Cleavage of terminal neuronal docking proteins preventing the exocytosis of acetylcholine"
+        },
+        {
+          "id": "d",
+          "label": "Autoantibody-mediated degradation of nicotinic acetylcholine receptors at the motor endplate"
+        },
+        {
+          "id": "e",
+          "label": "Inhibition of presynaptic voltage-gated calcium channels to prevent the initiation of vesicle fusion"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q10": {
+      "type": "mcq",
+      "prompt": "A 28-year-old pregnant woman in her third trimester presents with a mild febrile illness and headache. A blood culture is performed, and the isolated pathogen is found to be a catalase-positive microbe that exhibits a characteristic end-over-end tumbling motility when grown in broth at room temperature. Which of the following characteristics belongs to this pathogen?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Obligate intracellular replication in vacuoles"
+        },
+        {
+          "id": "b",
+          "label": "Presence of a poly-D-glutamic acid capsule"
+        },
+        {
+          "id": "c",
+          "label": "Secretion of a heat-stable enterotoxin"
+        },
+        {
+          "id": "d",
+          "label": "Requirement for Factor X and V"
+        },
+        {
+          "id": "e",
+          "label": "Ability to grow at 4°C"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q11": {
+      "type": "mcq",
+      "prompt": "A 45-year-old male presents with a chronic cough, night sweats, and significant weight loss. Sputum microscopy reveals acid-fast beaded bacilli, and culture on Löwenstein-Jensen agar confirms the diagnosis. Which of the following mechanisms is primarily responsible for the ability of this pathogen to establish a persistent infection within alveolar macrophages?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Prevention of the fusion of the phagosome with lysosomes"
+        },
+        {
+          "id": "b",
+          "label": "Rapid escape from the phagocytic vacuole into the host cytoplasm"
+        },
+        {
+          "id": "c",
+          "label": "Production of a polypeptide capsule to inhibit phagocytosis"
+        },
+        {
+          "id": "d",
+          "label": "Cleavage of secretory immunoglobulin A (IgA) by extracellular proteases"
+        },
+        {
+          "id": "e",
+          "label": "Induction of host cell lysis through the secretion of exotoxin A"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q12": {
+      "type": "mcq",
+      "prompt": "A 35-year-old farmer in a flooded area presents with high fever, a skin rash, and jaundice. The causative agent is a highly motile spirochete. What is the primary animal reservoir for this zoonotic pathogen?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Poultry"
+        },
+        {
+          "id": "b",
+          "label": "Cattle"
+        },
+        {
+          "id": "c",
+          "label": "Sheep"
+        },
+        {
+          "id": "d",
+          "label": "Pigs"
+        },
+        {
+          "id": "e",
+          "label": "Rodents"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q13": {
+      "type": "mcq",
+      "prompt": "A patient is diagnosed with a urinary tract infection. The laboratory isolates *Proteus mirabilis*, a Gram-negative bacillus that is oxidase negative and a lactose non-fermenter. Which enzyme is an important offensive virulence factor of this organism?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Catalase"
+        },
+        {
+          "id": "b",
+          "label": "Lecithinase"
+        },
+        {
+          "id": "c",
+          "label": "Urease"
+        },
+        {
+          "id": "d",
+          "label": "Coagulase"
+        },
+        {
+          "id": "e",
+          "label": "Hyaluronidase"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q14": {
+      "type": "mcq",
+      "prompt": "A 60-year-old patient who has been hospitalized in the intensive care unit for 12 days develops ventilator-associated pneumonia. Laboratory testing of the respiratory secretions reveals Gram-negative coccobacilli that are oxidase-negative. Which of the following unique characteristics is most likely associated with this causative agent?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Ability to grow at 44\u00b0C"
+        },
+        {
+          "id": "b",
+          "label": "Production of a grape-like odor"
+        },
+        {
+          "id": "c",
+          "label": "Requirement for cysteine and iron for growth"
+        },
+        {
+          "id": "d",
+          "label": "Presence of a thick hyaluronic acid capsule"
+        },
+        {
+          "id": "e",
+          "label": "Rapid fermentation of lactose on MacConkey agar"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q15": {
+      "type": "mcq",
+      "prompt": "A 22-year-old college student presents with a 2-week history of insidious headache, low-grade fever, and a persistent nonproductive cough. Laboratory results confirm the presence of high titers of IgM cold agglutinins and signs of autoimmune hemolytic anemia. Which pathogen is most likely responsible for this clinical presentation?",
+      "options": [
+        {
+          "id": "a",
+          "label": "*Streptococcus pneumoniae*"
+        },
+        {
+          "id": "b",
+          "label": "*Mycoplasma pneumoniae*"
+        },
+        {
+          "id": "c",
+          "label": "*Chlamydophila pneumoniae*"
+        },
+        {
+          "id": "d",
+          "label": "*Legionella pneumophila*"
+        },
+        {
+          "id": "e",
+          "label": "*Klebsiella pneumoniae*"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  }
+}

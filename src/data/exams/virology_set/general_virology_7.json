@@ -1,0 +1,279 @@
+{
+  "info": {
+    "set_name": "General Virology 7",
+    "description": "",
+    "source": ""
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "While most DNA viruses replicate their genomes within the host cell nucleus, one family of large, complex DNA viruses is unique because its members replicate entirely within the host cell cytoplasm. Which of the following is an example of such a virus?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Herpesviridae"
+        },
+        {
+          "id": "b",
+          "label": "Adenoviridae"
+        },
+        {
+          "id": "c",
+          "label": "Papillomaviridae"
+        },
+        {
+          "id": "d",
+          "label": "Poxviridae"
+        },
+        {
+          "id": "e",
+          "label": "Hepadnaviridae"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q2": {
+      "type": "mcq",
+      "prompt": "Naked capsid viruses, such as Norovirus and Hepatitis A virus, are commonly transmitted via the fecal-oral route. Which structural property of these viruses primarily allows them to survive transit through the stomach and remain infectious despite exposure to detergents and acidic pH?",
+      "options": [
+        {
+          "id": "a",
+          "label": "A lipid-rich lipoprotein envelope derived from host membranes"
+        },
+        {
+          "id": "b",
+          "label": "A complex, pleomorphic outer coat with attachment fiber proteins"
+        },
+        {
+          "id": "c",
+          "label": "A stable, proteinaceous icosahedral capsid"
+        },
+        {
+          "id": "d",
+          "label": "A helical nucleocapsid symmetry that resists environmental drying"
+        },
+        {
+          "id": "e",
+          "label": "The presence of a dense, protein-rich tegument layer"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q3": {
+      "type": "mcq",
+      "prompt": "A laboratory is using electron microscopy to identify a virus isolated from a patient who died of a progressive neurological infection following a bat bite. The virions are observed to have a highly characteristic morphology associated with the Rhabdoviridae family. How are these virions described?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Brick-shaped with complex internal filaments"
+        },
+        {
+          "id": "b",
+          "label": "Long, filamentous threads with a hooked end"
+        },
+        {
+          "id": "c",
+          "label": "Icosahedral with wheel-like spokes on the capsid"
+        },
+        {
+          "id": "d",
+          "label": "Bullet-shaped with a helical nucleocapsid"
+        },
+        {
+          "id": "e",
+          "label": "Pleomorphic and spherical with large surface spikes"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q4": {
+      "type": "mcq",
+      "prompt": "Influenza A viruses utilize specific surface glycoproteins to facilitate their replication cycle. Which specific role is performed by the Hemagglutinin (HA) protein during the initial stages of infection?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Cleavage of sialic acid residues to allow the release of progeny virions"
+        },
+        {
+          "id": "b",
+          "label": "Formation of a transmembrane proton channel for genomic uncoating"
+        },
+        {
+          "id": "c",
+          "label": "Binding to cell-surface sialic acid receptors to facilitate viral attachment"
+        },
+        {
+          "id": "d",
+          "label": "Synthesis of a positive-strand mRNA template from the negative-strand genome"
+        },
+        {
+          "id": "e",
+          "label": "Proteolytic cleavage of the viral polyprotein precursor"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q5": {
+      "type": "mcq",
+      "prompt": "Hepatitis B virus (HBV) is classified as a \"dsDNA RT\" virus because its replication strategy differs significantly from most other DNA viruses. Which specific enzymatic process is utilized by HBV to produce its progeny DNA genome?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Utilization of host cell DNA polymerase for semi-conservative replication"
+        },
+        {
+          "id": "b",
+          "label": "Direct translation of the DNA genome by host cell ribosomes in the cytoplasm"
+        },
+        {
+          "id": "c",
+          "label": "Use of reverse transcriptase to synthesize DNA from an RNA intermediate"
+        },
+        {
+          "id": "d",
+          "label": "Integration of the circular double-stranded DNA genome into host mitochondria"
+        },
+        {
+          "id": "e",
+          "label": "Semiconservative replication occurring solely within the host cytoplasm"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q6": {
+      "type": "mcq",
+      "prompt": "Rotavirus is a major cause of severe infantile gastroenteritis worldwide. Its genome has a specific structure that permits the exchange of genetic material between different strains (reassortment), potentially leading to significant antigenic variation. How is the Rotavirus genome structured?",
+      "options": [
+        {
+          "id": "a",
+          "label": "A single-stranded, nonsegmented positive-sense RNA genome"
+        },
+        {
+          "id": "b",
+          "label": "A double-stranded, segmented RNA genome"
+        },
+        {
+          "id": "c",
+          "label": "A partially double-stranded circular DNA genome"
+        },
+        {
+          "id": "d",
+          "label": "A single-stranded, linear DNA genome"
+        },
+        {
+          "id": "e",
+          "label": "A diploid positive-sense RNA genome"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "A 19-year-old student presents with fever, pharyngitis, and cervical lymphadenopathy. The clinician suspects infectious mononucleosis caused by the Epstein-Barr Virus (EBV). Which laboratory test is specifically used to detect the heterophile antibodies associated with this acute infection?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Tzanck smear for multinucleated giant cells"
+        },
+        {
+          "id": "b",
+          "label": "Monospot test"
+        },
+        {
+          "id": "c",
+          "label": "Quellung reaction for capsular swelling"
+        },
+        {
+          "id": "d",
+          "label": "Southern blot for viral integration sites"
+        },
+        {
+          "id": "e",
+          "label": "Darkfield microscopy for spiral organisms"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q8": {
+      "type": "mcq",
+      "prompt": "Cytomegalovirus (CMV) is a significant cause of congenital infection when primary infection occurs during pregnancy. Which of the following clinical findings is part of the classic presentation of a neonate with symptomatic congenital CMV infection?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Aplastic crisis in the setting of chronic hemolytic anemia"
+        },
+        {
+          "id": "b",
+          "label": "Barking cough and inspiratory stridor due to subglottic swelling"
+        },
+        {
+          "id": "c",
+          "label": "Microcephaly, sensorineural deafness, and a \"blueberry muffin\" rash"
+        },
+        {
+          "id": "d",
+          "label": "High fever followed by the sudden appearance of a maculopapular truncal rash"
+        },
+        {
+          "id": "e",
+          "label": "Acute hemorrhagic cystitis and epidemic keratoconjunctivitis"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q9": {
+      "type": "mcq",
+      "prompt": "The Rabies virus enters the host via an animal bite and must gain entry into peripheral neurons to travel to the central nervous system. Which host cell receptor is utilized by the virus to initiate this entry process?",
+      "options": [
+        {
+          "id": "a",
+          "label": "CD4 glycoprotein on helper T cells"
+        },
+        {
+          "id": "b",
+          "label": "Intercellular adhesion molecule-1 (ICAM-1)"
+        },
+        {
+          "id": "c",
+          "label": "Nicotinic acetylcholine receptor"
+        },
+        {
+          "id": "d",
+          "label": "P antigen (globoside) on erythroid precursors"
+        },
+        {
+          "id": "e",
+          "label": "ACE2 receptor on respiratory epithelial cells"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q10": {
+      "type": "mcq",
+      "prompt": "A patient's Hepatitis B serology panel shows the following results: Negative HBsAg, negative anti-HBs, and positive IgM anti-HBc. These results are characteristic of which clinical stage of Hepatitis B infection?",
+      "options": [
+        {
+          "id": "a",
+          "label": "The \"window period\" of an acute infection"
+        },
+        {
+          "id": "b",
+          "label": "Early acute infection with high levels of viral replication"
+        },
+        {
+          "id": "c",
+          "label": "Immunity resulting from a successful vaccination series"
+        },
+        {
+          "id": "d",
+          "label": "Chronic carrier state with low infectivity"
+        },
+        {
+          "id": "e",
+          "label": "Complete recovery and immunity following a prior natural infection"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    }
+  }
+}

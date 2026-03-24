@@ -1,0 +1,298 @@
+{
+    "info": {
+        "set_name": "Renal Comprehensive Set 2: Tubular Function (MCQ)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A patient with poorly controlled type I diabetes mellitus presents to the clinic. Her glomerular filtration rate (GFR) is 125 mL/min, her plasma glucose concentration is 300 mg/dL, and her urine flow rate is 2 mL/min. If her renal transport maximum (Tm) for glucose is 250 mg/min, what is the calculated rate of glucose excretion?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "0 mg/min"
+                },
+                {
+                    "id": "b",
+                    "label": "125 mg/min"
+                },
+                {
+                    "id": "c",
+                    "label": "250 mg/min"
+                },
+                {
+                    "id": "d",
+                    "label": "375 mg/min"
+                },
+                {
+                    "id": "e",
+                    "label": "500 mg/min"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "During a micropuncture study on a healthy volunteer, a researcher samples tubular fluid from the end of the proximal convoluted tubule. Laboratory analysis reveals that the concentration of inulin in the tubular fluid is 4.0 mg/mL, while the plasma inulin concentration is 1.0 mg/mL. Based on these findings, what percentage of the filtered water remains in the tubule at this point?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "12.5%"
+                },
+                {
+                    "id": "b",
+                    "label": "25%"
+                },
+                {
+                    "id": "c",
+                    "label": "50%"
+                },
+                {
+                    "id": "d",
+                    "label": "75%"
+                },
+                {
+                    "id": "e",
+                    "label": "100%"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "In an experimental model, a researcher applies a pharmacological agent that specifically inhibits the basolateral Na^+/K^+-ATPase within the proximal tubule. Which of the following changes in the tubular fluid-to-plasma concentration ratio ([TF/P]) for glucose would most likely be observed?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "[TF/P] for glucose decreases below 0.1"
+                },
+                {
+                    "id": "b",
+                    "label": "[TF/P] for glucose increases above 2.0"
+                },
+                {
+                    "id": "c",
+                    "label": "[TF/P] for glucose increases toward 1.0"
+                },
+                {
+                    "id": "d",
+                    "label": "[TF/P] for glucose is unaffected by Na^+ levels"
+                },
+                {
+                    "id": "e",
+                    "label": "[TF/P] for glucose becomes negative"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "A patient experiences an acute physiological change that causes their filtration fraction to increase from 0.20 to 0.30. According to the principles of peritubular Starling forces and glomerulotubular balance, how will this change affect isosmotic reabsorption in the proximal tubule?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Decreased reabsorption due to lower peritubular hydrostatic pressure"
+                },
+                {
+                    "id": "b",
+                    "label": "Decreased reabsorption due to lower peritubular oncotic pressure"
+                },
+                {
+                    "id": "c",
+                    "label": "No change in reabsorption as glomerulotubular balance is an intrinsic cellular mechanism"
+                },
+                {
+                    "id": "d",
+                    "label": "Increased reabsorption due to higher peritubular oncotic pressure"
+                },
+                {
+                    "id": "e",
+                    "label": "Increased reabsorption due to higher peritubular hydrostatic pressure"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "A new experimental drug, \"Substance X,\" is studied for its renal handling. The plasma concentration of X is 2 mg/dL, the urine concentration is 100 mg/dL, and the urine flow rate is 2 mL/min. If the simultaneously measured GFR is 100 mL/min, which of the following statements regarding the renal handling of Substance X is correct?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Substance X is net secreted by the renal tubules"
+                },
+                {
+                    "id": "b",
+                    "label": "Substance X is net reabsorbed by the renal tubules"
+                },
+                {
+                    "id": "c",
+                    "label": "Substance X is poorly filtered due to its molecular size"
+                },
+                {
+                    "id": "d",
+                    "label": "Substance X undergoes 50% reabsorption in the proximal tubule"
+                },
+                {
+                    "id": "e",
+                    "label": "Substance X is a glomerular marker (filtered, but not reabsorbed or secreted)"
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "A 24-year-old man is brought to the emergency department following an overdose of aspirin (salicylic acid), which is a weak organic acid. To accelerate the renal excretion of the drug, the physician administers an intravenous infusion of sodium bicarbonate to alkalinize the urine. Which of the following best explains the efficacy of this treatment?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Clearance decreases because the ionized form back-diffuses into the blood"
+                },
+                {
+                    "id": "b",
+                    "label": "Clearance decreases because the non-ionized form back-diffuses into the blood"
+                },
+                {
+                    "id": "c",
+                    "label": "Clearance increases because the non-ionized form is trapped in the lumen"
+                },
+                {
+                    "id": "d",
+                    "label": "Clearance increases because the ionized form is trapped in the lumen"
+                },
+                {
+                    "id": "e",
+                    "label": "Clearance is unaffected by urinary pH since aspirin is actively reabsorbed"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "Laboratory analysis of tubular fluid from a experimental subject shows that the double ratio of a solute \"Z\" ([TF/P]_Z/[TF/P]_inulin) at the end of the proximal tubule is 0.3. Which of the following interpretations is correct?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "30% of the filtered load of Z has been reabsorbed"
+                },
+                {
+                    "id": "b",
+                    "label": "70% of the filtered load of Z has been reabsorbed"
+                },
+                {
+                    "id": "c",
+                    "label": "The concentration of Z is 3 times the plasma concentration at this point"
+                },
+                {
+                    "id": "d",
+                    "label": "Solute Z is a glomerular marker like inulin"
+                },
+                {
+                    "id": "e",
+                    "label": "Water reabsorption has exceeded the reabsorption of solute Z"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "Following a high-protein meal, there is a significant increase in the filtered load of amino acids. Which of the following mechanisms in the proximal tubule accounts for the subsequent dilation of the afferent arteriole and increase in GFR?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Decreased Na^+/H^+ exchange in the early proximal tubule"
+                },
+                {
+                    "id": "b",
+                    "label": "Increased parathyroid hormone (PTH) release in response to amino acids"
+                },
+                {
+                    "id": "c",
+                    "label": "Increased Na^+-amino acid cotransport reduces NaCl delivery to the macula densa"
+                },
+                {
+                    "id": "d",
+                    "label": "Dilation of the efferent arteriole via direct sympathetic inhibition"
+                },
+                {
+                    "id": "e",
+                    "label": "Inhibition of the Na^+/K^+-ATPase by high intracellular amino acid levels"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "To determine the true renal plasma flow (RPF) in a patient using the Fick principle, a clinician obtains the following steady-state values for para-aminohippuric acid (PAH): renal arterial [PAH] = 10 mg/L, renal venous [PAH] = 1 mg/L, urine [PAH] = 450 mg/L, and urine flow rate = 2 mL/min. What is the patient's calculated RPF?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "45 mL/min"
+                },
+                {
+                    "id": "b",
+                    "label": "50 mL/min"
+                },
+                {
+                    "id": "c",
+                    "label": "90 mL/min"
+                },
+                {
+                    "id": "d",
+                    "label": "100 mL/min"
+                },
+                {
+                    "id": "e",
+                    "label": "450 mL/min"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "A mutation in the gene encoding the sodium-glucose linked transporter (SGLT) in the proximal tubule results in a decreased binding affinity for glucose. Which of the following changes to the glucose titration curve would be expected in this individual?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The threshold would increase and the splay would decrease"
+                },
+                {
+                    "id": "b",
+                    "label": "The Tm would increase significantly to compensate for the defect"
+                },
+                {
+                    "id": "c",
+                    "label": "The threshold would remain unchanged but the Tm  would decrease"
+                },
+                {
+                    "id": "d",
+                    "label": "The threshold would decrease but splay would disappear entirely"
+                },
+                {
+                    "id": "e",
+                    "label": "The splay would increase, causing the renal threshold to decrease"
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        }
+    }
+}

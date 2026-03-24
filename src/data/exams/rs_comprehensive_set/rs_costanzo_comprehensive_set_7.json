@@ -1,0 +1,203 @@
+{
+    "info": {
+        "set_name": "Comprehensive Respiratory Set 1: Control of Breathing  (Short Answer)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "short_answer",
+            "prompt": "Where in the brainstem is the basic rhythm for breathing generated, and which specific group of neurons is responsible for inspiration?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The medulla (specifically the dorsal respiratory group/pre-B\u00f6tzinger complex)."
+            ]
+        },
+        "q2": {
+            "type": "short_answer",
+            "prompt": "Which cranial nerve transmits motor output from the dorsal respiratory group to the primary muscle of inspiration?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The phrenic nerve."
+            ]
+        },
+        "q3": {
+            "type": "short_answer",
+            "prompt": "During normal, quiet breathing, what is the activity state of the ventral respiratory group (VRG)?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It is inactive (expiration is passive at rest)."
+            ]
+        },
+        "q4": {
+            "type": "short_answer",
+            "prompt": "What is the specific physiological function of the pneumotaxic center regarding the duration of inspiration?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It inhibits inspiration, thereby limiting tidal volume and regulating the respiratory rate."
+            ]
+        },
+        "q5": {
+            "type": "short_answer",
+            "prompt": "Describe the breathing pattern known as \"apneusis\" and identify the lower pontine center associated with its development.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Apneusis consists of prolonged inspiratory gasps; it is associated with the apneustic center."
+            ]
+        },
+        "q6": {
+            "type": "short_answer",
+            "prompt": "By what anatomical pathway can the cerebral cortex override the involuntary respiratory centers to allow for voluntary breath-holding?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The corticospinal tract."
+            ]
+        },
+        "q7": {
+            "type": "short_answer",
+            "prompt": "Central chemoreceptors are primarily sensitive to the concentration of which ion in the cerebrospinal fluid (CSF)?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Hydrogen ions (H^+)."
+            ]
+        },
+        "q8": {
+            "type": "short_answer",
+            "prompt": "Why are central chemoreceptors unresponsive to a primary metabolic acidosis (increased arterial [H^+ ]) despite the sensitivity of the brainstem to protons?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Because H^+does not readily cross the blood-brain barrier, unlike CO2."
+            ]
+        },
+        "q9": {
+            "type": "short_answer",
+            "prompt": "At what threshold of arterial P_(O2)  do the peripheral chemoreceptors begin to linearly increase the breathing rate?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "When P_(O2)falls below 60 mmHg."
+            ]
+        },
+        "q10": {
+            "type": "short_answer",
+            "prompt": "Which specific peripheral chemoreceptor location is capable of detecting changes in arterial pH independent of P_(CO2) ?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The carotid bodies."
+            ]
+        },
+        "q11": {
+            "type": "short_answer",
+            "prompt": "What is the Hering-Breuer reflex, and which specific receptors in the airways mediate this response?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It is a reflex decrease in breathing frequency (prolonged expiration) caused by lung distension, mediated by lung stretch receptors."
+            ]
+        },
+        "q12": {
+            "type": "short_answer",
+            "prompt": "Where are juxtacapillary (J) receptors located, and what clinical condition (such as left heart failure) typically activates them?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "They are in the alveolar walls; they are activated by pulmonary capillary engorgement or interstitial fluid increase."
+            ]
+        },
+        "q13": {
+            "type": "short_answer",
+            "prompt": "Which receptors are responsible for the immediate, anticipatory increase in ventilation observed at the very onset of physical exercise?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Joint and muscle mechanoreceptors."
+            ]
+        },
+        "q14": {
+            "type": "short_answer",
+            "prompt": "How does the presence of hypercapnia affect the sensitivity of peripheral chemoreceptors to a decrease in P_(O2) ?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Hypercapnia increases/potentiates the sensitivity of the receptors to hypoxia."
+            ]
+        },
+        "q15": {
+            "type": "short_answer",
+            "prompt": "What is the reflexive response produced when irritant receptors in the airway epithelium are stimulated by dust or pollen?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Bronchoconstriction, coughing, or sneezing."
+            ]
+        }
+    }
+}

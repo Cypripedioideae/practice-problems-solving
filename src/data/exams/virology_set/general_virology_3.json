@@ -1,0 +1,299 @@
+{
+    "info": {
+        "set_name": "General Virology 3",
+        "description": "",
+        "source": ""
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A 45-year-old HIV-positive patient is failing his initial antiretroviral therapy regimen, which includes a non-nucleoside reverse transcriptase inhibitor (NNRTI). Genotypic testing reveals a Y181C mutation in the viral reverse transcriptase gene. Which mechanism of resistance does this specific mutation represent?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increase in phosphorolytic removal of the drug from the DNA chain"
+                },
+                {
+                    "id": "b",
+                    "label": "Enhanced discrimination of natural substrates over the drug"
+                },
+                {
+                    "id": "c",
+                    "label": "Decreased binding affinity of the drug to the reverse transcriptase enzyme"
+                },
+                {
+                    "id": "d",
+                    "label": "Alteration of the viral envelope pore size to prevent drug entry"
+                },
+                {
+                    "id": "e",
+                    "label": "Upregulation of host cell efflux pumps"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "During the replication cycle of SARS-CoV-2, the viral spike (S) protein must be cleaved by a protease to facilitate viral attachment and entry into the target cell. Which host cell enzyme is primarily responsible for this specific cleavage step at the cell membrane?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Neuraminidase"
+                },
+                {
+                    "id": "b",
+                    "label": "TMPRSS2"
+                },
+                {
+                    "id": "c",
+                    "label": "DNA polymerase"
+                },
+                {
+                    "id": "d",
+                    "label": "Reverse transcriptase"
+                },
+                {
+                    "id": "e",
+                    "label": "NS3/NS4A protease"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "A 28-year-old male is diagnosed with both chronic Hepatitis B and HIV infection. To simplify his treatment, the clinician considers an antiviral agent that is active against both viruses. Which of the following drugs is appropriate for treating both chronic HBV and HIV?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Efavirenz"
+                },
+                {
+                    "id": "b",
+                    "label": "Atazanavir"
+                },
+                {
+                    "id": "c",
+                    "label": "Lamivudine"
+                },
+                {
+                    "id": "d",
+                    "label": "Maraviroc"
+                },
+                {
+                    "id": "e",
+                    "label": "Enfuvirtide"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "An immunocompromised patient undergoes a biopsy of a suspicious skin lesion. Microscopic examination of the tissue reveals enlarged cytomegalic cells containing prominent basophilic intranuclear inclusion bodies surrounded by a clear halo, giving them a characteristic \"owl's eye\" appearance. Which virus is the most likely cause?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Herpes simplex virus-1"
+                },
+                {
+                    "id": "b",
+                    "label": "Cytomegalovirus"
+                },
+                {
+                    "id": "c",
+                    "label": "Human papillomavirus"
+                },
+                {
+                    "id": "d",
+                    "label": "Epstein-Barr virus"
+                },
+                {
+                    "id": "e",
+                    "label": "Varicella-zoster virus"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "Influenza A virus is unique in its ability to cause global pandemics. This is primarily due to its segmented genome, which allows two different strains infecting the same cell to exchange genetic material and create a novel subtype. Which term describes this specific genetic process?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Antigenic drift via random point mutations"
+                },
+                {
+                    "id": "b",
+                    "label": "Integration into the host cell chromosome"
+                },
+                {
+                    "id": "c",
+                    "label": "Reassortment of genomic segments (Antigenic shift)"
+                },
+                {
+                    "id": "d",
+                    "label": "Complementation of nonfunctional proteins"
+                },
+                {
+                    "id": "e",
+                    "label": "Latent infection within peripheral neurons"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "A healthcare worker undergoing routine screening has the following Hepatitis B serology results: HBsAg negative, anti-HBc negative, and anti-HBs positive. Which of the following is the correct interpretation of these findings?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Acute Hepatitis B infection"
+                },
+                {
+                    "id": "b",
+                    "label": "Immunity resulting from a prior natural infection and recovery"
+                },
+                {
+                    "id": "c",
+                    "label": "Immunity resulting from successful Hepatitis B vaccination"
+                },
+                {
+                    "id": "d",
+                    "label": "Chronic Hepatitis B carrier state with low infectivity"
+                },
+                {
+                    "id": "e",
+                    "label": "Window period between the loss of HBsAg and appearance of anti-HBs"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "As part of a multidrug regimen for a patient with HIV, the entry inhibitor Maraviroc is prescribed. This medication acts by blocking the interaction between the viral gp120 protein and which specific cellular component?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "gp41 transmembrane fusion protein"
+                },
+                {
+                    "id": "b",
+                    "label": "Viral integrase enzyme"
+                },
+                {
+                    "id": "c",
+                    "label": "CCR5 coreceptor"
+                },
+                {
+                    "id": "d",
+                    "label": "CXCR4 coreceptor"
+                },
+                {
+                    "id": "e",
+                    "label": "CD4 surface receptor"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "Ganciclovir is used for the treatment of Cytomegalovirus (CMV) infections in immunocompromised patients. Unlike Acyclovir, which is activated by a thymidine kinase, Ganciclovir undergoes its initial phosphorylation in CMV-infected cells by which specific viral enzyme?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Viral thymidine kinase"
+                },
+                {
+                    "id": "b",
+                    "label": "Host cell hexokinase"
+                },
+                {
+                    "id": "c",
+                    "label": "Viral phosphotransferase (UL97)"
+                },
+                {
+                    "id": "d",
+                    "label": "RNA-dependent RNA polymerase"
+                },
+                {
+                    "id": "e",
+                    "label": "NS3/4A protease"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "Naked capsid viruses, such as Rotavirus and Hepatitis A virus, are commonly transmitted via the fecal-oral route. Which structural property of these viruses primarily allows them to survive transit through the stomach and establish infection?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Presence of a lipid bilayer derived from the host cell"
+                },
+                {
+                    "id": "b",
+                    "label": "Resistance to acidic pH and detergents"
+                },
+                {
+                    "id": "c",
+                    "label": "Use of a viral-encoded reverse transcriptase"
+                },
+                {
+                    "id": "d",
+                    "label": "Replication exclusively within a protective envelope"
+                },
+                {
+                    "id": "e",
+                    "label": "Possession of a diploid RNA genome"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "The antiviral drug Amantadine is historically used for the treatment and prophylaxis of Influenza A. It acts by interfering with the uncoating of the virus after it enters the host cell. Which specific viral structure is targeted by Amantadine?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Hemagglutinin surface glycoprotein"
+                },
+                {
+                    "id": "b",
+                    "label": "Neuraminidase enzyme"
+                },
+                {
+                    "id": "c",
+                    "label": "M2 protein ion channel"
+                },
+                {
+                    "id": "d",
+                    "label": "Viral RNA polymerase complex"
+                },
+                {
+                    "id": "e",
+                    "label": "Matrix protein M1"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        }
+    }
+}

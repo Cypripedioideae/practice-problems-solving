@@ -1,0 +1,320 @@
+{
+    "info": {
+        "set_name": "Renal Comprehensive Set 1: Acid-Base Regulation (Short Answer)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "short_answer",
+            "prompt": "Distinguish between a volatile acid and a nonvolatile (fixed) acid in terms of their source and primary route of elimination from the body.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Volatile acid (CO2 ) is produced from aerobic metabolism and eliminated by the lungs; nonvolatile acids (e.g., sulphuric, phosphoric) are produced from catabolism of proteins/phospholipids and excreted by the kidneys."
+            ]
+        },
+        "q2": {
+            "type": "short_answer",
+            "prompt": "State the Henderson-Hasselbalch equation used to calculate blood pH.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "pH=pK^+log[HA][A-](For blood: pH=6.1+log0.03\u00d7P_(CO2)[HCO_3^-] )."
+            ]
+        },
+        "q3": {
+            "type": "short_answer",
+            "prompt": "Why is the [H_2CO_3] term usually ignored or replaced by P_(CO2) \u00d70.03 in clinical acid-base calculations?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Because H2CO3is in equilibrium with dissolved CO2, and the concentration of CO2is 400 times greater than H2CO3 ."
+            ]
+        },
+        "q4": {
+            "type": "short_answer",
+            "prompt": "Identify the major extracellular buffer and explain why its pK of 6.1 is effective at a physiological pH of 7.4.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Its concentration is high (24 mEq/L) and its acid form (CO2 ) is volatile and can be expired by the lungs."
+            ]
+        },
+        "q5": {
+            "type": "short_answer",
+            "prompt": "What is the \"isohydric principle,\" and how does it simplify the assessment of complex buffering systems in the body?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It states that all buffer pairs in a solution are in equilibrium with the same [H^+]; therefore, monitoring one (usually HCO_3^-/CO2 ) reflects all others."
+            ]
+        },
+        "q6": {
+            "type": "short_answer",
+            "prompt": "Contrast the buffering effectiveness of oxyhaemoglobin versus deoxyhaemoglobin.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Deoxyhaemoglobin is a much more effective buffer for H^+ than oxyhaemoglobin."
+            ]
+        },
+        "q7": {
+            "type": "short_answer",
+            "prompt": "Explain the \"chloride shift\" (Hamburger effect) as it relates to bicarbonate transport in red blood cells.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "HCO_3^-generated in RBCs leaves in exchange for Cl^-  entering the cell to maintain electroneutrality."
+            ]
+        },
+        "q8": {
+            "type": "short_answer",
+            "prompt": "What is the \"alkaline tide,\" and what physiological process produces it?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "A postprandial increase in blood pH caused by the absorption of HCO_3^-  into the blood as parietal cells secrete H^+ into the stomach."
+            ]
+        },
+        "q9": {
+            "type": "short_answer",
+            "prompt": "Approximately what percentage of filtered bicarbonate is reabsorbed in the proximal tubule, and what is the net effect on luminal pH in this segment?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Luminal CA decomposes H2CO3into CO2and H_2O; intracellular CA recombines them into H2CO3, which dissociates into H^+ (re-secreted) and HCO_3^-  (reabsorbed into blood)."
+            ]
+        },
+        "q10": {
+            "type": "short_answer",
+            "prompt": "Describe the steps of bicarbonate reabsorption in the proximal tubule, specifically the role of luminal and intracellular carbonic anhydrase.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Increased P_(CO2)provides more CO2to the renal cells to generate H^+ for secretion, thus increasing HCO_3^-  reabsorption."
+            ]
+        },
+        "q11": {
+            "type": "short_answer",
+            "prompt": "How does an increase in arterial P_(CO2)influence the rate of renal HCO_3^-  reabsorption?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Metabolic alkalosis secondary to ECF volume contraction; Angiotensin II and Aldosterone."
+            ]
+        },
+        "q12": {
+            "type": "short_answer",
+            "prompt": "Define \"contraction alkalosis\" and identify two hormones that contribute to this state during ECF volume depletion.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "NAE=(Titratable Acid+NH4+excretion)-HCO_3^-  excretion."
+            ]
+        },
+        "q13": {
+            "type": "short_answer",
+            "prompt": "Write the formula for Net Acid Excretion (NAE).",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "H^+ excreted with urinary buffers (primarily phosphate); phosphate is ideal because its pK (6.8) is close to the range of tubular fluid pH."
+            ]
+        },
+        "q14": {
+            "type": "short_answer",
+            "prompt": "What is \"titratable acid,\" and why is phosphate the primary buffer for this process?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "4.4; it represents the maximum 1000-fold H^+ gradient against which the H^+ -ATPase can pump."
+            ]
+        },
+        "q15": {
+            "type": "short_answer",
+            "prompt": "What is the \"minimum urine pH,\" and what does this value represent regarding the H^+ concentration gradient across renal tubular cells?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Lipid-soluble NH3diffuses from the medullary interstitium into the acidic lumen, where it reacts with H^+to form lipid-insoluble NH4+ , which is then trapped and excreted."
+            ]
+        },
+        "q16": {
+            "type": "short_answer",
+            "prompt": "Describe the process of \"diffusion trapping\" of ammonia in the medullary collecting duct.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Glutamine."
+            ]
+        },
+        "q17": {
+            "type": "short_answer",
+            "prompt": "From which amino acid is NH3  primarily synthesized in the proximal tubule?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Hyperkalemia inhibits NH3synthesis, reducing the kidney's ability to excrete H^+ as NH4+  (Type 4 RTA)."
+            ]
+        },
+        "q18": {
+            "type": "short_answer",
+            "prompt": "How does hyperkalemia affect renal ammonia (NH3 ) synthesis and the subsequent ability to excrete H^+?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "AnionGap=[Na^+]-([Cl^-]+[HCO_3^- ]); normal range is 8-16 mEq/L."
+            ]
+        },
+        "q19": {
+            "type": "short_answer",
+            "prompt": "State the formula for calculating the serum anion gap and provide its normal range.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "In high gap, HCO_3^-is replaced by an unmeasured organic anion (e.g., lactate); in normal gap, HCO_3^-is replaced by Cl^-  (hyperchloraemia)."
+            ]
+        },
+        "q20": {
+            "type": "short_answer",
+            "prompt": "Distinguish between a high anion gap and a normal anion gap metabolic acidosis in terms of the anions that replace HCO_3^- .",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The difference between measured and estimated plasma osmolarity; significant in methanol or ethylene glycol poisoning."
+            ]
+        },
+        "q21": {
+            "type": "short_answer",
+            "prompt": "What is the \"osmolar gap,\" and in which specific types of poisoning is it clinically significant?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Hyperventilation (to decrease P_(CO2) ); sensed by peripheral chemoreceptors in the carotid bodies."
+            ]
+        },
+        "q22": {
+            "type": "short_answer",
+            "prompt": "How does the body's respiratory system compensate for metabolic acidosis, and which receptors sense the trigger?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Acute: Minimal HCO_3^-increase (mass action only); Chronic: Significant HCO_3^-  increase due to renal synthesis/reabsorption."
+            ]
+        },
+        "q23": {
+            "type": "short_answer",
+            "prompt": "Contrast the renal compensatory responses in acute versus chronic respiratory acidosis.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Because ECF volume contraction activates the renin-angiotensin-aldosterone system, which stimulates H^+ secretion even in the face of alkalosis."
+            ]
+        },
+        "q24": {
+            "type": "short_answer",
+            "prompt": "Why is the urine often paradoxically acidic in the metabolic alkalosis caused by vomiting?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Because the concentrations of the buffer components (HCO_3^-and CO2 ) are not limited and can be independently regulated by the kidneys and lungs."
+            ]
+        }
+    }
+}

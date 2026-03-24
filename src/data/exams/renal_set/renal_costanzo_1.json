@@ -1,0 +1,858 @@
+{
+    "info": {
+        "set_name": "Renal Physiology 1",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "TF",
+            "prompt": "Glomerular filtration rate (GFR) is determined by the product of the filtration coefficient (Kf) and the net ultrafiltration pressure.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q2": {
+            "type": "TF",
+            "prompt": "In the presence of a renal carbonic anhydrase inhibitor, the reabsorption of filtered bicarbonate in the proximal tubule proceeds normally.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q3": {
+            "type": "TF",
+            "prompt": "The macula densa cells are part of the juxtaglomerular apparatus and sense changes in the delivered load of NaCl to the distal tubule.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q4": {
+            "type": "TF",
+            "prompt": "Renal blood flow (RBF) is approximately 25% of the total cardiac output, which is among the highest of all organ systems.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q5": {
+            "type": "TF",
+            "prompt": "The filtration fraction is the ratio of GFR to renal plasma flow (RPF) and is normally approximately 0.20.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q6": {
+            "type": "TF",
+            "prompt": "In the proximal tubule, the reabsorption of two-thirds of the filtered Na^+ and water is described as an isosmotic process.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q7": {
+            "type": "TF",
+            "prompt": "The thick ascending limb of the loop of Henle is impermeable to water, which allows the tubular fluid to become progressively dilute.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q8": {
+            "type": "TF",
+            "prompt": "Loop diuretics, such as furosemide, increase calcium reabsorption in the thick ascending limb by enhancing the lumen-positive potential.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q9": {
+            "type": "TF",
+            "prompt": "Antidiuretic hormone (ADH) increases the water permeability of the principal cells in the late distal tubule and collecting duct by inserting aquaporin-2 channels into the luminal membrane.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q10": {
+            "type": "TF",
+            "prompt": "In a patient with central diabetes insipidus, the kidneys are unresponsive to exogenous ADH analogues.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q11": {
+            "type": "TF",
+            "prompt": "Urea recycling from the inner medullary collecting ducts into the medullary interstitial fluid contributes significantly to the corticopapillary osmotic gradient.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q12": {
+            "type": "TF",
+            "prompt": "The myogenic mechanism of autoregulation involves the contraction of afferent arterioles in response to stretch from increased arterial pressure.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q13": {
+            "type": "TF",
+            "prompt": "Aldosterone increases Na^+ reabsorption and K^+ secretion by acting primarily on the epithelial cells of the proximal convoluted tubule.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q14": {
+            "type": "TF",
+            "prompt": "Net acid excretion is the sum of H^+ excreted as titratable acid and ammonium, minus any excreted bicarbonate.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q15": {
+            "type": "TF",
+            "prompt": "A decrease in effective arterial blood volume (EABV) stimulates the renin-angiotensin-aldosterone system to promote Na^+ conservation.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q16": {
+            "type": "TF",
+            "prompt": "In the early proximal tubule, Na^+ is reabsorbed primarily with chloride via a Na^+-Cl^- cotransporter.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q17": {
+            "type": "TF",
+            "prompt": "The renal plasma threshold for glucose is the plasma concentration at which glucose first appears in the urine, typically around 250 mg/dL.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q18": {
+            "type": "TF",
+            "prompt": "Hyperkalemia stimulates the synthesis of ammonia (NH3) in the proximal tubule, thereby increasing H^+ excretion.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q19": {
+            "type": "TF",
+            "prompt": "An increase in the filtration fraction leads to an increase in the oncotic pressure of peritubular capillary blood, which favors reabsorption in the proximal tubule.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q20": {
+            "type": "TF",
+            "prompt": "The \"single effect\" of countercurrent multiplication refers to the passive movement of water out of the thick ascending limb.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q21": {
+            "type": "TF",
+            "prompt": "Low levels of angiotensin II preferentially constrict efferent arterioles, which helps maintain GFR when renal perfusion pressure is low.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q22": {
+            "type": "TF",
+            "prompt": "Titratable acid excretion is limited by the amount of urinary buffer, such as phosphate, available in the tubular fluid.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q23": {
+            "type": "TF",
+            "prompt": "In primary hyperaldosteronism (Conn's syndrome), plasma renin activity is typically elevated due to high blood pressure.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q24": {
+            "type": "TF",
+            "prompt": "Free water clearance (CH_2O) is positive when the circulating levels of ADH are high, resulting in hyperosmotic urine.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q25": {
+            "type": "TF",
+            "prompt": "Respiratory acidosis increases the reabsorption of filtered bicarbonate by increasing the supply of H^+ for secretion in the renal cells.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q26": {
+            "type": "TF",
+            "prompt": "The vasa recta capillaries maintain the corticopapillary osmotic gradient by serving as passive countercurrent exchangers.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q27": {
+            "type": "TF",
+            "prompt": "Filtration equilibrium normally occurs at the beginning of the glomerular capillary, where the net ultrafiltration pressure is zero.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q28": {
+            "type": "TF",
+            "prompt": "Parathyroid hormone (PTH) inhibits phosphate reabsorption in the proximal tubule by decreasing the transport maximum (Tm) for phosphate.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q29": {
+            "type": "TF",
+            "prompt": "Type 4 renal tubular acidosis is characterized by hyperkalemia, which inhibits the renal synthesis of ammonia.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q30": {
+            "type": "TF",
+            "prompt": "In metabolic alkalosis caused by vomiting, ECF volume contraction maintains the alkalosis by stimulating bicarbonate reabsorption in the proximal tubule.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q31": {
+            "type": "TF",
+            "prompt": "The concentration of creatinine in the tubular fluid is highest in Bowman's space, prior to any water reabsorption.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q32": {
+            "type": "TF",
+            "prompt": "ADH increases the urea permeability of the inner medullary collecting ducts by up-regulating the UT1 transporter.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q33": {
+            "type": "TF",
+            "prompt": "A substance that is freely filtered and has a clearance higher than inulin must be extensively reabsorbed by the renal tubules.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q34": {
+            "type": "TF",
+            "prompt": "Renal autoregulation of RBF and GFR is an intrinsic process that persists even in a denervated, transplanted kidney.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q35": {
+            "type": "TF",
+            "prompt": "The fractional excretion of sodium is typically greater than 2% in patients with prerenal azotemia caused by volume depletion.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q36": {
+            "type": "TF",
+            "prompt": "Glomerulotubular balance is a mechanism that ensures a constant fraction of the filtered load is excreted in the urine.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q37": {
+            "type": "TF",
+            "prompt": "In the thick ascending limb, the Na^+-K^+-2Cl^- cotransporter is an electrically neutral carrier.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q38": {
+            "type": "TF",
+            "prompt": "The kidneys differentiate between decreased blood flow and decreased oxygen content of arterial blood when regulating erythropoietin synthesis.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q39": {
+            "type": "TF",
+            "prompt": "Non-ionic diffusion of weak acids is increased when the urine pH is alkaline, as the A- form cannot easily cross the cell membrane.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q40": {
+            "type": "TF",
+            "prompt": "Thiazide diuretics are useful in treating idiopathic hypercalciuria because they increase Ca^(2+) reabsorption in the distal tubule.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q41": {
+            "type": "TF",
+            "prompt": "In the \"60-40-20 rule\" for body fluids, ECF constitutes approximately 40% of the total body weight.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q42": {
+            "type": "TF",
+            "prompt": "Hypokalemia stimulates the synthesis of ammonia (NH3) from glutamine in the renal tubular cells.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q43": {
+            "type": "TF",
+            "prompt": "The glomerular barrier restricts the filtration of plasma proteins based on their molecular size and their net positive charge.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q44": {
+            "type": "TF",
+            "prompt": "In a patient with Addison's disease, aldosterone deficiency leads to hyperkalemia and metabolic alkalosis.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q45": {
+            "type": "TF",
+            "prompt": "Contraction alkalosis occurs when ECF volume contraction stimulates Angiotensin II to increase Na^+-H^+ exchange in the proximal tubule.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q46": {
+            "type": "TF",
+            "prompt": "If a glomerular marker is used, the amount filtered across the glomerular capillaries is exactly equal to the amount excreted in the urine.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q47": {
+            "type": "TF",
+            "prompt": "Proteinuria in glomerular disease is often caused by an increase in the net negative charges on the glomerular capillary wall.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q48": {
+            "type": "TF",
+            "prompt": "In the collecting ducts, ADH acts on V2 receptors to activate an adenylyl cyclase-cAMP second messenger system.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q49": {
+            "type": "TF",
+            "prompt": "The renal clearance of para-aminohippuric acid (PAH) provides an exact measurement of the total renal blood flow.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q50": {
+            "type": "TF",
+            "prompt": "Metabolic acidosis is a common finding in chronic renal failure because the kidneys are unable to excrete the daily load of fixed H^+.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        }
+    }
+}

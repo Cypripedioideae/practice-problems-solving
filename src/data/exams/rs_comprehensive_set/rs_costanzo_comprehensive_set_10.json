@@ -1,0 +1,298 @@
+{
+    "info": {
+        "set_name": "Comprehensive Respiratory Set 2: Mechanics of Breathing (MCQ)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "Halfway through a normal, quiet inspiration, what are the relative pressures within the respiratory system compared to atmospheric pressure (0 cm H_2O)?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Alveolar pressure is +1 cm H_2O, and intrapleural pressure is -5 cm H_2O."
+                },
+                {
+                    "id": "b",
+                    "label": "Alveolar pressure is 0 cm H_2O, and intrapleural pressure is -8 cm H_2O."
+                },
+                {
+                    "id": "c",
+                    "label": "Alveolar pressure is -1 cm H_2O, and intrapleural pressure is -6.5 cm H_2O."
+                },
+                {
+                    "id": "d",
+                    "label": "Alveolar pressure is -1 cm H_2O, and intrapleural pressure is -3.5 cm H_2O."
+                },
+                {
+                    "id": "e",
+                    "label": "Alveolar pressure is 0 cm H_2O, and intrapleural pressure is 0 cm H_2O."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A patient has a measured pulmonary compliance of 0.2 L/cm H_2O and a resting intrapleural pressure of -4 cm H_2O at Functional Residual Capacity (FRC). If the patient inspires a tidal volume of 1.0 L, what is the resulting intrapleural pressure at the end of that inspiration?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "-5 cm H_2O."
+                },
+                {
+                    "id": "b",
+                    "label": "-6 cm H_2O."
+                },
+                {
+                    "id": "c",
+                    "label": "-7.5 cm H_2O."
+                },
+                {
+                    "id": "d",
+                    "label": "-9 cm H_2O."
+                },
+                {
+                    "id": "e",
+                    "label": "-11 cm H2 O."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "During a forced expiration starting from Total Lung Capacity (TLC), a patient with emphysema experiences early airway collapse. Which statement best analyzes the movement of the Equal Pressure Point (EPP) in this patient compared to a healthy individual?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The EPP moves further from the alveoli because the elastic recoil is increased."
+                },
+                {
+                    "id": "b",
+                    "label": "The EPP remains stationary because it is determined only by the effort of the expiratory muscles."
+                },
+                {
+                    "id": "c",
+                    "label": "The EPP moves closer to the mouth because the alveolar pressure is higher due to increased compliance."
+                },
+                {
+                    "id": "d",
+                    "label": "The EPP moves closer to the alveoli because the intrapleural pressure is more negative."
+                },
+                {
+                    "id": "e",
+                    "label": "The EPP moves closer to the alveoli because the decreased elastic recoil leads to a faster drop in airway pressure."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "A medical student calculates the resistance of a single airway to be R. If the radius of this airway is reduced by 50% due to parasympathetic muscarinic stimulation, what is the new resistance according to Poiseuille's Law?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "2R."
+                },
+                {
+                    "id": "b",
+                    "label": "4R."
+                },
+                {
+                    "id": "c",
+                    "label": "8R."
+                },
+                {
+                    "id": "d",
+                    "label": "16R."
+                },
+                {
+                    "id": "e",
+                    "label": "32R."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "Which of the following statements best explains why the inflation and deflation limbs of an air-filled lung follow different paths (hysteresis)?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "During inflation, additional pressure is required to overcome high surface tension at low volumes before surfactant density increases."
+                },
+                {
+                    "id": "b",
+                    "label": "During deflation, compliance is lower because surfactant is being rapidly removed from the liquid lining."
+                },
+                {
+                    "id": "c",
+                    "label": "Hysteresis is solely a property of the elastic fibers and is identical in saline-filled and air-filled lungs."
+                },
+                {
+                    "id": "d",
+                    "label": "Inflation compliance is always higher than deflation compliance due to the recruitment of alveoli."
+                },
+                {
+                    "id": "e",
+                    "label": "The air-filled lung is more compliant than a saline-filled lung because air reduces the work of expansion."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "Analyzing the relationship between lung volume and Pulmonary Vascular Resistance (PVR), at which volume is the total PVR at its minimum?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Residual Volume (RV)."
+                },
+                {
+                    "id": "b",
+                    "label": "Total Lung Capacity (TLC)."
+                },
+                {
+                    "id": "c",
+                    "label": "Mid-Inspiration."
+                },
+                {
+                    "id": "d",
+                    "label": "Vital Capacity (VC)."
+                },
+                {
+                    "id": "e",
+                    "label": "Functional Residual Capacity (FRC)."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "A patient presents with dyspnea. Pulmonary function tests reveal that their elastic work of breathing is significantly increased, while resistive work remains normal. This pattern is most consistent with which of the following?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Acute asthma attack."
+                },
+                {
+                    "id": "b",
+                    "label": "Chronic bronchitis."
+                },
+                {
+                    "id": "c",
+                    "label": "Use of a \u03b2_2-adrenergic agonist."
+                },
+                {
+                    "id": "d",
+                    "label": "Pulmonary interstitial fibrosis."
+                },
+                {
+                    "id": "e",
+                    "label": "Normal aging."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "A neonate with surfactant deficiency (respiratory distress syndrome) must generate much higher transpulmonary pressures to breathe. According to Laplace's Law (P=2T/r), what is the most direct consequence of this deficiency?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Large alveoli will have higher collapsing pressures than small alveoli."
+                },
+                {
+                    "id": "b",
+                    "label": "Alveolar surface tension will decrease as the radius decreases."
+                },
+                {
+                    "id": "c",
+                    "label": "Small alveoli will have a higher collapsing pressure and tend to empty into larger alveoli."
+                },
+                {
+                    "id": "d",
+                    "label": "Lung compliance will increase, making the lungs easier to inflate."
+                },
+                {
+                    "id": "e",
+                    "label": "The work of breathing will decrease due to the stabilization of small air sacs."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "If a patient experiences a traumatic pneumothorax where the intrapleural pressure rises from -5 cm H_2O to 0 cm H_2O, what is the mechanical result on the chest wall?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The chest wall recoils inward due to its inherent elasticity."
+                },
+                {
+                    "id": "b",
+                    "label": "The chest wall springs outward because the negative pressure that normally holds it in is lost."
+                },
+                {
+                    "id": "c",
+                    "label": "The chest wall remains at its FRC position because its recoil is now balanced by atmospheric pressure."
+                },
+                {
+                    "id": "d",
+                    "label": "The chest wall collapses along with the lung to maintain a minimum thoracic volume."
+                },
+                {
+                    "id": "e",
+                    "label": "The chest wall expands only if the patient attempts a forced inspiration."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "A 60-year-old patient's spirometry shows an FEV_1/FVC ratio of 0.55. Which of the following best analyzes the physiological state of this patient's airways?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased airway resistance consistent with an obstructive lung disease."
+                },
+                {
+                    "id": "b",
+                    "label": "Decreased lung compliance consistent with a restrictive lung disease."
+                },
+                {
+                    "id": "c",
+                    "label": "Increased radial traction on the bronchioles during expiration."
+                },
+                {
+                    "id": "d",
+                    "label": "An EPP that has shifted closer to the mouth, facilitating faster airflow."
+                },
+                {
+                    "id": "e",
+                    "label": "Normal aging of the respiratory system without pathology."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        }
+    }
+}

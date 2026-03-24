@@ -1,0 +1,298 @@
+{
+    "info": {
+        "set_name": "Renal Comprehensive Set 2: Renal Clearance (MCQ)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "In a clinical research study, a patient is infused with inulin to determine their glomerular filtration rate (GFR). Under steady-state conditions, the plasma inulin concentration is maintained at 1.0 mg/mL. A 1-hour urine collection yields a total volume of 60 mL with an inulin concentration of 120 mg/mL. What is the patient's calculated GFR?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "2 mL/min"
+                },
+                {
+                    "id": "b",
+                    "label": "60 mL/min"
+                },
+                {
+                    "id": "c",
+                    "label": "100 mL/min"
+                },
+                {
+                    "id": "d",
+                    "label": "120 mL/min"
+                },
+                {
+                    "id": "e",
+                    "label": "150 mL/min"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A 25-year-old medical student is participating in a pharmacology trial. An experimental drug, \"Substance X,\" is found to be freely filtered at the glomerulus. Laboratory analysis shows a renal clearance for Substance X of 300 mL/min, while the simultaneously measured inulin clearance is 100 mL/min. Which of the following best describes the renal handling of Substance X?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Substance X is filtered and net reabsorbed"
+                },
+                {
+                    "id": "b",
+                    "label": "Substance X is bound to plasma proteins and not filtered"
+                },
+                {
+                    "id": "c",
+                    "label": "Substance X is filtered and net secreted"
+                },
+                {
+                    "id": "d",
+                    "label": "Substance X is a perfect glomerular marker"
+                },
+                {
+                    "id": "e",
+                    "label": "Substance X is filtered but undergoes 100% reabsorption"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "A patient is infused with para-aminohippuric acid (PAH) to assess renal hemodynamics. The following values are obtained: urine flow rate = 1 mL/min; plasma [PAH] = 1 mg/mL; urine [PAH] = 600 mg/mL; and hematocrit = 45%. What is the patient's estimated renal blood flow (RBF)?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "600 mL/min"
+                },
+                {
+                    "id": "b",
+                    "label": "800 mL/min"
+                },
+                {
+                    "id": "c",
+                    "label": "1091 mL/min"
+                },
+                {
+                    "id": "d",
+                    "label": "1333 mL/min"
+                },
+                {
+                    "id": "e",
+                    "label": "1500 mL/min"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "A 38-year-old dancer is admitted with decreased urine output after taking high doses of ibuprofen for pain. Laboratory data reveal a serum creatinine of 7.5 mg/dL, serum sodium of 135 mmol/L, urine sodium of 33 mmol/L, and urine creatinine of 90 mg/dL. Which of the following is the most accurate calculation of this patient's fractional sodium excretion (FENa)?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "0.5%"
+                },
+                {
+                    "id": "b",
+                    "label": "1.0%"
+                },
+                {
+                    "id": "c",
+                    "label": "1.5%"
+                },
+                {
+                    "id": "d",
+                    "label": "2.0%"
+                },
+                {
+                    "id": "e",
+                    "label": "3.0%"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "A patient with renal artery stenosis is treated with an ACE inhibitor. This medication causes a significant reduction in the circulating levels of Angiotensin II. Based on the sensitivity of renal arterioles to this hormone, what is the expected change in the filtration fraction?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Decrease, because GFR falls more than RPF"
+                },
+                {
+                    "id": "b",
+                    "label": "Decrease, because GFR increases more than RPF"
+                },
+                {
+                    "id": "c",
+                    "label": "Increase, because RPF decreases more than GFR"
+                },
+                {
+                    "id": "d",
+                    "label": "Decrease, because RPF increases more than GFR"
+                },
+                {
+                    "id": "e",
+                    "label": "Increase, because GFR increases more than RPF"
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "A 40-year-old woman with untreated Type I diabetes mellitus has a GFR of 120 mL/min, a plasma glucose of 400 mg/dL, a urine glucose of 2500 mg/dL, and a urine flow rate of 4 mL/min. What is the rate of glucose reabsorption in this patient?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "100 mg/min"
+                },
+                {
+                    "id": "b",
+                    "label": "225 mg/min"
+                },
+                {
+                    "id": "c",
+                    "label": "300 mg/min"
+                },
+                {
+                    "id": "d",
+                    "label": "380 mg/min"
+                },
+                {
+                    "id": "e",
+                    "label": "480 mg/min"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "A patient is brought to the emergency department after an aspirin (salicylic acid) overdose. The physician decides to alkalinize the urine to hasten the excretion of the drug. Which of the following best explains the physiological mechanism of this treatment?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Alkalinization increases the HA form, which is trapped in the lumen"
+                },
+                {
+                    "id": "b",
+                    "label": "Alkalinization increases the A- form, which is trapped in the lumen"
+                },
+                {
+                    "id": "c",
+                    "label": "Alkalinization decreases the A- form, promoting back-diffusion"
+                },
+                {
+                    "id": "d",
+                    "label": "Alkalinization increases the lipophilicity of the salicylate molecule"
+                },
+                {
+                    "id": "e",
+                    "label": "Alkalinization inhibits the organic acid secretory pumps in the proximal tubule"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "A 70-year-old patient with chronic hypertension suffers from progressive nephrosclerosis, resulting in the loss of 75% of his functional nephrons. If his daily production of creatinine remains constant and he is in a new steady state, what change would be expected in his serum creatinine levels compared to his baseline (before nephron loss)?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "No change, due to compensatory hypertrophy"
+                },
+                {
+                    "id": "b",
+                    "label": "Decreased by 25%"
+                },
+                {
+                    "id": "c",
+                    "label": "Decreased by 75%"
+                },
+                {
+                    "id": "d",
+                    "label": "Increased by 75%"
+                },
+                {
+                    "id": "e",
+                    "label": "Increased by 400% (fourfold)"
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "To determine the true renal plasma flow (RPF) using the Fick principle, a researcher measures the following in a hypoplastic kidney: renal artery [PAH] = 6 mg/dL, renal vein [PAH] = 0.6 mg/dL, urinary [PAH] = 25 mg/mL, and urine flow = 1.5 mL/min. What is the RPF? (SUBJECT TO FURTHER REVIEW)",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "37.5 mL/min"
+                },
+                {
+                    "id": "b",
+                    "label": "550 mL/min"
+                },
+                {
+                    "id": "c",
+                    "label": "625 mL/min"
+                },
+                {
+                    "id": "d",
+                    "label": "694 mL/min"
+                },
+                {
+                    "id": "e",
+                    "label": "775 mL/min"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "A 50-year-old woman has a renal blood flow of 1200 mL/min and a hematocrit of 50%. Her GFR is determined to be 150 mL/min. Which of the following represents her filtration fraction (FF)?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "0.125"
+                },
+                {
+                    "id": "b",
+                    "label": "0.15"
+                },
+                {
+                    "id": "c",
+                    "label": "0.20"
+                },
+                {
+                    "id": "d",
+                    "label": "0.25"
+                },
+                {
+                    "id": "e",
+                    "label": "0.40"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        }
+    }
+}

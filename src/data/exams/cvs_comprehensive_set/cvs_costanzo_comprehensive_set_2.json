@@ -1,0 +1,463 @@
+{
+    "info": {
+        "set_name": "Cardiovascular Comprehensive Set 1: Electrophysiology  (Short answer)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "short_answer",
+            "prompt": "What is the normal sequence of cardiac activation?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "SA node \u2192 Atria \u2192 AV node \u2192 Bundle of His \u2192 Purkinje system \u2192 Ventricles."
+            ]
+        },
+        "q2": {
+            "type": "short_answer",
+            "prompt": "Which specific structure serves as the primary pacemaker of the heart?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The sinoatrial (SA) node."
+            ]
+        },
+        "q3": {
+            "type": "short_answer",
+            "prompt": "Define \"Normal Sinus Rhythm\" based on its standard physiological criteria.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "(1) Normal P wave; (2) PR intervals between 0.12-0.2 s at constant interval; (3) Each P wave is always followed by a QRS complex; (4) QRS complexes duration less than 0.12 s; (5) Regular heart rate between 60-100 bpm"
+            ]
+        },
+        "q4": {
+            "type": "short_answer",
+            "prompt": "What is the typical resting membrane potential of ventricular muscle cells, and which ion primarily determines it?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Approximately -90 mV; determined primarily by the high resting conductance to K^+."
+            ]
+        },
+        "q5": {
+            "type": "short_answer",
+            "prompt": "Which ion is primarily responsible for Phase 0 (the upstroke) in ventricular muscle action potentials?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Sodium (Na^+)."
+            ]
+        },
+        "q6": {
+            "type": "short_answer",
+            "prompt": "Describe the two main ionic events that produce the brief Phase 1 initial repolarization in contractile cells.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "(1) Inactivation gates of Na^+ channels close; (2) Outward K^+ current occurs due to a large driving force."
+            ]
+        },
+        "q7": {
+            "type": "short_answer",
+            "prompt": "What ion current is responsible for the plateau (Phase 2) in ventricular cells, and which specific channels mediate this inward flow?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Inward Calcium (Ca^(2+)) current; mediated by L-type (long-lasting) Ca^(2+) channels."
+            ]
+        },
+        "q8": {
+            "type": "short_answer",
+            "prompt": "During Phase 3 of the ventricular action potential, which ion conductance increases to produce rapid repolarization?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Potassium (K^+) conductance."
+            ]
+        },
+        "q9": {
+            "type": "short_answer",
+            "prompt": "What is the physiological significance of the \"funny current\" (I_f) in pacemaker cells?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It produces a slow spontaneous diastolic depolarization that accounts for the automaticity of the SA and AV nodes."
+            ]
+        },
+        "q10": {
+            "type": "short_answer",
+            "prompt": "How does the ionic basis for the upstroke (Phase 0) of the SA node action potential differ from that of the Purkinje system?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "In the SA node, Phase 0 is caused by an inward Ca^(2+) current; in Purkinje fibers, it is caused by a fast inward Na^+ current."
+            ]
+        },
+        "q11": {
+            "type": "short_answer",
+            "prompt": "List the cardiac tissues in order of their intrinsic firing rate, from fastest to slowest.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "SA node > AV node > Bundle of His > Purkinje fibers."
+            ]
+        },
+        "q12": {
+            "type": "short_answer",
+            "prompt": "Why is conduction velocity through the AV node significantly slower than in other cardiac tissues, and what is the functional advantage of this delay?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "AV node conduction is slow (AV delay) to allow the ventricles sufficient time to fill with blood before they contract."
+            ]
+        },
+        "q13": {
+            "type": "short_answer",
+            "prompt": "Which cardiac tissue has the fastest conduction velocity for the action potential?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Purkinje fibers (2-4 m/s)."
+            ]
+        },
+        "q14": {
+            "type": "short_answer",
+            "prompt": "Define the Absolute Refractory Period (ARP) and explain its protective role in cardiac function.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The period during which a cell is completely inexcitable to any stimulus; it prevents tetanic contraction, allowing the heart to function as a rhythmic pump."
+            ]
+        },
+        "q15": {
+            "type": "short_answer",
+            "prompt": "How does the Effective Refractory Period (ERP) differ from the ARP?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The ERP is slightly longer; it is the period during which a conducted action potential cannot be elicited (not enough inward current to conduct to the next site)."
+            ]
+        },
+        "q16": {
+            "type": "short_answer",
+            "prompt": "What characterizes the Supranormal Period (SNP) in terms of myocardial excitability?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The cell is more excitable than normal, meaning less inward current is required to reach threshold."
+            ]
+        },
+        "q17": {
+            "type": "short_answer",
+            "prompt": "Explain the \"overdrive suppression\" phenomenon regarding the control of latent pacemakers.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The pacemaker with the fastest firing rate (normally the SA node) suppresses the intrinsic automaticity of slower latent pacemakers."
+            ]
+        },
+        "q18": {
+            "type": "short_answer",
+            "prompt": "What does the P wave on a standard ECG represent?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Atrial depolarization."
+            ]
+        },
+        "q19": {
+            "type": "short_answer",
+            "prompt": "Which electrical event is represented by the PR interval, and what is its normal duration?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The time from initial atrial depolarization to initial ventricular depolarization; normally <200 msec (0.12-0.20 sec)."
+            ]
+        },
+        "q20": {
+            "type": "short_answer",
+            "prompt": "Which electrical event of the cardiac cycle is typically masked by the QRS complex?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Atrial repolarization."
+            ]
+        },
+        "q21": {
+            "type": "short_answer",
+            "prompt": "What does the ST segment represent in terms of the state of the ventricles?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The period when the entire ventricle is depolarized (plateau phase)."
+            ]
+        },
+        "q22": {
+            "type": "short_answer",
+            "prompt": "Which specific deflection on the ECG represents ventricular repolarization?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The T wave."
+            ]
+        },
+        "q23": {
+            "type": "short_answer",
+            "prompt": "How is the QT interval defined and what total period of ventricular activity does it encompass?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "From the beginning of the Q wave to the end of the T wave; it represents the entire period of ventricular depolarization and repolarization."
+            ]
+        },
+        "q24": {
+            "type": "short_answer",
+            "prompt": "Explain the ionic mechanism by which sympathetic stimulation increases heart rate (positive chronotropic effect).",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Increased I_f (funny current) and increased I_(Ca), which increase the rate of Phase 4 depolarization and lower the threshold potential."
+            ]
+        },
+        "q25": {
+            "type": "short_answer",
+            "prompt": "Describe the three effects of parasympathetic (vagal) stimulation on the SA node that combine to decrease heart rate.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "(1) Decreased I_f (slower Phase 4); (2) Increased I_(K-ACh) (hyperpolarizes potential); (3) Decreased I_(Ca) (raises threshold)."
+            ]
+        },
+        "q26": {
+            "type": "short_answer",
+            "prompt": "How does sympathetic stimulation affect conduction velocity through the AV node?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Increases conduction velocity (positive dromotropic effect), which decreases the PR interval."
+            ]
+        },
+        "q27": {
+            "type": "short_answer",
+            "prompt": "What combination of ionic conductance changes produces a negative dromotropic effect in the AV node?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Decreased inward Ca^(2+) current and increased outward K^+ current."
+            ]
+        },
+        "q28": {
+            "type": "short_answer",
+            "prompt": "Which specific autonomic receptors in the heart mediate the positive chronotropic and dromotropic effects?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "\u03b21 -adrenergic receptors."
+            ]
+        },
+        "q29": {
+            "type": "short_answer",
+            "prompt": "Define a \"First-degree heart block\" in terms of its diagnostic ECG finding.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "A PR interval >0.20 seconds (200 msec) with no dropped QRS waves."
+            ]
+        },
+        "q30": {
+            "type": "short_answer",
+            "prompt": "What distinguishes \"Second-degree heart block\" from first-degree block?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "In second-degree block, the action potential fails to reach the ventricles some, but not all, of the time (intermittent dropped QRS)."
+            ]
+        },
+        "q31": {
+            "type": "short_answer",
+            "prompt": "What is the characteristic feature of \"Third-degree (complete) heart block\" regarding the relationship between P waves and QRS complexes?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The P waves and QRS complexes are completely dissociated and beat independently."
+            ]
+        },
+        "q32": {
+            "type": "short_answer",
+            "prompt": "What determines the amplitude of the various waves recorded on a normal surface ECG?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The mass of the tissue being depolarized or repolarized."
+            ]
+        },
+        "q33": {
+            "type": "short_answer",
+            "prompt": "Explain the relationship between heart rate and the duration of the cardiac action potential and its refractory periods.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "As heart rate increases, the duration of the action potential and refractory periods decrease."
+            ]
+        },
+        "q34": {
+            "type": "short_answer",
+            "prompt": "What condition is typically associated with the appearance of a prominent U wave on the ECG?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Hypokalemia."
+            ]
+        },
+        "q35": {
+            "type": "short_answer",
+            "prompt": "How does hyperkalemia affect the resting membrane potential of cardiac cells and why can this lead to asystole?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It depolarizes (makes less negative) the potential; this closes inactivation gates on Na^+ channels, making the membrane inexcitable and preventing action potentials."
+            ]
+        }
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "info": {
+        "set_name": "Gastrointestinal Comprehensive Set 1: Functional Anatomy (Short Answer)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "short_answer",
+            "prompt": "Starting from the luminal surface and moving toward the serosal surface, identify the four primary histological layers of the gastrointestinal wall.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Mucosa (epithelium, lamina propria, muscularis mucosae), submucosa, muscularis externa (circular and longitudinal muscle), and serosa."
+            ]
+        },
+        "q2": {
+            "type": "short_answer",
+            "prompt": "Which specific sub-layer of the mucosa is composed of smooth muscle cells and functions to alter the shape and surface area of the epithelial layer?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The muscularis mucosae."
+            ]
+        },
+        "q3": {
+            "type": "short_answer",
+            "prompt": "Describe the anatomical positioning of the Meissner plexus versus the Auerbach plexus in relation to the layers of the muscularis externa.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The Meissner (submucosal) plexus lies between the submucosa and the circular muscle, while the Auerbach (myenteric) plexus lies between the circular and longitudinal muscle layers."
+            ]
+        },
+        "q4": {
+            "type": "short_answer",
+            "prompt": "Contrast the primary regulatory roles of the myenteric plexus and the submucosal plexus.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The myenteric plexus primarily controls gastrointestinal motility, whereas the submucosal plexus primarily regulates secretion and local blood flow."
+            ]
+        },
+        "q5": {
+            "type": "short_answer",
+            "prompt": "Which specific cranial nerve is responsible for providing extrinsic parasympathetic innervation to the GI tract from the esophagus to the upper large intestine?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The vagus nerve (CN X)."
+            ]
+        },
+        "q6": {
+            "type": "short_answer",
+            "prompt": "Identify the nerves that provide parasympathetic input to the distal large intestine and rectum, and specify their spinal cord segments of origin.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The pelvic nerves; they originate from the S2, S3, and S4 sacral segments of the spinal cord."
+            ]
+        },
+        "q7": {
+            "type": "short_answer",
+            "prompt": "Explain the structural and functional significance of a \"vagovagal reflex\" in the context of gastrointestinal sensory-motor integration.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It is a reflex where both afferent and efferent limbs are contained within the vagus nerve, allowing the CNS to coordinate responses to mucosal stimuli (like stretch or chemicals) by modulating gut motility and secretion."
+            ]
+        },
+        "q8": {
+            "type": "short_answer",
+            "prompt": "Name the four major sympathetic prevertebral ganglia that provide postganglionic adrenergic innervation to the GI tract.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Celiac, superior mesenteric, inferior mesenteric, and hypogastric ganglia."
+            ]
+        },
+        "q9": {
+            "type": "short_answer",
+            "prompt": "Compare the general effects of sympathetic and parasympathetic stimulation on the smooth muscle of the GI wall and the GI sphincters.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Parasympathetic activity generally contracts the GI wall and relaxes sphincters (excitatory), while sympathetic activity generally relaxes the GI wall and contracts sphincters (inhibitory)."
+            ]
+        },
+        "q10": {
+            "type": "short_answer",
+            "prompt": "What is the primary neurotransmitter released by postganglionic sympathetic neurons in the GI tract?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Norepinephrine."
+            ]
+        },
+        "q11": {
+            "type": "short_answer",
+            "prompt": "How does the release mechanism of neurocrines like Vasoactive Intestinal Peptide (VIP) differ from that of classic neurotransmitters at the neuroeffector junction?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Classic neurotransmitters are typically released from nerve terminals, whereas neurocrines in the GI tract are often released from varicosities along the length of postganglionic axons."
+            ]
+        },
+        "q12": {
+            "type": "short_answer",
+            "prompt": "Contrast the mechanical effect of circular muscle contraction on the GI lumen with the effect produced by longitudinal muscle contraction.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Circular muscle contraction decreases the diameter of the lumen, whereas longitudinal muscle contraction decreases the length of the segment."
+            ]
+        }
+    }
+}

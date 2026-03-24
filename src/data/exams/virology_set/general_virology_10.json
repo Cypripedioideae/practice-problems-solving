@@ -1,0 +1,279 @@
+{
+  "info": {
+    "set_name": "General Virology 10",
+    "description": "",
+    "source": ""
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "A 45-year-old patient is bitten by a raccoon and subsequently develops symptoms of a progressive neurological infection. The Rabies virus is known to enter the host through such wounds and travel to the central nervous system. By which mechanism does the virus reach the brain from the peripheral site of entry?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Rapid hematogenous spread through the venous system"
+        },
+        {
+          "id": "b",
+          "label": "Retrograde axoplasmic transport within neurons"
+        },
+        {
+          "id": "c",
+          "label": "Slow migration through the lymphatic system"
+        },
+        {
+          "id": "d",
+          "label": "Direct movement through vascular endothelial cells"
+        },
+        {
+          "id": "e",
+          "label": "Diffusion through the cerebrospinal fluid"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q2": {
+      "type": "mcq",
+      "prompt": "A clinician is managing a patient with chronic Hepatitis C (HCV). Before initiating a specific treatment regimen, the clinician orders molecular genotyping of the virus. According to clinical models, what is the primary reason for identifying the specific HCV genotype?",
+      "options": [
+        {
+          "id": "a",
+          "label": "To determine if the viral genome has integrated into the host cell chromosome"
+        },
+        {
+          "id": "b",
+          "label": "To predict the patient's likelihood of responding to treatment"
+        },
+        {
+          "id": "c",
+          "label": "To identify the specific host cell receptor utilized by the virus"
+        },
+        {
+          "id": "d",
+          "label": "To confirm whether the patient has a mandatory co-infection with Hepatitis D"
+        },
+        {
+          "id": "e",
+          "label": "To differentiate between a primary infection and a reactivation event"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q3": {
+      "type": "mcq",
+      "prompt": "A 68-year-old patient presents with a painful, vesicular rash that follows a T6 dermatome distribution on the chest. The clinician diagnoses shingles, which results from the reactivation of a virus that has remained dormant since a childhood chickenpox infection. Where is the primary site of latency for this virus?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Memory B lymphocytes"
+        },
+        {
+          "id": "b",
+          "label": "Monocytes and macrophages"
+        },
+        {
+          "id": "c",
+          "label": "Sensory nerve ganglia"
+        },
+        {
+          "id": "d",
+          "label": "Vascular endothelial cells"
+        },
+        {
+          "id": "e",
+          "label": "Erythroid progenitor cells"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q4": {
+      "type": "mcq",
+      "prompt": "While most DNA viruses replicate their genomes and undergo transcription within the host cell nucleus, members of the Poxviridae family, such as the Variola virus, are unique. In which cellular location do Poxviruses carry out their replication cycle?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Within the host cell nucleus"
+        },
+        {
+          "id": "b",
+          "label": "Entirely within the host cell cytoplasm"
+        },
+        {
+          "id": "c",
+          "label": "Within the mitochondrial matrix"
+        },
+        {
+          "id": "d",
+          "label": "On the surface of the rough endoplasmic reticulum"
+        },
+        {
+          "id": "e",
+          "label": "Inside the nucleolus"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q5": {
+      "type": "mcq",
+      "prompt": "During the clinical course of an HIV infection, the virus may undergo a shift in coreceptor usage. While early infections typically utilize the CCR5 coreceptor, later stages of the disease are often associated with a switch to the CXCR4 coreceptor. What is the primary clinical significance of this \"tropism switching\"?",
+      "options": [
+        {
+          "id": "a",
+          "label": "The virus becomes more susceptible to protease inhibitors"
+        },
+        {
+          "id": "b",
+          "label": "The virus shifts its primary target from macrophages to T cells"
+        },
+        {
+          "id": "c",
+          "label": "The virus begins to replicate in the nucleus instead of the cytoplasm"
+        },
+        {
+          "id": "d",
+          "label": "The virus loses its lipid envelope and becomes more stable"
+        },
+        {
+          "id": "e",
+          "label": "The virus can no longer be detected by nucleic acid amplification tests"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q6": {
+      "type": "mcq",
+      "prompt": "A patient with a severe Herpes Simplex Virus infection that has failed to respond to acyclovir is started on foscarnet. What biochemical characteristic of foscarnet allows it to remain effective against acyclovir-resistant strains?",
+      "options": [
+        {
+          "id": "a",
+          "label": "It is a nucleoside analog that binds more tightly to the DNA polymerase"
+        },
+        {
+          "id": "b",
+          "label": "It is a pyrophosphate analog that does not require phosphorylation by a viral kinase"
+        },
+        {
+          "id": "c",
+          "label": "It prevents the fusion of the viral envelope with the host cell membrane"
+        },
+        {
+          "id": "d",
+          "label": "It inhibits the viral protease required for capsid maturation"
+        },
+        {
+          "id": "e",
+          "label": "It blocks the integration of the viral cDNA into the host genome"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "The Epstein-Barr Virus (EBV) is the causative agent of infectious mononucleosis and is associated with certain B-cell lymphomas. To establish an infection, the virus must bind to a specific receptor on the surface of human B lymphocytes. Which receptor is utilized by EBV?",
+      "options": [
+        {
+          "id": "a",
+          "label": "CD4"
+        },
+        {
+          "id": "b",
+          "label": "CD21"
+        },
+        {
+          "id": "c",
+          "label": "ACE2"
+        },
+        {
+          "id": "d",
+          "label": "Nicotinic acetylcholine receptor"
+        },
+        {
+          "id": "e",
+          "label": "P antigen"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q8": {
+      "type": "mcq",
+      "prompt": "A patient's Hepatitis B serology panel yields the following results: HBsAg negative, anti-HBc negative, and anti-HBs positive. How should these findings be interpreted?",
+      "options": [
+        {
+          "id": "a",
+          "label": "The patient has an early acute Hepatitis B infection"
+        },
+        {
+          "id": "b",
+          "label": "The patient has recovered from a past natural Hepatitis B infection"
+        },
+        {
+          "id": "c",
+          "label": "The patient has immunity resulting from a successful HBV vaccination"
+        },
+        {
+          "id": "d",
+          "label": "The patient is a chronic Hepatitis B carrier with low infectivity"
+        },
+        {
+          "id": "e",
+          "label": "The patient is in the \"window period\" of an acute infection"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q9": {
+      "type": "mcq",
+      "prompt": "Rotavirus is a major cause of severe, dehydrating diarrhea in infants. The virus produces a non-structural protein, NSP4, which is a key virulence factor. What is the specific role of the NSP4 protein in the pathogenesis of watery diarrhea?",
+      "options": [
+        {
+          "id": "a",
+          "label": "It facilitates the initial attachment of the virus to intestinal villi"
+        },
+        {
+          "id": "b",
+          "label": "It acts as a viral enterotoxin that increases intracellular calcium"
+        },
+        {
+          "id": "c",
+          "label": "It forms the icosahedral capsid that protects the viral genome"
+        },
+        {
+          "id": "d",
+          "label": "It inhibits host cell protein synthesis by degrading cellular mRNA"
+        },
+        {
+          "id": "e",
+          "label": "It serves as the RNA-dependent RNA polymerase for replication"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q10": {
+      "type": "mcq",
+      "prompt": "The replication cycle of the Human Immunodeficiency Virus (HIV) involves the conversion of its RNA genome into DNA. This process is catalyzed by the viral enzyme reverse transcriptase, which is considered a major driver of viral evolution. Which characteristic of reverse transcriptase contributes most significantly to the development of drug resistance?",
+      "options": [
+        {
+          "id": "a",
+          "label": "It proofreads and corrects mutations to ensure high viral fitness"
+        },
+        {
+          "id": "b",
+          "label": "It is a highly error-prone enzyme"
+        },
+        {
+          "id": "c",
+          "label": "It allows the virus to reassort its genome with other unrelated RNA viruses"
+        },
+        {
+          "id": "d",
+          "label": "It catalyzes the rapid glycosylation of viral envelope glycoproteins"
+        },
+        {
+          "id": "e",
+          "label": "It prevents the integration of the provirus into the host genome"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  }
+}

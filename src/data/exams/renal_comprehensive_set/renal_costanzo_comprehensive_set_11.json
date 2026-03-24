@@ -1,0 +1,298 @@
+{
+    "info": {
+        "set_name": "Renal Comprehensive Set 2: Fluid Compartments (MCQ)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A 42-year-old woman is diagnosed with primary adrenal insufficiency (Addison's disease). Due to a deficiency in aldosterone, her kidneys fail to reabsorb adequate amounts of sodium, resulting in significant renal NaCl wasting. After several days, when a new steady state is achieved, which of the following best describes the resulting changes in her body fluid compartments and clinical markers?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased ICF volume, increased ECF volume, and decreased osmolarity"
+                },
+                {
+                    "id": "b",
+                    "label": "Decreased ICF volume, decreased ECF volume, and increased osmolarity"
+                },
+                {
+                    "id": "c",
+                    "label": "Increased ICF volume, decreased ECF volume, and increased hematocrit"
+                },
+                {
+                    "id": "d",
+                    "label": "Decreased ICF volume, increased ECF volume, and decreased plasma protein concentration"
+                },
+                {
+                    "id": "e",
+                    "label": "Unchanged ICF volume, decreased ECF volume, and increased plasma protein concentration"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A 30-year-old female marathon runner loses 3 L of sweat during a race. Sweat is determined to be hyposmotic, with an osmolarity of 150 mOsm/L. Before the race, her total body water was 36 L and her extracellular fluid (ECF) volume was 12 L, with a body fluid osmolarity of 300 mOsm/L. Assuming all lost solute comes from the ECF, what is her ECF volume in the new steady state after osmotic equilibration?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "9.0 L"
+                },
+                {
+                    "id": "b",
+                    "label": "10.0 L"
+                },
+                {
+                    "id": "c",
+                    "label": "11.2 L"
+                },
+                {
+                    "id": "d",
+                    "label": "12.5 L"
+                },
+                {
+                    "id": "e",
+                    "label": "13.1 L"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "A 72-year-old man with a lung tumor presents with confusion and a grand mal seizure. His plasma sodium is 113 mEq/L and plasma osmolarity is 230 mOsm/L, while his urine osmolarity is inappropriately high at 650 mOsm/L. Which of the following describes the state of his fluid compartments compared to normal?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased ECF volume, decreased ICF volume, and increased osmolarity"
+                },
+                {
+                    "id": "b",
+                    "label": "Decreased ECF volume, increased ICF volume, and decreased osmolarity"
+                },
+                {
+                    "id": "c",
+                    "label": "Increased ECF volume, increased ICF volume, and decreased osmolarity"
+                },
+                {
+                    "id": "d",
+                    "label": "Decreased ECF volume, decreased ICF volume, and increased osmolarity"
+                },
+                {
+                    "id": "e",
+                    "label": "Increased ECF volume, unchanged ICF volume, and decreased osmolarity"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "A patient is brought to the emergency department after being lost in a desert without water for 48 hours. As a result of this hyperosmotic volume contraction, which set of changes would be expected in his plasma protein concentration and hematocrit?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Plasma protein concentration decreases; hematocrit increases"
+                },
+                {
+                    "id": "b",
+                    "label": "Plasma protein concentration increases; hematocrit increases"
+                },
+                {
+                    "id": "c",
+                    "label": "Plasma protein concentration decreases; hematocrit decreases"
+                },
+                {
+                    "id": "d",
+                    "label": "Plasma protein concentration increases; hematocrit is unchanged"
+                },
+                {
+                    "id": "e",
+                    "label": "Plasma protein concentration decreases; hematocrit is unchanged"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "A patient with primary adrenal insufficiency (Addison's disease) is analyzed for fluid balance disturbances. Because of the deficiency in aldosterone, there is decreased renal reabsorption of NaCl. Which of the following results from the subsequent shift of water between compartments?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Decreased ECF volume and increased ICF volume"
+                },
+                {
+                    "id": "b",
+                    "label": "Increased ECF volume and increased ICF volume"
+                },
+                {
+                    "id": "c",
+                    "label": "Decreased ECF volume and decreased ICF volume"
+                },
+                {
+                    "id": "d",
+                    "label": "Increased ECF volume and decreased ICF volume"
+                },
+                {
+                    "id": "e",
+                    "label": "Unchanged ECF volume and increased ICF volume"
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "A research subject is given 1 L of a 3% NaCl solution intravenously. After osmotic equilibrium, which of the following describes the distribution of total body water (TBW) and the shift of fluid between compartments?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased TBW, increased ECF volume, and increased ICF volume"
+                },
+                {
+                    "id": "b",
+                    "label": "Increased TBW, increased ECF volume, and decreased ICF volume"
+                },
+                {
+                    "id": "c",
+                    "label": "Increased TBW, decreased ECF volume, and increased ICF volume"
+                },
+                {
+                    "id": "d",
+                    "label": "Decreased TBW, increased ECF volume, and decreased ICF volume"
+                },
+                {
+                    "id": "e",
+                    "label": "Unchanged TBW, increased ECF volume, and decreased ICF volume"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "A patient presents with severe, watery diarrhea. Analysis of the blood reveals a decrease in arterial pressure. Which of the following is the most likely cause of the increased hematocrit observed in this patient?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Water shifting from the ECF into the red blood cells"
+                },
+                {
+                    "id": "b",
+                    "label": "Water shifting from the ICF into the ECF"
+                },
+                {
+                    "id": "c",
+                    "label": "Concentration of red blood cells due to loss of isosmotic ECF"
+                },
+                {
+                    "id": "d",
+                    "label": "Increased production of erythropoietin due to hypoxia"
+                },
+                {
+                    "id": "e",
+                    "label": "Decreased plasma protein concentration causing fluid to enter the cells"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "In a clinical experiment, two volunteers ingest different solutions. Subject A drinks 2 L of distilled water, while Subject B drinks 2 L of isotonic NaCl. Compared to Subject B, Subject A will exhibit which of the following at steady state?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "A greater increase in ECF volume and a higher urine flow rate"
+                },
+                {
+                    "id": "b",
+                    "label": "A greater increase in ECF volume and a higher urine osmolarity"
+                },
+                {
+                    "id": "c",
+                    "label": "A greater increase in ICF volume and a higher positive free-water clearance"
+                },
+                {
+                    "id": "d",
+                    "label": "A smaller increase in TBW and a higher circulating level of ADH"
+                },
+                {
+                    "id": "e",
+                    "label": "No change in ICF volume and a higher urine flow rate"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "A patient in hypovolemic shock following a hemorrhage exhibits \"autotransfusion\". This compensatory mechanism involves a transcapillary shift of fluid. Which change in Starling forces at the systemic capillaries is primarily responsible for this fluid shift?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased interstitial fluid hydrostatic pressure"
+                },
+                {
+                    "id": "b",
+                    "label": "Decreased plasma oncotic pressure"
+                },
+                {
+                    "id": "c",
+                    "label": "Increased capillary oncotic pressure"
+                },
+                {
+                    "id": "d",
+                    "label": "Decreased interstitial fluid oncotic pressure"
+                },
+                {
+                    "id": "e",
+                    "label": "Decreased capillary hydrostatic pressure"
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "A 20-year-old woman is evaluated for rapid weight gain and fluid retention. Her plasma protein concentration is 3.6 g/dL (normal = 7.0 g/dL), and her urine is negative for protein. Which set of changes in capillary dynamics and lymph flow would be expected?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased capillary filtration, increased interstitial fluid pressure, and increased lymph flow"
+                },
+                {
+                    "id": "b",
+                    "label": "Decreased capillary filtration, decreased interstitial fluid pressure, and increased lymph flow"
+                },
+                {
+                    "id": "c",
+                    "label": "Increased capillary filtration, decreased interstitial fluid pressure, and decreased lymph flow"
+                },
+                {
+                    "id": "d",
+                    "label": "Decreased capillary filtration, increased interstitial fluid pressure, and decreased lymph flow"
+                },
+                {
+                    "id": "e",
+                    "label": "Increased capillary filtration, increased interstitial fluid pressure, and decreased lymph flow"
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        }
+    }
+}

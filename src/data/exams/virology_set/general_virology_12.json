@@ -1,0 +1,36 @@
+{
+  "info": {
+    "set_name": "General Virology 12",
+    "description": "",
+    "source": ""
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "Hepatitis D virus (HDV) is a unique \"defective\" RNA virus that can only establish a productive infection in individuals who are also infected with the Hepatitis B virus (HBV). Which specific HBV component is required by HDV for its assembly and infectivity?",
+      "options": [
+        {
+          "id": "a",
+          "label": "HBV-encoded DNA polymerase"
+        },
+        {
+          "id": "b",
+          "label": "HBV reverse transcriptase"
+        },
+        {
+          "id": "c",
+          "label": "HBV surface antigen (HBsAg) for its envelope"
+        },
+        {
+          "id": "d",
+          "label": "HBV core antigen (HBcAg) for its protein shell"
+        },
+        {
+          "id": "e",
+          "label": "HBV soluble \"e\" antigen (HBeAg)"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    }
+  }
+}

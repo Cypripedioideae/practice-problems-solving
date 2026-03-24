@@ -1,0 +1,733 @@
+{
+    "info": {
+        "set_name": "Cardiovascular Comprehensive Set 2: Hemodynamics (MCQ)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A 53-year-old woman undergoes an arteriography that reveals a 50% narrowing of her left renal artery. Compared to the pre-stenotic state, what is the expected change in resistance through this specific artery?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "2-fold increase"
+                },
+                {
+                    "id": "b",
+                    "label": "4-fold increase"
+                },
+                {
+                    "id": "c",
+                    "label": "8-fold increase"
+                },
+                {
+                    "id": "d",
+                    "label": "16-fold increase"
+                },
+                {
+                    "id": "e",
+                    "label": "32-fold increase"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A physiology student is modeling the arrangement of organ systems. If a new vascular bed is added in parallel to the current systemic circulation, what is the mathematical effect on the total peripheral resistance (TPR)?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "It increases, because resistances in parallel are additive."
+                },
+                {
+                    "id": "b",
+                    "label": "It decreases, and the total resistance becomes lower than any single parallel resistance."
+                },
+                {
+                    "id": "c",
+                    "label": "It remains unchanged, as parallel circuits do not affect the main aortic pressure."
+                },
+                {
+                    "id": "d",
+                    "label": "It decreases only if the new vessel has a larger radius than the aorta."
+                },
+                {
+                    "id": "e",
+                    "label": "It increases proportional to the length of the new vessel added."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "A patient with severe chronic kidney disease and a hematocrit of 18% presents with a systolic bruit heard over the carotid bifurcation. Which hemodynamic change is primarily responsible for the appearance of this sound?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased blood viscosity leading to laminar flow."
+                },
+                {
+                    "id": "b",
+                    "label": "Decreased blood velocity due to a decrease in cardiac output."
+                },
+                {
+                    "id": "c",
+                    "label": "Increased arterial compliance secondary to low hematocrit."
+                },
+                {
+                    "id": "d",
+                    "label": "Decreased blood viscosity."
+                },
+                {
+                    "id": "e",
+                    "label": "Decreased shear rate at the vessel wall."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "A 78-year-old male has a brachial blood pressure of 170/70 mmHg. Which statement best analyzes the hemodynamic state of his large arteries?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased arterial compliance has resulted in an increased pulse pressure."
+                },
+                {
+                    "id": "b",
+                    "label": "Increased capacitance of the arteries has caused a rise in stressed volume."
+                },
+                {
+                    "id": "c",
+                    "label": "Decreased arterial compliance has caused an increase in pulse pressure."
+                },
+                {
+                    "id": "d",
+                    "label": "Decreased arterial resistance has caused the systolic pressure to rise and diastolic blood pressure to drop."
+                },
+                {
+                    "id": "e",
+                    "label": "Increased unstressed volume in the arteries is responsible for the wide pulse pressure."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "A 45-year-old woman is found to have a blood pressure of 130/85 mmHg. Based on the weight of time spent in each phase of the cardiac cycle, what is her approximate mean arterial pressure (MAP)?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "100 mmHg"
+                },
+                {
+                    "id": "b",
+                    "label": "107 mmHg"
+                },
+                {
+                    "id": "c",
+                    "label": "110 mmHg"
+                },
+                {
+                    "id": "d",
+                    "label": "115 mmHg"
+                },
+                {
+                    "id": "e",
+                    "label": "122 mmHg"
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "During a physiological study on autonomic tone, a subject is administered an \u03b1_1 adrenergic agonist that targets the veins. What is the primary hemodynamic shift that occurs?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Blood shifts from the stressed volume to the unstressed volume."
+                },
+                {
+                    "id": "b",
+                    "label": "Venous compliance increases, leading to a drop in right atrial pressure."
+                },
+                {
+                    "id": "c",
+                    "label": "The unstressed volume increases, thereby decreasing the mean systemic pressure."
+                },
+                {
+                    "id": "d",
+                    "label": "Blood shifts from the unstressed volume to the stressed volume, increasing mean systemic pressure."
+                },
+                {
+                    "id": "e",
+                    "label": "Arterial compliance decreases significantly, causing a drop in systolic pressure."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "In a patient with a cardiac output of 5 L/min, the velocity of blood flow is compared between the aorta (area = 2 cm^2) and the capillaries (total area = 2500 cm^2). Which site has the highest velocity and what is the functional consequence?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The capillaries, to maximize the pressure gradient for nutrient exchange."
+                },
+                {
+                    "id": "b",
+                    "label": "The aorta, because its smaller cross-sectional area requires a higher linear velocity to maintain the same volume flow."
+                },
+                {
+                    "id": "c",
+                    "label": "The capillaries, because their large surface area increases the kinetic energy of the blood."
+                },
+                {
+                    "id": "d",
+                    "label": "The aorta, because its high compliance allows for rapid displacement of the stressed volume."
+                },
+                {
+                    "id": "e",
+                    "label": "Both have equal velocity because the cardiac output is the same at all levels of the series."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "A patient is diagnosed with moderate aortic valve stenosis. Which change in the arterial pressure profile would be most consistent with this diagnosis?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "An increase in pulse pressure due to a compensatory increase in stroke volume."
+                },
+                {
+                    "id": "b",
+                    "label": "An increase in systolic pressure due to the high pressure in the left ventricle."
+                },
+                {
+                    "id": "c",
+                    "label": "A decrease in pulse pressure due to a reduced stroke volume ejected into the aorta."
+                },
+                {
+                    "id": "d",
+                    "label": "An increase in diastolic pressure due to the restriction of runoff from the aorta."
+                },
+                {
+                    "id": "e",
+                    "label": "A significant increase in mean arterial pressure to overcome the stenotic resistance."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "An experimental drug causes a 50% decrease in the radius of the arterioles in a specific organ. If the perfusion pressure remains constant, how will the blood flow to that organ be affected?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "It will decrease to 1/2 of the original flow."
+                },
+                {
+                    "id": "b",
+                    "label": "It will decrease to 1/4 of the original flow."
+                },
+                {
+                    "id": "c",
+                    "label": "It will decrease to 1/8 of the original flow."
+                },
+                {
+                    "id": "d",
+                    "label": "It will decrease to 1/16 of the original flow."
+                },
+                {
+                    "id": "e",
+                    "label": "It will decrease by 50% because flow and radius are linearly related."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "A clinician uses a Doppler probe to measure blood velocity. He notes that the velocity is zero at the vessel wall and maximum in the center. If the vessel wall is damaged and becomes \"rougher,\" what is the most likely hemodynamic result?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The flow profile becomes more parabolic, increasing cardiac efficiency."
+                },
+                {
+                    "id": "b",
+                    "label": "The Reynolds number increases, predisposing the patient to turbulent flow and bruits."
+                },
+                {
+                    "id": "c",
+                    "label": "The shear rate decreases at the wall, promoting red blood cell aggregation."
+                },
+                {
+                    "id": "d",
+                    "label": "Resistance to flow decreases because the rougher surface breaks up the axial stream."
+                },
+                {
+                    "id": "e",
+                    "label": "The blood viscosity increases significantly because the shear stress is eliminated."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q11": {
+            "type": "mcq",
+            "prompt": "A researcher observes that the pressure in a large artery is 100 mmHg, while the pressure at the end of the corresponding arterioles is 30 mmHg. What is the analysis of this specific 70 mmHg pressure drop?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Arterioles have the largest total cross-sectional area."
+                },
+                {
+                    "id": "b",
+                    "label": "The arterioles constitute the site of highest resistance in the vasculature."
+                },
+                {
+                    "id": "c",
+                    "label": "The velocity of blood is highest in the arterioles."
+                },
+                {
+                    "id": "d",
+                    "label": "The arterioles have the highest compliance in the system."
+                },
+                {
+                    "id": "e",
+                    "label": "Viscosity is the primary determinant of this drop in the resistance vessels."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q12": {
+            "type": "mcq",
+            "prompt": "A 60-year-old patient with atherosclerosis is found to have decreased arterial compliance. How will this change affect the dicrotic notch on the pressure tracing?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The notch will occur earlier in systole due to rapid ejection."
+                },
+                {
+                    "id": "b",
+                    "label": "The notch will disappear entirely because the aortic valve cannot close."
+                },
+                {
+                    "id": "c",
+                    "label": "The notch will be followed by a much higher diastolic pressure."
+                },
+                {
+                    "id": "d",
+                    "label": "The notch will be superimposed on a higher pressure curve due to decreased damping."
+                },
+                {
+                    "id": "e",
+                    "label": "The notch will only appear on the venous pulse tracing."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q13": {
+            "type": "mcq",
+            "prompt": "A patient presents with a large left-to-right ventricular shunt. Which hemodynamic value is expected to be higher than normal?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Left ventricular end-diastolic volume."
+                },
+                {
+                    "id": "b",
+                    "label": "Aortic pulse pressure."
+                },
+                {
+                    "id": "c",
+                    "label": "Total peripheral resistance."
+                },
+                {
+                    "id": "d",
+                    "label": "Pulmonary blood flow."
+                },
+                {
+                    "id": "e",
+                    "label": "Mean arterial pressure."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q14": {
+            "type": "mcq",
+            "prompt": "Following a severe hemorrhage, a patient's total peripheral resistance (TPR) increases significantly. Which set of vessels is primarily responsible for this change and why?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The large arteries, due to their thick elastic walls."
+                },
+                {
+                    "id": "b",
+                    "label": "The capillaries, due to their massive total surface area."
+                },
+                {
+                    "id": "c",
+                    "label": "The veins, because they contain the unstressed volume."
+                },
+                {
+                    "id": "d",
+                    "label": "The vena cava, because it has the lowest pressure."
+                },
+                {
+                    "id": "e",
+                    "label": "The arterioles, because their smooth muscle is highly sensitive to sympathetic activity."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q15": {
+            "type": "mcq",
+            "prompt": "If the hematocrit of a patient increases from 45% to 60% (polycythemia), what is the most likely effect on the vascular resistance (R)?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "R decreases because the blood is more \"fluid.\""
+                },
+                {
+                    "id": "b",
+                    "label": "R remains unchanged as viscosity is not a factor in Poiseuille's Law."
+                },
+                {
+                    "id": "c",
+                    "label": "R increases because resistance is directly proportional to blood viscosity."
+                },
+                {
+                    "id": "d",
+                    "label": "R increases because the vessel radius will compensatory decrease."
+                },
+                {
+                    "id": "e",
+                    "label": "R decreases because the velocity of flow must increase to maintain cardiac output."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q16": {
+            "type": "mcq",
+            "prompt": "A patient has a mean arterial pressure of 120 mmHg and a right atrial pressure of 0 mmHg. If his cardiac output is 5 L/min, what is his calculated total peripheral resistance (TPR)?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "0.024 mmHg/mL/min"
+                },
+                {
+                    "id": "b",
+                    "label": "0.042 mmHg/mL/min"
+                },
+                {
+                    "id": "c",
+                    "label": "24 mmHg/L/min"
+                },
+                {
+                    "id": "d",
+                    "label": "120 mmHg/L/min"
+                },
+                {
+                    "id": "e",
+                    "label": "600 mmHg/L/min"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q17": {
+            "type": "mcq",
+            "prompt": "In a series arrangement of vessels (Artery \u2192 Arteriole \u2192 Capillary), which of the following is true?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The flow is highest in the artery."
+                },
+                {
+                    "id": "b",
+                    "label": "The flow is the same in each vessel."
+                },
+                {
+                    "id": "c",
+                    "label": "The resistance is lowest in the arteriole."
+                },
+                {
+                    "id": "d",
+                    "label": "The pressure is the same at each level."
+                },
+                {
+                    "id": "e",
+                    "label": "Total resistance is less than any individual resistance."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q18": {
+            "type": "mcq",
+            "prompt": "A patient has a stroke volume of 70 mL and a heart rate of 70 beats/min. If the arterial compliance is 1 mL/mmHg, what is the approximate pulse pressure?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "1 mmHg"
+                },
+                {
+                    "id": "b",
+                    "label": "49 mmHg"
+                },
+                {
+                    "id": "c",
+                    "label": "70 mmHg"
+                },
+                {
+                    "id": "d",
+                    "label": "140 mmHg"
+                },
+                {
+                    "id": "e",
+                    "label": "4900 mmHg"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q19": {
+            "type": "mcq",
+            "prompt": "A 25-year-old athlete has a resting heart rate of 40 beats/min and a stroke volume of 125 mL. How does his mean arterial pressure (MAP) likely compare to a sedentary person with a heart rate of 80 beats/min and a stroke volume of 62.5 mL?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "It is significantly higher because of the high stroke volume."
+                },
+                {
+                    "id": "b",
+                    "label": "It is significantly lower because of the low heart rate."
+                },
+                {
+                    "id": "c",
+                    "label": "It is approximately the same because the cardiac output is the same."
+                },
+                {
+                    "id": "d",
+                    "label": "It is lower because athletes have lower peripheral resistance at rest."
+                },
+                {
+                    "id": "e",
+                    "label": "It cannot be determined without knowing the venous compliance."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q20": {
+            "type": "mcq",
+            "prompt": "During the measurement of blood pressure, the cuff is inflated above systolic pressure and then slowly deflated. What is the hemodynamic cause of the Korotkoff sounds?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Laminar flow returning to the artery."
+                },
+                {
+                    "id": "b",
+                    "label": "Turbulent flow produced as blood squirts through a partially occluded vessel."
+                },
+                {
+                    "id": "c",
+                    "label": "Closing of the aortic valve."
+                },
+                {
+                    "id": "d",
+                    "label": "Vibrations of the arterial wall during isovolumetric contraction."
+                },
+                {
+                    "id": "e",
+                    "label": "The conversion of stressed volume back to unstressed volume."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q21": {
+            "type": "mcq",
+            "prompt": "A patient suffers from an allergic reaction that causes the release of a massive amount of histamine. What is the expected hemodynamic effect on the capillaries?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Arteriolar constriction and decreased capillary hydrostatic pressure."
+                },
+                {
+                    "id": "b",
+                    "label": "Arteriolar dilation and increased capillary hydrostatic pressure, leading to edema."
+                },
+                {
+                    "id": "c",
+                    "label": "Venous dilation leading to a decrease in capillary filtration."
+                },
+                {
+                    "id": "d",
+                    "label": "Increased plasma protein concentration and decreased oncotic pressure."
+                },
+                {
+                    "id": "e",
+                    "label": "Decreased hydraulic conductance (K_f)."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q22": {
+            "type": "mcq",
+            "prompt": "A researcher increases the pressure gradient across a parallel resistance network by 20%. Simultaneously, he adds two more identical resistances in parallel to the system. What happens to the total flow (Q)?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Q decreases because resistance is increased."
+                },
+                {
+                    "id": "b",
+                    "label": "Q increases because the total resistance of the system has decreased."
+                },
+                {
+                    "id": "c",
+                    "label": "Q remains constant because the pressure gradient is balanced by the new vessels."
+                },
+                {
+                    "id": "d",
+                    "label": "Q increases only if the new vessels are shorter than the original ones."
+                },
+                {
+                    "id": "e",
+                    "label": "Q decreases because parallel arrangements increase the total cross-sectional area."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q23": {
+            "type": "mcq",
+            "prompt": "In a patient with patent ductus arteriosus (PDA), blood shunts from the aorta to the pulmonary artery. How does this affect the systemic pulse pressure?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "It decreases because stroke volume is reduced."
+                },
+                {
+                    "id": "b",
+                    "label": "It increases because diastolic pressure falls (runoff into the pulmonary artery) and stroke volume increases."
+                },
+                {
+                    "id": "c",
+                    "label": "It remains normal because the shunt occurs during diastole only."
+                },
+                {
+                    "id": "d",
+                    "label": "It decreases because arterial compliance increases."
+                },
+                {
+                    "id": "e",
+                    "label": "It increases because the pulmonary vascular resistance increases the afterload."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q24": {
+            "type": "mcq",
+            "prompt": "A woman moves from a supine to an upright position. The initial drop in her blood pressure is sensed by the baroreceptors. If the baroreceptor reflex were blocked, what would be the most immediate hemodynamic finding?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased heart rate."
+                },
+                {
+                    "id": "b",
+                    "label": "Increased total peripheral resistance."
+                },
+                {
+                    "id": "c",
+                    "label": "Significant decrease in mean arterial pressure."
+                },
+                {
+                    "id": "d",
+                    "label": "Increased stroke volume due to venous pooling."
+                },
+                {
+                    "id": "e",
+                    "label": "Increased mean systemic filling pressure."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q25": {
+            "type": "mcq",
+            "prompt": "A large systemic vein is constricted. What is the expected effect on the capillary hydrostatic pressure (P_c) \"upstream\" of that vein?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "P_c decreases because flow is restricted."
+                },
+                {
+                    "id": "b",
+                    "label": "P_c increases because the back-pressure from the venous side is transmitted to the capillaries."
+                },
+                {
+                    "id": "c",
+                    "label": "P_c remains constant because the arterioles regulate the pressure."
+                },
+                {
+                    "id": "d",
+                    "label": "P_c decreases because filtration increases."
+                },
+                {
+                    "id": "e",
+                    "label": "P_c increases only if the oncotic pressure also increases."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        }
+    }
+}

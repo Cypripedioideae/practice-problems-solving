@@ -1,0 +1,413 @@
+{
+  "info": {
+    "set_name": "General Bacteriology 1",
+    "source": "-"
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "A 25-year-old patient presents with high fever, hypotension, and a diffuse skin rash. Laboratory results confirm a non-suppurative infection caused by *Staphylococcus aureus*. Which molecular interaction describes the mechanism of the toxin responsible for this patient's systemic presentation?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Activation of the complement system via Lipid A"
+        },
+        {
+          "id": "b",
+          "label": "Prevention of phagosome-lysosome fusion"
+        },
+        {
+          "id": "c",
+          "label": "Destruction of intercellular connections in the skin"
+        },
+        {
+          "id": "d",
+          "label": "Inhibition of protein synthesis via EF-2 ribosylation"
+        },
+        {
+          "id": "e",
+          "label": "Binding to the outer surface of MHC Class II and T-cell receptors"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q2": {
+      "type": "mcq",
+      "prompt": "A 7-year-old child presents with periorbital edema three weeks after recovering from a suppurative skin infection. Based on the timing and history, which mechanism is responsible for this condition?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Direct invasion of the kidney by Gram-positive cocci in chains"
+        },
+        {
+          "id": "b",
+          "label": "Cross-reaction of M protein with heart tissue antigens"
+        },
+        {
+          "id": "c",
+          "label": "Deposition of antigen-antibody complexes at the glomerular basement membrane"
+        },
+        {
+          "id": "d",
+          "label": "Toxin-mediated destruction of the renal basement membrane"
+        },
+        {
+          "id": "e",
+          "label": "Massive T-cell activation via superantigen production"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q3": {
+      "type": "mcq",
+      "prompt": "A 68-year-old male with a history of alcohol use disorder presents with abrupt onset of fever, chills, and a productive cough with 'rusty' sputum. Sputum Gram stain reveals Gram-positive, lancet-shaped diplococci. Which laboratory test is most useful for definitive identification?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Optochin sensitivity test"
+        },
+        {
+          "id": "b",
+          "label": "Bacitracin sensitivity test"
+        },
+        {
+          "id": "c",
+          "label": "Novobiocin sensitivity test"
+        },
+        {
+          "id": "d",
+          "label": "Coagulase test"
+        },
+        {
+          "id": "e",
+          "label": "CAMP test"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q4": {
+      "type": "mcq",
+      "prompt": "A patient presents with a lung infection. Laboratory serology (EIA) detects rising titers of IgM against *Mycoplasma pneumoniae*. Why is a standard Gram stain ineffective for the direct microscopic examination of this pathogen?",
+      "options": [
+        {
+          "id": "a",
+          "label": "The organism is an obligate intracellular parasite"
+        },
+        {
+          "id": "b",
+          "label": "The organism lacks a cell wall"
+        },
+        {
+          "id": "c",
+          "label": "The organism has a thick hyaluronic acid capsule"
+        },
+        {
+          "id": "d",
+          "label": "The organism requires specialized buffered charcoal yeast extract agar to grow"
+        },
+        {
+          "id": "e",
+          "label": "The organism is a Gram-variable coccobacillus"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q5": {
+      "type": "mcq",
+      "prompt": "A patient is admitted with sepsis. Blood cultures reveal the presence of lancet-shaped Gram-positive diplococci. What is the primary mechanism of the major virulence factor associated with this organism?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Production of H_2O_2 to cause complete hemolysis"
+        },
+        {
+          "id": "b",
+          "label": "Biofilm formation on epithelium"
+        },
+        {
+          "id": "c",
+          "label": "Intracellular survival via mycolic acid"
+        },
+        {
+          "id": "d",
+          "label": "Secretion of exfoliative toxins"
+        },
+        {
+          "id": "e",
+          "label": "Antiphagocytosis by a polysaccharide capsule"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q6": {
+      "type": "mcq",
+      "prompt": "A 15-year-old patient with cystic fibrosis presents with a worsening cough and production of green-pigmented sputum. Laboratory cultures of the sputum yield oxidase-positive, Gram-negative slim bacilli. What is the molecular mechanism of the primary exotoxin produced by this organism?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Activation of T-cells via MHC Class II binding"
+        },
+        {
+          "id": "b",
+          "label": "Inhibition of neurotransmitter release from motor neurons"
+        },
+        {
+          "id": "c",
+          "label": "ADP-ribosylation of elongation factor-2 (EF-2)"
+        },
+        {
+          "id": "d",
+          "label": "Inactivation of 60S ribosomal subunits"
+        },
+        {
+          "id": "e",
+          "label": "Disruption of desmosomes in the epidermis"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "A cattle farmer presents with a painless, necrotic skin ulcer with a central area of black eschar. A Gram stain of the lesion shows large Gram-positive bacilli arranged in chains. Which characteristic is most likely to be associated with this pathogen?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Ability to form endospores for environmental survival"
+        },
+        {
+          "id": "b",
+          "label": "Requirement of chocolate agar for growth"
+        },
+        {
+          "id": "c",
+          "label": "Positive reaction in a CAMP test"
+        },
+        {
+          "id": "d",
+          "label": "Absence of a rigid peptidoglycan cell wall"
+        },
+        {
+          "id": "e",
+          "label": "Production of pyocyanin and pyorubin pigments"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q8": {
+      "type": "mcq",
+      "prompt": "A child develops bloody diarrhea after consuming an undercooked hamburger. The causative agent is identified as a Gram-negative bacillus that is a lactose fermenter and oxidase negative. What is the target of the toxin responsible for the damage in this case?",
+      "options": [
+        {
+          "id": "a",
+          "label": "60S ribosomal subunit"
+        },
+        {
+          "id": "b",
+          "label": "Presynaptic inhibitory neurons"
+        },
+        {
+          "id": "c",
+          "label": "Elongation factor-2 (EF-2)"
+        },
+        {
+          "id": "d",
+          "label": "Glomerular basement membrane"
+        },
+        {
+          "id": "e",
+          "label": "Intercellular desmosomes"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q9": {
+      "type": "mcq",
+      "prompt": "An elderly patient with a long-term urinary catheter develops a hospital-acquired infection. The laboratory isolates a Gram-positive coccus that is PYR-positive and grows in the presence of 6.5% NaCl. To which group of antibiotics does this organism exhibit natural (intrinsic) resistance?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Aminopenicillins"
+        },
+        {
+          "id": "b",
+          "label": "Carbapenems"
+        },
+        {
+          "id": "c",
+          "label": "Fluoroquinolones"
+        },
+        {
+          "id": "d",
+          "label": "Glycylcyclines"
+        },
+        {
+          "id": "e",
+          "label": "Cephalosporins"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q10": {
+      "type": "mcq",
+      "prompt": "A child with an unclear vaccination history presents with a severe sore throat and a thick, greyish patch over the tonsils and pharynx. Microscopic examination shows Gram-positive, club-shaped rods in a \"Chinese letter\" arrangement. Which specialized medium is used for the isolation of this pathogen?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Buffered charcoal yeast extract (BCYE) agar"
+        },
+        {
+          "id": "b",
+          "label": "Hektoen enteric agar"
+        },
+        {
+          "id": "c",
+          "label": "Thayer-Martin agar"
+        },
+        {
+          "id": "d",
+          "label": "Tellurite blood agar"
+        },
+        {
+          "id": "e",
+          "label": "TCBS agar"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q11": {
+      "type": "mcq",
+      "prompt": "A 22-year-old patient presents with a purulent urethral discharge. A Gram stain of the discharge reveals the presence of Gram-negative, kidney-shaped diplococci. Which pathogen is most likely responsible for this finding?",
+      "options": [
+        {
+          "id": "a",
+          "label": "*Haemophilus ducreyi*"
+        },
+        {
+          "id": "b",
+          "label": "*Gardnerella vaginalis*"
+        },
+        {
+          "id": "c",
+          "label": "*Treponema pallidum*"
+        },
+        {
+          "id": "d",
+          "label": "*Chlamydia trachomatis*"
+        },
+        {
+          "id": "e",
+          "label": "*Neisseria gonorrhoeae*"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q12": {
+      "type": "mcq",
+      "prompt": "A patient is admitted to the hospital with a high fever and a rapidly progressing skin rash characterized by vascular damage. Laboratory tests confirm a systemic infection with *Neisseria meningitidis*. Which specific bacterial component is responsible for triggering this vascular damage and rash?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Opacity proteins"
+        },
+        {
+          "id": "b",
+          "label": "Type IV pili"
+        },
+        {
+          "id": "c",
+          "label": "Porin proteins (PorA/PorB)"
+        },
+        {
+          "id": "d",
+          "label": "Lipooligosaccharide (LOS)"
+        },
+        {
+          "id": "e",
+          "label": "Polysaccharide capsule"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q13": {
+      "type": "mcq",
+      "prompt": "A group of individuals develops nausea and vomiting shortly after consuming meat and dairy products at a picnic. The condition is determined to be caused by *Staphylococcus aureus*. Which statement best describes the pathogenesis of this condition?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Ingestion of a preformed enterotoxin in the food"
+        },
+        {
+          "id": "b",
+          "label": "Activation of the complement system by Protein A"
+        },
+        {
+          "id": "c",
+          "label": "Production of TSST-1 following intestinal colonization"
+        },
+        {
+          "id": "d",
+          "label": "Destruction of desmosomes by exfoliative toxins"
+        },
+        {
+          "id": "e",
+          "label": "Direct invasion of the intestinal mucosa by the bacteria"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q14": {
+      "type": "mcq",
+      "prompt": "A pregnant woman develops a febrile illness after consuming refrigerated food. The isolated pathogen is a Gram-positive small bacillus that utilizes actin polymerization (ActA) to move between host cells. What is the primary purpose of this mechanism?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Facilitation of cell-to-cell spreading"
+        },
+        {
+          "id": "b",
+          "label": "Attachment to the vaginal epithelium"
+        },
+        {
+          "id": "c",
+          "label": "Inhibition of the host's protein synthesis"
+        },
+        {
+          "id": "d",
+          "label": "Escape from the host cell vacuole"
+        },
+        {
+          "id": "e",
+          "label": "Neutralization of gastric acid secretion"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q15": {
+      "type": "mcq",
+      "prompt": "A young child is diagnosed with meningitis caused by *Haemophilus influenzae*. Which structural component serves as the major virulence factor for this pathogen in the development of this disease?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Sialic acid capsule"
+        },
+        {
+          "id": "b",
+          "label": "Polysaccharide capsule"
+        },
+        {
+          "id": "c",
+          "label": "Modified-acid fast cell wall"
+        },
+        {
+          "id": "d",
+          "label": "Endoflagella"
+        },
+        {
+          "id": "e",
+          "label": "Mycolic acid"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  }
+}

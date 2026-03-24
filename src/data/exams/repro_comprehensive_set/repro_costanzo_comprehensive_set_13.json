@@ -1,0 +1,356 @@
+{
+    "info": {
+        "set_name": "Reproductive Comprehensive Set 2: Male Physiology - Hormonal Control (MCQ)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A 68-year-old male with advanced prostate cancer is prescribed a long-acting, continuous-release GnRH agonist. While his testosterone levels briefly spike during the first week of treatment, they subsequently fall to near-castrate levels. Which of the following best explains the cellular mechanism for this sustained decrease?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased synthesis of dopamine from the hypothalamus."
+                },
+                {
+                    "id": "b",
+                    "label": "Competitive inhibition of the LH receptors on Leydig cells."
+                },
+                {
+                    "id": "c",
+                    "label": "Activation of a G-inhibitory (Gi) protein in the gonadotrophs."
+                },
+                {
+                    "id": "d",
+                    "label": "Down-regulation of GnRH receptors in the anterior pituitary."
+                },
+                {
+                    "id": "e",
+                    "label": "Exhaustion of the cholesterol desmolase enzyme within the testes."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A 55-year-old man presents with urinary frequency and urgency. He is diagnosed with benign prostatic hyperplasia and started on finasteride, which inhibits 5\u03b1-reductase. This treatment results in a significant reduction in prostate volume. Which of the following changes in his hormonal profile is most likely after several weeks of therapy?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Decreased plasma testosterone; increased plasma dihydrotestosterone."
+                },
+                {
+                    "id": "b",
+                    "label": "Increased plasma testosterone; increased plasma dihydrotestosterone."
+                },
+                {
+                    "id": "c",
+                    "label": "Decreased plasma testosterone; decreased plasma dihydrotestosterone."
+                },
+                {
+                    "id": "d",
+                    "label": "Decreased plasma testosterone; unchanged plasma dihydrotestosterone."
+                },
+                {
+                    "id": "e",
+                    "label": "Increased plasma testosterone; decreased plasma dihydrotestosterone."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "During a fertility evaluation, a man is found to have a total semen volume of only 0.5 mL (normal 2-5 mL). Chemical analysis of the sample shows a complete absence of fructose. Which of the following structures is most likely obstructed or dysfunctional in this patient?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Prostate gland."
+                },
+                {
+                    "id": "b",
+                    "label": "Seminal vesicles."
+                },
+                {
+                    "id": "c",
+                    "label": "Bulbourethral (Cowper's) glands."
+                },
+                {
+                    "id": "d",
+                    "label": "Epididymis."
+                },
+                {
+                    "id": "e",
+                    "label": "Seminiferous tubules."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "A patient is born with a mutation that results in the complete absence of LH receptors on his Leydig cells. If his FSH receptors on the Sertoli cells are fully functional, what is the most likely status of his spermatogenesis?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Severely impaired, because high local concentrations of testosterone are required to reinforce FSH action."
+                },
+                {
+                    "id": "b",
+                    "label": "Normal, because FSH is the only hormone required to initiate and maintain spermatogenesis."
+                },
+                {
+                    "id": "c",
+                    "label": "Normal, because adrenal androgens will compensate for the lack of testicular testosterone."
+                },
+                {
+                    "id": "d",
+                    "label": "Enhanced, because the lack of testosterone will prevent the negative feedback inhibition of FSH."
+                },
+                {
+                    "id": "e",
+                    "label": "Severely impaired, because LH is required to stimulate the acrosomal reaction within the tubules."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "An experimental drug is administered to a male volunteer that selectively blocks the synthesis of inhibin by the Sertoli cells but does not affect any other testicular function. After several weeks, which of the following changes in his hypothalamic-pituitary-testicular axis would you expect?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased LH secretion and increased testosterone production."
+                },
+                {
+                    "id": "b",
+                    "label": "Decreased GnRH pulse frequency and decreased FSH secretion."
+                },
+                {
+                    "id": "c",
+                    "label": "Increased FSH secretion with normal LH and testosterone levels."
+                },
+                {
+                    "id": "d",
+                    "label": "Decreased FSH secretion and decreased sperm count."
+                },
+                {
+                    "id": "e",
+                    "label": "Increased GnRH, increased FSH, and increased LH secretion."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "A 24-year-old male with a complete spinal cord transection at the T10 level is being evaluated for sexual dysfunction. His physician explains that while he may still achieve a reflexogenic erection, he will likely be unable to ejaculate voluntarily. Which of the following best describes the autonomic coordination of these events?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Erection is a sympathetic reflex; ejaculation is a parasympathetic reflex."
+                },
+                {
+                    "id": "b",
+                    "label": "Erection is a parasympathetic reflex; ejaculation is a sympathetic reflex."
+                },
+                {
+                    "id": "c",
+                    "label": "Both erection and ejaculation are primarily mediated by somatic motor neurons."
+                },
+                {
+                    "id": "d",
+                    "label": "Erection is mediated by alpha-adrenergic receptors; ejaculation is mediated by muscarinic receptors."
+                },
+                {
+                    "id": "e",
+                    "label": "Erection requires the closure of venous sinusoids by norepinephrine."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "A 60-year-old man who underwent a bilateral orchidectomy (removal of the testes) for a medical condition is found to have extremely high plasma levels of FSH and LH. Which of the following is the physiological basis for this finding?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Positive feedback of adrenal androgens on the anterior pituitary."
+                },
+                {
+                    "id": "b",
+                    "label": "Upregulation of GnRH receptors in the hypothalamus."
+                },
+                {
+                    "id": "c",
+                    "label": "Loss of the inhibitory effect of dopamine on gonadotrophs."
+                },
+                {
+                    "id": "d",
+                    "label": "Increased conversion of testosterone to estradiol in the brain."
+                },
+                {
+                    "id": "e",
+                    "label": "Loss of negative feedback inhibition by testosterone and inhibin."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "A patient is taking a medication that prevents the hydrolysis of cyclic guanosine monophosphate (cGMP) within vascular smooth muscle. During sexual arousal, how does this medication facilitate penile erection?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "By inhibiting the release of nitric oxide (NO) from parasympathetic nerves."
+                },
+                {
+                    "id": "b",
+                    "label": "By stimulating alpha-1 adrenergic receptors to increase blood flow."
+                },
+                {
+                    "id": "c",
+                    "label": "By increasing the degradation of acetylcholine in the cavernous nerve."
+                },
+                {
+                    "id": "d",
+                    "label": "By maintaining relaxation of the smooth muscle in the penile arterioles."
+                },
+                {
+                    "id": "e",
+                    "label": "By promoting the contraction of the trabecular smooth muscle."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "In a laboratory model, the concentration of testosterone in the fluid within the seminiferous tubules is measured and found to be much higher than the concentration in the systemic plasma. Which of the following is the primary mechanism that ensures this high local androgen concentration?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Active transport of testosterone across the blood-testis barrier."
+                },
+                {
+                    "id": "b",
+                    "label": "High-affinity binding of testosterone to thyroxine-binding globulin."
+                },
+                {
+                    "id": "c",
+                    "label": "Secretion of androgen-binding protein (ABP) by Sertoli cells into the tubule lumen."
+                },
+                {
+                    "id": "d",
+                    "label": "Direct synthesis of testosterone by the germinal epithelium."
+                },
+                {
+                    "id": "e",
+                    "label": "Selective reabsorption of water in the descending limb of the loop of Henle."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "A 30-year-old male is evaluated for infertility. Laboratory analysis of his semen reveals a pH of 6.2 (normal is slightly alkaline, 7.2-8.0). This acidic environment is found to significantly inhibit his sperm motility. A deficiency in the secretion of which organ is the most likely cause of this acidic pH?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Prostate gland."
+                },
+                {
+                    "id": "b",
+                    "label": "Seminal vesicles."
+                },
+                {
+                    "id": "c",
+                    "label": "Epididymis."
+                },
+                {
+                    "id": "d",
+                    "label": "Vas deferens."
+                },
+                {
+                    "id": "e",
+                    "label": "Testes."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q11": {
+            "type": "mcq",
+            "prompt": "An athlete takes large doses of exogenous testosterone-like anabolic steroids for six months to increase muscle mass. Predict the effect of this practice on his endogenous reproductive axis.",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased sperm count due to the trophic effects of steroids on the Sertoli cells."
+                },
+                {
+                    "id": "b",
+                    "label": "Infertility due to the suppression of GnRH, FSH, and LH secretion."
+                },
+                {
+                    "id": "c",
+                    "label": "Increased LH levels due to the competition for androgen receptors in the pituitary."
+                },
+                {
+                    "id": "d",
+                    "label": "Hypertrophy of the testes due to increased protein synthesis."
+                },
+                {
+                    "id": "e",
+                    "label": "Normal sperm count, because exogenous steroids mimic the paracrine effects of endogenous testosterone."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q12": {
+            "type": "mcq",
+            "prompt": "Spermatozoa produced in the seminiferous tubules are non-motile and incapable of fertilizing an ovum. They gain the potential for motility and undergo further maturation during their stay in which of the following locations?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Vas deferens."
+                },
+                {
+                    "id": "b",
+                    "label": "Seminal vesicles."
+                },
+                {
+                    "id": "c",
+                    "label": "Epididymis."
+                },
+                {
+                    "id": "d",
+                    "label": "Ejaculatory duct."
+                },
+                {
+                    "id": "e",
+                    "label": "Ampulla of the vas deferens."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        }
+    }
+}

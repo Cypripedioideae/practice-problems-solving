@@ -1,0 +1,858 @@
+{
+    "info": {
+        "set_name": "Endocrine Physiology 1",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "TF",
+            "prompt": "Peptide and protein hormones are synthesized in the rough endoplasmic reticulum as preprohormones directed by specific mRNA.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q2": {
+            "type": "TF",
+            "prompt": "Steroid hormones, such as cortisol and aldosterone, are chemical derivatives of tyrosine.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q3": {
+            "type": "TF",
+            "prompt": "Antidiuretic hormone (ADH) and oxytocin are synthesized in the cell bodies of hypothalamic neurons rather than in the posterior pituitary gland itself.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q4": {
+            "type": "TF",
+            "prompt": "Both luteinising hormone (LH) and follicle-stimulating hormone (FSH) belong to the same glycoprotein family and share an identical alpha subunit.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q5": {
+            "type": "TF",
+            "prompt": "The connecting peptide (C peptide) is packaged and secreted along with insulin in equimolar quantities.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q6": {
+            "type": "TF",
+            "prompt": "Thyroid hormones circulate in the blood predominantly in the free, unbound form to ensure rapid action on target tissues.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q7": {
+            "type": "TF",
+            "prompt": "Pancreatic somatostatin is a polypeptide consisting of 14 amino acids that acts to inhibit the secretion of both insulin and glucagon.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q8": {
+            "type": "TF",
+            "prompt": "Aldosterone is primarily synthesized and secreted by the cells of the zona fasciculata in the adrenal cortex.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q9": {
+            "type": "TF",
+            "prompt": "Glucagon is produced by the alpha cells of the islets of Langerhans, whereas insulin is produced by the beta cells.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q10": {
+            "type": "TF",
+            "prompt": "Calcitonin is synthesized and secreted by the parafollicular cells (C cells) of the thyroid gland in response to hypercalcaemia.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q11": {
+            "type": "TF",
+            "prompt": "Growth hormone-releasing hormone (GHRH) stimulates growth hormone secretion by utilising both the cAMP and IP3/Ca^(2+) second messenger pathways.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q12": {
+            "type": "TF",
+            "prompt": "Although the thyroid gland secretes more thyroxine (T4), triiodothyronine (T3) is three to four times more biologically active.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q13": {
+            "type": "TF",
+            "prompt": "Prolactin-inhibiting factor (PIF), which tonically inhibits prolactin secretion, is the catecholamine dopamine.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q14": {
+            "type": "TF",
+            "prompt": "Oxytocin is a nonapeptide containing nine amino acids.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q15": {
+            "type": "TF",
+            "prompt": "Secondary adrenocortical insufficiency, caused by ACTH deficiency, is characterized by darkening skin pigmentation.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q16": {
+            "type": "TF",
+            "prompt": "Human chorionic gonadotropin (HCG) is produced by the placental trophoblast as early as 8 days post-ovulation to rescue the corpus luteum.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q17": {
+            "type": "TF",
+            "prompt": "Cholesterol is the essential precursor for all adrenocortical steroid hormones.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q18": {
+            "type": "TF",
+            "prompt": "Positive feedback is the most common physiological mechanism utilized by the body to regulate the secretion of most hormones.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q19": {
+            "type": "TF",
+            "prompt": "Down-regulation of receptors increases a target tissue's sensitivity to a hormone when blood levels of that hormone are chronically high.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q20": {
+            "type": "TF",
+            "prompt": "ADH increases water reabsorption in the collecting ducts by directing the insertion of aquaporin-2 channels into the luminal membrane.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q21": {
+            "type": "TF",
+            "prompt": "Parathyroid hormone (PTH) coordinates an increase in serum calcium while simultaneously causing an increase in serum phosphate.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q22": {
+            "type": "TF",
+            "prompt": "Glucagon increases blood glucose levels by stimulating glycogenolysis in both the liver and skeletal muscle.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q23": {
+            "type": "TF",
+            "prompt": "Insulin inhibits gluconeogenesis in the liver by increasing the production of fructose 2,6-bisphosphate.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q24": {
+            "type": "TF",
+            "prompt": "Chronic elevation of TSH levels results in hypertrophy and hyperplasia of the thyroid gland, leading to goitre.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q25": {
+            "type": "TF",
+            "prompt": "Cortisol plays a permissive role in maintaining normal blood pressure by up-regulating alpha-1 adrenergic receptors on arterioles.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q26": {
+            "type": "TF",
+            "prompt": "The surge of LH that triggers ovulation at midcycle is the result of negative feedback of estradiol on the anterior pituitary.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q27": {
+            "type": "TF",
+            "prompt": "Inhibin, synthesized by Sertoli cells in males and granulosa cells in females, inhibits the secretion of FSH from the anterior pituitary.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q28": {
+            "type": "TF",
+            "prompt": "In the renal collecting ducts, 11-beta-hydroxysteroid dehydrogenase converts cortisol to cortisone to prevent it from activating mineralocorticoid receptors.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q29": {
+            "type": "TF",
+            "prompt": "Hypoglycaemia and starvation are potent physiological stimuli that increase the secretion of growth hormone.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q30": {
+            "type": "TF",
+            "prompt": "Thyroid hormones increase the basal metabolic rate by inducing the synthesis and increasing the activity of the Na^+/K^+ ATPase.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q31": {
+            "type": "TF",
+            "prompt": "Prolactin inhibits ovulation by suppressing the synthesis and release of gonadotropin-releasing hormone (GnRH).",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q32": {
+            "type": "TF",
+            "prompt": "PTH directly stimulates renal 1-alpha-hydroxylase to convert 25-hydroxycholecalciferol into the active form 1,25-dihydroxycholecalciferol.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q33": {
+            "type": "TF",
+            "prompt": "In Graves' disease, circulating TSH levels are typically higher than normal due to lack of feedback inhibition.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q34": {
+            "type": "TF",
+            "prompt": "A patient with Conn's syndrome (primary hyperaldosteronism) is likely to present with clinical signs of hyperkalemia.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q35": {
+            "type": "TF",
+            "prompt": "High-dose dexamethasone suppression can be used to distinguish between an ACTH-secreting pituitary tumor and an autonomous adrenal cortical tumor.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q36": {
+            "type": "TF",
+            "prompt": "Administration of 5-alpha-reductase inhibitors is an effective treatment for benign prostatic hyperplasia by blocking the conversion of testosterone to dihydrotestosterone.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q37": {
+            "type": "TF",
+            "prompt": "In type II diabetes mellitus, the number of insulin receptors on target tissues is typically increased to compensate for insulin resistance.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q38": {
+            "type": "TF",
+            "prompt": "A patient with nephrogenic diabetes insipidus will show a significant increase in urine osmolarity after administration of the ADH analogue dDAVP.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q39": {
+            "type": "TF",
+            "prompt": "During the first trimester of pregnancy, the corpus luteum is the primary source of the progesterone needed to sustain the endometrium.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q40": {
+            "type": "TF",
+            "prompt": "Factitious hyperthyroidism, caused by the chronic ingestion of exogenous T4, is typically associated with the development of a large goitre.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q41": {
+            "type": "TF",
+            "prompt": "Spironolactone is a diuretic that acts as a competitive antagonist at the mineralocorticoid receptor, blocking the actions of aldosterone.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q42": {
+            "type": "TF",
+            "prompt": "Long-term treatment with high doses of glucocorticoids increases the risk of osteoporosis by decreasing bone formation and increasing resorption.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q43": {
+            "type": "TF",
+            "prompt": "A genetic deficiency of 21-beta-hydroxylase leads to masculinization of female genitalia due to the shunting of steroid precursors into the androgenic pathway.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q44": {
+            "type": "TF",
+            "prompt": "In chronic renal failure, hypocalcaemia is partially caused by the retention of phosphate, which complexes with ionized calcium in the plasma.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q45": {
+            "type": "TF",
+            "prompt": "Excess growth hormone secretion in an adult after epiphyseal closure results in a significant increase in femur length and overall height.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q46": {
+            "type": "TF",
+            "prompt": "Progesterone maintains pregnancy by increasing the uterine threshold to contractile stimuli, thereby keeping the myometrium quiescent.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q47": {
+            "type": "TF",
+            "prompt": "In patients with primary adrenocortical insufficiency (Addison disease), the Na^+:K^+ molar ratio in the plasma is characteristically increased.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q48": {
+            "type": "TF",
+            "prompt": "Vitamin D deficiency in adults leads to the clinical condition known as rickets.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q49": {
+            "type": "TF",
+            "prompt": "An acute increase in extracellular pH (alkalemia) results in an increase in the plasma concentration of free, ionized calcium.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q50": {
+            "type": "TF",
+            "prompt": "In a patient with 17-alpha-hydroxylase deficiency, the excessive production of DOC and corticosterone results in a secondary increase in renin and aldosterone secretion.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        }
+    }
+}

@@ -1,0 +1,858 @@
+{
+    "info": {
+        "set_name": "Gastrointestinal Physiology 1",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "TF",
+            "prompt": "The myenteric plexus is primarily responsible for the regulation of gastrointestinal secretion and local blood flow rather than motility.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q2": {
+            "type": "TF",
+            "prompt": "Secondary esophageal peristalsis is initiated by the medullary swallowing center to clear any food residue not moved by the primary wave.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q3": {
+            "type": "TF",
+            "prompt": "Achlorhydria results in significantly impaired protein digestion because pepsin requires an acidic medium (pH 1-3) for both activation and function.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q4": {
+            "type": "TF",
+            "prompt": "The characteristic frequency of slow waves in the gastrointestinal tract is determined by autonomic neural inputs and circulating hormones.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q5": {
+            "type": "TF",
+            "prompt": "Bile salts are amphipathic molecules, meaning they possess both hydrophilic and hydrophobic portions to facilitate the emulsification of dietary lipids.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q6": {
+            "type": "TF",
+            "prompt": "Intrinsic factor is a glycoprotein required for Vitamin B12 absorption that is synthesized and secreted by the gastric chief cells.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q7": {
+            "type": "TF",
+            "prompt": "The predominant glucose transporter located in the apical (luminal) membrane of the intestinal enterocyte is GLUT-2.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q8": {
+            "type": "TF",
+            "prompt": "Cholecystokinin (CCK) is released by I cells of the duodenum and jejunum primarily in response to the presence of small peptides and fatty acids.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q9": {
+            "type": "TF",
+            "prompt": "The migrating motor complex (MMC) is a pattern of motility that occurs at 90-minute intervals primarily during the digestive (postprandial) period.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q10": {
+            "type": "TF",
+            "prompt": "Saliva is always hypotonic relative to plasma, regardless of the salivary flow rate.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q11": {
+            "type": "TF",
+            "prompt": "Receptive relaxation of the orad stomach is a vago-vagal reflex that increases gastric compliance and is abolished by a vagotomy.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q12": {
+            "type": "TF",
+            "prompt": "Pepsinogen is converted to its active form, pepsin, by the action of the brush-border enzyme enterokinase in the duodenum.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q13": {
+            "type": "TF",
+            "prompt": "The \"alkaline tide\" refers to a transient increase in the pH of gastric venous blood following a meal, caused by the basolateral absorption of bicarbonate.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q14": {
+            "type": "TF",
+            "prompt": "Secretin is the primary hormone responsible for stimulating the secretion of the enzymatic (pro-enzyme) component of pancreatic juice.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q15": {
+            "type": "TF",
+            "prompt": "In the ileum, the combined action of Na^+-H^+ exchange and Cl^--HCO_3^- exchange results in the net absorption of NaHCO3.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q16": {
+            "type": "TF",
+            "prompt": "Chylomicrons are packaged in the Golgi apparatus and extruded from enterocytes across the apical membrane into the intestinal lumen.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q17": {
+            "type": "TF",
+            "prompt": "Mass movements in the colon are often triggered by the gastrocolic reflex, which is mediated by the parasympathetic nervous system and CCK/gastrin.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q18": {
+            "type": "TF",
+            "prompt": "The life span of an intestinal enterocyte in the human small intestine is approximately 3 to 6 days.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q19": {
+            "type": "TF",
+            "prompt": "Slow waves are not action potentials but are oscillating membrane potentials that determine the timing and pattern of phasic contractions.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q20": {
+            "type": "TF",
+            "prompt": "The high circulating levels of gastrin in Zollinger-Ellison syndrome typically lead to the atrophy of the gastric mucosa.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q21": {
+            "type": "TF",
+            "prompt": "If the Na^+/K^+ ATPase on the basolateral membrane of an enterocyte is inhibited, the secondary active transport of glucose at the apical membrane will cease.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q22": {
+            "type": "TF",
+            "prompt": "The internal anal sphincter is composed of striated skeletal muscle and is under voluntary control.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q23": {
+            "type": "TF",
+            "prompt": "Pancreatic lipase functions optimally at a pH of 2.0, allowing it to remain active in the presence of acidic gastric chyme.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q24": {
+            "type": "TF",
+            "prompt": "During a swallow, the lower esophageal sphincter relaxes via the release of vasoactive intestinal peptide (VIP) from peptidergic vagal fibers.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q25": {
+            "type": "TF",
+            "prompt": "The presence of fatty acids in the duodenum stimulates the release of CCK, which subsequently increases the rate of gastric emptying.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q26": {
+            "type": "TF",
+            "prompt": "Secondary bile acids, such as deoxycholic acid, are synthesized from cholesterol directly by hepatocytes within the liver.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q27": {
+            "type": "TF",
+            "prompt": "Micelle formation is a necessary prerequisite for the intestinal absorption of fat-soluble vitamins such as Vitamin D.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q28": {
+            "type": "TF",
+            "prompt": "The rate-limiting enzyme in the synthesis of bile acids is cholesterol 7\u03b1-hydroxylase, which is inhibited by the presence of bile salts.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q29": {
+            "type": "TF",
+            "prompt": "In the salivary ducts, the hormone aldosterone increases the reabsorption of sodium and the secretion of potassium.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q30": {
+            "type": "TF",
+            "prompt": "Rebound gastric acid hypersecretion after stopping proton pump inhibitors is attributed to the loss of negative feedback on G cells.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q31": {
+            "type": "TF",
+            "prompt": "Potentiation of gastric acid secretion occurs because histamine, ACh, and gastrin each utilize different intracellular second messenger pathways.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q32": {
+            "type": "TF",
+            "prompt": "Vitamin B12 must bind to haptocorrin (R proteins) in the stomach before it can successfully bind to intrinsic factor in the duodenum.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q33": {
+            "type": "TF",
+            "prompt": "Enterokinase is a pancreatic enzyme that activates trypsinogen within the pancreatic ducts to prevent autodigestion.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q34": {
+            "type": "TF",
+            "prompt": "A patient with a total resection of the terminal ileum will suffer from both steatorrhea and potential macrocytic (pernicious) anemia.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q35": {
+            "type": "TF",
+            "prompt": "Pharmacological blockade of histamine H2 receptors with cimetidine will inhibit the acid secretion normally stimulated by gastrin and ACh.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q36": {
+            "type": "TF",
+            "prompt": "Achalasia is a clinical condition characterised by a hypertensive lower esophageal sphincter that fails to relax during swallowing.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q37": {
+            "type": "TF",
+            "prompt": "Administration of the macrolide antibiotic erythromycin can cause intestinal cramping by acting as an agonist for motilin receptors.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q38": {
+            "type": "TF",
+            "prompt": "Patients with Zollinger-Ellison syndrome (gastrinoma) typically have decreased levels of fecal fat due to enhanced acidic breakdown of lipids.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q39": {
+            "type": "TF",
+            "prompt": "In celiac sprue (gluten-sensitive enteropathy), the autoimmune destruction of intestinal villi reduces the surface area available for absorption.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q40": {
+            "type": "TF",
+            "prompt": "If the pH of the gastric contents falls below 3.0, the secretion of gastrin from antral G cells is stimulated to act as a buffer.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q41": {
+            "type": "TF",
+            "prompt": "Oral rehydration solutions effectively treat cholera because the Na^+-glucose cotransport mechanism remains active despite the toxin's effect.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q42": {
+            "type": "TF",
+            "prompt": "A patient with an obstruction of the common bile duct will likely exhibit dark urine due to the presence of conjugated bilirubin.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q43": {
+            "type": "TF",
+            "prompt": "The symptoms of dumping syndrome are caused by a massive shift of water from the blood into the intestinal lumen in response to hypertonic chyme.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q44": {
+            "type": "TF",
+            "prompt": "If a patient's salivary flow rate increases from 1 mL/min to 4 mL/min, the concentration of Na^+ in the final saliva will decrease due to reduced contact time.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q45": {
+            "type": "TF",
+            "prompt": "In the isosmotic absorption of water in the small intestine, the driving force is the osmotic gradient created by the active transport of solutes like Na^+.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q46": {
+            "type": "TF",
+            "prompt": "A vagotomy increases the rate of gastric emptying of solids because it removes the tonic inhibitory influence of the vagus on the pylorus.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q47": {
+            "type": "TF",
+            "prompt": "The high concentration of K^+ in the stool during severe diarrhea is primarily due to a flow-rate dependent increase in K^+ secretion by the colon.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q48": {
+            "type": "TF",
+            "prompt": "In cystic fibrosis, a defect in the CFTR chloride channel prevents the normal secretion of fluid into the pancreatic ducts.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q49": {
+            "type": "TF",
+            "prompt": "If chyme in the duodenum is hyperosmotic, the enterogastric reflex and the release of enterogastrone will act to accelerate gastric emptying.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q50": {
+            "type": "TF",
+            "prompt": "In primary hyperaldosteronism (Conn's syndrome), the increased sodium reabsorption in the colon is associated with a decrease in the net secretion of K^+.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        }
+    }
+}

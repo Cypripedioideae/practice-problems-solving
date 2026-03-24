@@ -1,0 +1,443 @@
+{
+    "info": {
+        "set_name": "Gastrointestinal Comprehensive Set 2: Regulatory Substance (MCQ)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "An experimental drug is developed that specifically antagonizes the Glucose-Dependent Insulinotropic Peptide (GIP) receptor on pancreatic beta cells. During a clinical trial, subjects are given either 50 grams of glucose orally or 50 grams of glucose intravenously. Which of the following results is most likely to be observed in the drug-treated group compared to a control group?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "A significant increase in the rate of oral glucose clearance."
+                },
+                {
+                    "id": "b",
+                    "label": "A higher peak of insulin secretion following the intravenous glucose load."
+                },
+                {
+                    "id": "c",
+                    "label": "Elimination of the difference between insulin levels achieved by oral versus intravenous glucose."
+                },
+                {
+                    "id": "d",
+                    "label": "Maintenance of a superior oral-to-intravenous insulin secretion ratio via compensatory Glucagon-Like Peptide-1 (GLP-1) signaling"
+                },
+                {
+                    "id": "e",
+                    "label": "A significant increase in the rate of gastric emptying following the oral glucose load."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A patient undergoes a surgical procedure that involves the total resection of the terminal 100 cm of the ileum. Which of the following hormone-mediated responses would be most significantly impaired as a direct result of this specific anatomical loss?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The stimulation of pancreatic bicarbonate secretion by Secretin."
+                },
+                {
+                    "id": "b",
+                    "label": "The release of cholecystokinin (CCK) in response to luminal monoglycerides."
+                },
+                {
+                    "id": "c",
+                    "label": "The negative feedback inhibition of hepatic cholesterol 7\u03b1-hydroxylase by recycled bile acids."
+                },
+                {
+                    "id": "d",
+                    "label": "The postprandial release of Peptide YY (PYY) to signal satiety."
+                },
+                {
+                    "id": "e",
+                    "label": "The secretion of glucose-dependent insulinotropic peptide (GIP) from distal intestinal L-cells in response to oral glucose."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "A patient is diagnosed with a gastrin-secreting tumor of the non-beta cell pancreas (Zollinger-Ellison syndrome). Which of the following laboratory findings is the best physiological explanation for the steatorrhoea often observed in these patients?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Decreased Secretin release due to excessive duodenal acidification."
+                },
+                {
+                    "id": "b",
+                    "label": "Inactivation of pancreatic lipase by a duodenal pH below 3.0."
+                },
+                {
+                    "id": "c",
+                    "label": "Failure of the sphincter of Oddi to relax due to deficient CCK levels."
+                },
+                {
+                    "id": "d",
+                    "label": "Atrophy of the gastric mucosa reducing the surface area for lipid absorption."
+                },
+                {
+                    "id": "e",
+                    "label": "Increased somatostatin levels that inhibit the secretion of all GI enzymes."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "In a mouse model with a genetic mutation resulting in non-functional Ob (Leptin) receptors in the hypothalamus, which of the following integrated physiological profiles would you expect to find?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Decreased levels of Neuropeptide Y (NPY) and aphagia."
+                },
+                {
+                    "id": "b",
+                    "label": "Increased activity of POMC/CART anorexigenic neurons and weight loss."
+                },
+                {
+                    "id": "c",
+                    "label": "Increased activity of orexigenic neurons and hyperphagia."
+                },
+                {
+                    "id": "d",
+                    "label": "Excessive secretion of Ghrelin from the gastric fundus to compensate for the mutation."
+                },
+                {
+                    "id": "e",
+                    "label": "Increased basal metabolic rate and cutaneous vasodilation."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "A research study investigates the \"alkaline tide\" by monitoring the pH of gastric venous blood after a meal. If a subject is pre-treated with a potent somatostatin receptor agonist, which of the following is the predicted effect on the alkaline tide and gastric acid secretion?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The alkaline tide will be amplified due to increased HCO_3^- absorption."
+                },
+                {
+                    "id": "b",
+                    "label": "H^+ secretion will increase because somatostatin inhibits GRP release."
+                },
+                {
+                    "id": "c",
+                    "label": "Gastrin levels will rise because somatostatin is the primary stimulus for G cells."
+                },
+                {
+                    "id": "d",
+                    "label": "Both the H^+ secretion rate and the magnitude of the alkaline tide will decrease."
+                },
+                {
+                    "id": "e",
+                    "label": "There will be no effect because somatostatin only acts on the pancreas."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "A healthy subject is given a pharmacological dose of Cholecystokinin (CCK). Which of the following sets of responses correctly describes the coordinated effect on the biliary and gastric systems?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Contraction of the gallbladder, relaxation of the sphincter of Oddi, and decreased gastric emptying."
+                },
+                {
+                    "id": "b",
+                    "label": "Relaxation of the gallbladder, relaxation of the sphincter of Oddi, and decreased gastric emptying."
+                },
+                {
+                    "id": "c",
+                    "label": "Contraction of the gallbladder, contraction of the sphincter of Oddi, and increased gastric emptying."
+                },
+                {
+                    "id": "d",
+                    "label": "Relaxation of the gallbladder, contraction of the sphincter of Oddi, and increased gastric emptying."
+                },
+                {
+                    "id": "e",
+                    "label": "Contraction of the gallbladder with no effect on the sphincter of Oddi or gastric emptying."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "A clinical researcher administers a bolus of hydrochloric acid directly into the duodenum of a subject, dropping the luminal pH to 2.0. Which of the following hormonal responses will occur most rapidly to restore the duodenal pH to the physiological range?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Secretion of GIP to stimulate insulin-mediated bicarbonate uptake."
+                },
+                {
+                    "id": "b",
+                    "label": "Secretion of Secretin from S cells to stimulate pancreatic aqueous secretion."
+                },
+                {
+                    "id": "c",
+                    "label": "Secretion of Gastrin to increase the buffering capacity of the stomach."
+                },
+                {
+                    "id": "d",
+                    "label": "Release of Histamine from the duodenal mucosa to potentiate secretin."
+                },
+                {
+                    "id": "e",
+                    "label": "Inhibition of Motilin release to prevent acidic chyme from moving distally."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "A patient is treated with a drug that acts as a potent agonist at the Motilin receptor. Which of the following is the most likely physiological consequence of this medication?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Suppression of the gastrocolic reflex."
+                },
+                {
+                    "id": "b",
+                    "label": "Induction of Migrating Myoelectric Complexes (MMCs) in the interdigestive state."
+                },
+                {
+                    "id": "c",
+                    "label": "Inhibition of the gastric cephalic phase."
+                },
+                {
+                    "id": "d",
+                    "label": "Tonic contraction of the lower esophageal sphincter (LES)."
+                },
+                {
+                    "id": "e",
+                    "label": "Decreased pancreatic bicarbonate output."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "A patient presents with a specific pathology that results in the complete loss of functional S cells within the duodenal and jejunal mucosa. Following the ingestion of a mixed meal containing high concentrations of dietary triglycerides, phenylalanine, and tryptophan, which of the following outcomes is most likely to be observed in this patient?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Inactivation of pancreatic lipase within the intestinal lumen despite a physiological rise in plasma cholecystokinin (CCK) levels."
+                },
+                {
+                    "id": "b",
+                    "label": "Maintenance of a near-normal intestinal pH via a compensatory increase in bicarbonate secretion from the biliary ductal cells."
+                },
+                {
+                    "id": "c",
+                    "label": "A significant reduction in gallbladder contraction due to the loss of secretin's potentiation of the cholecystokinin (CCK) response."
+                },
+                {
+                    "id": "d",
+                    "label": "A significantly higher postprandial peak of blood glucose because secretin and glucose-dependent insulinotropic peptide (GIP) share a common stimulus for release."
+                },
+                {
+                    "id": "e",
+                    "label": "Rapid gastric emptying of the fatty chyme due to the failure of amino acids to trigger an enterogastric reflex in the absence of secretin."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "A 45-year-old male is participating in a study on hunger. He is given an injection of a newly discovered peptide that specifically binds to and activates the orexigenic neurons in the arcuate nucleus. Which of the following endogenously produced substances most closely mimics the effect of this injection?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Leptin."
+                },
+                {
+                    "id": "b",
+                    "label": "Insulin."
+                },
+                {
+                    "id": "c",
+                    "label": "Peptide YY (PYY)."
+                },
+                {
+                    "id": "d",
+                    "label": "Ghrelin."
+                },
+                {
+                    "id": "e",
+                    "label": "GLP-1."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q11": {
+            "type": "mcq",
+            "prompt": "A pharmacological researcher is testing an experimental compound that selectively inhibits the enzyme cholesterol 7\u03b1-hydroxylase in hepatocytes. What is the predicted effect on the total bile salt pool and cholesterol levels?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased pool size and decreased plasma cholesterol."
+                },
+                {
+                    "id": "b",
+                    "label": "Decreased pool size and increased hepatic cholesterol levels."
+                },
+                {
+                    "id": "c",
+                    "label": "No effect on pool size because secondary bile acids will compensate."
+                },
+                {
+                    "id": "d",
+                    "label": "Increased Secretin release due to fat malabsorption."
+                },
+                {
+                    "id": "e",
+                    "label": "Permanent relaxation of the sphincter of Oddi."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q12": {
+            "type": "mcq",
+            "prompt": "During the cephalic phase of digestion, the vagus nerve stimulates gastric acid secretion. If the drug atropine is administered to block muscarinic receptors, a significant amount of acid is still secreted. This \"atropine-resistant\" secretion is primarily explained by the release of which of the following?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Acetylcholine from the myenteric plexus."
+                },
+                {
+                    "id": "b",
+                    "label": "Histamine from the ECL cells."
+                },
+                {
+                    "id": "c",
+                    "label": "VIP from the submucosal plexus."
+                },
+                {
+                    "id": "d",
+                    "label": "Somatostatin from the D cells in the fundus."
+                },
+                {
+                    "id": "e",
+                    "label": "Gastrin-releasing peptide (GRP) from vagal terminals onto G cells."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q13": {
+            "type": "mcq",
+            "prompt": "Which of the following describes the most physiologically accurate synergistic effect (potentiation) regarding H^+ secretion by the parietal cell?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Gastrin inhibits somatostatin, which then allows histamine to act."
+                },
+                {
+                    "id": "b",
+                    "label": "ACh and Gastrin both increase intracellular cAMP, multiplying the effect of Histamine."
+                },
+                {
+                    "id": "c",
+                    "label": "Histamine and ACh utilize different second messenger systems, and their combined effect on H^+ secretion is greater than the sum of their individual effects."
+                },
+                {
+                    "id": "d",
+                    "label": "Somatostatin and prostaglandins both activate G_s proteins to enhance the effect of Gastrin."
+                },
+                {
+                    "id": "e",
+                    "label": "The presence of amino acids in the antrum directly activates the H^+/K^+ ATPase without hormone mediation."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q14": {
+            "type": "mcq",
+            "prompt": "Glucagon-like peptide-1 (GLP-1) is being utilized in the management of Type II Diabetes Mellitus. The clinical efficacy of GLP-1 is due to its ability to:",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Inhibit the H^+/K^+ ATPase to prevent diabetic ketoacidosis."
+                },
+                {
+                    "id": "b",
+                    "label": "Decrease the insulin sensitivity of target tissues like skeletal muscle."
+                },
+                {
+                    "id": "c",
+                    "label": "Stimulate hepatic gluconeogenesis to maintain fasting blood glucose."
+                },
+                {
+                    "id": "d",
+                    "label": "Act as a primary secretagogue for bile salts to enhance lipid clearance."
+                },
+                {
+                    "id": "e",
+                    "label": "Stimulate insulin secretion and increase satiety while inhibiting glucagon secretion."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q15": {
+            "type": "mcq",
+            "prompt": "A patient with a chronic history of tobacco use and coffee consumption is diagnosed with Gastroesophageal Reflux Disease (GERD). Esophageal manometry reveals that the resting pressure of the lower esophageal sphincter (LES) is 5 mm Hg (Normal: ~20 mm Hg). Which of the following neuro-hormonal factors would be most effective at acutely increasing the pressure of this sphincter?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Vasoactive Intestinal Peptide (VIP)."
+                },
+                {
+                    "id": "b",
+                    "label": "Nitric Oxide (NO)."
+                },
+                {
+                    "id": "c",
+                    "label": "Prostaglandin E_2."
+                },
+                {
+                    "id": "d",
+                    "label": "Secretin."
+                },
+                {
+                    "id": "e",
+                    "label": "Gastrin."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        }
+    }
+}

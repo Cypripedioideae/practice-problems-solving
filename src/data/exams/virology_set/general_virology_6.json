@@ -1,0 +1,299 @@
+{
+    "info": {
+        "set_name": "General Virology 6",
+        "description": "",
+        "source": ""
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "The Human Immunodeficiency Virus (HIV) genome contains three primary structural genes: gag, pol, and env. Which of these genes encodes the essential viral enzymes reverse transcriptase, protease, and integrase?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "gag"
+                },
+                {
+                    "id": "b",
+                    "label": "pol"
+                },
+                {
+                    "id": "c",
+                    "label": "env"
+                },
+                {
+                    "id": "d",
+                    "label": "nef"
+                },
+                {
+                    "id": "e",
+                    "label": "tat"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A 35-year-old patient with a known HIV infection presents for a routine follow-up. Laboratory results reveal a CD4+ T-cell count of 150 cells/mm\u00b3. To prevent the development of Pneumocystis jirovecii pneumonia (PCP), which antimicrobial agent is indicated for primary prophylaxis?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Azithromycin"
+                },
+                {
+                    "id": "b",
+                    "label": "Ganciclovir"
+                },
+                {
+                    "id": "c",
+                    "label": "Trimethoprim-Sulfamethoxazole"
+                },
+                {
+                    "id": "d",
+                    "label": "Fluconazole"
+                },
+                {
+                    "id": "e",
+                    "label": "Pyrimethamine"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "Oseltamivir is an antiviral medication used for the treatment and prevention of Influenza A and B. What is the specific mechanism by which this drug limits the spread of the virus within the host?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Blockade of the M2 proton channel to prevent viral uncoating"
+                },
+                {
+                    "id": "b",
+                    "label": "Competitive inhibition of the viral RNA-dependent RNA polymerase"
+                },
+                {
+                    "id": "c",
+                    "label": "Inhibition of neuraminidase to prevent the release of progeny virions"
+                },
+                {
+                    "id": "d",
+                    "label": "Interference with hemagglutinin-mediated attachment to the host cell"
+                },
+                {
+                    "id": "e",
+                    "label": "Blockade of the host cell TMPRSS2 protease"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "A 19-year-old college student presents with a sore throat, fever, and cervical lymphadenopathy. Presuming a bacterial etiology, the clinician prescribes ampicillin. Two days later, the patient returns with a prominent, diffuse maculopapular rash. This clinical reaction to the antibiotic is a classic diagnostic clue for which underlying viral infection?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Cytomegalovirus"
+                },
+                {
+                    "id": "b",
+                    "label": "Epstein-Barr Virus"
+                },
+                {
+                    "id": "c",
+                    "label": "Herpes Simplex Virus-2"
+                },
+                {
+                    "id": "d",
+                    "label": "Hepatitis B Virus"
+                },
+                {
+                    "id": "e",
+                    "label": "Adenovirus"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "While most DNA viruses replicate their genomes within the host cell nucleus, one family of large, complex DNA viruses is unique because its members replicate entirely within the host cell cytoplasm. Which of the following is an example of such a virus?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Adenovirus"
+                },
+                {
+                    "id": "b",
+                    "label": "Variola virus (Poxvirus)"
+                },
+                {
+                    "id": "c",
+                    "label": "Varicella-Zoster virus"
+                },
+                {
+                    "id": "d",
+                    "label": "Parvovirus B19"
+                },
+                {
+                    "id": "e",
+                    "label": "Human Papillomavirus"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "Maraviroc is an entry inhibitor used in the management of HIV-1 infection. This drug works by binding to a specific host cell surface component, thereby preventing the virus from completing the \"docking\" step. What is the target of Maraviroc?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Viral gp41 protein"
+                },
+                {
+                    "id": "b",
+                    "label": "Host CD4 receptor"
+                },
+                {
+                    "id": "c",
+                    "label": "Host CCR5 coreceptor"
+                },
+                {
+                    "id": "d",
+                    "label": "Viral reverse transcriptase"
+                },
+                {
+                    "id": "e",
+                    "label": "Host CXCR4 coreceptor"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "A peripheral blood smear from a patient with a febrile illness and lymphadenopathy reveals the presence of \"atypical lymphocytes\" (reactive T cells). This microscopic finding is highly suggestive of an infection by a member of which viral family?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Retroviridae"
+                },
+                {
+                    "id": "b",
+                    "label": "Herpesviridae"
+                },
+                {
+                    "id": "c",
+                    "label": "Picornaviridae"
+                },
+                {
+                    "id": "d",
+                    "label": "Orthomyxoviridae"
+                },
+                {
+                    "id": "e",
+                    "label": "Flaviviridae"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "Influenza A viruses undergo two types of antigenic variation that affect their epidemiology. What is the fundamental difference between antigenic \"drift\" and antigenic \"shift\"?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Drift involves segmented reassortment, while shift involves point mutations"
+                },
+                {
+                    "id": "b",
+                    "label": "Drift results from random point mutations, while shift results from reassortment of genomic segments"
+                },
+                {
+                    "id": "c",
+                    "label": "Shift occurs annually, while drift is responsible for major global pandemics"
+                },
+                {
+                    "id": "d",
+                    "label": "Drift only occurs in Influenza A, while shift occurs in Influenza A, B, and C"
+                },
+                {
+                    "id": "e",
+                    "label": "Shift involves the loss of the viral envelope, while drift involves changes to the capsid"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "A 6-year-old child is brought to the clinic with a mild fever and a distinctive bright red rash on both cheeks, described as a \"slapped cheek\" appearance. Which virus is the causative agent of this condition, known as Erythema Infectiosum or Fifth Disease?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Human Herpesvirus 6"
+                },
+                {
+                    "id": "b",
+                    "label": "Rubella Virus"
+                },
+                {
+                    "id": "c",
+                    "label": "Parvovirus B19"
+                },
+                {
+                    "id": "d",
+                    "label": "Coxsackievirus A"
+                },
+                {
+                    "id": "e",
+                    "label": "Measles Virus"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "A patient is bitten by a stray dog and is concerned about contracting Rabies. If infection occurs, the virus must reach the central nervous system to cause disease. By which mechanism does the Rabies virus travel from the peripheral site of entry to the brain?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Rapid hematogenous spread via the venous system"
+                },
+                {
+                    "id": "b",
+                    "label": "Retrograde axoplasmic transport within peripheral neurons"
+                },
+                {
+                    "id": "c",
+                    "label": "Slow movement through the afferent lymphatic vessels"
+                },
+                {
+                    "id": "d",
+                    "label": "Direct infection and migration through vascular endothelial cells"
+                },
+                {
+                    "id": "e",
+                    "label": "Passive diffusion through the interstitial fluid"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        }
+    }
+}

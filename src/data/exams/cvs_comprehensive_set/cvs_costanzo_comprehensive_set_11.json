@@ -1,0 +1,588 @@
+{
+    "info": {
+        "set_name": "Cardiovascular Comprehensive Set 2: Myocardial Mechanics (MCQ)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "During the initiation of myocardial contraction, which specific subunit of the troponin complex is responsible for binding the intracellular \"trigger\" calcium to remove inhibition of actin-myosin interaction?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Troponin C."
+                },
+                {
+                    "id": "b",
+                    "label": "Troponin I."
+                },
+                {
+                    "id": "c",
+                    "label": "Troponin T."
+                },
+                {
+                    "id": "d",
+                    "label": "Tropomyosin."
+                },
+                {
+                    "id": "e",
+                    "label": "Calmodulin."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A medical student examines a histological section of the myocardium and identifies specialized cell-to-cell junctions called intercalated disks. Which component of these disks allows the heart to function as an electrical syncytium by providing low-resistance pathways for current flow?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "T-tubules."
+                },
+                {
+                    "id": "b",
+                    "label": "Calsequestrin."
+                },
+                {
+                    "id": "c",
+                    "label": "Gap junctions."
+                },
+                {
+                    "id": "d",
+                    "label": "Desmosomes."
+                },
+                {
+                    "id": "e",
+                    "label": "Terminal cisternae."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "During the plateau phase of the cardiac action potential, calcium enters the cell from the extracellular fluid. This \"trigger calcium\" binds to which specific protein on the sarcoplasmic reticulum to initiate the large-scale release of stored calcium?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Dihydropyridine receptor."
+                },
+                {
+                    "id": "b",
+                    "label": "Ryanodine receptor."
+                },
+                {
+                    "id": "c",
+                    "label": "Ca^(2+) ATPase (SERCA)."
+                },
+                {
+                    "id": "d",
+                    "label": "Phospholamban."
+                },
+                {
+                    "id": "e",
+                    "label": "Troponin C."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "Relaxation of the myocardium is an active process that depends on the rate of calcium reaccumulation into the sarcoplasmic reticulum. The phosphorylation of which regulatory protein by a cAMP-dependent protein kinase disinhibits the Ca^(2+) ATPase and increases the rate of relaxation?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Troponin I."
+                },
+                {
+                    "id": "b",
+                    "label": "Calmodulin."
+                },
+                {
+                    "id": "c",
+                    "label": "Calsequestrin."
+                },
+                {
+                    "id": "d",
+                    "label": "Myosin light-chain kinase."
+                },
+                {
+                    "id": "e",
+                    "label": "Phospholamban."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "A patient with systolic heart failure is started on digoxin. This drug produces a positive inotropic effect by primarily inhibiting which of the following membrane proteins, leading to a subsequent increase in intracellular calcium?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Na^+/K^+ ATPase."
+                },
+                {
+                    "id": "b",
+                    "label": "Sarcoplasmic reticulum Ca^(2+) ATPase."
+                },
+                {
+                    "id": "c",
+                    "label": "Voltage-gated Na^+ channels."
+                },
+                {
+                    "id": "d",
+                    "label": "Na^+/Ca^(2+) exchanger."
+                },
+                {
+                    "id": "e",
+                    "label": "L-type calcium channels."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "A researcher compares the excitation-contraction coupling of skeletal muscle and cardiac muscle. Which fundamental difference accounts for the observation that cardiac muscle, unlike skeletal muscle, cannot contract in a calcium-free extracellular medium?.",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Cardiac muscle requires an influx of trigger calcium through L-type channels to release SR calcium."
+                },
+                {
+                    "id": "b",
+                    "label": "Cardiac muscle lacks T-tubules to carry depolarization into the cell interior."
+                },
+                {
+                    "id": "c",
+                    "label": "Skeletal muscle relies on calcium binding to calmodulin rather than troponin D."
+                },
+                {
+                    "id": "c",
+                    "label": "Cardiac muscle contains ryanodine receptors that are physically linked to dihydropyridine receptors."
+                },
+                {
+                    "id": "e",
+                    "label": "Skeletal muscle exhibits a much longer action potential plateau than cardiac muscle."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "When analyzing ventricular function, clinicians often refer to \"preload\" as the resting length from which the muscle contracts. Which of the following parameters is the most direct clinical index of preload for the left ventricle?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Mean arterial pressure."
+                },
+                {
+                    "id": "b",
+                    "label": "Left ventricular end-diastolic volume."
+                },
+                {
+                    "id": "c",
+                    "label": "Total peripheral resistance."
+                },
+                {
+                    "id": "d",
+                    "label": "Heart rate."
+                },
+                {
+                    "id": "e",
+                    "label": "Pulmonary artery wedge pressure."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "The term \"afterload\" refers to the force against which the heart must pump blood during systole. In the context of a healthy individual with normal cardiac valves, what is the primary determinant of left ventricular afterload?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Central venous pressure."
+                },
+                {
+                    "id": "b",
+                    "label": "Left ventricular end-diastolic volume."
+                },
+                {
+                    "id": "c",
+                    "label": "Aortic pressure (mean arterial pressure)."
+                },
+                {
+                    "id": "d",
+                    "label": "Right atrial pressure."
+                },
+                {
+                    "id": "e",
+                    "label": "Stroke volume."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "According to the Frank-Starling Law of the heart, the stroke volume matches the volume of blood the heart receives during diastole. What is the intrinsic cellular mechanism responsible for this relationship?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased heart rate shortening the diastolic filling time."
+                },
+                {
+                    "id": "b",
+                    "label": "Phosphorylation of the myosin heads by cAMP-dependent kinases."
+                },
+                {
+                    "id": "c",
+                    "label": "Increased intracellular sodium inhibiting the Ca^(2+)/Na^+ exchanger."
+                },
+                {
+                    "id": "d",
+                    "label": "Increased degree of overlap between thick and thin filaments up to an optimal length."
+                },
+                {
+                    "id": "e",
+                    "label": "Increased parasympathetic outflow reducing atrial contractility."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "The Bowditch staircase (treppe) phenomenon describes a stepwise increase in the force of contraction when the heart rate is increased. What cellular event directly explains this increase in tension?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "A decrease in the number of active cross-bridges per cycle."
+                },
+                {
+                    "id": "b",
+                    "label": "A decrease in the duration of the absolute refractory period."
+                },
+                {
+                    "id": "c",
+                    "label": "Increased activity of the Na^+/K^+ ATPase diluting intracellular sodium."
+                },
+                {
+                    "id": "d",
+                    "label": "Increased duration of the plateau phase of the action potential."
+                },
+                {
+                    "id": "e",
+                    "label": "Accumulation of calcium within the sarcoplasmic reticulum stores due to more frequent action potentials."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q11": {
+            "type": "mcq",
+            "prompt": "A 60-year-old patient has an end-diastolic volume of 150 mL and an end-systolic volume of 60 mL. What is the stroke volume for this patient's cardiac cycle?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "60 mL."
+                },
+                {
+                    "id": "b",
+                    "label": "90 mL."
+                },
+                {
+                    "id": "c",
+                    "label": "100 mL."
+                },
+                {
+                    "id": "d",
+                    "label": "150 mL."
+                },
+                {
+                    "id": "e",
+                    "label": "210 mL."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q12": {
+            "type": "mcq",
+            "prompt": "During the contraction of the myocardium, the action potential is carried from the sarcolemmal membrane to the cell interior. Which structural feature of the myocardial cell forms a \"dyad\" with the sarcoplasmic reticulum to facilitate this transfer?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Sarcomere Z lines."
+                },
+                {
+                    "id": "b",
+                    "label": "M lines."
+                },
+                {
+                    "id": "c",
+                    "label": "Intercalated disks."
+                },
+                {
+                    "id": "d",
+                    "label": "Transverse (T) tubules."
+                },
+                {
+                    "id": "e",
+                    "label": "Myofibrils."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q13": {
+            "type": "mcq",
+            "prompt": "According to Laplace's Law, which change in ventricular geometry during the progression of heart failure leads to an increase in myocardial wall stress and a subsequent rise in oxygen consumption?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased wall thickness (hypertrophy)."
+                },
+                {
+                    "id": "b",
+                    "label": "Decreased end-diastolic volume."
+                },
+                {
+                    "id": "c",
+                    "label": "Increased ventricular radius due to chamber dilation."
+                },
+                {
+                    "id": "d",
+                    "label": "Decreased ventricular pressure during systole."
+                },
+                {
+                    "id": "e",
+                    "label": "Increased heart rate reducing wall tension."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q14": {
+            "type": "mcq",
+            "prompt": "Stimulation of cardiac \u03b2_1 adrenergic receptors by norepinephrine activates a G_s-protein coupled mechanism. Which of the following is a direct intracellular consequence of this activation that enhances myocardial contractility?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Opening of K^+/ACh channels."
+                },
+                {
+                    "id": "b",
+                    "label": "Decrease in cAMP levels."
+                },
+                {
+                    "id": "c",
+                    "label": "Closure of L-type calcium channels during the plateau."
+                },
+                {
+                    "id": "d",
+                    "label": "Inhibition of the Ca^(2+) ATPase in the sarcoplasmic reticulum."
+                },
+                {
+                    "id": "e",
+                    "label": "Phosphorylation of phospholamban to increase Ca^(2+) storage in the SR."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q15": {
+            "type": "mcq",
+            "prompt": "On a ventricular pressure-volume loop, what is the most significant consequence of a sudden increase in aortic pressure (afterload)?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased stroke volume."
+                },
+                {
+                    "id": "b",
+                    "label": "Decreased end-systolic volume."
+                },
+                {
+                    "id": "c",
+                    "label": "Increased ejection fraction."
+                },
+                {
+                    "id": "d",
+                    "label": "Decreased end-diastolic volume."
+                },
+                {
+                    "id": "e",
+                    "label": "Decreased stroke volume."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q16": {
+            "type": "mcq",
+            "prompt": "Thick filaments of the myocardial sarcomere are primarily composed of myosin. Which functional property is associated with the globular heads of the myosin molecule?.",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Actin-binding sites and ATPase activity."
+                },
+                {
+                    "id": "b",
+                    "label": "Calcium-binding sites for troponin C."
+                },
+                {
+                    "id": "c",
+                    "label": "Anchoring the thin filaments to the Z line."
+                },
+                {
+                    "id": "d",
+                    "label": "Inhibiting the interaction of actin and myosin at rest."
+                },
+                {
+                    "id": "e",
+                    "label": "Spanning the entire length of the sarcomere as a molecular ruler."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q17": {
+            "type": "mcq",
+            "prompt": "The efficiency of ventricular contraction is measured by the ejection fraction, which relates the volume of blood pumped out to the total volume available. What is the approximate normal resting value for the left ventricular ejection fraction?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "0.15 (15%)."
+                },
+                {
+                    "id": "b",
+                    "label": "0.30 (30%)."
+                },
+                {
+                    "id": "c",
+                    "label": "0.55 (55%)."
+                },
+                {
+                    "id": "d",
+                    "label": "0.85 (85%)."
+                },
+                {
+                    "id": "e",
+                    "label": "1.00 (100%)."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q18": {
+            "type": "mcq",
+            "prompt": "As the end-diastolic volume increases within the physiological range, the force of ventricular contraction increases. This is partly due to which length-dependent mechanism in cardiac muscle?.",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Decreased overlap of thick and thin filaments."
+                },
+                {
+                    "id": "b",
+                    "label": "Decreased sensitivity of troponin C to calcium."
+                },
+                {
+                    "id": "c",
+                    "label": "Decreased total tension resulting from passive stretch."
+                },
+                {
+                    "id": "d",
+                    "label": "Permanent inactivation of L-type calcium channels."
+                },
+                {
+                    "id": "e",
+                    "label": "Increased sensitivity of troponin C to calcium and increased Ca^(2+) release from the SR."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q19": {
+            "type": "mcq",
+            "prompt": "A 22-year-old male suffers an acute hemorrhage, leading to a decrease in mean systemic pressure. What is the initial mechanical consequence of this blood loss on the heart's Starling curve?.",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Upward shift of the curve due to increased contractility."
+                },
+                {
+                    "id": "b",
+                    "label": "Downward shift of the curve due to decreased contractility."
+                },
+                {
+                    "id": "c",
+                    "label": "Increase in stroke volume to compensate for pressure loss."
+                },
+                {
+                    "id": "d",
+                    "label": "Movement to a lower point on the same Starling curve due to decreased preload."
+                },
+                {
+                    "id": "e",
+                    "label": "Rotation of the curve due to increased total peripheral resistance."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q20": {
+            "type": "mcq",
+            "prompt": "In the steady state, the heart ensures that the volume of blood it ejects is equal to the volume of blood it receives from the veins. Which principle of myocardial mechanics is responsible for matching the cardiac output of the left and right ventricles over time?.",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The Frank-Starling law matching stroke volume to end-diastolic volume."
+                },
+                {
+                    "id": "b",
+                    "label": "Arteriolar vasoconstriction increasing the total peripheral resistance."
+                },
+                {
+                    "id": "c",
+                    "label": "Inhibition of the Na^+/K^+ pump by circulating catecholamines."
+                },
+                {
+                    "id": "d",
+                    "label": "The baroreceptor reflex adjusting the heart rate."
+                },
+                {
+                    "id": "e",
+                    "label": "The myogenic response to increased arterial pressure."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        }
+    }
+}

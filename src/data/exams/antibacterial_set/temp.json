@@ -1,0 +1,415 @@
+{
+  "info": {
+    "set_name": "",
+    "description": "",
+    "source": ""
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "Azithromycin is frequently used to treat atypical pneumonia caused by Mycoplasma pneumoniae. Which of the following best describes its primary mechanism of action?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Inhibition of cell wall peptidoglycan synthesis"
+        },
+        {
+          "id": "b",
+          "label": "Binding to the 30S ribosomal subunit to block mRNA translation"
+        },
+        {
+          "id": "c",
+          "label": "Inhibition of DNA gyrase and topoisomerase IV"
+        },
+        {
+          "id": "d",
+          "label": "Prevention of polypeptide elongation at the 50S ribosome"
+        },
+        {
+          "id": "e",
+          "label": "Disruption of the bacterial cell membrane integrity"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ]
+    },
+    "q2": {
+      "type": "mcq",
+      "prompt": "A 6-year-old child requires treatment for an infection. The physician avoids prescribing doxycycline because of which specific potential adverse effect in this age group?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Cartilage erosion"
+        },
+        {
+          "id": "b",
+          "label": "Gray baby syndrome"
+        },
+        {
+          "id": "c",
+          "label": "Ototoxicity and nephrotoxicity"
+        },
+        {
+          "id": "d",
+          "label": "Permanent teeth discoloration"
+        },
+        {
+          "id": "e",
+          "label": "Acute hemolytic anemia"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ]
+    },
+    "q3": {
+      "type": "mcq",
+      "prompt": "A patient presents with a single, painless, indurated ulcer on the genitalia. Which of the following is the standard drug of choice for this infection caused by Treponema pallidum?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Azithromycin"
+        },
+        {
+          "id": "b",
+          "label": "Benzathine Penicillin G"
+        },
+        {
+          "id": "c",
+          "label": "Ceftriaxone"
+        },
+        {
+          "id": "d",
+          "label": "Doxycycline"
+        },
+        {
+          "id": "e",
+          "label": "Metronidazole"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ]
+    },
+    "q4": {
+      "type": "mcq",
+      "prompt": "A laboratory report identifies a Staphylococcus aureus isolate as methicillin-susceptible (MSSA). Which of the following is considered the drug of choice for a systemic infection with this organism?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Vancomycin"
+        },
+        {
+          "id": "b",
+          "label": "Linezolid"
+        },
+        {
+          "id": "c",
+          "label": "Nafcillin"
+        },
+        {
+          "id": "d",
+          "label": "Gentamicin"
+        },
+        {
+          "id": "e",
+          "label": "Tigecycline"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ]
+    },
+    "q5": {
+      "type": "mcq",
+      "prompt": "A premature newborn is treated with an antibiotic and subsequently develops vomiting, a flaccid gray appearance, and hypothermia. Which of the following antibacterial agents is most likely responsible for this \"gray baby syndrome\"?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Chloramphenicol"
+        },
+        {
+          "id": "b",
+          "label": "Sulfamethoxazole"
+        },
+        {
+          "id": "c",
+          "label": "Doxycycline"
+        },
+        {
+          "id": "d",
+          "label": "Ciprofloxacin"
+        },
+        {
+          "id": "e",
+          "label": "Clindamycin"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ]
+    },
+    "q6": {
+      "type": "mcq",
+      "prompt": "A patient is diagnosed with gonococcal urethritis. What is the current treatment of choice for an infection caused by Neisseria gonorrhoeae?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Penicillin V"
+        },
+        {
+          "id": "b",
+          "label": "Ceftriaxone"
+        },
+        {
+          "id": "c",
+          "label": "Metronidazole"
+        },
+        {
+          "id": "d",
+          "label": "Gentamicin"
+        },
+        {
+          "id": "e",
+          "label": "Vancomycin"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "In the treatment of hospital-acquired pneumonia, which of the following beta-lactam antibiotics provides specific coverage against Pseudomonas aeruginosa?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Amoxicillin"
+        },
+        {
+          "id": "b",
+          "label": "Cefazolin"
+        },
+        {
+          "id": "c",
+          "label": "Ceftriaxone"
+        },
+        {
+          "id": "d",
+          "label": "Piperacillin-tazobactam"
+        },
+        {
+          "id": "e",
+          "label": "Ampicillin-sulbactam"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ]
+    },
+    "q8": {
+      "type": "mcq",
+      "prompt": "Ciprofloxacin, a fluoroquinolone, exerts its bactericidal effect by inhibiting which of the following bacterial targets?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Dihydropteroate synthase"
+        },
+        {
+          "id": "b",
+          "label": "DNA-dependent RNA polymerase"
+        },
+        {
+          "id": "c",
+          "label": "DNA gyrase (topoisomerase II)"
+        },
+        {
+          "id": "d",
+          "label": "30S ribosomal subunit"
+        },
+        {
+          "id": "e",
+          "label": "Peptidoglycan transpeptidase"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ]
+    },
+    "q9": {
+      "type": "mcq",
+      "prompt": "Fluoroquinolones are generally avoided during pregnancy primarily due to the risk of which fetal or neonatal complication?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Damage to developing cartilage"
+        },
+        {
+          "id": "b",
+          "label": "Fetal kernicterus"
+        },
+        {
+          "id": "c",
+          "label": "Permanent tooth staining and bone growth inhibition"
+        },
+        {
+          "id": "d",
+          "label": "Gray baby syndrome"
+        },
+        {
+          "id": "e",
+          "label": "Fetal ototoxicity"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ]
+    },
+    "q10": {
+      "type": "mcq",
+      "prompt": "A newborn is diagnosed with meningitis caused by Listeria monocytogenes. Which of the following is the most appropriate antibiotic for this patient?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Ceftriaxone"
+        },
+        {
+          "id": "b",
+          "label": "Ampicillin"
+        },
+        {
+          "id": "c",
+          "label": "Vancomycin"
+        },
+        {
+          "id": "d",
+          "label": "Doxycycline"
+        },
+        {
+          "id": "e",
+          "label": "Ciprofloxacin"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ]
+    },
+    "q11": {
+      "type": "mcq",
+      "prompt": "Sulfamethoxazole is often administered in combination with trimethoprim. Which of the following enzymes is specifically inhibited by the sulfonamide component?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Dihydrofolate reductase"
+        },
+        {
+          "id": "b",
+          "label": "Dihydropteroate synthase"
+        },
+        {
+          "id": "c",
+          "label": "DNA topoisomerase IV"
+        },
+        {
+          "id": "d",
+          "label": "Peptidyl transferase"
+        },
+        {
+          "id": "e",
+          "label": "Arabinosyltransferase"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ]
+    },
+    "q12": {
+      "type": "mcq",
+      "prompt": "A patient receiving a rapid intravenous infusion of vancomycin develops diffuse erythematous flushing of the face and upper torso. This reaction is known as:",
+      "options": [
+        {
+          "id": "a",
+          "label": "DRESS syndrome"
+        },
+        {
+          "id": "b",
+          "label": "Stevens-Johnson syndrome"
+        },
+        {
+          "id": "c",
+          "label": "Red man syndrome"
+        },
+        {
+          "id": "d",
+          "label": "Type I hypersensitivity"
+        },
+        {
+          "id": "e",
+          "label": "Gray baby syndrome"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ]
+    },
+    "q13": {
+      "type": "mcq",
+      "prompt": "A patient develops an intra-abdominal abscess following a ruptured appendix. Which of the following is the drug of choice for treating the anaerobic pathogen Bacteroides fragilis?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Metronidazole"
+        },
+        {
+          "id": "b",
+          "label": "Ciprofloxacin"
+        },
+        {
+          "id": "c",
+          "label": "Gentamicin"
+        },
+        {
+          "id": "d",
+          "label": "Azithromycin"
+        },
+        {
+          "id": "e",
+          "label": "Cefazolin"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ]
+    },
+    "q14": {
+      "type": "mcq",
+      "prompt": "A pregnant woman is found to be colonized with Streptococcus agalactiae (Group B Streptococcus) shortly before delivery. Which antibiotic is recommended for intrapartum prophylaxis to prevent neonatal disease?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Vancomycin"
+        },
+        {
+          "id": "b",
+          "label": "Erythromycin"
+        },
+        {
+          "id": "c",
+          "label": "Penicillin G"
+        },
+        {
+          "id": "d",
+          "label": "Doxycycline"
+        },
+        {
+          "id": "e",
+          "label": "Gentamicin"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ]
+    }
+  }
+}

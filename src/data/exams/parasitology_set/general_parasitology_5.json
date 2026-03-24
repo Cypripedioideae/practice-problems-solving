@@ -1,0 +1,299 @@
+{
+    "info": {
+        "set_name": "General parasitology 5",
+        "description": "",
+        "source": ""
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A researcher is studying the life cycle of Toxoplasma gondii and notes that while many mammals can serve as hosts, domestic cats are uniquely classified as the definitive host. Which of the following processes occurring in the cat explains this classification?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Formation of tissue cysts containing bradyzoites"
+                },
+                {
+                    "id": "b",
+                    "label": "Ingestion of undercooked meat from infected rodents"
+                },
+                {
+                    "id": "c",
+                    "label": "Maturation of tachyzoites within skeletal muscle cells"
+                },
+                {
+                    "id": "d",
+                    "label": "Occurrence of the sexual cycle and production of oocysts"
+                },
+                {
+                    "id": "e",
+                    "label": "Replication of the parasite within peripheral macrophages"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A 34-year-old patient presents with recurrent spiking fevers, weight loss, and hepatosplenomegaly; laboratory tests reveal pancytopenia. A bone marrow aspirate is performed to confirm the diagnosis of visceral leishmaniasis. Which of the following is the expected finding upon microscopic examination?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Large, pear-shaped flagellated trophozoites"
+                },
+                {
+                    "id": "b",
+                    "label": "Macrophages containing numerous amastigotes"
+                },
+                {
+                    "id": "c",
+                    "label": "Multinucleated cysts with a thick chitinous wall"
+                },
+                {
+                    "id": "d",
+                    "label": "Ring-form trophozoites within mature erythrocytes"
+                },
+                {
+                    "id": "e",
+                    "label": "Trypomastigotes with a prominent undulating membrane"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "A patient diagnosed with amebic liver abscess is treated with a course of Metronidazole. Following this, the physician adds Iodoquinol to the treatment regimen. What is the primary pharmacological necessity for adding this luminal amebicide?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "To achieve therapeutic concentrations within the hepatic abscess"
+                },
+                {
+                    "id": "b",
+                    "label": "To eradicate asymptomatic cyst shedding from the colon"
+                },
+                {
+                    "id": "c",
+                    "label": "To inhibit the adherence of trophozoites to the liver parenchyma"
+                },
+                {
+                    "id": "d",
+                    "label": "To prevent the systemic dissemination of the motile stage"
+                },
+                {
+                    "id": "e",
+                    "label": "To provide synergistic killing of anaerobic bacteria in the gut"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "During a microscopic stool examination of a patient with bloody diarrhea, a technologist identifies a trophozoite (20 \u00b5m) with a single nucleus showing a small central karyosome and fine, evenly distributed peripheral chromatin (\"wagon-wheel\" appearance). The cytoplasm also contains several ingested red blood cells. Which organism has been identified?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Balantidium coli"
+                },
+                {
+                    "id": "b",
+                    "label": "Dientamoeba fragilis"
+                },
+                {
+                    "id": "c",
+                    "label": "Entamoeba histolytica"
+                },
+                {
+                    "id": "d",
+                    "label": "Giardia lamblia"
+                },
+                {
+                    "id": "e",
+                    "label": "Trichomonas hominis"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "A patient with a protozoal infection is prescribed Metronidazole. Which biochemical event must occur within the pathogen for this medication to produce its toxic, DNA-disrupting intermediates?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Acetylation by cytoplasmic transferases"
+                },
+                {
+                    "id": "b",
+                    "label": "Binding to the beta-tubulin subunits"
+                },
+                {
+                    "id": "c",
+                    "label": "Inhibition of the dihydrofolate reductase enzyme"
+                },
+                {
+                    "id": "d",
+                    "label": "Phosphorylation by parasitic thymidine kinase"
+                },
+                {
+                    "id": "e",
+                    "label": "Reductive bioactivation by ferredoxin"
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "A 24-year-old contact lens wearer presents with severe, progressive eye pain and blurred vision; physical examination reveals a corneal ulcer. Microscopy of a specific specimen shows wrinkled, thick-walled cysts. Which specimen is most appropriate for diagnosing this condition?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Aqueous humor aspirate"
+                },
+                {
+                    "id": "b",
+                    "label": "Conjunctival swab"
+                },
+                {
+                    "id": "c",
+                    "label": "Corneal scrapings"
+                },
+                {
+                    "id": "d",
+                    "label": "Nasal mucosa biopsy"
+                },
+                {
+                    "id": "e",
+                    "label": "Vitreous humor fluid"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "A 45-year-old man from South America is diagnosed with chronic Chagas disease. Over several years, he develops apical atrophy and significant dilation of the heart chambers. Which of the following best describes the long-term pathogenesis leading to this dilated cardiomyopathy?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Accumulation of toxic hemoglobin metabolites in the blood"
+                },
+                {
+                    "id": "b",
+                    "label": "Chronic inflammation following the invasion of cardiac tissue"
+                },
+                {
+                    "id": "c",
+                    "label": "Mass effect from large unilocular cysts in the myocardium"
+                },
+                {
+                    "id": "d",
+                    "label": "Mechanical obstruction of the coronary vessels by larvae"
+                },
+                {
+                    "id": "e",
+                    "label": "Reversible immune reaction against circulating sporozoites"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "A 30-year-old HIV-positive patient with a CD4 count of 120/mm\u00b3 presents with chronic watery diarrhea and severe weight loss. A modified acid-fast stain of the stool reveals numerous red-staining, spherical oocysts measuring 5 \u00b5m in diameter. Which organism is the most likely cause?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Cryptosporidium spp."
+                },
+                {
+                    "id": "b",
+                    "label": "Cyclospora cayetanensis"
+                },
+                {
+                    "id": "c",
+                    "label": "Cystoisospora belli"
+                },
+                {
+                    "id": "d",
+                    "label": "Enterocytozoon bieneusi"
+                },
+                {
+                    "id": "e",
+                    "label": "Microsporidia spp."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "A patient with giardiasis presents with steatorrhea and evidence of vitamin B12 malabsorption. Which mechanism primarily explains how Giardia lamblia interferes with fat absorption in the small intestine?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Destruction of the intestinal epithelium by cytolytic enzymes"
+                },
+                {
+                    "id": "b",
+                    "label": "Induction of severe mucosal ulceration and hemorrhage"
+                },
+                {
+                    "id": "c",
+                    "label": "Migration of larvae into the deep layers of the submucosa"
+                },
+                {
+                    "id": "d",
+                    "label": "Neutralization of gastric acid by the production of urease"
+                },
+                {
+                    "id": "e",
+                    "label": "Use of a ventral sucking disk to attach to the mucosa and absorb bile salts"
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "A 56-year-old businessman presents with right upper quadrant pain and fever after returning from a trip to East Asia. Imaging reveals adult flukes inhabiting the biliary tract. He admits to frequently eating local water plants during his stay. Which dietary source is most likely associated with the transmission of this parasite?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Contaminated raw watercress"
+                },
+                {
+                    "id": "b",
+                    "label": "Improperly cooked wild game"
+                },
+                {
+                    "id": "c",
+                    "label": "Raw freshwater crabs or crayfish"
+                },
+                {
+                    "id": "d",
+                    "label": "Salted and fermented freshwater fish"
+                },
+                {
+                    "id": "e",
+                    "label": "Unwashed vegetables from sheep-grazing areas"
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        }
+    }
+}

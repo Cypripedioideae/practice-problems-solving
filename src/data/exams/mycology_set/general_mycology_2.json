@@ -1,0 +1,279 @@
+{
+  "info": {
+    "set_name": "General Mycology 2",
+    "description": "-",
+    "source": "-"
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "A specimen from a patient with a suspected pulmonary infection demonstrates long, branching filaments that stain positively with a 1% sulfuric acid decolorizer. Which of the following stains is specifically used to highlight the waxy, lipid-rich cell wall of this organism?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Gomori methenamine silver stain"
+        },
+        {
+          "id": "b",
+          "label": "Gram stain"
+        },
+        {
+          "id": "c",
+          "label": "India ink preparation"
+        },
+        {
+          "id": "d",
+          "label": "Modified acid-fast stain"
+        },
+        {
+          "id": "e",
+          "label": "Periodic acid-Schiff stain"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q2": {
+      "type": "mcq",
+      "prompt": "A 45-year-old male undergoing chemotherapy for acute myeloid leukemia develops a high fever, pleuritic chest pain, and hemoptysis despite being on broad-spectrum antibiotics. A CT scan of the chest reveals cavitary lesions with a 'halo sign.' A serum assay for a specific polysaccharide component of the fungal cell wall is positive. Which of the following is the target of this diagnostic test?",
+      "options": [
+        {
+          "id": "a",
+          "label": "\u03b2(1-3) glucan"
+        },
+        {
+          "id": "b",
+          "label": "Galactomannan"
+        },
+        {
+          "id": "c",
+          "label": "Mannoprotein"
+        },
+        {
+          "id": "d",
+          "label": "Ergosterol"
+        },
+        {
+          "id": "e",
+          "label": "Glycosylphosphatidylinositol (GPI) protein"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q3": {
+      "type": "mcq",
+      "prompt": "During a microbiology lecture, a professor describes the asexual reproductive cycle of certain filamentous fungi. Which of the following structures is seen as barrel-shaped cells resulting from the fragmentation of septate hyphae?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Arthroconidia"
+        },
+        {
+          "id": "b",
+          "label": "Blastoconidia"
+        },
+        {
+          "id": "c",
+          "label": "Macroconidia"
+        },
+        {
+          "id": "d",
+          "label": "Pseudohyphae"
+        },
+        {
+          "id": "e",
+          "label": "Basidiospores"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q4": {
+      "type": "mcq",
+      "prompt": "A bone marrow transplant recipient who was receiving voriconazole prophylaxis develops a sudden fever and wedge-shaped pulmonary infiltrates. A lung biopsy demonstrates irregular, broad, non-septate hyphae branching at wide angles. Why was the initial prophylactic agent likely ineffective?",
+      "options": [
+        {
+          "id": "a",
+          "label": "The agent cannot penetrate the fungal cell wall"
+        },
+        {
+          "id": "b",
+          "label": "The agent inhibits mitosis rather than membrane synthesis"
+        },
+        {
+          "id": "c",
+          "label": "The agent lacks activity against the causative agents"
+        },
+        {
+          "id": "d",
+          "label": "The organism is a fungus-like bacterium resistant to azoles"
+        },
+        {
+          "id": "e",
+          "label": "The patient has a specific B-cell defect preventing drug activation"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q5": {
+      "type": "mcq",
+      "prompt": "A patient is prescribed terbinafine for the treatment of a fungal infection. Which of the following describes the primary mechanism of action for this medication?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Binding to ergosterol to form membrane pores"
+        },
+        {
+          "id": "b",
+          "label": "Inhibition of 1,3-\u03b2-D-glucan synthase"
+        },
+        {
+          "id": "c",
+          "label": "Inhibition of the enzyme 14-\u03b1-demethylase"
+        },
+        {
+          "id": "d",
+          "label": "Inhibition of the fungal enzyme squalene epoxidase"
+        },
+        {
+          "id": "e",
+          "label": "Interference with microtubule function during mitosis"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q6": {
+      "type": "mcq",
+      "prompt": "An HIV-positive patient with a CD4+ T-cell count of 150 cells/mm^3 presents with a nonproductive cough, severe hypoxia, and diffuse ground-glass opacities on a chest X-ray. Which of the following stains is best used to visualize the cup-shaped cysts of the most likely causative agent in bronchoalveolar lavage fluid?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Acid-fast stain"
+        },
+        {
+          "id": "b",
+          "label": "Gomori methenamine silver (GMS) stain"
+        },
+        {
+          "id": "c",
+          "label": "India ink preparation"
+        },
+        {
+          "id": "d",
+          "label": "Potassium hydroxide (KOH) mount"
+        },
+        {
+          "id": "e",
+          "label": "Wright stain"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "A 50-year-old male agricultural worker presents with a five-year history of a slow-growing, painless mass on his left foot. Physical examination reveals a firm, swollen lesion with multiple sinus tracts that discharge fluid containing small, hard black grains. Microscopic analysis of these grains confirms the diagnosis of eumycetoma caused by *Madurella mycetomatis*. Which of the following microscopic morphologies is most characteristic of this pathogen in clinical specimens? ",
+      "options": [
+        {
+          "id": "a",
+          "label": "Hyaline septate hyphae"
+        },
+        {
+          "id": "b",
+          "label": "Broad-based budding yeasts"
+        },
+        {
+          "id": "c",
+          "label": "Intracellular fission yeasts"
+        },
+        {
+          "id": "d",
+          "label": "Dematiaceous septate hyphae"
+        },
+        {
+          "id": "e",
+          "label": "Dematiaceous non-septate hyphae"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q8": {
+      "type": "mcq",
+      "prompt": "A medical student is reviewing the morphological classification of fungi and encounters a species described as an encapsulated yeast capable of causing human infection. Which fungus is being described?",
+      "options": [
+        {
+          "id": "a",
+          "label": "*Candida albicans*"
+        },
+        {
+          "id": "b",
+          "label": "Cryptococcus neoformans"
+        },
+        {
+          "id": "c",
+          "label": "*Malassezia furfur*"
+        },
+        {
+          "id": "d",
+          "label": "*Histoplasma capsulatum*"
+        },
+        {
+          "id": "e",
+          "label": "*Pneumocystis jirovecii*"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q9": {
+      "type": "mcq",
+      "prompt": "A patient with invasive candidiasis is treated with an echinocandin such as caspofungin. How does this class of medication specifically cause fungal cell death?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Binding to tubulin to disrupt the mitotic spindle"
+        },
+        {
+          "id": "b",
+          "label": "Blocking DNA and RNA biosynthesis"
+        },
+        {
+          "id": "c",
+          "label": "Forming pores in the cell membrane by binding sterols"
+        },
+        {
+          "id": "d",
+          "label": "Inhibiting 1,3-\u03b2-D-glucan synthase to weaken the cell wall"
+        },
+        {
+          "id": "e",
+          "label": "Inhibiting the conversion of squalene to squalene epoxide"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q10": {
+      "type": "mcq",
+      "prompt": "A 7-year-old child presents with a scaly, itchy patch of hair loss on the scalp. The clinician examines the area with a Wood light and observes yellow-green fluorescence. Which of the following fungal genera is most likely responsible for this infection?",
+      "options": [
+        {
+          "id": "a",
+          "label": "*Aspergillus* spp."
+        },
+        {
+          "id": "b",
+          "label": "*Epidermophyton* spp."
+        },
+        {
+          "id": "c",
+          "label": "*Microsporum* spp."
+        },
+        {
+          "id": "d",
+          "label": "*Rhizopus* spp."
+        },
+        {
+          "id": "e",
+          "label": "*Trichophyton* spp."
+        }
+      ],
+      "correctOptionIds": ["c"]
+    }
+  }
+}

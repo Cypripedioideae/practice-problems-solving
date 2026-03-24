@@ -1,0 +1,443 @@
+{
+    "info": {
+        "set_name": "Reproductive Comprehensive Set 2: Female Physiology - Oogenesis (MCQ)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A 24-year-old woman is on day 6 of her menstrual cycle. An ultrasound of her ovaries reveals that one follicle has significantly outpaced its cohorts in size, while the others are beginning to undergo atresia. Which of the following best describes the physiological selection mechanism for this \"dominant follicle\"?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "It is the follicle that has most effectively up-regulated its own FSH receptors via local estradiol production."
+                },
+                {
+                    "id": "b",
+                    "label": "It is the only follicle that possesses LH receptors on its theca cells at this stage."
+                },
+                {
+                    "id": "c",
+                    "label": "It has developed a higher concentration of progesterone in its antral fluid to inhibit neighboring follicles."
+                },
+                {
+                    "id": "d",
+                    "label": "It is the follicle that has successfully completed its first meiotic division earliest."
+                },
+                {
+                    "id": "e",
+                    "label": "It is the only follicle currently capable of synthesizing cholesterol from acetate."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A pathologist is examining an ovary from a 22-year-old woman. He identifies a follicle characterized by a large, fluid-filled central cavity and an oocyte surrounded by a cluster of granulosa cells. Which of the following is true regarding the oocyte within this specific follicle?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "It has completed the second meiotic division and is haploid (1N)."
+                },
+                {
+                    "id": "b",
+                    "label": "It is currently arrested in the prophase of the first meiotic division."
+                },
+                {
+                    "id": "c",
+                    "label": "It has just extruded the second polar body in response to the LH surge."
+                },
+                {
+                    "id": "d",
+                    "label": "It is a diploid 4N cell that has completed its mitotic divisions in the last month."
+                },
+                {
+                    "id": "e",
+                    "label": "It will remain in its current meiotic state even after fertilization occurs."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "A 7-year-old girl and a 27-year-old woman both have primordial follicles in their ovaries. Which of the following best describes the difference in follicular development between these two individuals?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The child's follicles lack theca cells, which only develop after the onset of menarche."
+                },
+                {
+                    "id": "b",
+                    "label": "The child's oocytes are arrested in metaphase II, while the woman's are in prophase I."
+                },
+                {
+                    "id": "c",
+                    "label": "The child's follicles cannot progress to the antral stage due to the lack of pulsatile gonadotropin stimulation."
+                },
+                {
+                    "id": "d",
+                    "label": "The child's ovaries have a higher number of oogonia undergoing active mitosis."
+                },
+                {
+                    "id": "e",
+                    "label": "The child's oocytes have already completed the first meiotic division."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "A 28-year-old woman experiences ovulation on day 14 of her cycle. If fertilization does not occur, the corpus luteum will begin to regress approximately 12 days later. This regression is primarily triggered by which of the following?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "A sudden increase in FSH that stimulates the growth of a new cohort."
+                },
+                {
+                    "id": "b",
+                    "label": "The positive feedback of progesterone on the anterior pituitary."
+                },
+                {
+                    "id": "c",
+                    "label": "The paracrine action of relaxin on the granulosa-lutein cells."
+                },
+                {
+                    "id": "d",
+                    "label": "The lack of human chorionic gonadotropin (hCG) to maintain steroidogenic activity."
+                },
+                {
+                    "id": "e",
+                    "label": "The completion of the second meiotic division by the unfertilized oocyte."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "A 52-year-old woman is transitioning into menopause. Laboratory tests reveal significantly elevated levels of FSH and LH. Which of the following best explains the cellular basis for the cessation of her menstrual cycles?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The hypothalamus has become insensitive to the negative feedback of inhibin."
+                },
+                {
+                    "id": "b",
+                    "label": "The anterior pituitary has developed a resistance to GnRH pulses."
+                },
+                {
+                    "id": "c",
+                    "label": "The remaining oocytes have completed their second meiotic division prematurely."
+                },
+                {
+                    "id": "d",
+                    "label": "The theca cells are no longer able to convert androstenedione to estradiol."
+                },
+                {
+                    "id": "e",
+                    "label": "The pool of functional ovarian follicles has been depleted through years of ovulation and atresia."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "During the \"two-cell theory\" of follicular steroidogenesis, the granulosa cells are noted to be highly dependent on the theca cells for the production of estradiol. What is the specific biochemical reason for this dependence?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Granulosa cells lack the enzyme 17\u03b1-hydroxylase and cannot produce androgens."
+                },
+                {
+                    "id": "b",
+                    "label": "Theca cells are the only cells that possess aromatase activity."
+                },
+                {
+                    "id": "c",
+                    "label": "Granulosa cells cannot respond to FSH without prior LH stimulation of the theca cells."
+                },
+                {
+                    "id": "d",
+                    "label": "Theca cells secrete progesterone, which acts as the only precursor for granulosa-derived estrogens."
+                },
+                {
+                    "id": "e",
+                    "label": "Granulosa cells are located outside the blood-ovary barrier and cannot access LDL."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "A researcher is studying the first meiotic division in human oocytes. He notes that this division is completed at a very specific temporal point. When does this typically occur?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "At the moment the sperm penetrates the zona pellucida."
+                },
+                {
+                    "id": "b",
+                    "label": "Just prior to the rupture of the Graafian follicle during ovulation."
+                },
+                {
+                    "id": "c",
+                    "label": "During the transition from a primordial follicle to a primary follicle."
+                },
+                {
+                    "id": "d",
+                    "label": "Immediately following the selected follicle's arrival in the uterine cavity."
+                },
+                {
+                    "id": "e",
+                    "label": "At the peak of the HCG concentration during the first trimester."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "In a secondary (antral) follicle, the fluid that accumulates in the antrum is found to have a very high concentration of several substances. Which of the following would be found in the highest relative concentration within this fluid compared to the systemic circulation?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Testosterone."
+                },
+                {
+                    "id": "b",
+                    "label": "Prolactin."
+                },
+                {
+                    "id": "c",
+                    "label": "FSH and Estradiol."
+                },
+                {
+                    "id": "d",
+                    "label": "Oxytocin and ADH."
+                },
+                {
+                    "id": "e",
+                    "label": "Lactic acid and Urea."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "A woman with a regular 32-day menstrual cycle is trying to determine her most fertile window. Based on the constant nature of the luteal phase, on which day is she most likely to undergo ovulation?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Day 14."
+                },
+                {
+                    "id": "b",
+                    "label": "Day 16."
+                },
+                {
+                    "id": "c",
+                    "label": "Day 17."
+                },
+                {
+                    "id": "d",
+                    "label": "Day 18."
+                },
+                {
+                    "id": "e",
+                    "label": "Day 21."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "The LH surge is the definitive signal for ovulation. Aside from follicular rupture, which of the following is a direct effect of this surge on the oocyte itself?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "It initiates the mitotic proliferation of the surrounding stroma."
+                },
+                {
+                    "id": "b",
+                    "label": "It triggers the closing of the gap junctions between the oocyte and granulosa cells."
+                },
+                {
+                    "id": "c",
+                    "label": "It stimulates the oocyte to synthesize its own supply of HCG."
+                },
+                {
+                    "id": "d",
+                    "label": "It causes the oocyte to enter the prophase of the first meiotic division."
+                },
+                {
+                    "id": "e",
+                    "label": "It induces the completion of the first meiotic division, resulting in a secondary oocyte."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q11": {
+            "type": "mcq",
+            "prompt": "A 30-year-old woman is pregnant. Her corpus luteum remains functional throughout the first trimester. If the corpus luteum were to be removed at week 4 of gestation, what would be the most likely outcome?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Spontaneous abortion due to the sudden drop in progesterone."
+                },
+                {
+                    "id": "b",
+                    "label": "Normal continuation of pregnancy as the placenta is already the primary source of steroids."
+                },
+                {
+                    "id": "c",
+                    "label": "Accelerated fetal lung maturation due to a compensatory rise in cortisol."
+                },
+                {
+                    "id": "d",
+                    "label": "Development of a male phenotype in an XX fetus due to lack of estrogen."
+                },
+                {
+                    "id": "e",
+                    "label": "Conversion of the remaining follicles into a large syncytiotrophoblast."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q12": {
+            "type": "mcq",
+            "prompt": "In the process of oogenesis, the first meiotic division is asymmetric. What is the primary physiological purpose of producing a small, non-functional first polar body?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "To provide a source of mitochondria for the remaining oocyte."
+                },
+                {
+                    "id": "b",
+                    "label": "To reduce the chromosome number to haploid while conserving the cytoplasm for the oocyte."
+                },
+                {
+                    "id": "c",
+                    "label": "To signal the theca cells to begin the process of luteinization."
+                },
+                {
+                    "id": "d",
+                    "label": "To act as a physical barrier to prevent polyspermy during fertilization."
+                },
+                {
+                    "id": "e",
+                    "label": "To synthesize the enzymes required for the acrosomal reaction."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q13": {
+            "type": "mcq",
+            "prompt": "A 14-year-old girl is experiencing her first several menstrual cycles. Her physician explains that these cycles are likely anovulatory. What is the most likely reason why ovulation does not occur in these early cycles?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "There is a total absence of primordial follicles in the ovaries at this age."
+                },
+                {
+                    "id": "b",
+                    "label": "FSH levels are consistently higher than LH levels, preventing any follicular growth."
+                },
+                {
+                    "id": "c",
+                    "label": "The positive feedback mechanism of estrogen on the anterior pituitary is not yet mature."
+                },
+                {
+                    "id": "d",
+                    "label": "The ovaries are producing only androstenedione and cannot yet synthesize estradiol."
+                },
+                {
+                    "id": "e",
+                    "label": "The hypothalamic pulse generator is secreting GnRH in a continuous, rather than pulsatile, pattern."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q14": {
+            "type": "mcq",
+            "prompt": "Comparison of gametogenesis between the two sexes reveals fundamental differences. While a male produces four functional gametes from one primary spermatocyte, a female produces how many functional gametes from one primary oocyte?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Four functional ova."
+                },
+                {
+                    "id": "b",
+                    "label": "Two functional ova and two polar bodies."
+                },
+                {
+                    "id": "c",
+                    "label": "Three functional ova and one polar body."
+                },
+                {
+                    "id": "d",
+                    "label": "One functional ovum and two or three polar bodies."
+                },
+                {
+                    "id": "e",
+                    "label": "Zero functional gametes until the menopause transition."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q15": {
+            "type": "mcq",
+            "prompt": "At the end of the follicular phase, estradiol reaches a threshold that triggers the LH surge. Which of the following changes occurs in the anterior pituitary to facilitate this massive release of gonadotropins?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Decrease in the number of GnRH receptors to prevent overstimulation."
+                },
+                {
+                    "id": "b",
+                    "label": "Shift in the second messenger system from cAMP to cGMP."
+                },
+                {
+                    "id": "c",
+                    "label": "Down-regulation of the inhibin receptors on the gonadotrophs."
+                },
+                {
+                    "id": "d",
+                    "label": "Direct inhibition of the dopamine-secreting neurons in the hypothalamus."
+                },
+                {
+                    "id": "e",
+                    "label": "Up-regulation of GnRH receptors, increasing the sensitivity of the pituitary to GnRH."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        }
+    }
+}

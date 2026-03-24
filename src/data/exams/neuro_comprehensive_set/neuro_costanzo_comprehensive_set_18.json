@@ -1,0 +1,588 @@
+{
+    "info": {
+        "set_name": "Comprehensive Neuro Set 2: Audition and Vestibular (MCQ)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A 45-year-old factory worker who has been exposed to loud industrial noise for 20 years presents with significant hearing loss. An audiogram reveals that his hearing deficit is most pronounced for high-frequency sounds. At which specific location within the cochlea is the damage most likely localized?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The base of the basilar membrane near the oval window."
+                },
+                {
+                    "id": "b",
+                    "label": "The apex of the basilar membrane near the helicotrema."
+                },
+                {
+                    "id": "c",
+                    "label": "The middle portion of the basilar membrane."
+                },
+                {
+                    "id": "d",
+                    "label": "The spiral ganglion cell bodies in the modiolus."
+                },
+                {
+                    "id": "e",
+                    "label": "The tectorial membrane in the scala media."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "In the process of auditory transduction, sound waves eventually cause the bending of stereocilia on hair cells. If the stereocilia are bent toward the kinocilium, what is the immediate ionic result?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Na^+enters the cell from the perilymph, causing hyperpolarization."
+                },
+                {
+                    "id": "b",
+                    "label": "K^+enters the cell from the endolymph, causing depolarization."
+                },
+                {
+                    "id": "c",
+                    "label": "Ca^(2+)enters the cell from the endolymph, causing hyperpolarization."
+                },
+                {
+                    "id": "d",
+                    "label": "K^+leaves the cell into the perilymph, causing depolarization."
+                },
+                {
+                    "id": "e",
+                    "label": "Cl^-  enters the cell from the endolymph, causing an IPSP."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "A physician performs a caloric test on a patient suspected of having a vestibular lesion. When warm water is rinsed into the patient's right external auditory canal, which direction of nystagmus (defined by the fast component) should be observed in a person with an intact vestibular system?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "To the left."
+                },
+                {
+                    "id": "b",
+                    "label": "Vertically upward."
+                },
+                {
+                    "id": "c",
+                    "label": "To the right."
+                },
+                {
+                    "id": "d",
+                    "label": "No nystagmus should occur."
+                },
+                {
+                    "id": "e",
+                    "label": "Rotatory nystagmus only."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "A medical student is rotating in space on a Barany chair to the left. During the initial period of rotation, in which direction will her eyes slowly deviate, and what is the direction of the resulting nystagmus?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Eyes deviate left; nystagmus to the right."
+                },
+                {
+                    "id": "b",
+                    "label": "Eyes deviate right; nystagmus to the right."
+                },
+                {
+                    "id": "c",
+                    "label": "Eyes deviate left; nystagmus to the left."
+                },
+                {
+                    "id": "d",
+                    "label": "Eyes deviate right; nystagmus to the left."
+                },
+                {
+                    "id": "e",
+                    "label": "Eyes remain stationary; no nystagmus."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "A researcher is studying the central auditory pathways. He observes that neurons in the superior olivary nucleus are essential for sound localization. Which mechanism allows these neurons to determine the direction from which a sound originates?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Detection of the frequency difference between the two ears."
+                },
+                {
+                    "id": "b",
+                    "label": "Integration of signals from the utricle and saccule."
+                },
+                {
+                    "id": "c",
+                    "label": "Lateral inhibition of the primary auditory cortex."
+                },
+                {
+                    "id": "d",
+                    "label": "Sensitivity to specific sound intensities regardless of source."
+                },
+                {
+                    "id": "e",
+                    "label": "Detection of interaural time delays and intensity differences."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "A 55-year-old patient is being evaluated for hearing loss. A Rinne test is performed using a tuning fork. The results show that bone conduction is greater than air conduction (BC > AC) in the left ear. This finding is most characteristic of which condition?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Conductive hearing loss in the left ear."
+                },
+                {
+                    "id": "b",
+                    "label": "Sensorineural hearing loss in the left ear."
+                },
+                {
+                    "id": "c",
+                    "label": "Normal hearing in the left ear."
+                },
+                {
+                    "id": "d",
+                    "label": "Damage to the left auditory cortex."
+                },
+                {
+                    "id": "e",
+                    "label": "A lesion of the right vestibulocochlear nerve."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "Which of the following best explains why the endolymph allows for the unique K^+influx that depolarizes auditory hair cells?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The perilymph has a much higher K^+concentration than the endolymph."
+                },
+                {
+                    "id": "b",
+                    "label": "The endolymphatic potential is approximately +80 mV relative to the perilymph."
+                },
+                {
+                    "id": "c",
+                    "label": "The hair cell interior is positively charged relative to the endolymph."
+                },
+                {
+                    "id": "d",
+                    "label": "Na^+and K^+are at equilibrium across the hair cell membrane."
+                },
+                {
+                    "id": "e",
+                    "label": "The stria vascularis actively secretes Na^+  into the scala media."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "The middle ear provides \"impedance matching\" to ensure efficient sound transmission. If the ossicular chain is destroyed but the tympanic membrane is intact, what is the expected result regarding hearing?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased sensitivity to high-frequency sounds."
+                },
+                {
+                    "id": "b",
+                    "label": "Total deafness that cannot be bypassed by bone conduction."
+                },
+                {
+                    "id": "c",
+                    "label": "A hearing loss of approximately 20 to 30 decibels (dB)."
+                },
+                {
+                    "id": "d",
+                    "label": "No change in hearing threshold."
+                },
+                {
+                    "id": "e",
+                    "label": "Improved frequency discrimination at the helicotrema."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "A patient suffers from a lesion at the apex of the cochlea near the helicotrema. Which of the following auditory deficits is most likely to be observed?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Loss of high-frequency sound perception."
+                },
+                {
+                    "id": "b",
+                    "label": "Inability to localize sounds in the horizontal plane."
+                },
+                {
+                    "id": "c",
+                    "label": "Loss of the ability to detect sound intensity (loudness)."
+                },
+                {
+                    "id": "d",
+                    "label": "Loss of low-frequency sound perception."
+                },
+                {
+                    "id": "e",
+                    "label": "Complete ipsilateral deafness across all frequencies."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "A subject is spun to the right on a chair and then the chair is stopped abruptly. In the postrotatory period, the subject experiences the sensation of spinning to the left. What is the direction of the postrotatory nystagmus?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "To the right."
+                },
+                {
+                    "id": "b",
+                    "label": "Upward."
+                },
+                {
+                    "id": "c",
+                    "label": "Downward."
+                },
+                {
+                    "id": "d",
+                    "label": "To the left."
+                },
+                {
+                    "id": "e",
+                    "label": "There is no postrotatory nystagmus."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q11": {
+            "type": "mcq",
+            "prompt": "A mutation in the cells of the stria vascularis leads to a significant decrease in the potassium concentration of the endolymph. What is the most likely physiological consequence of this mutation?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Profound deafness due to failure of hair cell depolarization."
+                },
+                {
+                    "id": "b",
+                    "label": "Hyper-excitability of the auditory nerve."
+                },
+                {
+                    "id": "c",
+                    "label": "Increased amplitude of the cochlear microphonic potential."
+                },
+                {
+                    "id": "d",
+                    "label": "Shift of the tonotopic map toward the oval window."
+                },
+                {
+                    "id": "e",
+                    "label": "Spontaneous firing of the vestibular hair cells."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q12": {
+            "type": "mcq",
+            "prompt": "A passenger in an elevator feels a sudden sensation of movement as the elevator begins to descend. Which structure is primarily responsible for detecting this vertical linear acceleration?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The lateral semicircular canal."
+                },
+                {
+                    "id": "b",
+                    "label": "The saccule."
+                },
+                {
+                    "id": "c",
+                    "label": "The superior semicircular canal."
+                },
+                {
+                    "id": "d",
+                    "label": "The organ of Corti."
+                },
+                {
+                    "id": "e",
+                    "label": "The utricle."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q13": {
+            "type": "mcq",
+            "prompt": "Within the maculae of the vestibular system, the hair cells are covered by an otolith mass. What is the biochemical composition and function of the otoliths (statoconia)?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Potassium chloride crystals that maintain the endolymphatic potential."
+                },
+                {
+                    "id": "b",
+                    "label": "Lipid droplets that provide buoyancy to the hair cells."
+                },
+                {
+                    "id": "c",
+                    "label": "Calcium carbonate crystals that provide inertia for detecting head tilt."
+                },
+                {
+                    "id": "d",
+                    "label": "Glycoprotein fibers that act as a mechanical filter for sound."
+                },
+                {
+                    "id": "e",
+                    "label": "Specialized neurons that synapse directly on the cerebellum."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q14": {
+            "type": "mcq",
+            "prompt": "During an eye examination, a physician notes that a patient's eyes exhibit nystagmus. By convention, how is the direction of the nystagmus determined?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "By the direction of the slow component of the eye movement."
+                },
+                {
+                    "id": "b",
+                    "label": "By the direction of the head tilt."
+                },
+                {
+                    "id": "c",
+                    "label": "By the side of the damaged vestibular apparatus."
+                },
+                {
+                    "id": "d",
+                    "label": "By the direction of the fast (saccadic) component of the eye movement."
+                },
+                {
+                    "id": "e",
+                    "label": "By the direction of the initial endolymph flow."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q15": {
+            "type": "mcq",
+            "prompt": "A 30-year-old woman is diagnosed with an experimental toxin that specifically destroys the outer hair cells of the organ of Corti while leaving the inner hair cells intact. What is the most likely functional deficit?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Complete inability to perceive any sound (total deafness)."
+                },
+                {
+                    "id": "b",
+                    "label": "Loss of the ability to detect angular acceleration."
+                },
+                {
+                    "id": "c",
+                    "label": "Permanent nystagmus and vertigo."
+                },
+                {
+                    "id": "d",
+                    "label": "Inability to localize sounds in space."
+                },
+                {
+                    "id": "e",
+                    "label": "Reduced sensitivity to sound and decreased frequency sharpening."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q16": {
+            "type": "mcq",
+            "prompt": "As the stapes moves back and forth against the oval window, the fluid in the cochlea must be displaced because it is incompressible. Which structure acts as a pressure relief valve, moving in the opposite direction of the oval window?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The round window."
+                },
+                {
+                    "id": "b",
+                    "label": "The helicotrema."
+                },
+                {
+                    "id": "c",
+                    "label": "The Reissner membrane."
+                },
+                {
+                    "id": "d",
+                    "label": "The stria vascularis."
+                },
+                {
+                    "id": "e",
+                    "label": "The tympanic membrane."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q17": {
+            "type": "mcq",
+            "prompt": "A patient presents with a localized stroke damaging the right lateral lemniscus. Which of the following best describes the resulting hearing deficit?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Total deafness in the right ear."
+                },
+                {
+                    "id": "b",
+                    "label": "Decreased hearing in both ears, but more pronounced in the left ear."
+                },
+                {
+                    "id": "c",
+                    "label": "Total deafness in the left ear."
+                },
+                {
+                    "id": "d",
+                    "label": "No hearing loss, as the pathway is entirely uncrossed."
+                },
+                {
+                    "id": "e",
+                    "label": "Increased sensitivity to low-frequency sounds in the right ear."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q18": {
+            "type": "mcq",
+            "prompt": "During a leftward rotation of the head, how does the firing rate of the afferent vestibular nerves change for the left and right horizontal semicircular canals?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased in both left and right canals."
+                },
+                {
+                    "id": "b",
+                    "label": "Decreased in both left and right canals."
+                },
+                {
+                    "id": "c",
+                    "label": "Increased in the left canal; decreased in the right canal."
+                },
+                {
+                    "id": "d",
+                    "label": "Decreased in the left canal; increased in the right canal."
+                },
+                {
+                    "id": "e",
+                    "label": "Unchanged in both canals."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q19": {
+            "type": "mcq",
+            "prompt": "The vestibular system uses the utricle and saccule to detect head position. In which plane is the macula of the utricle primarily oriented when the head is in the normal upright position?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Sagittal."
+                },
+                {
+                    "id": "b",
+                    "label": "Vertical."
+                },
+                {
+                    "id": "c",
+                    "label": "Coronal."
+                },
+                {
+                    "id": "d",
+                    "label": "Horizontal."
+                },
+                {
+                    "id": "e",
+                    "label": "Oblique at 45 degrees."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q20": {
+            "type": "mcq",
+            "prompt": "Frequency discrimination (pitch) is a property of the basilar membrane. Which set of structural characteristics describes the base of the basilar membrane (near the stapes)?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Wide and compliant; responds to low frequencies."
+                },
+                {
+                    "id": "b",
+                    "label": "Narrow and stiff; responds to low frequencies."
+                },
+                {
+                    "id": "c",
+                    "label": "Wide and stiff; responds to high frequencies."
+                },
+                {
+                    "id": "d",
+                    "label": "Narrow and compliant; responds to low frequencies."
+                },
+                {
+                    "id": "e",
+                    "label": "Narrow and stiff; responds to high frequencies."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        }
+    }
+}

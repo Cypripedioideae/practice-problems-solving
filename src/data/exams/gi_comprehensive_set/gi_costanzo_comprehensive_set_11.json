@@ -1,0 +1,874 @@
+{
+    "info": {
+        "set_name": "Gastrointestinal Comprehensive Set 2: Secretory Mechanisms (MCQ)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A patient is administered a drug that drastically increases the salivary flow rate to 4 mL/min. Compared to basal flow conditions, which of the following shifts in ionic composition is expected in the final saliva?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased [Na^+], increased [Cl^-], and decreased [K^+]."
+                },
+                {
+                    "id": "b",
+                    "label": "Decreased [Na^+], decreased [Cl^-], and increased [K^+]."
+                },
+                {
+                    "id": "c",
+                    "label": "Increased [K^+], increased [HCO_3^-], and decreased [Na^+]."
+                },
+                {
+                    "id": "d",
+                    "label": "Decreased [HCO_3^-], increased [Cl^-], and constant [Na^+]."
+                },
+                {
+                    "id": "e",
+                    "label": "No change in ionic concentrations because saliva is always isotonic."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A patient with severe epigastric pain and high basal acid output is treated with omeprazole. Which specific cellular process in the gastric parietal cell is directly inhibited by this medication?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The exchange of intracellular HCO_3^- for extracellular Cl^-."
+                },
+                {
+                    "id": "b",
+                    "label": "The primary active transport of H^+ into the lumen in exchange for K^+."
+                },
+                {
+                    "id": "c",
+                    "label": "The binding of gastrin to the cholecystokinin B (CCKB) receptor."
+                },
+                {
+                    "id": "d",
+                    "label": "The generation of cAMP following the activation of H2 receptors."
+                },
+                {
+                    "id": "e",
+                    "label": "The conversion of CO2 and H_2O into H2CO3 by carbonic anhydrase."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "In a laboratory model, the S cells of the duodenum are selectively destroyed. Following the delivery of a test bolus of hydrochloric acid (pH 2.0) into the duodenal lumen, which of the following outcomes is most likely?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "A significant increase in the volume of enzyme-rich pancreatic juice."
+                },
+                {
+                    "id": "b",
+                    "label": "An increase in the contraction frequency of the gallbladder."
+                },
+                {
+                    "id": "c",
+                    "label": "A failure to neutralize the acidic chyme, leading to the inactivation of pancreatic lipases."
+                },
+                {
+                    "id": "d",
+                    "label": "A rapid increase in the circulating levels of cholecystokinin (CCK)."
+                },
+                {
+                    "id": "e",
+                    "label": "The stimulation of the \"alkaline tide\" in the gastric venous blood."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "Following a total gastrectomy, a patient is found to have a severe macrocytic anemia. Which component of gastric juice is considered the only \"essential\" component whose absence directly leads to this condition?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Hydrochloric acid (HCl)."
+                },
+                {
+                    "id": "b",
+                    "label": "Pepsinogen."
+                },
+                {
+                    "id": "c",
+                    "label": "Gastrin."
+                },
+                {
+                    "id": "d",
+                    "label": "Intrinsic factor."
+                },
+                {
+                    "id": "e",
+                    "label": "Mucin glycoproteins."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "A researcher observes that the combined effect of histamine, acetylcholine, and gastrin on a gastric parietal cell is significantly greater than the sum of their individual effects. Which statement best explains why an H2-receptor antagonist is highly effective at reducing the total acid output triggered by all three stimulants?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "H2 receptors utilize the IP3/Ca^(2+) pathway common to all three agonists."
+                },
+                {
+                    "id": "b",
+                    "label": "Histamine is the only hormone released during the cephalic phase."
+                },
+                {
+                    "id": "c",
+                    "label": "Acetylcholine and gastrin primarily act by stimulating the H^+/K^+ ATPase directly."
+                },
+                {
+                    "id": "d",
+                    "label": "Gastrin inhibits somatostatin, which then prevents the activation of Gi proteins."
+                },
+                {
+                    "id": "e",
+                    "label": "Histamine potentiates the effects of acetylcholine and gastrin on H^+ secretion."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "A patient undergoes a resection of the terminal 100 cm of the ileum due to Crohn's disease. Which of the following is the most likely physiological consequence for the liver's metabolic activity?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased activity of cholesterol 7\u03b1-hydroxylase."
+                },
+                {
+                    "id": "b",
+                    "label": "Decreased synthesis of primary bile acids from cholesterol."
+                },
+                {
+                    "id": "c",
+                    "label": "Increased saturation of the bile acid pool."
+                },
+                {
+                    "id": "d",
+                    "label": "Decreased levels of circulating secretin."
+                },
+                {
+                    "id": "e",
+                    "label": "Enhanced conjugation of bile acids with taurine or glycine."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "During a high-stress medical board examination, a student experiences a sensation of \"dry mouth.\" Which of the following explains the neural regulation of the salivary glands during this sympathetic-dominant state?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Sympathetic activity inhibits the acinar cells via \u03b1-adrenergic receptors."
+                },
+                {
+                    "id": "b",
+                    "label": "Sympathetic stimulation produces a small volume of protein-rich, viscid saliva."
+                },
+                {
+                    "id": "c",
+                    "label": "Parasympathetic centers in the medulla are inhibited by the release of gastrin."
+                },
+                {
+                    "id": "d",
+                    "label": "Sympathetic nerves release VIP, which causes local vasoconstriction of the gland."
+                },
+                {
+                    "id": "e",
+                    "label": "The salivary glands are only responsive to parasympathetic muscarinic stimulation."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "A patient with a gastrinoma (Zollinger-Ellison syndrome) presents with severe steatorrhea. What is the primary biochemical mechanism for the fat malabsorption in this patient?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The excess gastrin stimulates the overgrowth of colonic bacteria."
+                },
+                {
+                    "id": "b",
+                    "label": "The lack of intrinsic factor prevents the formation of mixed micelles."
+                },
+                {
+                    "id": "c",
+                    "label": "The acidic duodenal pH inactivates pancreatic lipase and precipitates bile salts."
+                },
+                {
+                    "id": "d",
+                    "label": "Gastrin directly inhibits the contraction of the gallbladder."
+                },
+                {
+                    "id": "e",
+                    "label": "The trophic effect of gastrin leads to the atrophy of the intestinal villi."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "In a study of pancreatic physiology, the flow rate of pancreatic juice is varied. As the flow rate increases to its maximum level, which of the following is predicted to occur?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The concentration of K^+ ions in the juice will double."
+                },
+                {
+                    "id": "b",
+                    "label": "The osmolarity of the juice will become significantly hypotonic."
+                },
+                {
+                    "id": "c",
+                    "label": "The concentration of Cl^- will increase to match the plasma concentration."
+                },
+                {
+                    "id": "d",
+                    "label": "The concentration of HCO_3^- will increase while Cl^- decreases."
+                },
+                {
+                    "id": "e",
+                    "label": "The concentration of Na^+ will decrease as it is reabsorbed by the ducts."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "A large volume of gastric chyme with a pH of 2.0 enters the duodenum. What is the immediate fate of the enzyme pepsin that was active in the stomach?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "It becomes more active as it binds to the duodenal brush border."
+                },
+                {
+                    "id": "b",
+                    "label": "It is converted back to pepsinogen by secretin."
+                },
+                {
+                    "id": "c",
+                    "label": "It catalyzes the activation of trypsinogen to trypsin."
+                },
+                {
+                    "id": "d",
+                    "label": "It is protected from denaturation by the presence of bile salts."
+                },
+                {
+                    "id": "e",
+                    "label": "It is rapidly denatured and inactivated as the pH exceeds 5.0."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q11": {
+            "type": "mcq",
+            "prompt": "A medical student observes that vagal stimulation of the stomach still results in significant gastrin release even after the administration of atropine. This \"atropine-resistant\" secretion is explained by the use of which neurotransmitter at the G cell?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Gastrin-releasing peptide (GRP)."
+                },
+                {
+                    "id": "b",
+                    "label": "Vasoactive intestinal peptide (VIP)."
+                },
+                {
+                    "id": "c",
+                    "label": "Norepinephrine."
+                },
+                {
+                    "id": "d",
+                    "label": "Nitric oxide (NO)."
+                },
+                {
+                    "id": "e",
+                    "label": "Acetylcholine (ACh)."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q12": {
+            "type": "mcq",
+            "prompt": "During the production of a bicarbonate-rich aqueous secretion by pancreatic ductal cells, H^+ ions are generated intracellularly. By what mechanism are these H^+ ions typically moved across the basolateral membrane into the blood?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "H^+/K^+ ATPase (proton pump)."
+                },
+                {
+                    "id": "b",
+                    "label": "Na^+-H^+ exchange."
+                },
+                {
+                    "id": "c",
+                    "label": "Facilitated diffusion via H^+ channels."
+                },
+                {
+                    "id": "d",
+                    "label": "Simple diffusion across the lipid bilayer."
+                },
+                {
+                    "id": "e",
+                    "label": "Cotransport with Cl^- and K^+."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q13": {
+            "type": "mcq",
+            "prompt": "In the gastric mucosa, Enterochromaffin-like (ECL) cells play a vital role in the regulation of acid secretion. These cells are the primary source of which of the following substances?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Somatostatin."
+                },
+                {
+                    "id": "b",
+                    "label": "Gastrin."
+                },
+                {
+                    "id": "c",
+                    "label": "Histamine."
+                },
+                {
+                    "id": "d",
+                    "label": "Pepsinogen."
+                },
+                {
+                    "id": "e",
+                    "label": "Intrinsic factor."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q14": {
+            "type": "mcq",
+            "prompt": "A patient is diagnosed with a failure of the enterohepatic circulation. Which of the following events would be most effective at increasing the synthesis of new bile acids by hepatocytes?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased binding of secondary bile acids to the farnesoid X receptor."
+                },
+                {
+                    "id": "b",
+                    "label": "Administration of a high-fat meal to stimulate CCK."
+                },
+                {
+                    "id": "c",
+                    "label": "Stimulation of the vagus nerve to contract the gallbladder."
+                },
+                {
+                    "id": "d",
+                    "label": "Decreased concentration of bile salts in the portal blood."
+                },
+                {
+                    "id": "e",
+                    "label": "Neutralization of duodenal acid with exogenous bicarbonate."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q15": {
+            "type": "mcq",
+            "prompt": "A patient with an aldosterone-secreting adrenal tumor is likely to exhibit which specific modification to their salivary composition?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Saliva that is hypertonic relative to plasma."
+                },
+                {
+                    "id": "b",
+                    "label": "Higher concentrations of HCO_3^- and K^+."
+                },
+                {
+                    "id": "c",
+                    "label": "Decreased [Na^+] and increased [Cl^-]."
+                },
+                {
+                    "id": "d",
+                    "label": "Significantly decreased [HCO_3^-] at high flow rates."
+                },
+                {
+                    "id": "e",
+                    "label": "Decreased [Na^+] and decreased [Cl^-] with increased [K^+]."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q16": {
+            "type": "mcq",
+            "prompt": "Secretin and Glucose-dependent Insulinotropic Peptide (GIP) share a common inhibitory action on the stomach. What is this shared action at physiological concentrations?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Inhibition of gastric H^+ secretion."
+                },
+                {
+                    "id": "b",
+                    "label": "Inhibition of the gastric cephalic phase."
+                },
+                {
+                    "id": "c",
+                    "label": "Stimulation of pepsinogen release from chief cells."
+                },
+                {
+                    "id": "d",
+                    "label": "Contraction of the lower esophageal sphincter (LES)."
+                },
+                {
+                    "id": "e",
+                    "label": "Inhibition of the trophic effect of gastrin."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q17": {
+            "type": "mcq",
+            "prompt": "A 40-year-old woman presents with jaundice and a total bilirubin of 12 mg/dL. If the majority of this bilirubin is conjugated (direct-acting), which of the following is the most likely diagnosis?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Hemolytic anemia due to red blood cell destruction."
+                },
+                {
+                    "id": "b",
+                    "label": "Obstruction of the common bile duct by a gallstone."
+                },
+                {
+                    "id": "c",
+                    "label": "Neonatal jaundice due to immature glucuronyl transferase."
+                },
+                {
+                    "id": "d",
+                    "label": "Severe iron-deficiency anemia leading to pallor."
+                },
+                {
+                    "id": "e",
+                    "label": "Genetic mutation in the albumin protein."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q18": {
+            "type": "mcq",
+            "prompt": "A 45-year-old man undergoes a surgical vagotomy. Which phase of gastric acid secretion is completely eliminated as a direct result of this procedure?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Intestinal phase."
+                },
+                {
+                    "id": "b",
+                    "label": "Gastric phase."
+                },
+                {
+                    "id": "c",
+                    "label": "Cephalic phase."
+                },
+                {
+                    "id": "d",
+                    "label": "Interdigestive phase."
+                },
+                {
+                    "id": "e",
+                    "label": "Satiety phase."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q19": {
+            "type": "mcq",
+            "prompt": "Brunner's glands are located in the duodenum. What is their primary functional contribution to gastrointestinal protection?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Secretion of pepsinogen to aid in protein digestion."
+                },
+                {
+                    "id": "b",
+                    "label": "Production of intrinsic factor for Vitamin B12 binding."
+                },
+                {
+                    "id": "c",
+                    "label": "Secretion of cholecystokinin (CCK) in response to fats."
+                },
+                {
+                    "id": "d",
+                    "label": "Secretion of an alkaline mucus to protect the duodenal mucosa."
+                },
+                {
+                    "id": "e",
+                    "label": "Secretion of bile salts to emulsify dietary lipids."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q20": {
+            "type": "mcq",
+            "prompt": "In patients with cystic fibrosis, the pancreatic secretions are thick and lack an adequate aqueous component. This is primarily due to a defect in the transport of which ion across the apical membrane of the ductal cells?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Sodium (Na^+)."
+                },
+                {
+                    "id": "b",
+                    "label": "Potassium (K^+)."
+                },
+                {
+                    "id": "c",
+                    "label": "Bicarbonate (HCO_3^-)."
+                },
+                {
+                    "id": "d",
+                    "label": "Calcium (Ca^(2+))."
+                },
+                {
+                    "id": "e",
+                    "label": "Chloride (Cl^-)."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q21": {
+            "type": "mcq",
+            "prompt": "A patient with a chronic gastric ulcer is tested for H. pylori using the 13C-urea breath test. The production of labeled CO2 in the breath is dependent on which bacterial enzyme that alkalinizes the gastric microenvironment?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Urease."
+                },
+                {
+                    "id": "b",
+                    "label": "Carbonic anhydrase."
+                },
+                {
+                    "id": "c",
+                    "label": "Peroxidase."
+                },
+                {
+                    "id": "d",
+                    "label": "5\u2032-iodinase."
+                },
+                {
+                    "id": "e",
+                    "label": "Enterokinase (enteropeptidase)."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q22": {
+            "type": "mcq",
+            "prompt": "In the absence of food, the pH of the gastric contents falls below 3.0. This stimulates the release of a paracrine substance that inhibits the secretion of gastrin. Which substance is responsible for this \"brake\"?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Histamine."
+                },
+                {
+                    "id": "b",
+                    "label": "Somatostatin."
+                },
+                {
+                    "id": "c",
+                    "label": "Acetylcholine (ACh)."
+                },
+                {
+                    "id": "d",
+                    "label": "Vasoactive intestinal peptide (VIP)."
+                },
+                {
+                    "id": "e",
+                    "label": "Gastrin-releasing peptide (GRP)."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q23": {
+            "type": "mcq",
+            "prompt": "A subject ingests a large protein meal. Why does the administration of atropine only partially inhibit the resulting increase in gastric acid secretion?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Atropine stimulates the release of histamine from ECL cells."
+                },
+                {
+                    "id": "b",
+                    "label": "Protein digestion products stimulate H^+ secretion by a non-neural endocrine mechanism."
+                },
+                {
+                    "id": "c",
+                    "label": "Vagal stimulation of G cells is mediated by GRP, which is not blocked by atropine."
+                },
+                {
+                    "id": "d",
+                    "label": "Atropine blocks the H^+/K^+ ATPase but not the gastrin receptors."
+                },
+                {
+                    "id": "e",
+                    "label": "The gastric phase is entirely independent of vagal input."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q24": {
+            "type": "mcq",
+            "prompt": "Stoichiometry dictates that for every H^+ ion secreted into the gastric lumen, one HCO_3^- molecule is absorbed into the blood. If a patient is treated with omeprazole, what is the predicted effect on the \"alkaline tide\"?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The alkaline tide will increase to compensate for the drug."
+                },
+                {
+                    "id": "b",
+                    "label": "The alkaline tide will remain unchanged as it is a renal process."
+                },
+                {
+                    "id": "c",
+                    "label": "The alkaline tide will be shifted from the gastric veins to the pancreatic veins."
+                },
+                {
+                    "id": "d",
+                    "label": "The alkaline tide will be significantly reduced or abolished."
+                },
+                {
+                    "id": "e",
+                    "label": "The pH of the gastric venous blood will decrease below 7.0."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q25": {
+            "type": "mcq",
+            "prompt": "Vagal stimulation of the exocrine pancreas occurs during the cephalic and gastric phases. How does the composition of the juice secreted during these phases compare to that secreted during the secretin-dominant intestinal phase?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "It is larger in volume and higher in HCO_3^-."
+                },
+                {
+                    "id": "b",
+                    "label": "It is hypertonic relative to the secretin-stimulated juice."
+                },
+                {
+                    "id": "c",
+                    "label": "It is composed mainly of water and electrolytes with no enzymes."
+                },
+                {
+                    "id": "d",
+                    "label": "It is identical in composition and volume."
+                },
+                {
+                    "id": "e",
+                    "label": "It is smaller in volume and has a much higher enzyme concentration."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q26": {
+            "type": "mcq",
+            "prompt": "Acidification of the duodenal lumen to pH 4.0 is a potent stimulus for the S cells. Which of the following is the primary physiological response to the hormone released by these cells?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Secretion of a bicarbonate-rich aqueous pancreatic juice."
+                },
+                {
+                    "id": "b",
+                    "label": "Contraction of the gallbladder and relaxation of the sphincter of Oddi."
+                },
+                {
+                    "id": "c",
+                    "label": "Acceleration of gastric emptying to clear the remaining food.(D) Inactivation of the Na^+/K^+ ATPase in the ductal cells."
+                },
+                {
+                    "id": "e",
+                    "label": "Stimulation of the growth of the gastric mucosa."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q27": {
+            "type": "mcq",
+            "prompt": "In a patient with a congenital absence of enterokinase (enteropeptidase), which of the following proteolytic activities will still be present in the small intestine?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Conversion of chymotrypsinogen to chymotrypsin."
+                },
+                {
+                    "id": "b",
+                    "label": "Digestion of proteins by the stomach enzyme pepsin."
+                },
+                {
+                    "id": "c",
+                    "label": "Activation of proelastase by trypsin."
+                },
+                {
+                    "id": "d",
+                    "label": "Activation of procarboxypeptidase A by trypsin."
+                },
+                {
+                    "id": "e",
+                    "label": "Autocatalysis of trypsinogen to trypsin."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q28": {
+            "type": "mcq",
+            "prompt": "Bile salts are more effective than bile acids in fat digestion because they are more soluble in the duodenal environment. This increased solubility is primarily due to:",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The larger molecular size of the conjugated salts."
+                },
+                {
+                    "id": "b",
+                    "label": "The non-polar nature of the steroid nucleus."
+                },
+                {
+                    "id": "c",
+                    "label": "A lower pKa, which ensures the salt is in its ionized form at duodenal pH."
+                },
+                {
+                    "id": "d",
+                    "label": "The presence of a hydroxyl group at the C-7 position."
+                },
+                {
+                    "id": "e",
+                    "label": "The ability of bile salts to cross the cell membrane via simple diffusion."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q29": {
+            "type": "mcq",
+            "prompt": "A patient with pancreatic insufficiency fails to absorb Vitamin B12. This occurs because which pancreatic secretory product is required to degrade the R-proteins and allow B12 to bind to Intrinsic Factor?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Pancreatic amylase."
+                },
+                {
+                    "id": "b",
+                    "label": "Pancreatic lipase."
+                },
+                {
+                    "id": "c",
+                    "label": "Bicarbonate (HCO_3^-)."
+                },
+                {
+                    "id": "d",
+                    "label": "Pancreatic proteases."
+                },
+                {
+                    "id": "e",
+                    "label": "Colipase."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q30": {
+            "type": "mcq",
+            "prompt": "Gastric juice contains a specific electrolyte profile. Which statement about the concentration of K^+ in gastric juice explains why chronic vomiting can lead to hypokalemia?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "K^+ is actively reabsorbed by the parietal cells in exchange for H^+."
+                },
+                {
+                    "id": "b",
+                    "label": "K^+ concentration is identical to that in plasma under all flow conditions."
+                },
+                {
+                    "id": "c",
+                    "label": "K^+ is only present in the mucus secreted by the neck cells."
+                },
+                {
+                    "id": "d",
+                    "label": "K^+ concentration in gastric juice is significantly lower than in plasma."
+                },
+                {
+                    "id": "e",
+                    "label": "K^+ concentration in gastric juice is always higher than in plasma."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        }
+    }
+}

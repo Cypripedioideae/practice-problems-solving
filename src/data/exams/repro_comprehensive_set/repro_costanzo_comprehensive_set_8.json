@@ -1,0 +1,333 @@
+{
+    "info": {
+        "set_name": "Reproductive Comprehensive Set 1: Pregnancy and Fetal Development (Short Answer)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "short_answer",
+            "prompt": "Where does fertilisation of the human ovum normally take place, and within what timeframe following ovulation must it occur?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Fertilisation normally occurs in the ampulla of the fallopian tube within 24 hours of ovulation."
+            ]
+        },
+        "q2": {
+            "type": "short_answer",
+            "prompt": "How many days after ovulation does the blastocyst typically arrive in the uterine cavity?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The blastocyst typically arrives in the uterine cavity 4 days after ovulation."
+            ]
+        },
+        "q3": {
+            "type": "short_answer",
+            "prompt": "Identify the two distinct components of the blastocyst at the time of implantation and specify which one contributes to the fetal portion of the placenta?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The inner mass of cells (becomes the fetus) and the trophoblast (contributes the fetal portion of the placenta)."
+            ]
+        },
+        "q4": {
+            "type": "short_answer",
+            "prompt": "Describe the role of the syncytiotrophoblast during the implantation process.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The syncytiotrophoblast allows the blastocyst to penetrate deep into the endometrium by invading the maternal membranes."
+            ]
+        },
+        "q5": {
+            "type": "short_answer",
+            "prompt": "On which day following ovulation does implantation typically occur?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Implantation typically occurs 5 days after ovulation."
+            ]
+        },
+        "q6": {
+            "type": "short_answer",
+            "prompt": "What is the primary physiologic purpose of Human Chorionic Gonadotropin (HCG) secretion during the first trimester?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "HCG \"rescues\" the corpus luteum from regression, ensuring continued production of progesterone and oestrogen to maintain the endometrium."
+            ]
+        },
+        "q7": {
+            "type": "short_answer",
+            "prompt": "At approximately which week of gestation do HCG levels reach their peak?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "HCG levels peak at approximately gestational week 9."
+            ]
+        },
+        "q8": {
+            "type": "short_answer",
+            "prompt": "Which hormone serves as the primary indicator for chemical pregnancy tests, and how soon after ovulation can it be detected in maternal urine?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "HCG is the indicator; it is detectable in maternal urine as early as 9 days after ovulation."
+            ]
+        },
+        "q9": {
+            "type": "short_answer",
+            "prompt": "Identify the primary source of oestrogen and progesterone during the first two months of pregnancy.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The corpus luteum."
+            ]
+        },
+        "q10": {
+            "type": "short_answer",
+            "prompt": "Why is the placenta considered an incomplete steroidogenic organ that must function as part of a \"fetoplacental unit\" to produce oestrogens?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The placenta lacks the enzyme 17\u03b1-hydroxylase and cannot convert progesterone to oestrogens independently; it requires androgen precursors from the fetus."
+            ]
+        },
+        "q11": {
+            "type": "short_answer",
+            "prompt": "Which specific oestrogen is the dominant form produced during pregnancy?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Estriol."
+            ]
+        },
+        "q12": {
+            "type": "short_answer",
+            "prompt": "Describe the metabolic pathway for estriol synthesis, starting from the fetal adrenal gland.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Fetal adrenal gland synthesises DHEA-S \u2192 fetal liver hydroxylates it to 16-OH DHEA-S \u2192 placenta removes sulfate and aromatises it to estriol."
+            ]
+        },
+        "q13": {
+            "type": "short_answer",
+            "prompt": "From where does the placenta obtain the cholesterol necessary for progesterone synthesis?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "From the maternal circulation in the form of low-density lipoproteins (LDL)."
+            ]
+        },
+        "q14": {
+            "type": "short_answer",
+            "prompt": "What are the primary physiologic actions of human placental lactogen (hPL), also known as human chorionic somatomammotropin (hCS), on maternal metabolism?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It increases lipolysis and decreases glucose utilisation in the mother to shunt nutrients toward the fetus."
+            ]
+        },
+        "q15": {
+            "type": "short_answer",
+            "prompt": "Describe the changes in maternal blood volume and hematocrit that typically occur during a normal pregnancy.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Blood volume increases significantly (by about one-third); because plasma volume increases more than red cell mass, the hematocrit falls."
+            ]
+        },
+        "q16": {
+            "type": "short_answer",
+            "prompt": "What effect does pregnancy have on the maternal Glomerular Filtration Rate (GFR), and what is the resulting effect on serum creatinine levels?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "GFR increases; this leads to a decrease in serum creatinine and BUN."
+            ]
+        },
+        "q17": {
+            "type": "short_answer",
+            "prompt": "Explain the respiratory change in maternal arterial P_(CO2)  during pregnancy and identify the hormone responsible for this change.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Maternal P_(CO2)decreases (hypocapnia) due to hyperventilation stimulated by progesterone."
+            ]
+        },
+        "q18": {
+            "type": "short_answer",
+            "prompt": "In the fetal circulation, which specific vessel carries the highest partial pressure of oxygen (P_(O2) )?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The umbilical vein."
+            ]
+        },
+        "q19": {
+            "type": "short_answer",
+            "prompt": "Define the role of the ductus venosus in the fetal circulatory pattern.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It bypasses the liver, directing highly oxygenated blood from the umbilical vein directly to the inferior vena cava."
+            ]
+        },
+        "q20": {
+            "type": "short_answer",
+            "prompt": "What is the function of the foramen ovale in the fetus, and what pressure change causes its functional closure at birth?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It allows blood to flow from the right atrium to the left atrium; it closes when left atrial pressure exceeds right atrial pressure after birth."
+            ]
+        },
+        "q21": {
+            "type": "short_answer",
+            "prompt": "Describe the purpose of the ductus arteriosus and explain why its resistance is low in utero.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It shunts blood from the pulmonary artery to the aorta to bypass the non-functional lungs; resistance is low due to the lack of oxygen in the fetal environment."
+            ]
+        },
+        "q22": {
+            "type": "short_answer",
+            "prompt": "Why does fetal hemoglobin (HbF) have a higher affinity for oxygen than adult hemoglobin (HbA)?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "HbF does not bind 2,3-DPG as avidly as HbA, resulting in a higher affinity for O2that facilitates O2transfer from mother to fetus."
+            ]
+        },
+        "q23": {
+            "type": "short_answer",
+            "prompt": "Explain the term \"hypoxic pulmonary vasoconstriction\" in the context of fetal lung physiology.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The low P_(O2)in the fetal lungs causes vasoconstriction, increasing pulmonary vascular resistance and ensuring blood is shunted away from the lungs."
+            ]
+        },
+        "q24": {
+            "type": "short_answer",
+            "prompt": "What is the clinical significance of the lecithin-to-sphingomyelin (L-S) ratio measured in amniotic fluid?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It assesses fetal lung maturity; a ratio >2:1 indicates mature surfactant levels."
+            ]
+        },
+        "q25": {
+            "type": "short_answer",
+            "prompt": "Identify the three stages of normal labor and the primary events occurring in each.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Stage 1: Uterine contractions widen and thin the cervix; Stage 2: Fetus is delivered through the vagina; Stage 3: Placenta is delivered."
+            ]
+        }
+    }
+}

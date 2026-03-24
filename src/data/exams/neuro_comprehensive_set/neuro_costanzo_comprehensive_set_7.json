@@ -1,0 +1,333 @@
+{
+    "info": {
+        "set_name": "Comprehensive Neuro Set 1: Audition and Vestibular (Short Answer)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "short_answer",
+            "prompt": "Distinguish between sound \"frequency\" and \"intensity\" in terms of the units used to measure them.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Frequency is measured in Hertz (Hz); Intensity is measured in decibels (dB)."
+            ]
+        },
+        "q2": {
+            "type": "short_answer",
+            "prompt": "What is the primary physiological purpose of the \"impedance matching\" performed by the middle ear ossicles?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "To convert sound waves traveling through air (low acoustic impedance) into pressure waves in fluid (high acoustic impedance) without significant loss of energy."
+            ]
+        },
+        "q3": {
+            "type": "short_answer",
+            "prompt": "By what two mechanical mechanisms does the middle ear amplify sound pressure before it reaches the oval window?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The lever action of the ossicles and the ratio of the large surface area of the tympanic membrane to the small surface area of the oval window."
+            ]
+        },
+        "q4": {
+            "type": "short_answer",
+            "prompt": "In the cochlea, which specific chambers contain perilymph, and which one contains endolymph?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Scala vestibuli and scala tympani contain perilymph; scala media contains endolymph."
+            ]
+        },
+        "q5": {
+            "type": "short_answer",
+            "prompt": "How does the ionic composition of endolymph differ from standard extracellular fluid, and which structure is responsible for its secretion?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Endolymph has a high K^+and low Na^+concentration (similar to intracellular fluid); it is secreted by the stria vascularis."
+            ]
+        },
+        "q6": {
+            "type": "short_answer",
+            "prompt": "Explain the unique electrical driving force that causes K^+  to flow into auditory hair cells during depolarization.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The endolymph is positively charged (+80 mV) relative to the hair cell interior; this electrical gradient drives K^+into the cell even though the concentration gradient is minimal."
+            ]
+        },
+        "q7": {
+            "type": "short_answer",
+            "prompt": "Distinguish between the roles of \"inner hair cells\" and \"outer hair cells\" in the process of auditory transduction.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Inner hair cells are the primary sensory transducers; outer hair cells exhibit \"electromotility\" (shortening/lengthening) to amplify the sensitivity of the inner hair cells."
+            ]
+        },
+        "q8": {
+            "type": "short_answer",
+            "prompt": "Define the \"cochlear microphonic potential\".",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The oscillating receptor potential of the hair cells that faithfully reproduces the frequency of the sound stimulus."
+            ]
+        },
+        "q9": {
+            "type": "short_answer",
+            "prompt": "Describe the structural differences between the base and the apex of the basilar membrane that allow for frequency discrimination.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The base is narrow and stiff; the apex is wide and compliant."
+            ]
+        },
+        "q10": {
+            "type": "short_answer",
+            "prompt": "Which part of the basilar membrane (base or apex) is activated by high-frequency sounds?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The base (near the oval window)."
+            ]
+        },
+        "q11": {
+            "type": "short_answer",
+            "prompt": "What is the neurotransmitter released by auditory hair cells onto the afferent fibers of the vestibulocochlear nerve?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Glutamate."
+            ]
+        },
+        "q12": {
+            "type": "short_answer",
+            "prompt": "Why do unilateral lesions of the central auditory pathways (distal to the cochlea) typically not result in total deafness in one ear?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Because auditory information is distributed bilaterally; some fibers cross the midline (lateral lemniscus) while others remain ipsilateral."
+            ]
+        },
+        "q13": {
+            "type": "short_answer",
+            "prompt": "What is the \"tonotopic map\" in the context of the auditory system?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The spatial mapping of sound frequencies along the basilar membrane, which is preserved throughout the auditory pathways to the cortex."
+            ]
+        },
+        "q14": {
+            "type": "short_answer",
+            "prompt": "Which specific structures of the vestibular organ are responsible for detecting angular (rotational) acceleration?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Semicircular canals."
+            ]
+        },
+        "q15": {
+            "type": "short_answer",
+            "prompt": "Which structures of the vestibular organ detect linear acceleration and the position of the head relative to gravity?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Otolith organs (utricle and saccule)."
+            ]
+        },
+        "q16": {
+            "type": "short_answer",
+            "prompt": "Define the \"kinocilium\" and \"stereocilia\" in a vestibular hair cell.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The kinocilium is a single large cilium; stereocilia are a cluster of smaller cilia."
+            ]
+        },
+        "q17": {
+            "type": "short_answer",
+            "prompt": "Does bending the stereocilia toward or away from the kinocilium result in depolarization of the vestibular hair cell?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Toward the kinocilium (increases K^+conductance)."
+            ]
+        },
+        "q18": {
+            "type": "short_answer",
+            "prompt": "What is the \"cupula,\" and what is its role in the detection of head rotation?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "A gelatinous mass in the ampulla that covers the hair cells; it is displaced by endolymph flow during rotation, bending the cilia."
+            ]
+        },
+        "q19": {
+            "type": "short_answer",
+            "prompt": "Contrast the specific planes of movement detected by the utricle versus the saccule.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Utricle detects horizontal acceleration/head tilt; Saccule detects vertical acceleration (e.g., an elevator)."
+            ]
+        },
+        "q20": {
+            "type": "short_answer",
+            "prompt": "What are \"otoliths\" (statoconia), and where are they found?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Calcium carbonate crystals; they are found in the maculae of the utricle and saccule."
+            ]
+        },
+        "q21": {
+            "type": "short_answer",
+            "prompt": "Define \"nystagmus\" and explain how the direction of the nystagmus is defined (by the fast or slow component).",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "An involuntary eye movement with a slow and fast component; it is defined by the direction of the fast (rapid) component."
+            ]
+        },
+        "q22": {
+            "type": "short_answer",
+            "prompt": "During head rotation to the left, in which direction do the eyes initially move (slow component), and in which direction is the resulting nystagmus?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Eyes initially move right (slowly); the nystagmus is to the left (fast)."
+            ]
+        },
+        "q23": {
+            "type": "short_answer",
+            "prompt": "What is \"postrotatory nystagmus,\" and what is its direction relative to the original rotation?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Eye movement occurring after rotation stops; it is in the opposite direction of the original rotation."
+            ]
+        },
+        "q24": {
+            "type": "short_answer",
+            "prompt": "In the \"caloric test,\" what direction of nystagmus is expected when warm water is used to rinse the ear?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Toward the treated side."
+            ]
+        },
+        "q25": {
+            "type": "short_answer",
+            "prompt": "Which brain stem structure is responsible for coordinating the \"vestibulo-ocular reflex\" to maintain a stable visual image during head movement?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Medial longitudinal fasciculus."
+            ]
+        }
+    }
+}

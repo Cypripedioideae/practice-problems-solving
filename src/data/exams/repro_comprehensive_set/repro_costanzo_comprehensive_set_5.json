@@ -1,0 +1,203 @@
+{
+    "info": {
+        "set_name": "Reproductive Comprehensive Set 1: Female Physiology - Oogenesis (Short Answer)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "short_answer",
+            "prompt": "At what period of life does the production of oogonia by mitotic division peak in the human female, and approximately how many cells are present at this peak?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Production peaks during fetal life (gestational weeks 20-24) at approximately 7 million oogonia."
+            ]
+        },
+        "q2": {
+            "type": "short_answer",
+            "prompt": "At what specific stage of meiosis are primary oocytes suspended from the time of birth until the moment of ovulation?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "They are suspended in the prophase of the first meiotic division."
+            ]
+        },
+        "q3": {
+            "type": "short_answer",
+            "prompt": "Contrast the quantity of oocytes present in the ovaries at birth with the number remaining by the onset of puberty.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Approximately 2 million oocytes remain at birth, which declines to about 400,000 by puberty."
+            ]
+        },
+        "q4": {
+            "type": "short_answer",
+            "prompt": "Define the term \"atresia\" as it applies to the female reproductive lifespan.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The spontaneous regression and degeneration of ovarian follicles and their oocytes throughout the lifespan."
+            ]
+        },
+        "q5": {
+            "type": "short_answer",
+            "prompt": "Describe the basic structural composition of a primordial follicle.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "A single primary oocyte surrounded by a layer of granulosa cells and stroma."
+            ]
+        },
+        "q6": {
+            "type": "short_answer",
+            "prompt": "During the first stage of follicular development, the primordial follicle becomes a primary follicle. Which two specific cell types proliferate to support and nurture the oocyte during this years-long phase?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Granulosa cells and theca interna cells."
+            ]
+        },
+        "q7": {
+            "type": "short_answer",
+            "prompt": "What is the \"antrum,\" and during which stage of follicular development does it first appear?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "A central cavity filled with fluid; it first appears during the second stage of follicular development (antral stage)."
+            ]
+        },
+        "q8": {
+            "type": "short_answer",
+            "prompt": "Identify the specific components found within the fluid that accumulates in the antrum of a secondary follicle.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Steroid hormones, follicle-stimulating hormone (FSH), proteins, and mucopolysaccharides."
+            ]
+        },
+        "q9": {
+            "type": "short_answer",
+            "prompt": "At what precise point in the 28-day menstrual cycle is the first meiotic division completed, and what is the name of the resulting oocyte?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It is completed just prior to ovulation; the resulting cell is the secondary oocyte."
+            ]
+        },
+        "q10": {
+            "type": "short_answer",
+            "prompt": "Under what specific condition does a secondary oocyte complete its second meiotic division?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The oocyte only completes the second meiotic division if it is successfully fertilized by a sperm."
+            ]
+        },
+        "q11": {
+            "type": "short_answer",
+            "prompt": "Describe the selection process of the \"dominant follicle\" that occurs during the third stage of follicular development.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Approximately 5-7 days after menses, a single Graafian follicle achieves dominance over its cohorts, which then undergo atresia."
+            ]
+        },
+        "q12": {
+            "type": "short_answer",
+            "prompt": "What endocrine structure is formed from the residual elements of the ruptured follicle immediately following ovulation?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The corpus luteum."
+            ]
+        },
+        "q13": {
+            "type": "short_answer",
+            "prompt": "Identify the four primary histological components that make up the corpus luteum.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Granulosa cells, theca cells, capillaries, and fibroblasts."
+            ]
+        },
+        "q14": {
+            "type": "short_answer",
+            "prompt": "If fertilization does not occur, what is the fate of the corpus luteum, and what is the name of the resulting scar tissue?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It regresses (involutes) at the end of the luteal phase and becomes a white scar called the corpus albicans."
+            ]
+        },
+        "q15": {
+            "type": "short_answer",
+            "prompt": "Explain the fundamental difference between the production of gametes in males versus the oocyte supply available to a female at birth.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Males produce spermatogonia and spermatocytes continuously throughout life, while females are born with a fixed, declining pool of oocytes and do not produce new oogonia after the fetal period."
+            ]
+        }
+    }
+}

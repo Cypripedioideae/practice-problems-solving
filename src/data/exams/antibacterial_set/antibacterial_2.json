@@ -1,0 +1,278 @@
+{
+  "info": {
+    "set_name": "Antibacterial Agents 2",
+    "source": "-"
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "An 8-month-old infant is diagnosed with a rickettsial infection. Which of the following best describes the clinical reasoning for avoiding tetracyclines, such as doxycycline, in this patient population?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Structural displacement of bilirubin causing kernicterus"
+        },
+        {
+          "id": "b",
+          "label": "High risk of acute hemolytic anemia in patients with G6PD deficiency"
+        },
+        {
+          "id": "c",
+          "label": "Potential for permanent damage to developing cartilage and tendons"
+        },
+        {
+          "id": "d",
+          "label": "Risk of Gray Baby Syndrome due to lack of liver enzymes"
+        },
+        {
+          "id": "e",
+          "label": "Permanent discoloration of teeth and inhibition of bone growth"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q2": {
+      "type": "mcq",
+      "prompt": "Which of the following describes the primary mechanism of action for fluoroquinolones?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Premature release of peptide chains from the 30S ribosome"
+        },
+        {
+          "id": "b",
+          "label": "Irreversible binding to the 23S rRNA of the 50S ribosomal subunit"
+        },
+        {
+          "id": "c",
+          "label": "Inhibition of bacterial topoisomerase II (DNA gyrase) and IV"
+        },
+        {
+          "id": "d",
+          "label": "Structural analogy to para-aminobenzoic acid in folate synthesis"
+        },
+        {
+          "id": "e",
+          "label": "Inhibition of the beta-subunit of DNA-dependent RNA polymerase"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q3": {
+      "type": "mcq",
+      "prompt": "A newborn develops a purulent ocular discharge and erythematous conjunctiva 13 days after birth. Which antibiotic is the drug of choice for this condition, caused by *Chlamydia trachomatis*?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Ceftriaxone"
+        },
+        {
+          "id": "b",
+          "label": "Vancomycin"
+        },
+        {
+          "id": "c",
+          "label": "Penicillin G"
+        },
+        {
+          "id": "d",
+          "label": "Aztreonam"
+        },
+        {
+          "id": "e",
+          "label": "Erythromycin"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q4": {
+      "type": "mcq",
+      "prompt": "Which molecular modification of the cell wall precursor is responsible for the resistance mechanism in Vancomycin-Resistant Enterococci (VRE)?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Production of a novel penicillin-binding protein (PBP2a)"
+        },
+        {
+          "id": "b",
+          "label": "Methylation of the 23S ribosomal RNA subunit"
+        },
+        {
+          "id": "c",
+          "label": "Alteration of the terminal D-Ala-D-Ala to D-Ala-D-Lac"
+        },
+        {
+          "id": "d",
+          "label": "Acetylation of the aminoglycoside-binding site"
+        },
+        {
+          "id": "e",
+          "label": "Replacement of the terminal D-Ala with D-Glutamate"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q5": {
+      "type": "mcq",
+      "prompt": "A patient with known Glucose-6-Phosphate Dehydrogenase (G6PD) deficiency requires treatment for a simple urinary tract infection. Which of the following drugs must be avoided to prevent acute hemolytic anemia?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Sulfamethoxazole (as part of TMP-SMX)"
+        },
+        {
+          "id": "b",
+          "label": "Nitrofurantoin"
+        },
+        {
+          "id": "c",
+          "label": "Amoxicillin"
+        },
+        {
+          "id": "d",
+          "label": "Cephalexin"
+        },
+        {
+          "id": "e",
+          "label": "Fosfomycin"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q6": {
+      "type": "mcq",
+      "prompt": "A patient being treated for pulmonary tuberculosis develops reduced visual acuity and an inability to distinguish red from green. Which of the following drugs is responsible for this effect by inhibiting arabinosyl transferase?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Ethambutol"
+        },
+        {
+          "id": "b",
+          "label": "Rifampin"
+        },
+        {
+          "id": "c",
+          "label": "Isoniazid"
+        },
+        {
+          "id": "d",
+          "label": "Pyrazinamide"
+        },
+        {
+          "id": "e",
+          "label": "Streptomycin"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "A hospitalized patient receiving high-dose gentamicin develops new-onset tinnitus and an elevated serum creatinine. Which bacterial structure is the primary target of this drug?",
+      "options": [
+        {
+          "id": "a",
+          "label": "30S ribosomal subunit"
+        },
+        {
+          "id": "b",
+          "label": "DNA topoisomerase IV"
+        },
+        {
+          "id": "c",
+          "label": "Penicillin-binding protein 3"
+        },
+        {
+          "id": "d",
+          "label": "Mycolic acid synthase"
+        },
+        {
+          "id": "e",
+          "label": "50S ribosomal subunit"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q8": {
+      "type": "mcq",
+      "prompt": "For which of the following clinical reasons is nitrofurantoin contraindicated in patients with a creatinine clearance (CrCl) less than 60 mL/min?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Potential to cause irreversible bone growth inhibition"
+        },
+        {
+          "id": "b",
+          "label": "Low plasma levels resulting in insufficient urinary concentration"
+        },
+        {
+          "id": "c",
+          "label": "Induction of severe pseudomembranous colitis"
+        },
+        {
+          "id": "d",
+          "label": "Risk of serotonin syndrome due to MAO inhibition"
+        },
+        {
+          "id": "e",
+          "label": "Increased risk of developing Achilles tendon rupture"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q9": {
+      "type": "mcq",
+      "prompt": "Which broad-spectrum antibiotic inhibits peptidyl transferase at the 50S subunit but is associated with the risk of \"Gray Baby Syndrome\" and aplastic anemia?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Tigecycline"
+        },
+        {
+          "id": "b",
+          "label": "Chloramphenicol"
+        },
+        {
+          "id": "c",
+          "label": "Linezolid"
+        },
+        {
+          "id": "d",
+          "label": "Clindamycin"
+        },
+        {
+          "id": "e",
+          "label": "Doxycycline"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q10": {
+      "type": "mcq",
+      "prompt": "Which cell wall component synthesis is inhibited by isoniazid (INH) in the treatment of Mycobacterium tuberculosis?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Arabinogalactan"
+        },
+        {
+          "id": "b",
+          "label": "D-Ala-D-Ala cross-links"
+        },
+        {
+          "id": "c",
+          "label": "Undecaprenol phosphate"
+        },
+        {
+          "id": "d",
+          "label": "Mycolic acid"
+        },
+        {
+          "id": "e",
+          "label": "Peptidoglycan pentapeptide"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    }
+  }
+}

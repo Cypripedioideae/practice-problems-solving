@@ -1,0 +1,333 @@
+{
+    "info": {
+        "set_name": "Comprehensive Respiratory Set 1: Mechanics of Breathing (Short Answer)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "short_answer",
+            "prompt": "Which muscle is considered the most important for the process of inspiration?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The diaphragm."
+            ]
+        },
+        "q2": {
+            "type": "short_answer",
+            "prompt": "Is expiration during normal, quiet breathing primarily an active or a passive process?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Passive."
+            ]
+        },
+        "q3": {
+            "type": "short_answer",
+            "prompt": "Which specific muscles are contracted to perform a forced expiration, such as during exercise?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The abdominal muscles and the internal intercostal muscles."
+            ]
+        },
+        "q4": {
+            "type": "short_answer",
+            "prompt": "Define \"lung compliance\" in terms of the relationship between volume and pressure.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Compliance is the change in lung volume for a given change in transpulmonary pressure (\u0394V/\u0394P)."
+            ]
+        },
+        "q5": {
+            "type": "short_answer",
+            "prompt": "What is the mathematical relationship between compliance and elastance (stiffness)?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "They are inversely related (Compliance = 1/Elastance)."
+            ]
+        },
+        "q6": {
+            "type": "short_answer",
+            "prompt": "In a pressure-volume loop, what is the term for the phenomenon where the inflation and deflation limbs follow different paths?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Hysteresis."
+            ]
+        },
+        "q7": {
+            "type": "short_answer",
+            "prompt": "At Functional Residual Capacity (FRC), how does the inward collapsing force of the lungs compare to the outward expanding force of the chest wall?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "They are equal and opposite, creating a state of equilibrium."
+            ]
+        },
+        "q8": {
+            "type": "short_answer",
+            "prompt": "What is the normal sign (positive or negative) of intrapleural pressure during a resting state?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Negative (subatmospheric)."
+            ]
+        },
+        "q9": {
+            "type": "short_answer",
+            "prompt": "If air is introduced into the intrapleural space (pneumothorax), what is the resulting effect on lung volume and chest wall position?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The lung collapses and the chest wall springs outward."
+            ]
+        },
+        "q10": {
+            "type": "short_answer",
+            "prompt": "How is lung compliance altered in a patient with emphysema?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It is increased due to the loss of elastic fibres."
+            ]
+        },
+        "q11": {
+            "type": "short_answer",
+            "prompt": "According to Laplace's Law, what is the relationship between alveolar radius and the pressure required to keep the alveolus open?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Pressure is inversely proportional to the radius (P = 2T/r); smaller radii require higher pressure."
+            ]
+        },
+        "q12": {
+            "type": "short_answer",
+            "prompt": "What is the primary phospholipid component of pulmonary surfactant responsible for reducing surface tension?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Dipalmitoyl phosphatidylcholine (DPPC)."
+            ]
+        },
+        "q13": {
+            "type": "short_answer",
+            "prompt": "By what mechanism does surfactant increase lung compliance?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "By reducing the surface tension of the fluid lining the alveoli."
+            ]
+        },
+        "q14": {
+            "type": "short_answer",
+            "prompt": "What constitutes the physical driving force for the movement of air into or out of the lungs?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The pressure gradient between the atmosphere (mouth/nose) and the alveoli."
+            ]
+        },
+        "q15": {
+            "type": "short_answer",
+            "prompt": "According to Poiseuille's Law, if the radius of an airway is reduced by half, by what factor does the resistance to airflow increase?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "16-fold (resistance is inversely proportional to r4)."
+            ]
+        },
+        "q16": {
+            "type": "short_answer",
+            "prompt": "Which specific generation of the tracheobronchial tree serves as the major site of airway resistance?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The medium-sized bronchi."
+            ]
+        },
+        "q17": {
+            "type": "short_answer",
+            "prompt": "Which receptors are activated by the sympathetic nervous system to produce bronchodilation?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "\u03b22-adrenergic receptors."
+            ]
+        },
+        "q18": {
+            "type": "short_answer",
+            "prompt": "How does increasing lung volume affect airway resistance?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It decreases resistance by increasing radial traction on the airways."
+            ]
+        },
+        "q19": {
+            "type": "short_answer",
+            "prompt": "During the course of inspiration, does intrapleural pressure become more positive or more negative?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "More negative."
+            ]
+        },
+        "q20": {
+            "type": "short_answer",
+            "prompt": "At which points in the normal breathing cycle is alveolar pressure exactly equal to atmospheric pressure?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "At the end of inspiration and at the end of expiration (the points of zero airflow)."
+            ]
+        },
+        "q21": {
+            "type": "short_answer",
+            "prompt": "What happens to the sign of intrapleural pressure during a forced expiration against a high resistance?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It becomes positive."
+            ]
+        },
+        "q22": {
+            "type": "short_answer",
+            "prompt": "In obstructive diseases like emphysema, does the \"equal pressure point\" move closer to or further from the alveoli during forced expiration?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Closer to the alveoli."
+            ]
+        },
+        "q23": {
+            "type": "short_answer",
+            "prompt": "Which specific alveolar cell type is responsible for the synthesis of surfactant?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Type II pneumocytes."
+            ]
+        },
+        "q24": {
+            "type": "short_answer",
+            "prompt": "What is the effect of parasympathetic muscarinic stimulation on the diameter of the conducting airways?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Constriction (decreased diameter)."
+            ]
+        },
+        "q25": {
+            "type": "short_answer",
+            "prompt": "Why does a saline-filled lung exhibit higher compliance than an air-filled lung?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Because the liquid-air interface, and thus surface tension, is eliminated."
+            ]
+        }
+    }
+}

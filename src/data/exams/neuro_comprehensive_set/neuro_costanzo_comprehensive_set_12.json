@@ -1,0 +1,704 @@
+{
+    "info": {
+        "set_name": "Comprehensive Neuro Set 2: Membrane Physiology (MCQ)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A 64-year-old patient with untreated type I diabetes mellitus is admitted with a serum K^+concentration of 6.5 mEq/L (normal: 4.5 mEq/L). The patient's muscle weakness is primarily explained by which of the following cellular mechanisms?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased K^+conductance, which shortens the duration of the action potential."
+                },
+                {
+                    "id": "b",
+                    "label": "Direct inhibition of the Na^+-K^+ATPase, preventing the restoration of ionic gradients."
+                },
+                {
+                    "id": "c",
+                    "label": "Hyperpolarization of the resting membrane potential, moving it further from the firing threshold."
+                },
+                {
+                    "id": "d",
+                    "label": "Persistent depolarization of the muscle membrane, which keeps the Na^+channel inactivation gates closed."
+                },
+                {
+                    "id": "e",
+                    "label": "A decrease in the Na^+  equilibrium potential, which reduces the amplitude of the action potential upstroke."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A 32-year-old woman is diagnosed with multiple sclerosis. Nerve conduction studies show a significant decrease in conduction velocity in several motor nerves. In terms of cable properties, which set of changes in the axons of these nerves best explains the findings?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased membrane resistance and increased membrane capacitance."
+                },
+                {
+                    "id": "b",
+                    "label": "Decreased membrane resistance and increased membrane capacitance."
+                },
+                {
+                    "id": "c",
+                    "label": "Increased internal resistance and decreased membrane resistance."
+                },
+                {
+                    "id": "d",
+                    "label": "Decreased internal resistance and decreased membrane capacitance."
+                },
+                {
+                    "id": "e",
+                    "label": "Increased membrane resistance and decreased internal resistance."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "In a typical neuron, the resting membrane potential (Vm) is -70 mV, and the equilibrium potential for Na^+(ENa) is +65 mV. If the membrane potential were to change to -90 mV, what would be the direction and magnitude of the net driving force for Na^+ ?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Inward; 25 mV."
+                },
+                {
+                    "id": "b",
+                    "label": "Inward; 155 mV."
+                },
+                {
+                    "id": "c",
+                    "label": "Outward; 25 mV."
+                },
+                {
+                    "id": "d",
+                    "label": "Outward; 155 mV."
+                },
+                {
+                    "id": "e",
+                    "label": "No net movement; 0 mV."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "During an experiment, a researcher applies tetraethylammonium (TEA) to a giant squid axon. Which portion of the action potential waveform would be most significantly altered by this pharmacological intervention?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The rate of rise of the initial upstroke."
+                },
+                {
+                    "id": "b",
+                    "label": "The magnitude of the overshoot."
+                },
+                {
+                    "id": "c",
+                    "label": "The speed of reaching the threshold potential."
+                },
+                {
+                    "id": "d",
+                    "label": "The duration of the repolarization phase."
+                },
+                {
+                    "id": "e",
+                    "label": "The initial resting membrane potential."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "If the diameter of an unmyelinated nerve fiber is doubled, how will the internal resistance (Ri) and the length constant (\u03bb) change?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "R_i will double; \u03bb will decrease."
+                },
+                {
+                    "id": "b",
+                    "label": "R_i will decrease by half; \u03bb will increase."
+                },
+                {
+                    "id": "c",
+                    "label": "R_i will decrease by half; \u03bb will decrease."
+                },
+                {
+                    "id": "d",
+                    "label": "R_i will quadruple; \u03bb will increase."
+                },
+                {
+                    "id": "e",
+                    "label": "R_i will decrease by fourfold; \u03bb will increase."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "A cell is experimentally held at a membrane potential of -50 mV for a prolonged period. When a strong depolarizing stimulus is then applied, the cell fails to fire an action potential. This phenomenon is best explained by:",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Complete exhaustion of the intracellular Na^+ stores."
+                },
+                {
+                    "id": "b",
+                    "label": "Activation of the Na^+-K^+ ATPase to hyperpolarize the cell."
+                },
+                {
+                    "id": "c",
+                    "label": "Blockade of K^+ channels by the sustained depolarizing current."
+                },
+                {
+                    "id": "d",
+                    "label": "A shift in the K^+ equilibrium potential to a more positive value."
+                },
+                {
+                    "id": "e",
+                    "label": "Accommodation due to the closure of Na^+channel inactivation gates."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "The time constant (\u03c4) of a cell membrane is 10 ms. If the membrane capacitance (Cm) is doubled while the membrane resistance (Rm ) remains constant, what is the new time constant?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "2.5 ms."
+                },
+                {
+                    "id": "b",
+                    "label": "5 ms."
+                },
+                {
+                    "id": "c",
+                    "label": "10 ms."
+                },
+                {
+                    "id": "d",
+                    "label": "20 ms."
+                },
+                {
+                    "id": "c",
+                    "label": "40 ms."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "The Na^+-K^+ ATPase is classified as \"electrogenic.\" Which of the following describes the immediate electrical result of this pump's stoichiometric activity?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "It generates a net inward current of positive charge."
+                },
+                {
+                    "id": "b",
+                    "label": "It prevents any diffusion potentials from forming."
+                },
+                {
+                    "id": "c",
+                    "label": "It maintains a potential of 0 mV across the bilayer."
+                },
+                {
+                    "id": "d",
+                    "label": "It brings the membrane potential exactly to the K^+ equilibrium potential."
+                },
+                {
+                    "id": "e",
+                    "label": "It generates a net outward current of positive charge, making the interior more negative."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "When comparing the action potential of a sinoatrial (SA) node cell to that of a ventricular muscle cell, which of the following is a key difference in the \"upstroke\" (Phase 0)?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The SA node upstroke is faster due to higher Na^+ conductance."
+                },
+                {
+                    "id": "b",
+                    "label": "The SA node upstroke is caused by an inward Na^+ current."
+                },
+                {
+                    "id": "c",
+                    "label": "The ventricular upstroke is caused by an inward Ca^(2+) current."
+                },
+                {
+                    "id": "d",
+                    "label": "The SA node upstroke is caused by an inward Ca^(2+) current and is slower."
+                },
+                {
+                    "id": "e",
+                    "label": "The SA node has a more negative resting potential than the ventricular cell."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "During the relative refractory period of a nerve action potential, a second action potential can be elicited only if a larger-than-normal stimulus is applied. The physiological basis for this requirement is:",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The Na^+ activation gates are still in the open position."
+                },
+                {
+                    "id": "b",
+                    "label": "The Na^+ equilibrium potential has become more negative."
+                },
+                {
+                    "id": "c",
+                    "label": "The Na^+inactivation gates are all open and available."
+                },
+                {
+                    "id": "d",
+                    "label": "The membrane is hyperpolarized due to low Na^+ conductance."
+                },
+                {
+                    "id": "e",
+                    "label": "The K^+ conductance is higher than at rest, driving V_m toward E_K."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q11": {
+            "type": "mcq",
+            "prompt": "According to the Nernst equation, if the extracellular concentration of K^+ is reduced from 4 mEq/L to 2 mEq/L (assuming intracellular concentration remains constant), the K^+ equilibrium potential (E_K) will:",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Become more negative (hyperpolarize)."
+                },
+                {
+                    "id": "b",
+                    "label": "Become less negative (depolarize)."
+                },
+                {
+                    "id": "c",
+                    "label": "Reach 0 mV."
+                },
+                {
+                    "id": "d",
+                    "label": "Become positive."
+                },
+                {
+                    "id": "e",
+                    "label": "Remain unchanged."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q12": {
+            "type": "mcq",
+            "prompt": "In the sequence of events during a nerve action potential, which gate or channel state change occurs with the greatest time delay following the initial depolarization to threshold?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Closure of the K^+ leak channels."
+                },
+                {
+                    "id": "b",
+                    "label": "Opening of the Na^+ activation gates."
+                },
+                {
+                    "id": "c",
+                    "label": "Closing of the Na^+ inactivation gates."
+                },
+                {
+                    "id": "d",
+                    "label": "Opening of the \"Funny\" current (I_f) channels."
+                },
+                {
+                    "id": "e",
+                    "label": "Reversal of the Na^+-K^+ ATPase direction."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q13": {
+            "type": "mcq",
+            "prompt": "A researcher applies ouabain to a preparation of renal proximal tubule cells. Which of the following transport processes will be inhibited most directly as the Na^+ gradient begins to dissipate?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Movement of water through aquaporins."
+                },
+                {
+                    "id": "b",
+                    "label": "Simple diffusion of O_2 across the cell membrane."
+                },
+                {
+                    "id": "c",
+                    "label": "Primary active transport of H^+via the H^+-ATPase."
+                },
+                {
+                    "id": "d",
+                    "label": "Na^+-glucose cotransport across the luminal membrane."
+                },
+                {
+                    "id": "e",
+                    "label": "Facilitated diffusion of glucose across the basolateral membrane."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q14": {
+            "type": "mcq",
+            "prompt": "A membrane is permeable only to Cl^-ions. Solution 1 contains 100 mM Cl^-, and Solution 2 contains 10 mM Cl^-. At 37\u2218C, what is the calculated diffusion potential (Vm ) of Solution 1 relative to Solution 2 at electrochemical equilibrium?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "-60 mV."
+                },
+                {
+                    "id": "b",
+                    "label": "-30 mV."
+                },
+                {
+                    "id": "c",
+                    "label": "0 mV."
+                },
+                {
+                    "id": "d",
+                    "label": "+60 mV."
+                },
+                {
+                    "id": "e",
+                    "label": "+120 mV."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q15": {
+            "type": "mcq",
+            "prompt": "Carrier-mediated transport of glucose is distinguished from simple diffusion by which of the following experimental observations?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Transport is faster for L-glucose than for D-glucose."
+                },
+                {
+                    "id": "b",
+                    "label": "Transport follows Fick's law linearly at all concentrations."
+                },
+                {
+                    "id": "c",
+                    "label": "Transport continues as long as a concentration gradient exists."
+                },
+                {
+                    "id": "d",
+                    "label": "The rate of transport is independent of the presence of other sugars."
+                },
+                {
+                    "id": "e",
+                    "label": "The rate of transport reaches a maximum (saturation) as glucose concentration increases."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q16": {
+            "type": "mcq",
+            "prompt": "Red blood cells are placed in a solution of 200 mOsm/L NaCl. Which of the following will occur following osmotic equilibrium?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The cells will swell because the solution is hypotonic."
+                },
+                {
+                    "id": "b",
+                    "label": "The cells will shrink because the solution is hypertonic."
+                },
+                {
+                    "id": "c",
+                    "label": "Water will flow out of the cells to achieve osmotic balance."
+                },
+                {
+                    "id": "d",
+                    "label": "Na^+  will diffuse out of the cells until the volumes equalize."
+                },
+                {
+                    "id": "e",
+                    "label": "There will be no change in cell volume because the solution is isosmotic."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q17": {
+            "type": "mcq",
+            "prompt": "According to Fick's law of diffusion, if the thickness (\u0394x) of a membrane is doubled while the concentration gradient and surface area remain constant, the net flux (J) of a non-electrolyte will:",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Double."
+                },
+                {
+                    "id": "b",
+                    "label": "Decrease by half."
+                },
+                {
+                    "id": "c",
+                    "label": "Increase by fourfold."
+                },
+                {
+                    "id": "d",
+                    "label": "Remain unchanged."
+                },
+                {
+                    "id": "e",
+                    "label": "Decrease to zero."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q18": {
+            "type": "mcq",
+            "prompt": "In a patient with severe hypocalcemia, the threshold for firing action potentials in motor nerves is shifted from -60 mV to -75 mV. This results in:",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Hyperpolarization of the resting membrane potential."
+                },
+                {
+                    "id": "b",
+                    "label": "Muscle paralysis due to the inactivation of Na^+ channels."
+                },
+                {
+                    "id": "c",
+                    "label": "A decrease in the conduction velocity of the nerve impulses."
+                },
+                {
+                    "id": "d",
+                    "label": "Decreased muscle excitability due to a larger gap between RMP and threshold."
+                },
+                {
+                    "id": "e",
+                    "label": "Increased muscle excitability (tetany) because the threshold is closer to the RMP."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q19": {
+            "type": "mcq",
+            "prompt": "Which of the following nerve fiber types is the most sensitive to local anesthetics, and which is the fastest?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "C fibers (most sensitive); A-alpha (fastest)."
+                },
+                {
+                    "id": "b",
+                    "label": "A-delta (most sensitive); B fibers (fastest)."
+                },
+                {
+                    "id": "c",
+                    "label": "B fibers (most sensitive); C fibers (fastest)."
+                },
+                {
+                    "id": "d",
+                    "label": "A-alpha (most sensitive); A-beta (fastest)."
+                },
+                {
+                    "id": "e",
+                    "label": "C fibers (most sensitive); B fibers (fastest)."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q20": {
+            "type": "mcq",
+            "prompt": "The rapid upstroke of a nerve action potential is an example of a positive feedback loop. What is the \"augmenting\" factor in this loop?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Depolarization, which opens more Na^+ channels, causing further depolarization."
+                },
+                {
+                    "id": "b",
+                    "label": "Repolarization, which opens K^+ channels, causing further repolarization."
+                },
+                {
+                    "id": "c",
+                    "label": "Na^+influx, which stimulates the Na^+/K^+ ATPase to pump more Na^+ out."
+                },
+                {
+                    "id": "d",
+                    "label": "Ca^(2+) influx, which triggers the closure of Na^+channel inactivation gates."
+                },
+                {
+                    "id": "e",
+                    "label": "K^+ efflux, which decreases the membrane resistance."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q21": {
+            "type": "mcq",
+            "prompt": "The Nernst potential for an ion represents the point at which:",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The concentration of the ion is equal on both sides of the membrane."
+                },
+                {
+                    "id": "b",
+                    "label": "The chemical and electrical driving forces are equal and opposite."
+                },
+                {
+                    "id": "c",
+                    "label": "The ion reaches its maximum rate of diffusion through the bilayer."
+                },
+                {
+                    "id": "d",
+                    "label": "The membrane permeability to that specific ion becomes zero."
+                },
+                {
+                    "id": "e",
+                    "label": "The Na^+-K^+  ATPase stops functioning due to lack of ATP."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q22": {
+            "type": "mcq",
+            "prompt": "What is the primary functional significance of the Nodes of Ranvier in a myelinated axon?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "They provide high resistance to prevent current leak."
+                },
+                {
+                    "id": "b",
+                    "label": "They serve as the exclusive site for the Na^+/K^+ ATPase pump."
+                },
+                {
+                    "id": "c",
+                    "label": "They decrease the length constant, allowing for faster signal decay."
+                },
+                {
+                    "id": "d",
+                    "label": "They increase the time constant, allowing more time for signal processing."
+                },
+                {
+                    "id": "e",
+                    "label": "They are the only sites where ion flow across the membrane can occur to regenerate the AP."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q23": {
+            "type": "mcq",
+            "prompt": "At the peak of the action potential in a ventricular muscle cell (+20 mV), the membrane potential is:",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "At the Na^+ equilibrium potential (+65 mV)."
+                },
+                {
+                    "id": "b",
+                    "label": "At the Ca^(2+) equilibrium potential (+120 mV)."
+                },
+                {
+                    "id": "c",
+                    "label": "Closer to the K^+ equilibrium potential than at rest."
+                },
+                {
+                    "id": "d",
+                    "label": "Closest to the Na^+ equilibrium potential, but limited by Na^+ channel inactivation."
+                },
+                {
+                    "id": "e",
+                    "label": "At the Cl^- equilibrium potential."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q24": {
+            "type": "mcq",
+            "prompt": "The absolute refractory period in the heart is significantly longer than in skeletal muscle. This is a critical adaptation because it:",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Allows the heart to undergo tetanic contractions to increase cardiac output."
+                },
+                {
+                    "id": "b",
+                    "label": "Prevents the heart from contracting in response to sympathetic stimulation."
+                },
+                {
+                    "id": "c",
+                    "label": "Ensures that the atria and ventricles contract simultaneously."
+                },
+                {
+                    "id": "d",
+                    "label": "Speeds up the conduction velocity through the AV node."
+                },
+                {
+                    "id": "e",
+                    "label": "Prevents tetanic summation, ensuring the heart has time to relax and fill with blood."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        }
+    }
+}

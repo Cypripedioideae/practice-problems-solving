@@ -1,0 +1,858 @@
+{
+    "info": {
+        "set_name": "Integrative Physiology 5",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "tf",
+            "prompt": "According to the \"Aldosterone Paradox,\" during severe hypovolemia, the body is able to increase renal sodium reabsorption without a proportional increase in potassium secretion because the low distal tubular flow rate offsets the stimulatory effect of aldosterone.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q2": {
+            "type": "tf",
+            "prompt": "In a patient with renal artery stenosis, the whole-body ECF expansion occurs because the non-stenotic kidney is also stimulated to retain sodium by systemic Angiotensin II and Aldosterone.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q3": {
+            "type": "tf",
+            "prompt": "The \"Incretin Effect\" is an example of feedback control, where insulin release is triggered only after the blood glucose concentration has peaked following a meal.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q4": {
+            "type": "tf",
+            "prompt": "Moving from a supine to a standing position causes an acute fall in arterial pressure, which results in a decrease in parasympathetic activity and an increase in sympathetic activity to the heart and vessels.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q5": {
+            "type": "tf",
+            "prompt": "In the process of high-altitude acclimatization, the adaptive increase in renal bicarbonate excretion helps lower the pH of the cerebrospinal fluid, thereby removing the \"alkalotic brake\" on ventilation.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q6": {
+            "type": "tf",
+            "prompt": "During strenuous exercise, the arterial partial pressure of carbon dioxide (PaCO2 ) typically increases significantly above 45 mmHg to drive the necessary hyperventilation.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q7": {
+            "type": "tf",
+            "prompt": "Hyperkalemia inhibits the renal synthesis of ammonia (NH3) by increasing the intracellular pH of proximal tubule cells, thereby reducing the capacity to excrete H+  as ammonium.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q8": {
+            "type": "tf",
+            "prompt": "The first heart sound (S1 ) occurs immediately following the QRS complex because the rise in ventricular pressure causes the semilunar valves to snap shut.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q9": {
+            "type": "tf",
+            "prompt": "\"Aldosterone Escape\" in primary hyperaldosteronism is clinically characterized by a return to sodium balance and the absence of edema, primarily due to pressure natriuresis and ANP release.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q10": {
+            "type": "tf",
+            "prompt": "Hypoxic Pulmonary Vasoconstriction (HPV) redirects blood flow away from poorly ventilated alveoli, which contrasts with the systemic circulation where hypoxia typically causes vasodilation.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q11": {
+            "type": "tf",
+            "prompt": "Cholecystokinin (CCK) accelerates gastric emptying to ensure that the small intestine is rapidly filled with nutrients for maximal absorption.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q12": {
+            "type": "tf",
+            "prompt": "In a state of chronic respiratory acidosis, the kidneys compensate by increasing the synthesis of new bicarbonate, a process reflected in the urine as an increased concentration of ammonium.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q13": {
+            "type": "tf",
+            "prompt": "Cortisol is required at physiological concentrations for the \"permissive effect\" on vascular reactivity to catecholamines.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q14": {
+            "type": "tf",
+            "prompt": "In the liver, high concentrations of bile salts in the portal blood stimulate the synthesis of new bile acids via a positive feedback mechanism.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q15": {
+            "type": "tf",
+            "prompt": "During the cephalic phase of digestion, the sight or smell of food can trigger a small rise in plasma insulin via vagal stimulation of the pancreatic \u03b2 cells.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q16": {
+            "type": "tf",
+            "prompt": "In patients with Addison's disease, critical hypovolemia can reset the ADH threshold to prioritize volume preservation over osmoregulation, leading to a hypotonic ECF.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q17": {
+            "type": "tf",
+            "prompt": "The \"Equal Pressure Point\" during forced expiration moves closer to the alveoli as lung volume decreases, increasing the risk of dynamic airway collapse in emphysema.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q18": {
+            "type": "tf",
+            "prompt": "Primary hyperparathyroidism leads to hypophosphatemia because PTH stimulates the Na^+ -phosphate cotransporter in the proximal tubule to increase phosphate reabsorption.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q19": {
+            "type": "tf",
+            "prompt": "In the \"Military Physio-drama of pH defense,\" the kidneys serve as the only route for regenerating the bicarbonate consumed during the buffering of fixed (non-carbonic) acids.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q20": {
+            "type": "tf",
+            "prompt": "The filtration fraction (GFR/RPF) usually decreases during acute hemorrhage because renal blood flow falls more significantly than the GFR.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q21": {
+            "type": "tf",
+            "prompt": "Moving from a supine to a standing position results in a transient increase in the firing rate of the carotid sinus baroreceptor nerves.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q22": {
+            "type": "tf",
+            "prompt": "In the vestibular system, bending of the stereocilia away from the kinocilium results in membrane hyperpolarization and a decrease in the firing rate of the sensory nerve.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q23": {
+            "type": "tf",
+            "prompt": "\"Contraction Alkalosis\" is maintained because the drive to reabsorb sodium in volume-depleted states simultaneously forces the reabsorption of bicarbonate and secretion of H+ .",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q24": {
+            "type": "tf",
+            "prompt": "According to the Law of Laplace, a dilated, failing heart must generate more wall tension to produce the same intraventricular pressure as a healthy heart of smaller radius.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q25": {
+            "type": "tf",
+            "prompt": "Acetazolamide helps prevent acute mountain sickness by inhibiting carbonic anhydrase, which promotes bicarbonate excretion to counteract respiratory alkalosis.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q26": {
+            "type": "tf",
+            "prompt": "In the \"Staircase Effect\" (Treppe), the force of contraction increases because the abbreviated diastole allows for more calcium accumulation in the sarcoplasmic reticulum.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q27": {
+            "type": "tf",
+            "prompt": "In an upright individual, the ventilation/perfusion (V/Q) ratio is lowest at the apex of the lung.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q28": {
+            "type": "tf",
+            "prompt": "Glomerulotubular balance ensures that a constant percentage of the filtered load of sodium is reabsorbed in the proximal tubule, regardless of GFR fluctuations.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q29": {
+            "type": "tf",
+            "prompt": "During a fever, the hypothalamic set-point is raised, causing the body to initiate \"cold-seeking\" behaviors to dissipate heat.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q30": {
+            "type": "tf",
+            "prompt": "In the process of photoreception, light leads to a decrease in intracellular cGMP, the closure of sodium channels, and hyperpolarization of the photoreceptor.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q31": {
+            "type": "tf",
+            "prompt": "Secondary polycythemia at high altitude is self-limiting because the increased blood viscosity increases vascular resistance and makes blood flow more \"sluggish\".",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q32": {
+            "type": "tf",
+            "prompt": "Insulin helps prevent postprandial hyperkalemia by stimulating the Na^+/K^+  ATPase to move potassium from the ECF into the cells.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q33": {
+            "type": "tf",
+            "prompt": "A left-to-right ventricular shunt results in a higher oxygen saturation in the pulmonary artery than in the right atrium.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q34": {
+            "type": "tf",
+            "prompt": "The absolute refractory period of a cardiac action potential is the time during which voltage-gated Na^+  channels are primarily in the inactivated state.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q35": {
+            "type": "tf",
+            "prompt": "Bile salts are primarily reabsorbed in the proximal duodenum to be recycled via the enterohepatic circulation.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q36": {
+            "type": "tf",
+            "prompt": "In the \"Reno-Respi\" partnership, rapid respiratory compensation for metabolic acidosis involves peripheral chemoreceptors sensing high H+  and triggering hyperventilation.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q37": {
+            "type": "tf",
+            "prompt": "Severe diarrhea causes a metabolic acidosis with an increased anion gap because of the production of ketoacids.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q38": {
+            "type": "tf",
+            "prompt": "The second heart sound (S2 ) is physiologically associated with the closing of the semilunar valves at the beginning of the isovolumetric relaxation phase.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q39": {
+            "type": "tf",
+            "prompt": "In emphysema, the diffusing capacity of the lung (DL ) is increased because the destruction of alveolar walls increases the total surface area for gas exchange.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q40": {
+            "type": "tf",
+            "prompt": "Primary adrenal insufficiency (Addison's disease) presents with hyperkalemia, metabolic acidosis, and hypotension.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q41": {
+            "type": "tf",
+            "prompt": "During strenuous exercise, the hemoglobin-oxygen dissociation curve shifts to the right in the tissues due to local increases in PCO2and H+ .",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q42": {
+            "type": "tf",
+            "prompt": "Secretin is the primary hormone responsible for the secretion of bicarbonate-rich pancreatic juice in response to acidic chyme.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q43": {
+            "type": "tf",
+            "prompt": "The renal clearance of inulin is used to calculate the GFR because it is freely filtered but neither reabsorbed nor secreted.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q44": {
+            "type": "tf",
+            "prompt": "In Graves' disease, hyperthyroidism is characterized by high levels of T4  and appropriately high levels of plasma TSH.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q45": {
+            "type": "tf",
+            "prompt": "Under conditions of darkness, photoreceptor cells are in a relatively hyperpolarized state and release less glutamate than in the light.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q46": {
+            "type": "tf",
+            "prompt": "The Bainbridge reflex involves an increase in heart rate triggered by the stretch of atrial volume receptors when venous return increases.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q47": {
+            "type": "tf",
+            "prompt": "In \"Contraction Alkalosis\" caused by vomiting, the urine pH is paradoxically acidic.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q48": {
+            "type": "tf",
+            "prompt": "Migrating Motility Complexes (MMCs) occur during the interdigestive state and are coordinated by the hormone motilin.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q49": {
+            "type": "tf",
+            "prompt": "According to the Frank-Starling Law, an increase in ventricular preload leads to an increase in stroke volume by shifting the muscle to a more optimal length.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q50": {
+            "type": "tf",
+            "prompt": "Histamine promotes local edema by constricting arterioles and dilating venules, thereby lowering capillary hydrostatic pressure.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        }
+    }
+}

@@ -1,0 +1,278 @@
+{
+  "info": {
+    "set_name": "Antibacterial Agents 10",
+    "source": "-"
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "Which of the following describes the molecular mechanism of action for linezolid?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Prevention of polypeptide elongation at the 30S ribosome"
+        },
+        {
+          "id": "b",
+          "label": "Inhibition of peptidyl transferase at the 50S subunit"
+        },
+        {
+          "id": "c",
+          "label": "Structural analogy to p-aminobenzoic acid in folate synthesis"
+        },
+        {
+          "id": "d",
+          "label": "Inhibition of peptide bond formation at the 50S subunit"
+        },
+        {
+          "id": "e",
+          "label": "Prevention of 70S initiation complex formation at the 50S subunit"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q2": {
+      "type": "mcq",
+      "prompt": "What is a significant clinical risk associated with the administration of sulfonamides to neonates?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Inability to distinguish red from green colours"
+        },
+        {
+          "id": "b",
+          "label": "Permanent damage to developing cartilage and tendons"
+        },
+        {
+          "id": "c",
+          "label": "Reversible bone growth inhibition and tooth discoloration"
+        },
+        {
+          "id": "d",
+          "label": "Development of Gray Baby Syndrome"
+        },
+        {
+          "id": "e",
+          "label": "Kernicterus resulting from bilirubin displacement from albumin"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q3": {
+      "type": "mcq",
+      "prompt": "What is the molecular basis for methicillin resistance in Staphylococcus aureus (MRSA)?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Acquisition of the mecA gene encoding an altered PBP2a"
+        },
+        {
+          "id": "b",
+          "label": "Overproduction of p-aminobenzoic acid (PABA)"
+        },
+        {
+          "id": "c",
+          "label": "Mutation in the rpoB gene encoding RNA polymerase"
+        },
+        {
+          "id": "d",
+          "label": "Synthesis of a dipeptide with reduced affinity for glycopeptides"
+        },
+        {
+          "id": "e",
+          "label": "Production of \u03b2-lactamase enzymes that cleave the drug"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q4": {
+      "type": "mcq",
+      "prompt": "Which bacteriostatic antibiotic inhibits peptidyl transferase at the 50S subunit but is restricted in use due to the risk of aplastic anemia and Gray Baby Syndrome?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Clindamycin"
+        },
+        {
+          "id": "b",
+          "label": "Doxycycline"
+        },
+        {
+          "id": "c",
+          "label": "Linezolid"
+        },
+        {
+          "id": "d",
+          "label": "Chloramphenicol"
+        },
+        {
+          "id": "e",
+          "label": "Azithromycin"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q5": {
+      "type": "mcq",
+      "prompt": "A 12-year-old patient with cystic fibrosis is diagnosed with a pulmonary infection caused by Pseudomonas aeruginosa. Which of the following \"CAMPFIRE\" mnemonic drugs treats this infection by inhibiting bacterial cell wall synthesis?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Colistin"
+        },
+        {
+          "id": "b",
+          "label": "Ceftazidime"
+        },
+        {
+          "id": "c",
+          "label": "Ciprofloxacin"
+        },
+        {
+          "id": "d",
+          "label": "Amikacin"
+        },
+        {
+          "id": "e",
+          "label": "Gentamicin"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q6": {
+      "type": "mcq",
+      "prompt": "Which antibacterial agent exerts its bactericidal effect by binding to the \u03b2-subunit of DNA-dependent RNA polymerase to prevent transcription?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Ciprofloxacin"
+        },
+        {
+          "id": "b",
+          "label": "Isoniazid"
+        },
+        {
+          "id": "c",
+          "label": "Rifampin"
+        },
+        {
+          "id": "d",
+          "label": "Metronidazole"
+        },
+        {
+          "id": "e",
+          "label": "Ethambutol"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "For which of the following reasons are tetracyclines, such as doxycycline, generally avoided in children under 8 years of age?",
+      "options": [
+        {
+          "id": "a",
+          "label": "High risk of acute hemolytic anemia in G6PD deficiency"
+        },
+        {
+          "id": "b",
+          "label": "Risk of Gray Baby Syndrome due to lack of liver enzymes"
+        },
+        {
+          "id": "c",
+          "label": "Risk of permanent tooth discoloration and bone growth inhibition"
+        },
+        {
+          "id": "d",
+          "label": "Potential for permanent damage to developing cartilage"
+        },
+        {
+          "id": "e",
+          "label": "Structural displacement of bilirubin causing kernicterus"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q8": {
+      "type": "mcq",
+      "prompt": "Which of the following antibacterial agents is used topically to treat impetigo and acts by inhibiting bacterial protein synthesis?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Bacitracin"
+        },
+        {
+          "id": "b",
+          "label": "Mupirocin"
+        },
+        {
+          "id": "c",
+          "label": "Neomycin"
+        },
+        {
+          "id": "d",
+          "label": "Polymyxin B"
+        },
+        {
+          "id": "e",
+          "label": "Retapamulin"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q9": {
+      "type": "mcq",
+      "prompt": "Which route of administration is specifically indicated for vancomycin when used to treat pseudomembranous colitis caused by Clostridioides difficile?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Intrathecal"
+        },
+        {
+          "id": "b",
+          "label": "Topical"
+        },
+        {
+          "id": "c",
+          "label": "Intravenous"
+        },
+        {
+          "id": "d",
+          "label": "Oral"
+        },
+        {
+          "id": "e",
+          "label": "Intramuscular"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q10": {
+      "type": "mcq",
+      "prompt": "A patient with Epstein-Barr Virus (EBV) infectious mononucleosis develops a diffuse maculopapular rash after being treated for secondary pharyngitis. Which of the following drugs is most likely responsible?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Amoxicillin"
+        },
+        {
+          "id": "b",
+          "label": "Erythromycin"
+        },
+        {
+          "id": "c",
+          "label": "Azithromycin"
+        },
+        {
+          "id": "d",
+          "label": "Cefazolin"
+        },
+        {
+          "id": "e",
+          "label": "Clindamycin"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    }
+  }
+}

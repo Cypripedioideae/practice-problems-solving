@@ -1,0 +1,279 @@
+{
+  "info": {
+    "set_name": "General Virology 9",
+    "description": "",
+    "source": ""
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "The Human Immunodeficiency Virus (HIV) is an enveloped member of the Retroviridae family. Which of the following best describes the specific genomic structure found within a mature HIV virion?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Haploid single-stranded DNA"
+        },
+        {
+          "id": "b",
+          "label": "Diploid positive-sense RNA"
+        },
+        {
+          "id": "c",
+          "label": "Segmented double-stranded RNA"
+        },
+        {
+          "id": "d",
+          "label": "Circular partially double-stranded DNA"
+        },
+        {
+          "id": "e",
+          "label": "Non-segmented negative-sense RNA"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q2": {
+      "type": "mcq",
+      "prompt": "Ganciclovir is significantly more effective than acyclovir for the treatment of serious Cytomegalovirus (CMV) infections in immunocompromised patients. What is the primary biochemical reason CMV is susceptible to ganciclovir but typically resistant to acyclovir?",
+      "options": [
+        {
+          "id": "a",
+          "label": "CMV lacks a viral-encoded DNA polymerase"
+        },
+        {
+          "id": "b",
+          "label": "CMV produces a specific protein kinase (UL97) that phosphorylates ganciclovir"
+        },
+        {
+          "id": "c",
+          "label": "Acyclovir is unable to penetrate the complex CMV envelope"
+        },
+        {
+          "id": "d",
+          "label": "CMV replicates in the cytoplasm where acyclovir remains inactive"
+        },
+        {
+          "id": "e",
+          "label": "Ganciclovir acts as a pyrophosphate analog while acyclovir does not"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q3": {
+      "type": "mcq",
+      "prompt": "A premature infant born in February is administered palivizumab as prophylaxis to prevent severe lower respiratory tract disease and bronchiolitis. Which viral protein is the specific target of this monoclonal antibody?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Neuraminidase"
+        },
+        {
+          "id": "b",
+          "label": "Hemagglutinin"
+        },
+        {
+          "id": "c",
+          "label": "Fusion (F) protein"
+        },
+        {
+          "id": "d",
+          "label": "Matrix (M1) protein"
+        },
+        {
+          "id": "e",
+          "label": "RNA-dependent RNA polymerase"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q4": {
+      "type": "mcq",
+      "prompt": "Naked capsid viruses, such as Hepatitis A virus (HAV), are typically transmitted via the fecal-oral route. In contrast, enveloped viruses like HIV are not transmitted this way. Which structural property of HAV primarily allows it to survive transit through the gastrointestinal tract?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Presence of a lipid-rich lipoprotein envelope"
+        },
+        {
+          "id": "b",
+          "label": "Lack of an envelope, providing resistance to detergents and acidic pH"
+        },
+        {
+          "id": "c",
+          "label": "Use of a viral-encoded reverse transcriptase"
+        },
+        {
+          "id": "d",
+          "label": "Possession of a diploid RNA genome"
+        },
+        {
+          "id": "e",
+          "label": "Helical nucleocapsid symmetry that resists bile salts"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q5": {
+      "type": "mcq",
+      "prompt": "Hepatitis B virus (HBV) utilizes a unique replication strategy among DNA viruses. Following the entry of the viral genome into the host nucleus and the production of mRNA, which enzymatic process is required to generate the DNA genome of progeny virions?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Semiconservative DNA replication by host cell DNA polymerase"
+        },
+        {
+          "id": "b",
+          "label": "Reverse transcription of a pregenomic RNA intermediate into DNA"
+        },
+        {
+          "id": "c",
+          "label": "Integration of the viral DNA into the host chromosome via integrase"
+        },
+        {
+          "id": "d",
+          "label": "Direct translation of the DNA genome by host cell ribosomes"
+        },
+        {
+          "id": "e",
+          "label": "Rolling circle replication occurring in the host cytoplasm"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q6": {
+      "type": "mcq",
+      "prompt": "A 5-year-old child presents with a high fever, cough, and conjunctivitis. During the physical examination, the clinician observes small, bright red spots with blue-white centers on the buccal mucosa. This pathognomonic clinical finding is associated with which viral infection?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Negri bodies"
+        },
+        {
+          "id": "b",
+          "label": "Koplik spots"
+        },
+        {
+          "id": "c",
+          "label": "Owl's eye inclusions"
+        },
+        {
+          "id": "d",
+          "label": "Cowdry type A inclusions"
+        },
+        {
+          "id": "e",
+          "label": "Guarnieri bodies"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "An HIV-positive patient managed with a long-term antiretroviral regimen presents for a follow-up. Laboratory results indicate new-onset hyperglycemia, and a physical exam reveals abnormal fat redistribution (lipodystrophy). Which class of antiretroviral drugs is most likely responsible for these metabolic side effects?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Nucleoside reverse transcriptase inhibitors (NRTIs)"
+        },
+        {
+          "id": "b",
+          "label": "Non-nucleoside reverse transcriptase inhibitors (NNRTIs)"
+        },
+        {
+          "id": "c",
+          "label": "Protease inhibitors (PIs)"
+        },
+        {
+          "id": "d",
+          "label": "Fusion inhibitors"
+        },
+        {
+          "id": "e",
+          "label": "Integrase inhibitors"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q8": {
+      "type": "mcq",
+      "prompt": "Parvovirus B19 is a small, non-enveloped DNA virus that can cause a transient aplastic crisis (TAC). To establish infection, the virus must gain entry into its primary target cell, the erythroid progenitor cell. Which host cell component serves as the receptor for viral attachment?",
+      "options": [
+        {
+          "id": "a",
+          "label": "CD4 receptor"
+        },
+        {
+          "id": "b",
+          "label": "Erythrocyte blood group P antigen"
+        },
+        {
+          "id": "c",
+          "label": "ICAM-1 adhesion molecule"
+        },
+        {
+          "id": "d",
+          "label": "ACE2 receptor"
+        },
+        {
+          "id": "e",
+          "label": "Nicotinic acetylcholine receptor"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q9": {
+      "type": "mcq",
+      "prompt": "A clinician is managing an elderly patient with a laboratory-confirmed Influenza A infection. If the clinician prescribes amantadine, which specific step of the viral life cycle is being targeted?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Viral attachment to host cell receptors"
+        },
+        {
+          "id": "b",
+          "label": "Uncoating of the viral genome within the host cell"
+        },
+        {
+          "id": "c",
+          "label": "Cleavage of sialic acid residues for progeny release"
+        },
+        {
+          "id": "d",
+          "label": "Integration of viral DNA into the host cell chromosome"
+        },
+        {
+          "id": "e",
+          "label": "Proteolytic processing of viral polyproteins"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q10": {
+      "type": "mcq",
+      "prompt": "A lung biopsy is performed on a bone marrow transplant recipient who has developed progressive interstitial pneumonia. Microscopic examination of the tissue reveals significantly enlarged cells containing large, basophilic intranuclear inclusion bodies surrounded by a clear halo. Which virus is the most likely cause?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Adenovirus"
+        },
+        {
+          "id": "b",
+          "label": "Herpes Simplex Virus"
+        },
+        {
+          "id": "c",
+          "label": "Cytomegalovirus"
+        },
+        {
+          "id": "d",
+          "label": "Respiratory Syncytial Virus"
+        },
+        {
+          "id": "e",
+          "label": "Epstein-Barr Virus"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    }
+  }
+}

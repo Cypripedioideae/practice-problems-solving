@@ -1,0 +1,333 @@
+{
+    "info": {
+        "set_name": "Gastrointestinal Comprehensive Set 1: Regulatory Substance (Short Answer)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "short_answer",
+            "prompt": "Name the four \"official\" gastrointestinal hormones and the two requirements they must meet regarding their route of delivery to target cells.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Gastrin, cholecystokinin (CCK), secretin, and glucose-dependent insulinotropic peptide (GIP). They must be secreted in response to a physiologic stimulus and be carried in the bloodstream to a distant site to produce a physiologic action."
+            ]
+        },
+        "q2": {
+            "type": "short_answer",
+            "prompt": "Which cells secrete gastrin, and where are they primarily located?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "G cells, located in the antrum of the stomach."
+            ]
+        },
+        "q3": {
+            "type": "short_answer",
+            "prompt": "What are the two major physiological actions of gastrin on the stomach?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It stimulates H^+ secretion by gastric parietal cells and stimulates the growth of the gastric mucosa (trophic effect)."
+            ]
+        },
+        "q4": {
+            "type": "short_answer",
+            "prompt": "Identify the three primary stimuli that trigger the release of gastrin in response to a meal.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Small peptides and amino acids (especially phenylalanine and tryptophan), distention of the stomach, and vagal stimulation (via GRP)."
+            ]
+        },
+        "q5": {
+            "type": "short_answer",
+            "prompt": "Explain the negative feedback mechanism that inhibits gastrin secretion.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Gastrin secretion is inhibited by a low pH (< 3.0) in the gastric lumen and by the paracrine somatostatin."
+            ]
+        },
+        "q6": {
+            "type": "short_answer",
+            "prompt": "Which cells synthesize and secrete cholecystokinin (CCK), and what specific triggers in the intestinal lumen stimulate its release?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "I cells of the duodenum and jejunum. It is released in response to monoglycerides, fatty acids, small peptides, and amino acids."
+            ]
+        },
+        "q7": {
+            "type": "short_answer",
+            "prompt": "Describe the coordinated effect of CCK on the gallbladder and the sphincter of Oddi.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "CCK stimulates the contraction of the gallbladder while simultaneously causing the relaxation of the sphincter of Oddi to eject bile into the duodenum."
+            ]
+        },
+        "q8": {
+            "type": "short_answer",
+            "prompt": "Aside from its effects on the biliary system, what are the three other major actions of CCK?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It stimulates pancreatic enzyme secretion, stimulates growth of the exocrine pancreas/gallbladder, and inhibits gastric emptying."
+            ]
+        },
+        "q9": {
+            "type": "short_answer",
+            "prompt": "What is the primary stimulus for the release of secretin, and what is its major function?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "H^+ (acid) in the lumen of the duodenum. Its major function is to promote the secretion of pancreatic and biliary bicarbonate to neutralize that acid."
+            ]
+        },
+        "q10": {
+            "type": "short_answer",
+            "prompt": "How does secretin affect the pancreas and the liver to facilitate its primary function?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It stimulates pancreatic HCO_3^- secretion and increases HCO_3^- and H_2O secretion by the liver (bile production)."
+            ]
+        },
+        "q11": {
+            "type": "short_answer",
+            "prompt": "Which gastrointestinal hormone is the only one released in response to all three major nutrients (glucose, amino acids, and fatty acids)?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Glucose-dependent insulinotropic peptide (GIP)."
+            ]
+        },
+        "q12": {
+            "type": "short_answer",
+            "prompt": "Explain the \"incretin\" effect of glucose-dependent insulinotropic peptide (GIP).",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It stimulates insulin release from pancreatic beta cells in the presence of an oral glucose load."
+            ]
+        },
+        "q13": {
+            "type": "short_answer",
+            "prompt": "Which candidate hormone is responsible for initiating the migrating myoelectric complexes (MMCs) every 90 minutes during the interdigestive state?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Motilin."
+            ]
+        },
+        "q14": {
+            "type": "short_answer",
+            "prompt": "Identify the gastrointestinal paracrine that is released in response to decreased luminal pH and acts to inhibit the release of all GI hormones.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Somatostatin."
+            ]
+        },
+        "q15": {
+            "type": "short_answer",
+            "prompt": "Which paracrine substance is secreted by enteroendocrine-like cells of the gastric mucosa to increase H^+ secretion?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Histamine."
+            ]
+        },
+        "q16": {
+            "type": "short_answer",
+            "prompt": "Name the neurocrine released from parasympathetic postganglionic neurons that mediates the relaxation of the lower esophageal sphincter.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Vasoactive intestinal peptide (VIP)."
+            ]
+        },
+        "q17": {
+            "type": "short_answer",
+            "prompt": "What is the function of gastrin-releasing peptide (GRP), and which nerves release it?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It is released from vagal neurons to stimulate gastrin release from G cells."
+            ]
+        },
+        "q18": {
+            "type": "short_answer",
+            "prompt": "Where are the satiety and feeding centers located in the brain?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The satiety center is in the ventromedial nucleus (or VPN), and the feeding center is in the lateral hypothalamic area (LHA)."
+            ]
+        },
+        "q19": {
+            "type": "short_answer",
+            "prompt": "Contrast the roles of the arcuate nucleus neurons that release pro-opiomelanocortin (POMC) versus those that release neuropeptide Y.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Anorexigenic neurons release POMC to decrease appetite, while orexigenic neurons release neuropeptide Y to increase appetite."
+            ]
+        },
+        "q20": {
+            "type": "short_answer",
+            "prompt": "Where is leptin produced, and how does its secretion correlate with body fat levels?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It is secreted by fat (adipose) cells in proportion to the amount of fat stored in the tissue."
+            ]
+        },
+        "q21": {
+            "type": "short_answer",
+            "prompt": "Which gastric hormone is secreted just before a meal to stimulate orexigenic neurons and increase appetite?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Ghrelin."
+            ]
+        },
+        "q22": {
+            "type": "short_answer",
+            "prompt": "What is the role of Peptide YY (PYY) in the regulation of food intake, and when is it released?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "PYY is released from the small and large intestine following a meal to decrease appetite and food intake."
+            ]
+        },
+        "q23": {
+            "type": "short_answer",
+            "prompt": "Describe the mechanism by which insulin acts as a satiety signal.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Insulin (like leptin) stimulates anorexigenic neurons and inhibits orexigenic neurons in the arcuate nucleus to decrease appetite."
+            ]
+        },
+        "q24": {
+            "type": "short_answer",
+            "prompt": "How do GLP-1 and GIP differ from other GI hormones in their effect on the endocrine pancreas?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "They are incretins, meaning they specifically promote the secretion of insulin in response to oral glucose."
+            ]
+        },
+        "q25": {
+            "type": "short_answer",
+            "prompt": "Which neurocrine is cosecreted with acetylcholine in the parasympathetic nerves to the salivary glands to cause vasodilation?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Vasoactive intestinal peptide (VIP)."
+            ]
+        }
+    }
+}

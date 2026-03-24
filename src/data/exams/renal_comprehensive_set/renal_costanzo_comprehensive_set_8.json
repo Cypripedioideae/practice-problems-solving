@@ -1,0 +1,268 @@
+{
+    "info": {
+        "set_name": "Renal Comprehensive Set 1: Water Balance (Short Answer)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "short_answer",
+            "prompt": "What is the normal value for the osmolarity of human body fluids?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Approximately 290 mOsm/L (often simplified to 300 mOsm/L)."
+            ]
+        },
+        "q2": {
+            "type": "short_answer",
+            "prompt": "Where are the osmoreceptors that detect changes in plasma osmolarity located?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The anterior hypothalamus."
+            ]
+        },
+        "q3": {
+            "type": "short_answer",
+            "prompt": "What are the two primary effects of stimulating hypothalamic osmoreceptors during water deprivation?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It stimulates the sensation of thirst and the secretion of ADH from the posterior pituitary."
+            ]
+        },
+        "q4": {
+            "type": "short_answer",
+            "prompt": "Which receptor type does ADH bind to in the renal collecting ducts, and what is its associated second messenger?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "V2 receptors; the second messenger is cyclic AMP (cAMP)."
+            ]
+        },
+        "q5": {
+            "type": "short_answer",
+            "prompt": "What is the name of the specific water channel inserted into the luminal membrane of principal cells under the influence of ADH?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Aquaporin 2 (AQP2)."
+            ]
+        },
+        "q6": {
+            "type": "short_answer",
+            "prompt": "Beyond osmolarity, what cardiovascular stimulus is a potent trigger for ADH secretion?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Hypovolemia or volume contraction (e.g., hemorrhage)."
+            ]
+        },
+        "q7": {
+            "type": "short_answer",
+            "prompt": "Define the \"corticopapillary osmotic gradient\" and state its approximate range from the cortex to the papilla.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "A gradient of increasing osmolarity in the interstitial fluid from the cortex (300 mOsm/L) to the papilla (1200 mOsm/L)."
+            ]
+        },
+        "q8": {
+            "type": "short_answer",
+            "prompt": "What two distinct physiological processes establish the corticopapillary osmotic gradient?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Countercurrent multiplication and urea recycling."
+            ]
+        },
+        "q9": {
+            "type": "short_answer",
+            "prompt": "Describe the \"single effect\" of countercurrent multiplication in the thick ascending limb.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The thick ascending limb reabsorbs NaCl without water, increasing the osmolarity of the interstitium and diluting the tubular fluid."
+            ]
+        },
+        "q10": {
+            "type": "short_answer",
+            "prompt": "Which specific segments of the nephron are referred to as the \"diluting segments\" because they are always impermeable to water?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The thick ascending limb and the early distal tubule."
+            ]
+        },
+        "q11": {
+            "type": "short_answer",
+            "prompt": "What is the primary function of the vasa recta in relation to the medullary osmotic gradient?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "They act as countercurrent exchangers to maintain the corticopapillary gradient by removing reabsorbed water and minimizing solute washout."
+            ]
+        },
+        "q12": {
+            "type": "short_answer",
+            "prompt": "How does ADH affect urea handling in the inner medullary collecting ducts?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It increases urea permeability by up-regulating the UT1 facilitated diffusion transporter."
+            ]
+        },
+        "q13": {
+            "type": "short_answer",
+            "prompt": "In the absence of ADH, what is the typical osmolarity of the tubular fluid exiting the early distal tubule?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Approximately 100 mOsm/L (hypotonic)."
+            ]
+        },
+        "q14": {
+            "type": "short_answer",
+            "prompt": "State the equation used to calculate free-water clearance (CH_2O ).",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "CH_2O=V-Cosm(where V is urine flow rate and Cosm  is osmolar clearance)."
+            ]
+        },
+        "q15": {
+            "type": "short_answer",
+            "prompt": "What does a negative free-water clearance signify regarding the kidneys' handling of water?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It signifies that \"free water\" is being reabsorbed and the urine is hyperosmotic to plasma."
+            ]
+        },
+        "q16": {
+            "type": "short_answer",
+            "prompt": "Contrast the circulating levels of ADH in central diabetes insipidus versus nephrogenic diabetes insipidus.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Central DI: ADH levels are low or absent. Nephrogenic DI: ADH levels are high (due to stimulation by high plasma osmolarity), but the kidneys are unresponsive."
+            ]
+        },
+        "q17": {
+            "type": "short_answer",
+            "prompt": "Why is the corticopapillary osmotic gradient smaller in the absence of ADH?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Because ADH is required to stimulate the Na^+-K^+-2Cl^- cotransporter and urea recycling, both of which build the gradient."
+            ]
+        },
+        "q18": {
+            "type": "short_answer",
+            "prompt": "What is the effect of Syndrome of Inappropriate Antidiuretic Hormone (SIADH) on plasma sodium concentration?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It decreases it (hyponatremia) due to excessive water retention diluting the ECF."
+            ]
+        },
+        "q19": {
+            "type": "short_answer",
+            "prompt": "By what mechanism does a loop diuretic produce \"isosthenuric\" urine (urine isosmotic to plasma)?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It inhibits NaCl reabsorption in the thick ascending limb, which prevents both the dilution of tubular fluid and the establishment of the medullary gradient."
+            ]
+        },
+        "q20": {
+            "type": "short_answer",
+            "prompt": "Explain the concept of \"diffusion trapping\" as it applies to urea recycling in the inner medulla.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "In the presence of ADH, water is reabsorbed in the cortical/outer medullary ducts, concentrating urea so that it can diffuse out of the inner medullary ducts into the interstitium."
+            ]
+        }
+    }
+}

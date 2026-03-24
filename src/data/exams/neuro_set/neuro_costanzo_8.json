@@ -1,0 +1,858 @@
+{
+    "info": {
+        "set_name": "Neurophysiology 8",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "tf",
+            "prompt": "The length constant (\u03bb) of a neuronal process will increase if the internal axonal resistance (Ri) decreases while the membrane resistance (Rm ) remains constant.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q2": {
+            "type": "tf",
+            "prompt": "In a patient suffering from hypocalcemia, the threshold potential of nerve fibers shifts toward the resting membrane potential, thereby increasing neuromuscular excitability.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q3": {
+            "type": "tf",
+            "prompt": "During the relative refractory period, a second action potential can be generated because the inactivation gates (h-gates) of all voltage-gated sodium channels have already reset to the open position.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q4": {
+            "type": "tf",
+            "prompt": "If the concentration of potassium in the extracellular fluid is doubled, the Nernst equilibrium potential for potassium will become more positive, leading to a depolarization of the resting membrane potential.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q5": {
+            "type": "tf",
+            "prompt": "In the process of accommodation for near vision, the ciliary muscle contracts, which increases the tension on the suspensory ligaments (zonule fibers) and flattens the lens.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q6": {
+            "type": "tf",
+            "prompt": "A patient with a complete hemisection of the spinal cord at the T10 level (Brown-S\u00e9quard syndrome) will exhibit a loss of pain and temperature sensation on the ipsilateral side below the lesion.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q7": {
+            "type": "tf",
+            "prompt": "The amplification of sound in the middle ear is achieved primarily through the surface area ratio between the large tympanic membrane and the much smaller oval window.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q8": {
+            "type": "tf",
+            "prompt": "If a subject is rotated to the right and then suddenly stopped, the resulting postrotatory nystagmus will be characterized by a fast component of eye movement to the left.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q9": {
+            "type": "tf",
+            "prompt": "In the visual cycle, the absorption of light energy by rhodopsin directly triggers the chemical conversion of all-trans retinal into 11-cis retinal.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q10": {
+            "type": "tf",
+            "prompt": "Presynaptic inhibition is mediated by axo-axonic synapses that typically decrease the chloride conductance of the presynaptic terminal, thereby lengthening the action potential.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q11": {
+            "type": "tf",
+            "prompt": "An increase in the membrane capacitance (Cm ) of a nerve fiber, such as that occurring in demyelinating diseases, results in a decrease in the conduction velocity of the action potential.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q12": {
+            "type": "tf",
+            "prompt": "Under physiological conditions, the end-plate potential (EPP) at the neuromuscular junction is a graded potential that must reach a threshold to trigger a propagated action potential in the muscle fiber.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q13": {
+            "type": "tf",
+            "prompt": "In the dark, rod photoreceptors are more permeable to sodium than in the light because of the high intracellular concentration of cyclic guanosine monophosphate (cGMP).",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q14": {
+            "type": "tf",
+            "prompt": "The \"clasp-knife\" reflex, often seen in upper motor neuron lesions, is initiated by the activation of Golgi tendon organs responding to high levels of muscle tension.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q15": {
+            "type": "tf",
+            "prompt": "If a drug specifically blocks the Na^+-K^+  ATPase pump, the resulting immediate loss of the action potential is due to the total disappearance of the sodium concentration gradient.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q16": {
+            "type": "tf",
+            "prompt": "In the somatosensory cortex, the area of representation for the trunk and back is significantly larger than the area of representation for the fingertips and lips.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q17": {
+            "type": "tf",
+            "prompt": "The mechanism of long-term potentiation (LTP) in the hippocampus requires the removal of a magnesium block from NMDA receptors via sufficient depolarization of the postsynaptic membrane.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q18": {
+            "type": "tf",
+            "prompt": "A lesion in the right primary auditory cortex will result in complete deafness in the left ear because all auditory pathways cross the midline in the brainstem.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q19": {
+            "type": "tf",
+            "prompt": "High-frequency sound waves cause the maximum displacement of the basilar membrane near the base of the cochlea, where the membrane is narrow and stiff.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q20": {
+            "type": "tf",
+            "prompt": "The \"labeled line\" principle of sensory physiology dictates that the brain perceives a stimulus as a specific modality based on which neural pathway is activated, regardless of the physical stimulus.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q21": {
+            "type": "tf",
+            "prompt": "In the direct pathway of the basal ganglia, the net effect of excitatory input from the motor cortex to the striatum is the inhibition of the thalamus.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q22": {
+            "type": "tf",
+            "prompt": "During REM sleep, the brain's oxygen consumption and metabolic rate are significantly lower than they are during slow-wave (Stage 4) sleep.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q23": {
+            "type": "tf",
+            "prompt": "The release of neurotransmitter at the synaptic terminal is directly proportional to the magnitude of calcium influx through voltage-gated channels.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q24": {
+            "type": "tf",
+            "prompt": "In a patient with Wernicke's aphasia, speech is typically slow, labored, and telegraphic, although the patient's understanding of language remains intact.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q25": {
+            "type": "tf",
+            "prompt": "The stereocilia of hair cells in the semicircular canals are displaced by the inertia of the endolymph when the head undergoes angular acceleration.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q26": {
+            "type": "tf",
+            "prompt": "If the extracellular magnesium concentration is significantly increased, neuromuscular transmission is inhibited because magnesium competes with calcium for entry into the presynaptic terminal.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q27": {
+            "type": "tf",
+            "prompt": "The lateral geniculate nucleus (LGN) of the thalamus receives visual information from the ipsilateral nasal retina and the contralateral temporal retina.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q28": {
+            "type": "tf",
+            "prompt": "Intrafusal muscle fibers are innervated by gamma-motoneurons, which serve to maintain the sensitivity of the muscle spindle during voluntary muscle contraction.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q29": {
+            "type": "tf",
+            "prompt": "In the dorsal column-medial lemniscal system, the decussation of second-order neurons occurs in the spinal cord within two segments of the point of entry.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q30": {
+            "type": "tf",
+            "prompt": "The \"dark current\" in photoreceptors consists of an influx of sodium and calcium through channels that are kept open by high levels of intracellular cGMP.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q31": {
+            "type": "tf",
+            "prompt": "Tonic receptors, such as those found in the joint capsules, are characterized by slow adaptation and provide continuous information about steady-state conditions.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q32": {
+            "type": "tf",
+            "prompt": "The blood-brain barrier is formed primarily by the tight junctions between the endothelial cells of the brain capillaries, assisted by the foot processes of astrocytes.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q33": {
+            "type": "tf",
+            "prompt": "A positive Babinski sign in an adult patient indicates a physiological transition from a flexor reflex to a more primitive extensor reflex due to damage to the corticospinal tract.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q34": {
+            "type": "tf",
+            "prompt": "In smooth muscle, the \"latch\" state occurs when myosin light chain phosphatase dephosphorylates myosin while it is still attached to actin.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q35": {
+            "type": "tf",
+            "prompt": "The two-point discrimination threshold is smallest in areas of the body where sensory units have large receptive fields and low levels of overlap.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q36": {
+            "type": "tf",
+            "prompt": "Synaptic fatigue during high-frequency stimulation is primarily caused by the progressive depletion of readily releasable neurotransmitter vesicles in the presynaptic terminal.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q37": {
+            "type": "tf",
+            "prompt": "A drug that acts as a muscarinic agonist would be expected to cause mydriasis (dilation of the pupil) by stimulating the radial muscle of the iris.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q38": {
+            "type": "tf",
+            "prompt": "The primary mechanism of GABA-mediated postsynaptic inhibition is the opening of ligand-gated chloride channels, which hyperpolarizes the neuron.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q39": {
+            "type": "tf",
+            "prompt": "In the inverse stretch reflex, the Ib afferent fibers from the Golgi tendon organ provide direct monosynaptic excitation to the antagonistic muscle's alpha-motoneuron.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q40": {
+            "type": "tf",
+            "prompt": "The velocity of an action potential along a myelinated nerve is inversely proportional to the thickness of the myelin sheath.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q41": {
+            "type": "tf",
+            "prompt": "If the diameter of a nerve fiber is doubled, its conduction velocity will typically increase because the internal longitudinal resistance to current flow is reduced.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q42": {
+            "type": "tf",
+            "prompt": "Cerebral blood flow is primarily regulated by local metabolic factors, such as the partial pressure of carbon dioxide (PCO2 ) and hydrogen ion concentration.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q43": {
+            "type": "tf",
+            "prompt": "Decerebrate rigidity, characterized by a marked increase in extensor tone, results from a lesion that disconnects the brainstem from the inhibitory influences of the higher centers.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q44": {
+            "type": "tf",
+            "prompt": "The utricle is primarily sensitive to linear acceleration in the vertical plane, such as the movement experienced in an elevator.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q45": {
+            "type": "tf",
+            "prompt": "Fast pain is transmitted to the central nervous system via small, unmyelinated Type C fibers, while slow pain travels via larger, myelinated A-delta fibers.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q46": {
+            "type": "tf",
+            "prompt": "In the enteric nervous system, the myenteric (Auerbach's) plexus is primarily responsible for controlling the secretion and local blood flow of the gastrointestinal tract.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q47": {
+            "type": "tf",
+            "prompt": "The frequency of the EEG alpha rhythm (8-13 Hz) is most characteristic of an adult who is awake but relaxed with their eyes closed.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q48": {
+            "type": "tf",
+            "prompt": "A lesion of the right optic tract results in a visual field defect known as left homonymous hemianopia.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "true"
+            ]
+        },
+        "q49": {
+            "type": "tf",
+            "prompt": "The catecholamine-O-methyltransferase (COMT) enzyme is the primary mechanism for the rapid termination of the action of acetylcholine at the neuromuscular junction.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        },
+        "q50": {
+            "type": "tf",
+            "prompt": "According to the size principle of motor unit recruitment, large motor neurons with high conduction velocities are the first to be recruited during a muscle contraction.",
+            "options": [
+                {
+                    "id": "true",
+                    "label": "True"
+                },
+                {
+                    "id": "false",
+                    "label": "False"
+                }
+            ],
+            "correctOptionIds": [
+                "false"
+            ]
+        }
+    }
+}

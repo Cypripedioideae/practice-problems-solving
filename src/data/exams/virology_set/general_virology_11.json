@@ -1,0 +1,279 @@
+{
+  "info": {
+    "set_name": "General Virology 11",
+    "description": "",
+    "source": ""
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "Influenza A virus is capable of causing major global pandemics through a process known as \"antigenic shift,\" whereas the measles virus (a paramyxovirus) only undergoes minor \"antigenic drift.\" Which genomic characteristic of Influenza A allows for the reassortment of genetic material that leads to this sudden shift?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Presence of a circular RNA genome"
+        },
+        {
+          "id": "b",
+          "label": "Possession of a segmented RNA genome"
+        },
+        {
+          "id": "c",
+          "label": "Integration into the host cell chromosome"
+        },
+        {
+          "id": "d",
+          "label": "Use of a diploid positive-sense RNA genome"
+        },
+        {
+          "id": "e",
+          "label": "Lack of a viral-encoded RNA polymerase"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q2": {
+      "type": "mcq",
+      "prompt": "During the maturation of the Human Immunodeficiency Virus (HIV), the precursor glycoprotein gp160 is cleaved into two functional subunits. Which of these resulting proteins is primarily responsible for the initial attachment of the virion to the host CD4 receptor?",
+      "options": [
+        {
+          "id": "a",
+          "label": "p24"
+        },
+        {
+          "id": "b",
+          "label": "p17"
+        },
+        {
+          "id": "c",
+          "label": "gp41"
+        },
+        {
+          "id": "d",
+          "label": "gp120"
+        },
+        {
+          "id": "e",
+          "label": "Reverse transcriptase"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q3": {
+      "type": "mcq",
+      "prompt": "Acyclovir is a guanosine analog used to treat Herpes Simplex Virus (HSV) infections. It acts as a potent inhibitor of viral DNA synthesis because it lacks a 3'-hydroxyl group on its side chain. What is the immediate biochemical consequence when this drug is incorporated into a growing viral DNA strand?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Inhibition of the viral protease enzyme"
+        },
+        {
+          "id": "b",
+          "label": "Prevention of viral uncoating in the cytoplasm"
+        },
+        {
+          "id": "c",
+          "label": "Immediate termination of the DNA chain"
+        },
+        {
+          "id": "d",
+          "label": "Blockade of viral entry at the cell membrane"
+        },
+        {
+          "id": "e",
+          "label": "Enhanced degradation of the viral mRNA"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q4": {
+      "type": "mcq",
+      "prompt": "A 25-year-old healthcare worker undergoes routine screening for Hepatitis B. The laboratory results show a positive test for Hepatitis B surface antibody (anti-HBs), but negative results for both Hepatitis B surface antigen (HBsAg) and antibody to Hepatitis B core antigen (anti-HBc). What is the correct interpretation of this serological profile?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Acute Hepatitis B infection"
+        },
+        {
+          "id": "b",
+          "label": "Chronic Hepatitis B infection"
+        },
+        {
+          "id": "c",
+          "label": "Immunity resulting from a prior natural infection"
+        },
+        {
+          "id": "d",
+          "label": "Immunity resulting from Hepatitis B vaccination"
+        },
+        {
+          "id": "e",
+          "label": "Window period of an acute infection"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q5": {
+      "type": "mcq",
+      "prompt": "Rhinovirus is the most common cause of the \"common cold\" but, unlike other members of the Picornaviridae family such as Poliovirus or Hepatitis A, it does not cause gastrointestinal disease. Which property of Rhinovirus accounts for its inability to establish an infection in the digestive tract?",
+      "options": [
+        {
+          "id": "a",
+          "label": "It possesses a helical rather than icosahedral capsid"
+        },
+        {
+          "id": "b",
+          "label": "It is acid-labile and destroyed by gastric pH"
+        },
+        {
+          "id": "c",
+          "label": "It is an enveloped virus susceptible to detergents"
+        },
+        {
+          "id": "d",
+          "label": "It requires a coreceptor found only in the lung"
+        },
+        {
+          "id": "e",
+          "label": "It replicates optimally only at 37\u00b0C"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q6": {
+      "type": "mcq",
+      "prompt": "In the typical clinical course of an untreated HIV infection, the virus utilizes specific host cell coreceptors to gain entry. Which shift in coreceptor tropism is commonly observed as the disease progresses from the early asymptomatic phase to late-stage AIDS?",
+      "options": [
+        {
+          "id": "a",
+          "label": "From CXCR4 to CCR5"
+        },
+        {
+          "id": "b",
+          "label": "From CCR5 to CXCR4"
+        },
+        {
+          "id": "c",
+          "label": "From CD4 to CD8"
+        },
+        {
+          "id": "d",
+          "label": "From gp120 to gp41"
+        },
+        {
+          "id": "e",
+          "label": "From P antigen to ICAM-1"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "A patient with a severe, recurrent HSV-2 infection is treated with acyclovir but shows no clinical improvement. Laboratory testing confirms the presence of a viral strain with a mutation in the thymidine kinase (TK) gene. Which of the following drugs is the most appropriate alternative for this patient because its mechanism of action does not require phosphorylation by the viral TK?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Valacyclovir"
+        },
+        {
+          "id": "b",
+          "label": "Famciclovir"
+        },
+        {
+          "id": "c",
+          "label": "Foscarnet"
+        },
+        {
+          "id": "d",
+          "label": "Ganciclovir"
+        },
+        {
+          "id": "e",
+          "label": "Penciclovir"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q8": {
+      "type": "mcq",
+      "prompt": "Amantadine and rimantadine are antiviral agents historically used for the treatment of Influenza A. These drugs interfere with the viral replication cycle by targeting the M2 protein. What specific step in the life cycle is inhibited by this interaction?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Attachment to host sialic acid receptors"
+        },
+        {
+          "id": "b",
+          "label": "Release of progeny virions from the cell membrane"
+        },
+        {
+          "id": "c",
+          "label": "Uncoating of the viral genome within the endosome"
+        },
+        {
+          "id": "d",
+          "label": "Cleavage of the viral polyprotein precursor"
+        },
+        {
+          "id": "e",
+          "label": "Integration of viral DNA into the host genome"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q9": {
+      "type": "mcq",
+      "prompt": "The Human Immunodeficiency Virus (HIV) genome contains the pol structural gene, which is essential for the production of infectious progeny. Which set of viral enzymes is encoded by this specific gene?",
+      "options": [
+        {
+          "id": "a",
+          "label": "gp120 and gp41"
+        },
+        {
+          "id": "b",
+          "label": "p24 and p17"
+        },
+        {
+          "id": "c",
+          "label": "Reverse transcriptase, integrase, and protease"
+        },
+        {
+          "id": "d",
+          "label": "Tat, Rev, and Nef"
+        },
+        {
+          "id": "e",
+          "label": "DNA-dependent RNA polymerase and neuraminidase"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q10": {
+      "type": "mcq",
+      "prompt": "Parvovirus B19 is a small, non-enveloped DNA virus that can cause a transient aplastic crisis in patients with high red cell turnover. To initiate infection, the virus must bind to a specific receptor on the surface of erythroid precursor cells. Which molecule serves as this receptor?",
+      "options": [
+        {
+          "id": "a",
+          "label": "CD4 glycoprotein"
+        },
+        {
+          "id": "b",
+          "label": "Intercellular adhesion molecule-1 (ICAM-1)"
+        },
+        {
+          "id": "c",
+          "label": "Erythrocyte P antigen (globoside)"
+        },
+        {
+          "id": "d",
+          "label": "Nicotinic acetylcholine receptor"
+        },
+        {
+          "id": "e",
+          "label": "Angiotensin-converting enzyme 2 (ACE2)"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    }
+  }
+}

@@ -1,0 +1,299 @@
+{
+    "info": {
+        "set_name": "General parasitology 2",
+        "description": "",
+        "source": ""
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A 32-year-old man with no significant medical history is diagnosed with intestinal taeniasis after passing proglottids in his stool; one month later, his brother presents with new-onset seizures, and imaging reveals multiple viable cysts in the brain parenchyma. Which of the following regimens is the most appropriate management for the brother's neurological condition?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Albendazole plus Dexamethasone"
+                },
+                {
+                    "id": "b",
+                    "label": "Diethylcarbamazine plus Ivermectin"
+                },
+                {
+                    "id": "c",
+                    "label": "Mebendazole plus Pyrimidine"
+                },
+                {
+                    "id": "d",
+                    "label": "Niclosamide plus Paromomycin"
+                },
+                {
+                    "id": "e",
+                    "label": "Praziquantel as a single dose"
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A 7-year-old child presents with a nonproductive cough, wheezing, and a low-grade fever; laboratory tests reveal peripheral eosinophilia, and a chest radiograph shows transient pulmonary infiltrates. Which phase of the Ascaris lumbricoides life cycle is responsible for this clinical presentation?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Attachment of adult worms to the jejunal mucosa"
+                },
+                {
+                    "id": "b",
+                    "label": "Ingestion of decorticated eggs from contaminated soil"
+                },
+                {
+                    "id": "c",
+                    "label": "Larval migration through the pulmonary capillaries and alveoli"
+                },
+                {
+                    "id": "d",
+                    "label": "Maturation of rhabditiform larvae in the large intestine"
+                },
+                {
+                    "id": "e",
+                    "label": "Obstruction of the biliary tract by migrating adult worms"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "A 5-year-old girl is brought to the clinic by her parents due to intense perianal itching that significantly worsens at night, causing her to have difficulty sleeping. Which diagnostic procedure is most appropriate to confirm the suspected parasitic infection?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Concentration technique for eggs in a stool specimen"
+                },
+                {
+                    "id": "b",
+                    "label": "Detection of trophozoites in a fresh liquid stool"
+                },
+                {
+                    "id": "c",
+                    "label": "Identification of larvae using an agar plate culture"
+                },
+                {
+                    "id": "d",
+                    "label": "Microscopic examination of a Scotch tape prep from the perianal skin"
+                },
+                {
+                    "id": "e",
+                    "label": "Serological testing for specific immunoglobulin G antibodies"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "A 38-year-old HIV-positive patient with a CD4+ count of 85/mm\u00b3 presents with a headache and confusion; a CT scan of the head shows multiple ring-enhancing lesions. Laboratory results are positive for serum IgG antibodies against the most likely causative agent. Which parasite is responsible for this presentation?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Acanthamoeba spp."
+                },
+                {
+                    "id": "b",
+                    "label": "Cryptococcus neoformans"
+                },
+                {
+                    "id": "c",
+                    "label": "Entamoeba histolytica"
+                },
+                {
+                    "id": "d",
+                    "label": "Naegleria fowleri"
+                },
+                {
+                    "id": "e",
+                    "label": "Toxoplasma gondii"
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "During a laboratory investigation of a urine specimen from a patient with painless hematuria, an elongated, oval egg is identified. Which morphological feature confirms the identification of Schistosoma haematobium?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "A large lateral spine"
+                },
+                {
+                    "id": "b",
+                    "label": "A large terminal spine"
+                },
+                {
+                    "id": "c",
+                    "label": "A small inconspicuous lateral knob"
+                },
+                {
+                    "id": "d",
+                    "label": "An operculum at one end"
+                },
+                {
+                    "id": "e",
+                    "label": "Presence of a thick, striated shell"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "A 28-year-old plantation worker who habitually walks barefoot in soil contaminated with human feces presents with chronic fatigue and pallor; laboratory tests show a hemoglobin level of 8.0 g/dL and a mean corpuscular volume (MCV) of 72 fL. Which organism is the most likely cause of these findings?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Ascaris lumbricoides"
+                },
+                {
+                    "id": "b",
+                    "label": "Enterobius vermicularis"
+                },
+                {
+                    "id": "c",
+                    "label": "Necator americanus"
+                },
+                {
+                    "id": "d",
+                    "label": "Strongyloides stercoralis"
+                },
+                {
+                    "id": "e",
+                    "label": "Trichuris trichiura"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "A patient is found to have a cystic lesion in the vitreous humor of the eye, which is identified as a cysticercus of Taenia solium. According to standard management guidelines for the ocular site of this infection, what is the recommended primary treatment?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "High-dose Albendazole therapy"
+                },
+                {
+                    "id": "b",
+                    "label": "Long-term Niclosamide administration"
+                },
+                {
+                    "id": "c",
+                    "label": "Praziquantel combined with steroids"
+                },
+                {
+                    "id": "d",
+                    "label": "Single-dose Ivermectin treatment"
+                },
+                {
+                    "id": "e",
+                    "label": "Surgical removal of the parasite"
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "A 45-year-old hunter presents with high fever, severe myalgias, and periorbital edema two weeks after consuming undercooked bear meat; physical examination also reveals small splinter hemorrhages under his fingernails. Which parasite is the most likely cause?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Ancylostoma duodenale"
+                },
+                {
+                    "id": "b",
+                    "label": "Fasciola hepatica"
+                },
+                {
+                    "id": "c",
+                    "label": "Taenia saginata"
+                },
+                {
+                    "id": "d",
+                    "label": "Toxocara canis"
+                },
+                {
+                    "id": "e",
+                    "label": "Trichinella spiralis"
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "A Giemsa-stained peripheral blood smear is performed on a traveler returning from a region with endemic malaria; microscopy reveals characteristic banana-shaped gametocytes. Which organism has been identified?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Babesia microti"
+                },
+                {
+                    "id": "b",
+                    "label": "Plasmodium falciparum"
+                },
+                {
+                    "id": "c",
+                    "label": "Plasmodium malariae"
+                },
+                {
+                    "id": "d",
+                    "label": "Plasmodium ovale"
+                },
+                {
+                    "id": "e",
+                    "label": "Plasmodium vivax"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "A 42-year-old patient with chronic Schistosoma mansoni infection presents with hematemesis and splenomegaly; clinical evaluation confirms the presence of portal hypertension and periportal fibrosis. Which of the following is the primary cause of these manifestations?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Accumulation of adult worms in the hepatic parenchyma"
+                },
+                {
+                    "id": "b",
+                    "label": "Direct destruction of hepatocytes by cercarial toxins"
+                },
+                {
+                    "id": "c",
+                    "label": "Host inflammatory response to eggs trapped in the liver"
+                },
+                {
+                    "id": "d",
+                    "label": "Migration of miracidia through the portal venous system"
+                },
+                {
+                    "id": "e",
+                    "label": "Proliferation of schizonts within the splenic vasculature"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        }
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "info": {
+        "set_name": "Comprehensive Neuro Set 1: Nociception (Short Answer)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "short_answer",
+            "prompt": "What specific morphological classification of sensory receptors is responsible for detecting noxious or tissue-damaging stimuli?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Free nerve endings."
+            ]
+        },
+        "q2": {
+            "type": "short_answer",
+            "prompt": "Identify the two primary categories of nociceptors based on the types of stimuli that activate them.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Thermal/mechanical nociceptors (activated by extremes of temperature/pressure) and polymodal nociceptors (activated by high-intensity mechanical, chemical, or thermal stimuli)."
+            ]
+        },
+        "q3": {
+            "type": "short_answer",
+            "prompt": "Based on the Erlanger and Gasser classification, which myelinated nerve fibers are responsible for carrying \"fast\" (sharp, localized) pain?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "A-delta fibers (Group III)."
+            ]
+        },
+        "q4": {
+            "type": "short_answer",
+            "prompt": "Which unmyelinated, slow-conducting nerve fibers are responsible for transmitting \"slow\" (aching, burning, poorly localized) pain?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "C fibers (Group IV)."
+            ]
+        },
+        "q5": {
+            "type": "short_answer",
+            "prompt": "Name the two major excitatory neurotransmitters released by primary afferent nociceptors onto second-order neurons in the spinal cord.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Glutamate and Substance P."
+            ]
+        },
+        "q6": {
+            "type": "short_answer",
+            "prompt": "According to the \"gate-control\" theory, how does the simultaneous stimulation of large-diameter A-beta mechanoreceptors alleviate the perception of pain?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Lateral inhibition: Stimulation of A-beta fibers activates inhibitory interneurons in the dorsal horn that \"close the gate\" to pain signals traveling through the smaller A-delta and C fibers."
+            ]
+        },
+        "q7": {
+            "type": "short_answer",
+            "prompt": "In the endogenous pain suppression system, how do opioids produce presynaptic inhibition of pain signals?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Opioids decrease calcium influx into the presynaptic terminal, which reduces the exocytosis of excitatory neurotransmitters (like Substance P)."
+            ]
+        },
+        "q8": {
+            "type": "short_answer",
+            "prompt": "Describe the mechanism by which endogenous opioids produce postsynaptic inhibition on spinothalamic projection neurons.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Opioids increase potassium conductance, leading to potassium efflux and hyperpolarization of the postsynaptic neuron, making it less excitable."
+            ]
+        },
+        "q9": {
+            "type": "short_answer",
+            "prompt": "Explain the \"convergence-projection theory\" as the physiological basis for referred pain.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Visceral nociceptive fibers and somatic fibers from the skin converge on the same second-order neurons in the dorsal horn; the brain \"projects\" the sensation to the skin rather than the internal organ."
+            ]
+        },
+        "q10": {
+            "type": "short_answer",
+            "prompt": "Which specific region of the midbrain is a critical component of the descending pain suppression system, relaying signals to the nucleus raphe magnus?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Periaqueductal gray (PAG)."
+            ]
+        },
+        "q11": {
+            "type": "short_answer",
+            "prompt": "Define \"hyperalgesia\" and identify the role of prostaglandins in this process.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Hyperalgesia is an increased sensitivity or reduced threshold for pain following tissue injury; prostaglandins sensitize the nociceptors but do not directly excite them."
+            ]
+        },
+        "q12": {
+            "type": "short_answer",
+            "prompt": "Why is visceral pain frequently associated with autonomic responses such as nausea, sweating, and changes in blood pressure?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Visceral pain is carried primarily by C fibers that have sparse innervation and travel via sympathetic and parasympathetic nerves, allowing signals to reach brain stem centers that coordinate autonomic reflexes."
+            ]
+        }
+    }
+}

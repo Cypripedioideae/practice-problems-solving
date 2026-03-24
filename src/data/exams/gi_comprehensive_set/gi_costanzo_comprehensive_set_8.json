@@ -1,0 +1,356 @@
+{
+    "info": {
+        "set_name": "Gastrointestinal Comprehensive Set 2: Functional Anatomy (MCQ)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "In anatomical terms, the pelvic nerves provide extrinsic parasympathetic innervation to the distal large intestine and rectum. Which of the following clinical observations would be most consistent with a surgical injury that specifically severs the pelvic nerves?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Loss of the receptive relaxation reflex in the orad stomach."
+                },
+                {
+                    "id": "b",
+                    "label": "Impairment of primary esophageal peristalsis in the upper one-third of the tube."
+                },
+                {
+                    "id": "c",
+                    "label": "Inability to secrete pancreatic enzymes during the intestinal phase of digestion."
+                },
+                {
+                    "id": "d",
+                    "label": "Reduced frequency of the basic electrical rhythm (slow waves) in the duodenum."
+                },
+                {
+                    "id": "e",
+                    "label": "Failure to initiate a coordinated, involuntary defecation reflex."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "During a physiological study of intestinal segments, a researcher observes a section of the jejunum where the longitudinal muscle layer is contracting while the circular muscle layer is simultaneously inhibited and relaxed. Based on the mechanical roles of these layers, what is the predicted effect on this segment?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The segment will shorten in length and its lumen will widen in diameter."
+                },
+                {
+                    "id": "b",
+                    "label": "The segment will lengthen and its lumen will narrow."
+                },
+                {
+                    "id": "c",
+                    "label": "The segment will lengthen and its lumen will widen."
+                },
+                {
+                    "id": "d",
+                    "label": "The segment will shorten and its lumen will narrow."
+                },
+                {
+                    "id": "e",
+                    "label": "No significant change in length or diameter will occur."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "A pharmaceutical agent is developed that selectively destroys the cell bodies of the submucosal (Meissner) plexus without affecting the myenteric plexus. In a patient with this specific condition, which of the following gastrointestinal functions would be most severely impaired?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The rhythmic generation of slow waves by the interstitial cells of Cajal."
+                },
+                {
+                    "id": "b",
+                    "label": "The propulsion of a food bolus through the smooth muscle of the esophageal body."
+                },
+                {
+                    "id": "c",
+                    "label": "The mixing of chyme via rhythmic segmentation contractions in the ileum."
+                },
+                {
+                    "id": "d",
+                    "label": "The regulation of electrolyte and fluid secretion from mucosal glands."
+                },
+                {
+                    "id": "e",
+                    "label": "The initiation of mass movements following the entry of food into the stomach."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "A 45-year-old male is administered a high dose of hexamethonium, a nicotinic (N_2) receptor antagonist that acts specifically at autonomic ganglia. Which of the following describes the most likely impact on his gastrointestinal regulation?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "A selective increase in gastrointestinal motility due to the loss of inhibitory sympathetic tone."
+                },
+                {
+                    "id": "b",
+                    "label": "Total loss of the intrinsic enteric nervous system's ability to coordinate local peristalsis."
+                },
+                {
+                    "id": "c",
+                    "label": "A selective decrease in gastric acid secretion while the gastrocolic reflex remains intact."
+                },
+                {
+                    "id": "d",
+                    "label": "A significant increase in mucosal blood flow due to the loss of cholinergic vasoconstriction."
+                },
+                {
+                    "id": "e",
+                    "label": "Blockade of both sympathetic and parasympathetic extrinsic modulation of the gut."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "Histological examination of the intestinal wall reveals a thin layer of smooth muscle, the muscularis mucosae, located between the mucosa and the submucosa. If this specific layer is pathologically overstimulated and undergoes sustained contraction, what is the primary physiological consequence?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Alteration of the mucosal surface area and the specific shape of epithelial folds."
+                },
+                {
+                    "id": "b",
+                    "label": "Rapid propulsion of chyme through the ileocecal sphincter into the cecum."
+                },
+                {
+                    "id": "c",
+                    "label": "Narrowing of the lumen diameter to a degree that halts the movement of chyme."
+                },
+                {
+                    "id": "d",
+                    "label": "Direct inhibition of blood flow to the underlying serosal layer of the gut."
+                },
+                {
+                    "id": "e",
+                    "label": "Total abolition of the motilin-mediated migrating myoelectric complex."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "A patient undergoes a complete vagotomy as part of a surgical treatment for peptic ulcer disease. During the post-operative recovery phase, which of the following physiological responses to a swallowed food bolus will be notably absent?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Primary peristalsis in the striated muscle of the upper esophagus."
+                },
+                {
+                    "id": "b",
+                    "label": "The reflex responsible for receptive relaxation of the orad stomach."
+                },
+                {
+                    "id": "c",
+                    "label": "The myogenic contraction of circular muscle in the caudad gastric antrum."
+                },
+                {
+                    "id": "d",
+                    "label": "The baseline secretion of intrinsic factor by the gastric chief cells."
+                },
+                {
+                    "id": "e",
+                    "label": "The generation of gastric slow waves at an inherent frequency of 3 per minute."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "In an analysis of autonomic control, which of the following correctly describes the integrated effect of sympathetic postganglionic adrenergic stimulation on the gastrointestinal tract?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Relaxation of the sphincters and contraction of the smooth muscle in the walls."
+                },
+                {
+                    "id": "b",
+                    "label": "Relaxation of both the sphincters and the smooth muscle in the walls."
+                },
+                {
+                    "id": "c",
+                    "label": "Contraction of the sphincters and relaxation of the smooth muscle in the walls."
+                },
+                {
+                    "id": "d",
+                    "label": "Contraction of both the sphincters and the smooth muscle in the walls."
+                },
+                {
+                    "id": "e",
+                    "label": "Contraction of the sphincters with no significant effect on the smooth muscle in the walls."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "An \"in vitro\" experiment involves a segment of the jejunum that has been removed from a donor animal and isolated from all extrinsic nerves. When the segment is mechanically distended in a nutrient bath, it is observed to still exhibit coordinated peristaltic movement. What is the primary basis for this autonomy?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The persistence of motilin within the isolated tissue."
+                },
+                {
+                    "id": "b",
+                    "label": "The presence of a enteric nervous system."
+                },
+                {
+                    "id": "c",
+                    "label": "The direct stimulation of longitudinal muscle by luminal nutrients."
+                },
+                {
+                    "id": "d",
+                    "label": "The automatic firing of medullary motor neurons that remain attached to the segment."
+                },
+                {
+                    "id": "e",
+                    "label": "The presence of multi-unit smooth muscle cells that do not require any form of innervation."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "Achalasia is a clinical condition characterized by the failure of the lower esophageal sphincter (LES) to relax during the swallowing process. Which neurophysiological deficit in the enteric nervous system best explains this pathology?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Excessive secretion of acetylcholine from the postganglionic vagus nerve."
+                },
+                {
+                    "id": "b",
+                    "label": "Overactivity of the sympathetic adrenergic fibers originating in the superior cervical ganglion."
+                },
+                {
+                    "id": "c",
+                    "label": "A complete absence of longitudinal smooth muscle in the lower third of the esophagus."
+                },
+                {
+                    "id": "d",
+                    "label": "A deficiency of inhibitory enteric neurons that release VIP and nitric oxide."
+                },
+                {
+                    "id": "e",
+                    "label": "Damage to the swallowing center located within the medulla oblongata."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "Following a large, mixed meal, a person experiences a reflex increase in the frequency of mass movements in the colon. Which of the following describes the efferent limb of the gastrocolic reflex responsible for this response?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "It is mediated exclusively by short-loop reflexes within the submucosal plexus."
+                },
+                {
+                    "id": "b",
+                    "label": "It involves the release of secretin and GIP to acutely decrease gastric emptying."
+                },
+                {
+                    "id": "c",
+                    "label": "It requires the voluntary activation of the skeletal muscles in the pelvic floor."
+                },
+                {
+                    "id": "d",
+                    "label": "It is mediated by the extrinsic parasympathetic system and the hormones gastrin and CCK."
+                },
+                {
+                    "id": "e",
+                    "label": "It is triggered primarily by the relaxation of the internal anal sphincter."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q11": {
+            "type": "mcq",
+            "prompt": "During a period of intense anxiety or fear (\"fight or flight\"), a person often experiences the sensation of a \"dry mouth\". Which of the following explains the neural regulation of the salivary glands during this sympathetic state?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Parasympathetic activity to the glands is inhibited by the concurrent release of gastrin."
+                },
+                {
+                    "id": "b",
+                    "label": "Sympathetic stimulation results in a very high-volume, watery secretion from the acini."
+                },
+                {
+                    "id": "c",
+                    "label": "The salivary glands are the only GI organs not innervated by the sympathetic system."
+                },
+                {
+                    "id": "d",
+                    "label": "Salivary secretion is exclusively controlled by the hormonal release of secretin."
+                },
+                {
+                    "id": "e",
+                    "label": "Sympathetic stimulation produces a small volume of viscid saliva."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q12": {
+            "type": "mcq",
+            "prompt": "Which of the following is an example of a short reflex that is independent of the central nervous system?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The preparatory cephalic phase of gastric secretion triggered by the smell of a meal."
+                },
+                {
+                    "id": "b",
+                    "label": "The accommodation of the stomach to a bolus."
+                },
+                {
+                    "id": "c",
+                    "label": "The peristaltic reflex initiated by mechanical distention of a segment of the ileum."
+                },
+                {
+                    "id": "d",
+                    "label": "The increase in heart rate (Bainbridge reflex) caused by an increase in venous return."
+                },
+                {
+                    "id": "e",
+                    "label": "The vomiting reflex."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        }
+    }
+}

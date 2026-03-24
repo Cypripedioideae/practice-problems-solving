@@ -1,0 +1,463 @@
+{
+    "info": {
+        "set_name": "Gastrointestinal Comprehensive Set 1: Digestion and Absorption (Short Answer)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "short_answer",
+            "prompt": "Name the three absorbable monosaccharide end products of carbohydrate digestion.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Glucose, galactose, and fructose."
+            ]
+        },
+        "q2": {
+            "type": "short_answer",
+            "prompt": "Which enzyme is responsible for the initial hydrolysis of internal \u03b1-1,4-glycosidic bonds in starch, and where are its two primary sources?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "\u03b1-amylase; the salivary glands and the pancreas."
+            ]
+        },
+        "q3": {
+            "type": "short_answer",
+            "prompt": "Identify the three disaccharides commonly found in the diet and the specific brush-border enzymes required to digest them.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Trehalose (trehalase), lactose (lactase), and sucrose (sucrase)."
+            ]
+        },
+        "q4": {
+            "type": "short_answer",
+            "prompt": "What is the specific function of the brush-border enzyme \u03b1-dextrinase?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It breaks down the \u03b1-1,6-linkages at the branch points of \u03b1-limit dextrins."
+            ]
+        },
+        "q5": {
+            "type": "short_answer",
+            "prompt": "Describe the secondary active transport mechanism used by the SGLT1 transporter for glucose and galactose.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It is a secondary active transport process that moves glucose or galactose into the cell against a concentration gradient, powered by the downhill movement of Na^+."
+            ]
+        },
+        "q6": {
+            "type": "short_answer",
+            "prompt": "Contrast the apical transport mechanism of fructose with that of glucose and galactose.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Fructose is absorbed via facilitated diffusion (GLUT5) and cannot move against a concentration gradient, whereas glucose/galactose are absorbed via Na^+-dependent active transport (SGLT1)."
+            ]
+        },
+        "q7": {
+            "type": "short_answer",
+            "prompt": "Which basolateral transporter is responsible for the facilitated diffusion of all three monosaccharides into the blood?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "GLUT2."
+            ]
+        },
+        "q8": {
+            "type": "short_answer",
+            "prompt": "Explain why the ingestion of non-absorbable carbohydrates leads to osmotic diarrhea.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Non-absorbed solutes remain in the lumen and hold water isosmotically, increasing the volume and liquidity of the stool."
+            ]
+        },
+        "q9": {
+            "type": "short_answer",
+            "prompt": "Identify the inactive precursor of pepsin and describe the conditions required for its activation.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Pepsinogen; it is activated by gastric H^+ (low pH)."
+            ]
+        },
+        "q10": {
+            "type": "short_answer",
+            "prompt": "At what pH is pepsin denatured and inactivated, and where does this typically occur in the GI tract?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Above pH 5; this occurs in the duodenum when gastric acid is neutralized by pancreatic bicarbonate."
+            ]
+        },
+        "q11": {
+            "type": "short_answer",
+            "prompt": "List the five major pancreatic proteases and specify whether they are secreted in active or inactive forms.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Trypsinogen, chymotrypsinogen, proelastase, procarboxypeptidase A, and procarboxypeptidase B; all are secreted in inactive forms."
+            ]
+        },
+        "q12": {
+            "type": "short_answer",
+            "prompt": "Which specific brush-border enzyme is responsible for the activation of trypsinogen?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Enterokinase (or enteropeptidase)."
+            ]
+        },
+        "q13": {
+            "type": "short_answer",
+            "prompt": "Describe the \"autocatalytic\" role of trypsin in the protein digestion cascade.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Once a small amount of trypsin is formed, it activates more trypsinogen and also activates all other pancreatic proenzymes."
+            ]
+        },
+        "q14": {
+            "type": "short_answer",
+            "prompt": "Contrast the form in which carbohydrates are absorbed with that of proteins; which can be absorbed as dimers or trimers?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Carbohydrates can only be absorbed as monosaccharides; proteins can be absorbed as amino acids, dipeptides, or tripeptides."
+            ]
+        },
+        "q15": {
+            "type": "short_answer",
+            "prompt": "Name the secondary active transport mechanism used for the apical uptake of free amino acids and the four categories of amino acid carriers.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Na^+-dependent cotransport; carriers for neutral, acidic, basic, and imino amino acids."
+            ]
+        },
+        "q16": {
+            "type": "short_answer",
+            "prompt": "Explain the mechanism of the PepT1 transporter (H^+-dependent cotransport) used for dipeptide and tripeptide absorption.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "PepT1 transporter, which is an H^+-dependent cotransporter, which uses H^+ gradient for dipeptide and tripeptide reabsorption."
+            ]
+        },
+        "q17": {
+            "type": "short_answer",
+            "prompt": "What is the fate of most dipeptides and tripeptides once they enter the intestinal epithelial cell?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "They are hydrolyzed into free amino acids by cytosolic peptidases."
+            ]
+        },
+        "q18": {
+            "type": "short_answer",
+            "prompt": "Identify the clinical condition characterized by a deficiency in the transporter for neutral amino acids, such as tryptophan.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Hartnup's disease."
+            ]
+        },
+        "q19": {
+            "type": "short_answer",
+            "prompt": "Which enzymes initiate lipid digestion in the stomach, and what is their optimal pH range?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Lingual and gastric lipases; pH 3.0 to 6.0."
+            ]
+        },
+        "q20": {
+            "type": "short_answer",
+            "prompt": "Why is the slow emptying of gastric chyme into the duodenum critical for lipid digestion?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It ensures that the delivery of lipids does not exceed the capacity of the small intestine for emulsification, digestion, and absorption."
+            ]
+        },
+        "q21": {
+            "type": "short_answer",
+            "prompt": "Define \"emulsification\" and identify the primary agents responsible for this process in the small intestine.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The process of breaking large fat droplets into smaller ones to increase surface area; bile salts and lysolecithin."
+            ]
+        },
+        "q22": {
+            "type": "short_answer",
+            "prompt": "What is the role of colipase in facilitating the action of pancreatic lipase?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It displaces bile salts from the surface of fat droplets so that pancreatic lipase can bind and function."
+            ]
+        },
+        "q23": {
+            "type": "short_answer",
+            "prompt": "List the three specific products of triglyceride digestion by pancreatic lipase.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "One monoglyceride and two fatty acids."
+            ]
+        },
+        "q24": {
+            "type": "short_answer",
+            "prompt": "Which pancreatic enzyme is responsible for the hydrolysis of phospholipids into lysolecithin and fatty acids?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Phospholipase A_2."
+            ]
+        },
+        "q25": {
+            "type": "short_answer",
+            "prompt": "Describe the structure of a mixed micelle, including the orientation of the hydrophobic steroid nucleus of bile salts.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Small cylindrical aggregates with a hydrophobic core (lipids) and a hydrophilic exterior; the steroid nucleus of bile salts faces the hydrophobic interior."
+            ]
+        },
+        "q26": {
+            "type": "short_answer",
+            "prompt": "How do micelles facilitate the diffusion of hydrophobic lipids across the unstirred water layer to the brush border?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "They keep the aqueous solution near the brush border saturated with lipids, allowing them to diffuse down their concentration gradients into the cells."
+            ]
+        },
+        "q27": {
+            "type": "short_answer",
+            "prompt": "Where in the enterocyte are absorbed fatty acids and monoglycerides re-esterified into triglycerides?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Smooth endoplasmic reticulum."
+            ]
+        },
+        "q28": {
+            "type": "short_answer",
+            "prompt": "Name the large lipid-carrying particles formed within the enterocyte and the specific protein (apoprotein) required for their formation.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Chylomicrons; apoprotein B (Apo B)."
+            ]
+        },
+        "q29": {
+            "type": "short_answer",
+            "prompt": "By what transport mechanism do chylomicrons exit the enterocyte, and which circulatory system do they first enter?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Exocytosis; the lymphatic system (lacteals)."
+            ]
+        },
+        "q30": {
+            "type": "short_answer",
+            "prompt": "Define steatorrhoea and explain how pancreatic insufficiency leads to its development.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Excess fat in the stool; without lipase, triglycerides remain undigested and cannot be absorbed."
+            ]
+        },
+        "q31": {
+            "type": "short_answer",
+            "prompt": "How does an ileal resection lead to a decrease in the total bile acid pool and subsequent fat malabsorption?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Bile salts are not recirculated to the liver, depleting the bile salt pool and preventing adequate micelle formation."
+            ]
+        },
+        "q32": {
+            "type": "short_answer",
+            "prompt": "Explain the mechanism by which bacterial overgrowth in the small intestine interferes with micelle formation.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Bacteria deconjugate bile salts into bile acids, which are absorbed \"too early\" by diffusion, leaving insufficient bile salts for micelle formation in the lower gut."
+            ]
+        },
+        "q33": {
+            "type": "short_answer",
+            "prompt": "Identify the specific condition caused by a failure to synthesize apoprotein B, resulting in the inability to transport chylomicrons.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Abetalipoproteinemia."
+            ]
+        },
+        "q34": {
+            "type": "short_answer",
+            "prompt": "Which hormone, released in response to dietary lipids, slows gastric emptying and stimulates gallbladder contraction?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Cholecystokinin (CCK)."
+            ]
+        },
+        "q35": {
+            "type": "short_answer",
+            "prompt": "Contrast the absorption of medium-chain fatty acids (C6-C12) with that of long-chain fatty acids regarding their entry into the portal versus lymphatic circulation.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Medium-chain fatty acids are water-soluble and enter the portal blood directly; long-chain fatty acids are incorporated into chylomicrons and enter the lymph."
+            ]
+        }
+    }
+}

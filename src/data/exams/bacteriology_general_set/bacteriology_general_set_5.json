@@ -1,0 +1,413 @@
+{
+  "info": {
+    "set_name": "General Bacteriology 5",
+    "source": "-"
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "A 6-year-old child presents with pharyngitis followed by the development of a \"strawberry tongue\" and a systemic rash (scarlet fever). The causative agent is *Streptococcus pyogenes*. Which statement best describes the nature of the primary toxin (SPE) involved in this systemic presentation?",
+      "options": [
+        {
+          "id": "a",
+          "label": "It destroys intercellular connections in the epidermis"
+        },
+        {
+          "id": "b",
+          "label": "It cleaves sIgA1 antibodies on mucosal surfaces"
+        },
+        {
+          "id": "c",
+          "label": "It functions as a superantigen"
+        },
+        {
+          "id": "d",
+          "label": "It inactivates 60S ribosomal subunits"
+        },
+        {
+          "id": "e",
+          "label": "It inactivates elongation factor-2 (EF-2)"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q2": {
+      "type": "mcq",
+      "prompt": "A neonate presents with a systemic congenital infection. The mother reported consuming refrigerated food and having a febrile illness during the third trimester. The isolated pathogen is *Listeria monocytogenes*. Which virulence mechanism is used by this organism to survive and spread within the host?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Production of a thick hyaluronic acid capsule"
+        },
+        {
+          "id": "b",
+          "label": "Release of a potent neurotoxin to block GABA"
+        },
+        {
+          "id": "c",
+          "label": "Inhibition of phagosome-lysosome fusion via mycolic acid"
+        },
+        {
+          "id": "d",
+          "label": "Escape from the host cell vacuole via phospholipase C"
+        },
+        {
+          "id": "e",
+          "label": "Activation of adenylate cyclase via AB-toxin"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q3": {
+      "type": "mcq",
+      "prompt": "A 25-year-old male presents with a 5-day history of a very painful penile ulcer and associated tender, suppurative swelling in the inguinal region. Physical examination reveals a ragged ulcer base with a yellow-gray necrotic exudate. A Gram stain of the lesion exudate reveals Gram-negative bacteria. Which of the following is the most likely microscopic arrangement of the causative agent?",
+      "options": [
+        {
+          "id": "a",
+          "label": "\"School of fish\" arrangement "
+        },
+        {
+          "id": "b",
+          "label": "Diplococci resembling coffee beans"
+        },
+        {
+          "id": "c",
+          "label": "Long branching filaments"
+        },
+        {
+          "id": "d",
+          "label": "Serpentine cord-like pattern"
+        },
+        {
+          "id": "e",
+          "label": "Chains of cocci"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q4": {
+      "type": "mcq",
+      "prompt": "A 26-year-old male presents with a generalized maculopapular rash that involves his trunk, the palms of his hands, and the soles of his feet. He also reports patchy hair loss and the presence of several smooth, painless, white, wart-like lesions on his scrotum. Which of the following tests is most appropriate to confirm the diagnosis of syphilis in this patient?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Rapid plasma reagin (RPR) test"
+        },
+        {
+          "id": "b",
+          "label": "Venereal Disease Research Laboratory (VDRL) test"
+        },
+        {
+          "id": "c",
+          "label": "Gram stain of the scrotal lesions"
+        },
+        {
+          "id": "d",
+          "label": "Culture on Fletcher medium"
+        },
+        {
+          "id": "e",
+          "label": "Fluorescent treponemal antibody-absorption (FTA-ABS) test"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q5": {
+      "type": "mcq",
+      "prompt": "A laboratory receives a specimen from a patient with a suspected infection by an obligate intracellular pathogen. The organism replicates within host cells and possesses two distinct life cycle phases. Which form is described as the metabolically inactive but infectious stage of *Chlamydia trachomatis*?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Endospore"
+        },
+        {
+          "id": "b",
+          "label": "Elementary body"
+        },
+        {
+          "id": "c",
+          "label": "Biofilm"
+        },
+        {
+          "id": "d",
+          "label": "Reticulate body"
+        },
+        {
+          "id": "e",
+          "label": "Vegetative cell"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q6": {
+      "type": "mcq",
+      "prompt": "A 72-year-old male with a history of chronic obstructive pulmonary disease (COPD) presents with a 3-day history of increased cough and purulent sputum production. A Gram stain of the sputum reveals numerous polymorphonuclear leukocytes and abundant Gram-negative diplococci with adjacent sides flattened together. Which of the following is a characteristic feature of the most likely causative agent?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Requirement for cysteine-supplemented media for growth"
+        },
+        {
+          "id": "b",
+          "label": "Oxidase-negative biochemical reaction"
+        },
+        {
+          "id": "c",
+          "label": "\"School of fish\" microscopic arrangement"
+        },
+        {
+          "id": "d",
+          "label": "Production of \u03b2-lactamase"
+        },
+        {
+          "id": "e",
+          "label": "Presence of a thick polysaccharide capsule"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "A 34-year-old male presents with a 5-day history of high fever, headache, and generalized lymphadenopathy after returning from a trekking trip in a rural area of Southeast Asia. Physical examination reveals a maculopapular rash on the trunk and a black, necrotic eschar on his left leg. Which of the following host cell types is a primary target for the replication of the most likely causative agent?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Erythrocytes"
+        },
+        {
+          "id": "b",
+          "label": "Endothelial cells"
+        },
+        {
+          "id": "c",
+          "label": "Alveolar macrophages"
+        },
+        {
+          "id": "d",
+          "label": "Ciliated respiratory epithelial cells"
+        },
+        {
+          "id": "e",
+          "label": "B-lymphocytes"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q8": {
+      "type": "mcq",
+      "prompt": "A 12-year-old male is brought to the clinic due to fever and migratory joint pain that began in his knees and has now moved to his wrists. On physical examination, a new systolic murmur is noted. His mother reports that he had a severe sore throat and fever approximately three weeks ago which resolved without medical intervention. Which of the following laboratory findings is most characteristic of the pathogen responsible for the preceding respiratory infection?",
+      "options": [
+        {
+          "id": "a",
+          "label": "\u03b2-hemolysis and positive pyrrolidonyl arylamidase (PYR) test"
+        },
+        {
+          "id": "b",
+          "label": "\u03b1-hemolysis and sensitivity to optochin"
+        },
+        {
+          "id": "c",
+          "label": "\u03b2-hemolysis and positive CAMP test"
+        },
+        {
+          "id": "d",
+          "label": "Catalase-positive and coagulase-positive"
+        },
+        {
+          "id": "e",
+          "label": "\u03b3-hemolysis and growth in 6.5% NaCl"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q9": {
+      "type": "mcq",
+      "prompt": "A 42-year-old male with a history of advanced HIV infection presents with fever, weight loss, and a productive cough. His social history is significant for working as a groom at a horse-breeding farm. Imaging reveals a large cavitary lesion in the right upper lobe of the lung. A Gram stain of the sputum shows Gram-positive pleomorphic coccobacilli. Which of the following laboratory characteristics is most consistent with the causative agent?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Positive result on a standard acid-fast stain "
+        },
+        {
+          "id": "b",
+          "label": "Positive result on a modified acid-fast stain "
+        },
+        {
+          "id": "c",
+          "label": "Large, branching filaments resembling fungi"
+        },
+        {
+          "id": "d",
+          "label": "Production of macroscopic yellow sulfur granules"
+        },
+        {
+          "id": "e",
+          "label": "Strict anaerobic growth on culture media"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q10": {
+      "type": "mcq",
+      "prompt": "A 38-year-old man with a history of chronic alcoholism and diabetes develops a high fever and two rapidly progressing necrotic lesions on his left leg one day after swimming in the ocean with a superficial wound. Given the rapid progression and environmental exposure, which organism is the most likely cause of this potentially fatal infection?",
+      "options": [
+        {
+          "id": "a",
+          "label": "*Vibrio vulnificus*"
+        },
+        {
+          "id": "b",
+          "label": "*Salmonella Typhi*"
+        },
+        {
+          "id": "c",
+          "label": "*Vibrio cholerae*"
+        },
+        {
+          "id": "d",
+          "label": "*Vibrio parahaemolyticus*"
+        },
+        {
+          "id": "e",
+          "label": "*Aeromonas hydrophila*"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q11": {
+      "type": "mcq",
+      "prompt": "A patient presents with spastic paralysis and severe muscle spasms following a deep skin penetration by a contaminated object. The causative agent is identified as *Clostridium tetani*. According to the source material, what is the primary cellular target of the toxin responsible for this clinical presentation?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Cholinergic motor neurons"
+        },
+        {
+          "id": "b",
+          "label": "Epidermal desmosomes"
+        },
+        {
+          "id": "c",
+          "label": "Ciliated respiratory epithelium"
+        },
+        {
+          "id": "d",
+          "label": "Intestinal enterocytes"
+        },
+        {
+          "id": "e",
+          "label": "Presynaptic inhibitory neurons"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q12": {
+      "type": "mcq",
+      "prompt": "A 25-year-old woman returns from a trip to the Philippines and presents with a persistent fever, abdominal pain, and an enlarged liver; physical examination reveals small \"rose spots\" on her abdomen. Laboratory investigation of a stool specimen on Salmonella-Shigella (SS) agar shows black colonies. Which characteristic is associated with the most likely causative pathogen?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Obligate intracellular growth in the intestinal lumen"
+        },
+        {
+          "id": "b",
+          "label": "Low infectious dose due to resistance to gastric acid"
+        },
+        {
+          "id": "c",
+          "label": "Ability to produce H_2S"
+        },
+        {
+          "id": "d",
+          "label": "Primary reservoir in poultry and domestic animals"
+        },
+        {
+          "id": "e",
+          "label": "Requirement for anaerobic culture conditions"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q13": {
+      "type": "mcq",
+      "prompt": "A group of individuals develops nausea and vomiting shortly after a shared meal. The condition is determined to be a food intoxication caused by *Staphylococcus aureus* enterotoxins. Why does reheating the food often fail to prevent this specific illness?",
+      "options": [
+        {
+          "id": "a",
+          "label": "The organism is a thermophilic aerobe"
+        },
+        {
+          "id": "b",
+          "label": "The enterotoxins are heat stable"
+        },
+        {
+          "id": "c",
+          "label": "The bacteria form heat-tolerant endospores"
+        },
+        {
+          "id": "d",
+          "label": "The toxins are activated by high temperatures"
+        },
+        {
+          "id": "e",
+          "label": "The toxins are protected within a mature biofilm"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q14": {
+      "type": "mcq",
+      "prompt": "A 5-year-old child presents with a repetitive, paroxysmal cough. The clinician suspects an infection with *Bordetella pertussis*. Which host cells does this pathogen primarily adhere to?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Vaginal squamous epithelium"
+        },
+        {
+          "id": "b",
+          "label": "Ciliated epithelial cells"
+        },
+        {
+          "id": "c",
+          "label": "M cells in the colon"
+        },
+        {
+          "id": "d",
+          "label": "Vascular endothelial cells"
+        },
+        {
+          "id": "e",
+          "label": "Alveolar macrophages"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q15": {
+      "type": "mcq",
+      "prompt": "A 32-year-old male presents with sudden onset of profuse, painless watery diarrhea resembling \"rice water\" and signs of severe dehydration. Laboratory investigation of a stool sample reveals comma-shaped, Gram-negative rods with \"shooting star\" motility. Which of the following best describes the molecular mechanism of the toxin responsible for this patient's clinical presentation? ",
+      "options": [
+        {
+          "id": "a",
+          "label": "Inactivation of protein chain elongation factor-2 (EF-2)"
+        },
+        {
+          "id": "b",
+          "label": "Proteolytic cleavage of SNARE proteins at the synapse"
+        },
+        {
+          "id": "c",
+          "label": "Removal of adenine from the 28S rRNA of the 60S ribosome"
+        },
+        {
+          "id": "d",
+          "label": "Disruption of the host cell epithelial cytoskeleton"
+        },
+        {
+          "id": "e",
+          "label": "Permanent activation of the stimulatory G protein (G_s)"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    }
+  }
+}

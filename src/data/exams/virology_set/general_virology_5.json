@@ -1,0 +1,299 @@
+{
+    "info": {
+        "set_name": "General Virology 5",
+        "description": "",
+        "source": ""
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A 65-year-old patient with COVID-19 is prescribed Paxlovid, a combination of nirmatrelvir and ritonavir. While nirmatrelvir is the primary antiviral component targeting the viral protease, ritonavir is included in the formulation despite having no direct activity against SARS-CoV-2. What is the pharmacological purpose of ritonavir in this combination?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "It directly inhibits the viral RNA-dependent RNA polymerase"
+                },
+                {
+                    "id": "b",
+                    "label": "It acts as a CYP450 inhibitor to increase the plasma concentration of nirmatrelvir"
+                },
+                {
+                    "id": "c",
+                    "label": "It prevents the fusion of the viral envelope with the host cell membrane"
+                },
+                {
+                    "id": "d",
+                    "label": "It blocks the attachment of the viral spike protein to the ACE2 receptor"
+                },
+                {
+                    "id": "e",
+                    "label": "It inhibits the host cell TMPRSS2 enzyme to prevent viral entry"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "Remdesivir is an intravenous antiviral agent utilized in the treatment of hospitalized patients with severe COVID-19. Once entered into the host cell, it is converted into an active triphosphate form by intracellular kinases. What is the primary mechanism of action for this active metabolite?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Inhibition of the SARS-CoV-2 Mpro (3CL) protease"
+                },
+                {
+                    "id": "b",
+                    "label": "Inhibition of the viral RNA-dependent RNA polymerase (RdRp)"
+                },
+                {
+                    "id": "c",
+                    "label": "Blockade of the viral attachment to host sialoglycans"
+                },
+                {
+                    "id": "d",
+                    "label": "Interference with the proteolytic processing of viral polyproteins"
+                },
+                {
+                    "id": "e",
+                    "label": "Competitive inhibition of the host cell DNA polymerase"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "A patient with advanced AIDS and a very low CD4+ T-cell count is diagnosed with CMV retinitis. After several weeks of therapy, the infection progresses. Viral genotyping reveals a mutation in the UL97 gene, which encodes a viral phosphotransferase. Which of the following medications is the most appropriate alternative because it does not require activation by a viral kinase to inhibit DNA synthesis?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Acyclovir"
+                },
+                {
+                    "id": "b",
+                    "label": "Foscarnet"
+                },
+                {
+                    "id": "c",
+                    "label": "Valacyclovir"
+                },
+                {
+                    "id": "d",
+                    "label": "Lamivudine"
+                },
+                {
+                    "id": "e",
+                    "label": "Enfuvirtide"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "Rotavirus is the most common cause of severe, dehydrating viral diarrhea in infants and young children. The virus produces a non-structural protein, NSP4, which plays a critical role in the pathogenesis of watery diarrhea. What is the specific role of the NSP4 protein during infection?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "It serves as the primary viral attachment protein for intestinal enterocytes"
+                },
+                {
+                    "id": "b",
+                    "label": "It acts as a viral enterotoxin that increases intracellular calcium and disrupts tight junctions"
+                },
+                {
+                    "id": "c",
+                    "label": "It forms the icosahedral triple-layered capsid of the mature virion"
+                },
+                {
+                    "id": "d",
+                    "label": "It is the viral RNA-dependent RNA polymerase required for genome replication"
+                },
+                {
+                    "id": "e",
+                    "label": "It inhibits host brush border enzymes such as maltase and sucrase"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "A patient with HIV who has been poorly adherent to their antiretroviral therapy (ART) is found to have high-level resistance to the Protease Inhibitor (PI) class of drugs. This mechanism of resistance allows the virus to bypass the drug-induced blockade of which essential life cycle step?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Integration of the linear viral DNA into the host genome"
+                },
+                {
+                    "id": "b",
+                    "label": "Cleavage of the Gag-Pol polyprotein required for viral maturation"
+                },
+                {
+                    "id": "c",
+                    "label": "Fusion of the viral envelope mediated by the gp41 protein"
+                },
+                {
+                    "id": "d",
+                    "label": "Synthesis of a DNA copy from the genomic RNA template"
+                },
+                {
+                    "id": "e",
+                    "label": "Binding of the gp120 glycoprotein to the CCR5 coreceptor"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "Palivizumab is a monoclonal antibody used as prophylaxis in premature infants to prevent severe lower respiratory tract disease. Which specific molecule is the target of this antibody to prevent infection by the Respiratory Syncytial Virus (RSV)?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Viral Neuraminidase"
+                },
+                {
+                    "id": "b",
+                    "label": "Viral Fusion (F) protein"
+                },
+                {
+                    "id": "c",
+                    "label": "M2 proton ion channel"
+                },
+                {
+                    "id": "d",
+                    "label": "RNA-dependent RNA polymerase"
+                },
+                {
+                    "id": "e",
+                    "label": "Matrix (M) protein"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "Raltegravir is an antiretroviral agent used in the management of HIV infection. By acting as an Integrase Strand Transfer Inhibitor (INSTI), it prevents the production of a functional provirus. Which specific step of the viral life cycle is blocked by this medication?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Proteolytic cleavage of the Gag-Pol polyprotein"
+                },
+                {
+                    "id": "b",
+                    "label": "Covalent insertion of viral DNA into the host cell genome"
+                },
+                {
+                    "id": "c",
+                    "label": "Competitive inhibition of reverse transcriptase"
+                },
+                {
+                    "id": "d",
+                    "label": "Docking of the viral gp120 to host chemokine receptors"
+                },
+                {
+                    "id": "e",
+                    "label": "Fusion of the viral envelope with the plasma membrane"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "Rotavirus infection is a leading cause of severe, dehydrating diarrhea in infants. The virus produces a non-structural protein, NSP4, which acts as a key virulence factor in the development of symptoms. What is the primary role of NSP4 in the pathogenesis of this infection?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Facilitating the uncoating of the double-stranded RNA genome"
+                },
+                {
+                    "id": "b",
+                    "label": "Inhibiting host cell protein synthesis by degrading mRNA"
+                },
+                {
+                    "id": "c",
+                    "label": "Acting as an enterotoxin that increases intracellular calcium levels"
+                },
+                {
+                    "id": "d",
+                    "label": "Serving as the primary attachment protein for intestinal villi"
+                },
+                {
+                    "id": "e",
+                    "label": "Cleaving sialic acid residues to promote viral egress"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "A 42-year-old patient with advanced AIDS presents with progressive loss of vision and is diagnosed with Cytomegalovirus (CMV) retinitis. Which of the following antiviral agents is considered the drug of choice for treating this condition in immunocompromised individuals?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Acyclovir"
+                },
+                {
+                    "id": "b",
+                    "label": "Oseltamivir"
+                },
+                {
+                    "id": "c",
+                    "label": "Ganciclovir"
+                },
+                {
+                    "id": "d",
+                    "label": "Amantadine"
+                },
+                {
+                    "id": "e",
+                    "label": "Ribavirin"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "Protease inhibitors (PIs), such as atazanavir and ritonavir, are potent components of highly active antiretroviral therapy (HAART). These drugs are effective at limiting the spread of HIV within the host because they interfere with which process?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Synthesis of the initial DNA copy from genomic RNA"
+                },
+                {
+                    "id": "b",
+                    "label": "Fusion of the viral envelope with the host cell membrane"
+                },
+                {
+                    "id": "c",
+                    "label": "Proteolytic cleavage of polyproteins required for viral maturation"
+                },
+                {
+                    "id": "d",
+                    "label": "Reversible integration of the viral genome into host chromosomes"
+                },
+                {
+                    "id": "e",
+                    "label": "Attachment of viral glycoproteins to the CD4 receptor"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        }
+    }
+}

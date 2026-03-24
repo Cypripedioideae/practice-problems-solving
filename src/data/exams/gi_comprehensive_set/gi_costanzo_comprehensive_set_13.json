@@ -1,0 +1,443 @@
+{
+    "info": {
+        "set_name": "Gastrointestinal Comprehensive Set 2: Fluid and Electrolytes (MCQ)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A 40-year-old patient undergoes an extensive surgical resection of the terminal ileum. Which of the following clinical profiles is the most direct physiological consequence of losing this specific segment's transport capabilities?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Decreased Vitamin B12 absorption and a reduced total bile acid pool."
+                },
+                {
+                    "id": "b",
+                    "label": "Impaired iron absorption and microcytic anemia."
+                },
+                {
+                    "id": "c",
+                    "label": "Failure to absorb fructose and glucose via Na^+-dependent transporters."
+                },
+                {
+                    "id": "d",
+                    "label": "Increased absorption of water-soluble vitamins via simple diffusion."
+                },
+                {
+                    "id": "e",
+                    "label": "Inability to conjugate bilirubin with glucuronic acid in the liver."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A patient with a tumor in the adrenal cortex is found to have pathologically high levels of circulating aldosterone. Which of the following changes in the ionic handling of the colon would be expected?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Decreased Na^+ reabsorption and decreased K^+ secretion."
+                },
+                {
+                    "id": "b",
+                    "label": "Increased Na^+ reabsorption and increased K^+ secretion."
+                },
+                {
+                    "id": "c",
+                    "label": "Increased Cl^--HCO_3^- exchange resulting in metabolic acidosis."
+                },
+                {
+                    "id": "d",
+                    "label": "Total inhibition of the basolateral Na^+/K^+ ATPase."
+                },
+                {
+                    "id": "e",
+                    "label": "Transition of the colonic tight junctions from \"tight\" to \"leaky.\""
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "In a patient suffering from secretory diarrhea caused by Vibrio cholerae, the intracellular level of cyclic AMP (cAMP) is permanently elevated. If this patient were to ingest a drug that specifically inhibits phosphodiesterase within the intestinal crypt cells, what is the predicted outcome?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The diarrhea would resolve as Cl^- channels would close."
+                },
+                {
+                    "id": "b",
+                    "label": "Na^+ reabsorption in the villi would increase to match the secretion."
+                },
+                {
+                    "id": "c",
+                    "label": "The rate of fluid and Cl^- secretion into the lumen would further increase."
+                },
+                {
+                    "id": "d",
+                    "label": "The A subunit of the cholera toxin would be neutralized."
+                },
+                {
+                    "id": "e",
+                    "label": "The osmotic gradient would reverse, drawing water back into the blood."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "A 25-year-old man is treated for iron-deficiency anemia with oral iron supplements. To maximize the efficiency of iron transport into the enterocytes of the duodenum, which of the following is the most effective physiological strategy?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increasing the luminal pH to facilitate the formation of ferric (Fe3+) salts."
+                },
+                {
+                    "id": "b",
+                    "label": "Reducing the activity of the apical ferroportin transporter."
+                },
+                {
+                    "id": "c",
+                    "label": "Co-administering a drug that inhibits the brush border iron reductase."
+                },
+                {
+                    "id": "d",
+                    "label": "Ensuring the iron remains in the reduced, ferrous (Fe2+) state."
+                },
+                {
+                    "id": "e",
+                    "label": "Stimulating the synthesis of apoferritin within the enterocytes."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "A 20-year-old female presents with gas, bloating, and watery diarrhea shortly after consuming a large milkshake. Analysis of her stool reveals a significant \"osmolar gap\" (measured osmolarity much higher than estimated electrolyte osmolarity). This finding suggests which underlying mechanism?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Active secretion of Cl^- by the crypt cells."
+                },
+                {
+                    "id": "b",
+                    "label": "Failure of the Na^+-K^+-2Cl^- cotransporter in the ileum."
+                },
+                {
+                    "id": "c",
+                    "label": "Compensatory hyperventilation causing respiratory alkalosis."
+                },
+                {
+                    "id": "d",
+                    "label": "Increased paracellular back-leak of Na^+ into the lumen."
+                },
+                {
+                    "id": "e",
+                    "label": "Presence of non-absorbed, osmotically active carbohydrate fragments in the lumen."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "Vitamin B12 absorption requires a multi-step process involving different segments of the GI tract. If a patient's pancreatic proteases are significantly deficient, what is the most likely reason for the resulting Vitamin B12 deficiency?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Failure to degrade R proteins, preventing B12 from binding to Intrinsic Factor."
+                },
+                {
+                    "id": "b",
+                    "label": "Inability of the stomach to secrete Intrinsic Factor from the G cells."
+                },
+                {
+                    "id": "c",
+                    "label": "Premature absorption of the B12-IF complex in the duodenum."
+                },
+                {
+                    "id": "d",
+                    "label": "Destruction of the B12 receptors located on the jejunal brush border."
+                },
+                {
+                    "id": "e",
+                    "label": "Failure of the liver to synthesize trans-cobalamin for portal transport."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "During a physiological comparison of the jejunum and the ileum, a researcher notes a distinct difference in the net movement of bicarbonate (HCO_3^-). Which of the following correctly describes the electrolyte handling in the ileum that distinguishes it from the jejunum?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Net absorption of HCO_3^- via Na^+-H^+ exchange only."
+                },
+                {
+                    "id": "b",
+                    "label": "Net secretion of HCO_3^- via the apical Cl^--HCO_3^- exchanger."
+                },
+                {
+                    "id": "c",
+                    "label": "Failure to reabsorb Na^+ due to a lack of Na^+/K^+ ATPase."
+                },
+                {
+                    "id": "d",
+                    "label": "Simple diffusion of Cl^- from blood to lumen via leaky junctions."
+                },
+                {
+                    "id": "e",
+                    "label": "Complete absence of carbonic anhydrase within the epithelial cells."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "A patient with chronic renal failure has a significantly reduced ability to produce 1,25-dihydroxycholecalciferol. How will this metabolic state specifically alter the intestinal handling of calcium?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "By increasing the number of apical Ca^(2+) channels to compensate."
+                },
+                {
+                    "id": "b",
+                    "label": "By increasing the affinity of calbindin D-28K for magnesium."
+                },
+                {
+                    "id": "c",
+                    "label": "By decreasing the synthesis of calbindin D-28K and the Ca^(2+) ATPase."
+                },
+                {
+                    "id": "d",
+                    "label": "By shifting calcium absorption to the terminal ileum via Na^+-cotransport."
+                },
+                {
+                    "id": "e",
+                    "label": "By converting the enterocytes into calcium-secreting cells."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "A medical student compares the stool of a patient with osmotic diarrhea to that of a patient with secretory diarrhea. Which of the following analytical results would most likely be associated with the patient having secretory diarrhea?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The diarrhea stops completely during a 24-hour fast."
+                },
+                {
+                    "id": "b",
+                    "label": "The stool osmotic gap is greater than 100 mOsm/L."
+                },
+                {
+                    "id": "c",
+                    "label": "The stool pH is highly acidic due to bacterial fermentation."
+                },
+                {
+                    "id": "d",
+                    "label": "The diarrhea persists even when the patient does not ingest any food."
+                },
+                {
+                    "id": "e",
+                    "label": "The presence of unabsorbed glucose in the final fecal matter."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "In the colon, the rate of K^+ secretion is known to be flow-rate dependent. If a patient experiences a rapid increase in the flow of fluid through the large intestine (as in some forms of diarrhea), what is the expected impact on K^+ balance?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "K^+ secretion will decrease because the K^+ gradient is dissipated."
+                },
+                {
+                    "id": "b",
+                    "label": "K^+ reabsorption will increase via the H^+/K^+ ATPase of the alpha-intercalated cells."
+                },
+                {
+                    "id": "c",
+                    "label": "K^+ secretion will remain constant as it is only controlled by aldosterone."
+                },
+                {
+                    "id": "d",
+                    "label": "K^+ will shift from the ECF into the cells to maintain electroneutrality."
+                },
+                {
+                    "id": "e",
+                    "label": "K^+ secretion will increase because the luminal K^+ concentration is continuously diluted."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q11": {
+            "type": "mcq",
+            "prompt": "Magnesium (Mg2+) absorption in the GI tract is often contrasted with that of Calcium. Based on the \"Physiolego\" of the small intestine, which statement regarding Mg2+ handling is correct?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "It is absorbed along the entire small intestine with a higher fractional excretion than Na^+."
+                },
+                {
+                    "id": "b",
+                    "label": "It requires binding to Intrinsic Factor for transport in the ileum."
+                },
+                {
+                    "id": "c",
+                    "label": "It is exclusively absorbed via the paracellular route in the colon."
+                },
+                {
+                    "id": "d",
+                    "label": "Its absorption is inhibited by the presence of Vitamin D."
+                },
+                {
+                    "id": "e",
+                    "label": "It is actively secreted by the gastric parietal cells in exchange for H^+."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q12": {
+            "type": "mcq",
+            "prompt": "A researcher is studying the isosmotic reabsorption of water in the small intestine. According to the \"standing gradient\" model, what is the primary event that creates the osmotic driving force for water movement?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The passive diffusion of water into the lateral intercellular spaces."
+                },
+                {
+                    "id": "b",
+                    "label": "The active transport of solutes (like Na^+) into the lateral intercellular spaces."
+                },
+                {
+                    "id": "c",
+                    "label": "The filtration of plasma proteins across the capillary basement membrane."
+                },
+                {
+                    "id": "d",
+                    "label": "The secretion of H^+ into the lumen by the Na^+-H^+ exchanger."
+                },
+                {
+                    "id": "e",
+                    "label": "The decrease in peritubular capillary hydrostatic pressure during a meal."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q13": {
+            "type": "mcq",
+            "prompt": "In the treatment of severe diarrhea, Oral Rehydration Solutions (ORS) are used. The effectiveness of these solutions, which contain both Na^+ and glucose, is based on which physiological principle?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Glucose directly inhibits the apical Cl^- channels in the crypt cells."
+                },
+                {
+                    "id": "b",
+                    "label": "Na^+ and glucose move into the blood via simple diffusion through tight junctions."
+                },
+                {
+                    "id": "c",
+                    "label": "The SGLT1 cotransporter remains functional even when secretory mechanisms are overactive."
+                },
+                {
+                    "id": "d",
+                    "label": "Glucose increases the synthesis of cAMP to promote water reabsorption."
+                },
+                {
+                    "id": "e",
+                    "label": "The solution provides a hypertonic environment to pull water from the cells."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q14": {
+            "type": "mcq",
+            "prompt": "A patient is found to have unabsorbed bile acids in the colon following a partial ileal resection. These bile acids are known to cause \"bile acid diarrhea.\" What is the cellular mechanism for this condition?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Bile acids precipitate with Ca^(2+), creating an osmotic load."
+                },
+                {
+                    "id": "b",
+                    "label": "Bile acids inhibit the Na^+/K^+ ATPase in the colonic principal cells."
+                },
+                {
+                    "id": "c",
+                    "label": "Bile acids act as a detergent to destroy the colonic brush border."
+                },
+                {
+                    "id": "d",
+                    "label": "Bile acids stimulate cAMP-dependent Cl^- secretion in the colonic epithelial cells."
+                },
+                {
+                    "id": "e",
+                    "label": "Bile acids increase the reabsorption of water, causing constipation."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q15": {
+            "type": "mcq",
+            "prompt": "In a case of severe vomiting, the patient develops metabolic alkalosis. According to the relationship between K^+ and H^+ transport, why is this patient also likely to present with hypokalemia?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "H^+ enters the cells to be buffered, while K^+ leaves the cells to maintain electroneutrality."
+                },
+                {
+                    "id": "b",
+                    "label": "The kidneys respond to alkalosis by increasing the reabsorption of K^+."
+                },
+                {
+                    "id": "c",
+                    "label": "The loss of gastric K^+ is the only factor affecting the plasma concentration."
+                },
+                {
+                    "id": "d",
+                    "label": "Alkalosis stimulates the Na^+-glucose cotransporter, which traps K^+ in the lumen."
+                },
+                {
+                    "id": "e",
+                    "label": "H^+ leaves the cells to be buffered, while K^+ enters the cells to maintain electroneutrality."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        }
+    }
+}

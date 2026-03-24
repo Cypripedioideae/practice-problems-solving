@@ -1,0 +1,385 @@
+{
+    "info": {
+        "set_name": "Comprehensive Neuro Set 1: Synaptic Transmission (Short Answer)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "short_answer",
+            "prompt": "What structural component allows for the direct flow of current between cells in an electrical synapse?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Gap junctions."
+            ]
+        },
+        "q2": {
+            "type": "short_answer",
+            "prompt": "Which specific ion channel type is responsible for the influx of Ca^(2+)  into the presynaptic terminal upon the arrival of an action potential?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Voltage-gated Ca^(2+)channels."
+            ]
+        },
+        "q3": {
+            "type": "short_answer",
+            "prompt": "What are the two biochemical precursors required for the synthesis of acetylcholine?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Acetyl coenzyme A (acetyl CoA) and choline."
+            ]
+        },
+        "q4": {
+            "type": "short_answer",
+            "prompt": "Define a \"quantum\" in the context of neurotransmitter release at the neuromuscular junction.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It is the amount of neurotransmitter contained within a single synaptic vesicle, representing the smallest possible amount of transmitter that can be released."
+            ]
+        },
+        "q5": {
+            "type": "short_answer",
+            "prompt": "How does an end plate potential (EPP) differ from a standard action potential in terms of its propagation and graded nature?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The EPP is a local, non-propagated, graded depolarization of the motor end plate; it is not an \"all-or-none\" action potential."
+            ]
+        },
+        "q6": {
+            "type": "short_answer",
+            "prompt": "What is the mechanism of action of hemicholinium at the cholinergic nerve terminal?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It blocks the reuptake of choline into the presynaptic terminal, thereby depleting acetylcholine stores."
+            ]
+        },
+        "q7": {
+            "type": "short_answer",
+            "prompt": "Describe the typical ionic conductances that generate an excitatory postsynaptic potential (EPSP).",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "A simultaneous increase in Na^+and K^+conductances, which drives the membrane potential toward a value halfway between their equilibrium potentials (~0 mV)."
+            ]
+        },
+        "q8": {
+            "type": "short_answer",
+            "prompt": "Which inhibitory neurotransmitter is found primarily in the spinal cord and functions by increasing Cl^-  conductance?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Glycine."
+            ]
+        },
+        "q9": {
+            "type": "short_answer",
+            "prompt": "How does the GABA_A receptor differ from the GABA_B  receptor in terms of its mechanism of action and ion permeability?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The GABA_A receptor is ionotropic and increases Cl^-conductance; the GABA_B receptor is metabotropic and increases K^+ conductance."
+            ]
+        },
+        "q10": {
+            "type": "short_answer",
+            "prompt": "What is the primary difference between temporal and spatial summation in a postsynaptic neuron?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Temporal summation involves a single presynaptic overlapping of inputs in time; spatial summation involves multiple presynaptic inputs arriving at the postsynaptic cell simultaneously."
+            ]
+        },
+        "q11": {
+            "type": "short_answer",
+            "prompt": "Explain the mechanism of \"post-tetanic potentiation\" at a synapse following a period of high-frequency stimulation.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It is an increased release of neurotransmitter due to the accumulation of Ca^(2+)in the presynaptic terminal after repeated stimulation."
+            ]
+        },
+        "q12": {
+            "type": "short_answer",
+            "prompt": "Which biogenic amine is the primary catecholamine secreted by the adrenal medulla into the systemic circulation?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Epinephrine (approximately 80%)."
+            ]
+        },
+        "q13": {
+            "type": "short_answer",
+            "prompt": "Which enzyme is responsible for the methylation of norepinephrine to epinephrine in the adrenal medulla?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Phenylethanolamine-N-methyltransferase (PNMT)."
+            ]
+        },
+        "q14": {
+            "type": "short_answer",
+            "prompt": "What specific metabolite of catecholamine degradation is measured in a 24-hour urine collection to diagnose a pheochromocytoma?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Vanillylmandelic acid (VMA)."
+            ]
+        },
+        "q15": {
+            "type": "short_answer",
+            "prompt": "Which amino acid serves as the common precursor for the synthesis of dopamine, norepinephrine, and epinephrine?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Tyrosine."
+            ]
+        },
+        "q16": {
+            "type": "short_answer",
+            "prompt": "How does the botulinus toxin produce total blockade of neuromuscular transmission?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It prevents the release of acetylcholine from the presynaptic terminal by blocking the fusion of synaptic vesicles with the membrane."
+            ]
+        },
+        "q17": {
+            "type": "short_answer",
+            "prompt": "Describe the competitive mechanism by which curare (D-tubocurarine) induces skeletal muscle paralysis.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It competes with acetylcholine for the nicotinic receptors on the motor end plate, thereby decreasing the size of the EPP."
+            ]
+        },
+        "q18": {
+            "type": "short_answer",
+            "prompt": "What is the underlying immunopathophysiology responsible for the muscle fatigability seen in myasthenia gravis?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The production of antibodies against the postsynaptic nicotinic acetylcholine receptors, leading to their destruction or blockade."
+            ]
+        },
+        "q19": {
+            "type": "short_answer",
+            "prompt": "Which excitatory neurotransmitter in the central nervous system utilizes NMDA and AMPA receptor subtypes?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Glutamate."
+            ]
+        },
+        "q20": {
+            "type": "short_answer",
+            "prompt": "Describe the role of magnesium (Mg^(2+)) in the NMDA receptor channel under resting membrane potential conditions.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "At resting potential, Mg^(2+) ions block the NMDA receptor channel; this block is only removed when the membrane is sufficiently depolarized."
+            ]
+        },
+        "q21": {
+            "type": "short_answer",
+            "prompt": "Which gaseous neurotransmitter is synthesized on demand from arginine and diffuses out of the terminal rather than being stored in vesicles?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Nitric oxide (NO)."
+            ]
+        },
+        "q22": {
+            "type": "short_answer",
+            "prompt": "Serotonin serves as a biochemical precursor for the synthesis of which hormone in the pineal gland?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Melatonin."
+            ]
+        },
+        "q23": {
+            "type": "short_answer",
+            "prompt": "Define \"presynaptic inhibition\" in terms of its effect on the amplitude of the action potential in the presynaptic terminal.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It reduces the amplitude of the action potential in the presynaptic terminal, leading to decreased Ca^(2+)influx and less neurotransmitter release."
+            ]
+        },
+        "q24": {
+            "type": "short_answer",
+            "prompt": "What specific neurotransmitter is released by Renshaw cells to provide feedback inhibition to spinal alpha motoneurons?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Glycine."
+            ]
+        },
+        "q25": {
+            "type": "short_answer",
+            "prompt": "In the cellular process of long-term potentiation (LTP), which ion influx through the NMDA receptor triggers the cascade for increased synaptic strength?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Calcium (Ca^(2+))."
+            ]
+        },
+        "q26": {
+            "type": "short_answer",
+            "prompt": "Distinguish between ionotropic and metabotropic receptors in terms of their speed and mechanism of signal transduction.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Ionotropic receptors are fast-acting because they are part of an ion channel; metabotropic receptors are slower as they are coupled to G proteins and second messengers."
+            ]
+        },
+        "q27": {
+            "type": "short_answer",
+            "prompt": "Which biogenic amine is synthesized from the amino acid histidine and is involved in hypothalamic neuronal activity?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Histamine."
+            ]
+        },
+        "q28": {
+            "type": "short_answer",
+            "prompt": "What is the primary mechanism for terminating the signal of catecholamines like norepinephrine within the synaptic cleft?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Reuptake into the presynaptic terminal."
+            ]
+        },
+        "q29": {
+            "type": "short_answer",
+            "prompt": "Explain why a single miniature end plate potential (MEPP) is generally insufficient to trigger a skeletal muscle contraction.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "An MEPP is caused by only one quantum (vesicle) of ACh, producing only ~0.4 mV of depolarization; approximately 100 quanta are needed to reach the threshold for an action potential."
+            ]
+        }
+    }
+}

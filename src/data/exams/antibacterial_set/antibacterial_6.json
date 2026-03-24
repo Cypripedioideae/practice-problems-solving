@@ -1,0 +1,278 @@
+{
+  "info": {
+    "set_name": "Antibacterial Agents 6",
+    "source": "-"
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "Which glycylcycline antibiotic binds to the 30S ribosomal subunit and is specifically indicated for the treatment of multidrug-resistant organisms such as MRSA and VRE?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Linezolid"
+        },
+        {
+          "id": "b",
+          "label": "Tigecycline"
+        },
+        {
+          "id": "c",
+          "label": "Gentamicin"
+        },
+        {
+          "id": "d",
+          "label": "Clindamycin"
+        },
+        {
+          "id": "e",
+          "label": "Daptomycin"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q2": {
+      "type": "mcq",
+      "prompt": "What is a significant clinical risk associated with the administration of sulfonamides to neonates?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Inability to distinguish red from green colours"
+        },
+        {
+          "id": "b",
+          "label": "Permanent damage to developing cartilage and tendons"
+        },
+        {
+          "id": "c",
+          "label": "Reversible bone growth inhibition and tooth discoloration"
+        },
+        {
+          "id": "d",
+          "label": "Development of Gray Baby Syndrome"
+        },
+        {
+          "id": "e",
+          "label": "Kernicterus resulting from bilirubin displacement from albumin"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q3": {
+      "type": "mcq",
+      "prompt": "A 55-year-old male with a known medical history of recurrent gouty arthritis involving his first metatarsophalangeal joint presents with a 3-week history of a persistent productive cough, evening fevers, and drenching night sweats. The patient is diagnosed with pulmonary tuberculosis. During his treatment of tuberculosis, which antituberculosis agent must be used with caution?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Rifampin"
+        },
+        {
+          "id": "b",
+          "label": "Pyrazinamide"
+        },
+        {
+          "id": "c",
+          "label": "Dapsone"
+        },
+        {
+          "id": "d",
+          "label": "Isoniazid"
+        },
+        {
+          "id": "e",
+          "label": "Ethambutol"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q4": {
+      "type": "mcq",
+      "prompt": "A 26-year-old female presents to the emergency department with a high fever and a painful rash that began yesterday. She was recently treated for an uncomplicated urinary tract infection. Physical examination reveals dusky, erythematous macules with central blistering on her trunk and face. Extensive, painful erosions are noted on her oral mucosa and conjunctivae. A biopsy shows separation of the dermo-epidermal junction. Which of the following is the most likely class of the drug responsible for this patient's presentation?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Aminoglycosides"
+        },
+        {
+          "id": "b",
+          "label": "Tetracyclines"
+        },
+        {
+          "id": "c",
+          "label": "Macrolides"
+        },
+        {
+          "id": "d",
+          "label": "Sulfonamides"
+        },
+        {
+          "id": "e",
+          "label": "Fluoroquinolones"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q5": {
+      "type": "mcq",
+      "prompt": "Which of the following antibacterial agents is used specifically for the treatment of *Clostridioides difficile*?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Gentamicin"
+        },
+        {
+          "id": "b",
+          "label": "PGS"
+        },
+        {
+          "id": "c",
+          "label": "Fidaxomicin"
+        },
+        {
+          "id": "d",
+          "label": "Ciprofloxacin"
+        },
+        {
+          "id": "e",
+          "label": "Doxycycline"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q6": {
+      "type": "mcq",
+      "prompt": "Which class of antibacterial agents disrupts the integrity of Gram-negative bacterial cell membranes by binding to phospholipids?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Polymyxins"
+        },
+        {
+          "id": "b",
+          "label": "Carbapenems"
+        },
+        {
+          "id": "c",
+          "label": "Monobactams"
+        },
+        {
+          "id": "d",
+          "label": "Glycopeptides"
+        },
+        {
+          "id": "e",
+          "label": "Penicillins"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "A 45-year-old male is diagnosed with subacute endocarditis caused by Enterococcus faecalis. To achieve a synergistic bactericidal effect, the physician prescribes a combination of ampicillin and gentamicin. Which of the following best explains the rationale for adding ampicillin to the treatment regimen?",
+      "options": [
+        {
+          "id": "a",
+          "label": "It inhibits the synthesis of aminoglycoside-modifying enzymes."
+        },
+        {
+          "id": "b",
+          "label": "It increases the permeability of the cell wall to facilitate gentamicin entry."
+        },
+        {
+          "id": "c",
+          "label": "It prevents the active efflux of gentamicin from the bacterial cytoplasm."
+        },
+        {
+          "id": "d",
+          "label": "It provides competitive inhibition of the 50S ribosomal subunit."
+        },
+        {
+          "id": "e",
+          "label": "It blocks the metabolism of gentamicin in the renal tubules."
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q8": {
+      "type": "mcq",
+      "prompt": "Which of the following best differentiates Penicillin V from Penicillin G Sodium (PGS) based on their clinical administration?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Penicillin V is penicillinase-resistant, while PGS is penicillinase-sensitive."
+        },
+        {
+          "id": "b",
+          "label": "Penicillin V targets the 30S ribosome, while PGS targets the cell wall."
+        },
+        {
+          "id": "c",
+          "label": "Penicillin V is given orally, while PGS is given intravenously."
+        },
+        {
+          "id": "d",
+          "label": "Penicillin V is used for *T. pallidum*, while PGS is used for *S. pyogenes*."
+        },
+        {
+          "id": "e",
+          "label": "Penicillin V is given intravenously, while PGS is given orally."
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q9": {
+      "type": "mcq",
+      "prompt": "Which class of antibacterial agents acts as a major inhibitor of cytochrome P450 and is associated with the adverse effect of QT interval prolongation?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Oxazolidinones"
+        },
+        {
+          "id": "b",
+          "label": "Macrolides"
+        },
+        {
+          "id": "c",
+          "label": "Sulfonamides"
+        },
+        {
+          "id": "d",
+          "label": "Fluoroquinolones"
+        },
+        {
+          "id": "e",
+          "label": "Aminoglycosides"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q10": {
+      "type": "mcq",
+      "prompt": "While many cases of *Campylobacter jejuni* gastroenteritis are self-limiting, which of the following is the antibiotic drug of choice when treatment is required?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Ciprofloxacin"
+        },
+        {
+          "id": "b",
+          "label": "Trimethoprim-sulfamethoxazole"
+        },
+        {
+          "id": "c",
+          "label": "Gentamicin"
+        },
+        {
+          "id": "d",
+          "label": "Erythromycin"
+        },
+        {
+          "id": "e",
+          "label": "Amoxicillin"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    }
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "info": {
+    "set_name": "Antibacterial Agents 3",
+    "source": "-"
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "Which first-generation cephalosporin is used as a standard surgical prophylaxis to prevent *Staphylococcus aureus* wound infections by inhibiting peptidoglycan cross-linking?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Cefazolin"
+        },
+        {
+          "id": "b",
+          "label": "Ceftriaxone"
+        },
+        {
+          "id": "c",
+          "label": "Cefuroxime"
+        },
+        {
+          "id": "d",
+          "label": "Cefepime"
+        },
+        {
+          "id": "e",
+          "label": "Ceftazidime"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q2": {
+      "type": "mcq",
+      "prompt": "A 28-year-old male presents with a single, painless ulcer on his penis that appeared one week ago. Physical examination reveals a clean-based, indurated ulcer and bilateral, non-tender inguinal lymphadenopathy. Darkfield microscopic examination of the lesion exudate demonstrates motile, tightly coiled spirochetes. Which of the following is the most appropriate treatment of choice for this patient? ",
+      "options": [
+        {
+          "id": "a",
+          "label": "Ciprofloxacin"
+        },
+        {
+          "id": "b",
+          "label": "Benzathine penicillin G"
+        },
+        {
+          "id": "c",
+          "label": "Penicillin G sodium"
+        },
+        {
+          "id": "d",
+          "label": "Doxycycline"
+        },
+        {
+          "id": "e",
+          "label": "Azithromycin"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q3": {
+      "type": "mcq",
+      "prompt": "A 6-year-old child is diagnosed with a tick-borne infection. Which of the following antibiotic classes should be avoided in this patient due to the risk of permanent tooth discoloration and inhibition of bone growth?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Penicillins"
+        },
+        {
+          "id": "b",
+          "label": "Tetracyclines"
+        },
+        {
+          "id": "c",
+          "label": "Aminoglycosides"
+        },
+        {
+          "id": "d",
+          "label": "Fluoroquinolones"
+        },
+        {
+          "id": "e",
+          "label": "Macrolides"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q4": {
+      "type": "mcq",
+      "prompt": "Which bactericidal agent requires an oxygen-dependent transporter to enter the cell and exerts its effect by binding irreversibly to the 30S ribosomal subunit, causing mRNA misreading?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Gentamicin"
+        },
+        {
+          "id": "b",
+          "label": "Azithromycin"
+        },
+        {
+          "id": "c",
+          "label": "Linezolid"
+        },
+        {
+          "id": "d",
+          "label": "Chloramphenicol"
+        },
+        {
+          "id": "e",
+          "label": "Clindamycin"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q5": {
+      "type": "mcq",
+      "prompt": "A 65-year-old patient presents with a productive cough, and sputum Gram stain reveals Gram-positive, lancet-shaped diplococci. Which of the following is the most appropriate empirical treatment if high-level penicillin resistance via altered penicillin-binding proteins is suspected?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Amoxicillin"
+        },
+        {
+          "id": "b",
+          "label": "Levofloxacin"
+        },
+        {
+          "id": "c",
+          "label": "Penicillin V"
+        },
+        {
+          "id": "d",
+          "label": "Cephalexin"
+        },
+        {
+          "id": "e",
+          "label": "Azithromycin"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q6": {
+      "type": "mcq",
+      "prompt": "A patient presents with a few hairless, hypopigmented skin plaques on his trunk that have a complete loss of sensation. Physical examination also reveals visible enlargement of the ulnar and peroneal nerves. A skin biopsy confirms the presence of acid-fast bacilli. He received the appropriate treatment for this condition. Ten days later, he presents with significant fatigue, jaundice, and dark-coloured urine. Laboratory evaluation reveals evidence of acute hemolytic anemia. Which of the following drugs is most likely to be the cause of this patient's new symptoms?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Rifampin"
+        },
+        {
+          "id": "b",
+          "label": "Clofazimine"
+        },
+        {
+          "id": "c",
+          "label": "Dapsone"
+        },
+        {
+          "id": "d",
+          "label": "Isoniazid"
+        },
+        {
+          "id": "e",
+          "label": "Ethambutol  "
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "A patient being treated for a vaginal infection develops severe flushing, tachycardia, and hypotension after consuming a glass of wine. Which of the following drugs is most likely responsible for this reaction?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Fluconazole"
+        },
+        {
+          "id": "b",
+          "label": "Clindamycin"
+        },
+        {
+          "id": "c",
+          "label": "Metronidazole"
+        },
+        {
+          "id": "d",
+          "label": "Doxycycline"
+        },
+        {
+          "id": "e",
+          "label": "Azithromycin"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q8": {
+      "type": "mcq",
+      "prompt": "Which of the following describes the molecular mechanism by which ciprofloxacin inhibits bacterial DNA synthesis?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Irreversible binding to enolpyruvate transferase"
+        },
+        {
+          "id": "b",
+          "label": "Binding to the 30S ribosomal subunit to prevent initiation"
+        },
+        {
+          "id": "c",
+          "label": "Inhibition of the beta-subunit of RNA polymerase"
+        },
+        {
+          "id": "d",
+          "label": "Inhibition of DNA gyrase and topoisomerase IV"
+        },
+        {
+          "id": "e",
+          "label": "Structural analogy to p-aminobenzoic acid (PABA)"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q9": {
+      "type": "mcq",
+      "prompt": "A patient with cystic fibrosis develops a pulmonary infection with *Pseudomonas aeruginosa*. Which of the following drugs treats this infection by disrupting bacterial cell wall synthesis?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Levofloxacin"
+        },
+        {
+          "id": "b",
+          "label": "Ceftriaxone"
+        },
+        {
+          "id": "c",
+          "label": "Ceftaroline"
+        },
+        {
+          "id": "d",
+          "label": "Amikacin"
+        },
+        {
+          "id": "e",
+          "label": "Ceftazidime"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q10": {
+      "type": "mcq",
+      "prompt": "For which patient population or clinical scenario is the use of bacteriostatic agents generally discouraged in favor of bactericidal therapy?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Young, sexually active women with simple cystitis"
+        },
+        {
+          "id": "b",
+          "label": "A patient with a secondary pharyngitis during infectious mononucleosis"
+        },
+        {
+          "id": "c",
+          "label": "Pediatric patients with minor respiratory tract infections"
+        },
+        {
+          "id": "d",
+          "label": "An immunocompromised host or a patient with a life-threatening infection"
+        },
+        {
+          "id": "e",
+          "label": "A patient with a localized, uncomplicated skin infection"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    }
+  }
+}

@@ -1,0 +1,588 @@
+{
+    "info": {
+        "set_name": "Reproductive Comprehensive Set 2: Parturition, Lactation, Integration (MCQ)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A 28-year-old woman who is six months postpartum has been exclusively breastfeeding and has not yet experienced the return of her menses. Which of the following best explains the physiological mechanism of her continued amenorrhea?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "High prolactin levels inhibit the pulsatile release of Gonadotropin-Releasing Hormone (GnRH)."
+                },
+                {
+                    "id": "b",
+                    "label": "Elevated oxytocin levels directly antagonize the binding of LH to thecal cells."
+                },
+                {
+                    "id": "c",
+                    "label": "Low levels of maternal estrogen prevent the positive feedback required for a mid-cycle surge."
+                },
+                {
+                    "id": "d",
+                    "label": "Increased dopamine from the hypothalamus suppresses the anterior pituitary gonadotrophs."
+                },
+                {
+                    "id": "e",
+                    "label": "The corpus luteum of pregnancy remains active due to tonic prolactin stimulation."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A woman at 39 weeks gestation begins to experience regular uterine contractions. Analysis of her hormonal profile would likely show which of the following shifts that directly increases the excitability of the myometrium?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "A decrease in the sensitivity of the Ferguson reflex."
+                },
+                {
+                    "id": "b",
+                    "label": "An increase in the estrogen-to-progesterone ratio."
+                },
+                {
+                    "id": "c",
+                    "label": "Suppression of local prostaglandin PGE2 synthesis."
+                },
+                {
+                    "id": "d",
+                    "label": "Down-regulation of oxytocin receptors in the fundus of the uterus."
+                },
+                {
+                    "id": "e",
+                    "label": "Activation of the maternal-fetal DHEA-S shunt."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "A researcher is studying a rare condition where the fetal liver is deficient in the enzyme 16\u03b1-hydroxylase. Which of the following effects would this have on the maternal hormonal profile during the third trimester?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Significantly elevated levels of progesterone."
+                },
+                {
+                    "id": "b",
+                    "label": "Increased maternal secretion of Human Placental Lactogen (hPL)."
+                },
+                {
+                    "id": "c",
+                    "label": "Markedly decreased levels of urinary estriol."
+                },
+                {
+                    "id": "d",
+                    "label": "Failure to produce Human Chorionic Gonadotropin (HCG)."
+                },
+                {
+                    "id": "e",
+                    "label": "Premature activation of the placental clock."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "A 53-year-old woman has not had a menstrual period for 14 months and reports frequent \"hot flashes.\" Laboratory investigation confirms a state of menopause. Which of the following laboratory findings is most characteristic of this transition?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Low serum FSH and low serum LH."
+                },
+                {
+                    "id": "b",
+                    "label": "High serum estrogen and low serum FSH."
+                },
+                {
+                    "id": "c",
+                    "label": "Low serum LH and high serum progesterone."
+                },
+                {
+                    "id": "d",
+                    "label": "High serum FSH and high serum LH."
+                },
+                {
+                    "id": "e",
+                    "label": "High serum inhibin and high serum testosterone."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "Within minutes after a healthy neonate takes its first breath, several circulatory changes occur to transition from fetal to adult patterns. Which of the following is the primary cause for the functional closure of the foramen ovale?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "A decrease in systemic vascular resistance."
+                },
+                {
+                    "id": "b",
+                    "label": "An increase in pulmonary vascular resistance."
+                },
+                {
+                    "id": "c",
+                    "label": "A decrease in the partial pressure of oxygen in the left atrium."
+                },
+                {
+                    "id": "d",
+                    "label": "An increase in right atrial pressure relative to left atrial pressure."
+                },
+                {
+                    "id": "e",
+                    "label": "An increase in left atrial pressure relative to right atrial pressure."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "A pregnant woman at 32 weeks gestation asks her doctor why she is not yet producing milk despite her breasts increasing in size. What is the physiological basis for the lack of milk secretion during pregnancy?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "High levels of estrogen and progesterone block the action of prolactin on the breast tissue."
+                },
+                {
+                    "id": "b",
+                    "label": "Prolactin levels do not begin to rise until the moment of parturition."
+                },
+                {
+                    "id": "c",
+                    "label": "The anterior pituitary is inhibited by placental Human Chorionic Somatomammotropin (hCS)."
+                },
+                {
+                    "id": "d",
+                    "label": "Low levels of oxytocin prevent the maturation of the mammary alveoli."
+                },
+                {
+                    "id": "e",
+                    "label": "The suckling reflex is required to initiate the transcription of the prolactin gene."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "A patient requires an emergency ovariectomy during her pregnancy. If the surgery is performed at week 4 of gestation, an abortion will occur, but if it is performed at week 10, the pregnancy will likely continue. What explains this difference?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The fetal adrenal gland begins producing progesterone at week 9."
+                },
+                {
+                    "id": "b",
+                    "label": "The placenta becomes the primary source of steroid hormones by the end of the first trimester."
+                },
+                {
+                    "id": "c",
+                    "label": "HCG levels peak at week 4 and then decline, rendering the ovary unnecessary."
+                },
+                {
+                    "id": "d",
+                    "label": "The m\u00fcllerian ducts complete their differentiation into the uterus by week 8."
+                },
+                {
+                    "id": "e",
+                    "label": "Maternal pituitary LH takes over the role of HCG after the first two months."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "A 30-year-old woman in premature labor at 30 weeks gestation is treated with indomethacin, a cyclooxygenase inhibitor. This medication acts to delay labor primarily by which mechanism?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Decreasing the estrogen-to-progesterone ratio."
+                },
+                {
+                    "id": "b",
+                    "label": "Blocking the release of oxytocin from the posterior pituitary."
+                },
+                {
+                    "id": "c",
+                    "label": "Inhibiting the synthesis of prostaglandins that increase uterine contractility."
+                },
+                {
+                    "id": "d",
+                    "label": "Reducing the sensitivity of the fetal hypothalamic-pituitary-adrenal axis."
+                },
+                {
+                    "id": "e",
+                    "label": "Increasing the threshold of the myoepithelial cells to mechanical stretch."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "If a fetus has a congenital defect preventing the activation of its hypothalamic-pituitary-adrenal (HPA) axis near term, what is the most likely consequence for the mother?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Premature onset of the second stage of labor."
+                },
+                {
+                    "id": "b",
+                    "label": "A sudden increase in placental estriol synthesis."
+                },
+                {
+                    "id": "c",
+                    "label": "Excessive softening and effacement of the cervix."
+                },
+                {
+                    "id": "d",
+                    "label": "Delayed initiation of labor due to insufficient fetal cortisol production."
+                },
+                {
+                    "id": "e",
+                    "label": "Failure of the milk letdown reflex due to decreased HCG."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "During the second stage of labor, the \"Ferguson reflex\" creates a self-reinforcing cycle. This positive feedback loop involves which sequence of events?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Uterine contraction \u2192 decreased cervical stretch \u2192 increased dopamine \u2192 uterine relaxation."
+                },
+                {
+                    "id": "b",
+                    "label": "Cervical stretch \u2192 maternal HPA activation \u2192 increased progesterone \u2192 cervical relaxation."
+                },
+                {
+                    "id": "c",
+                    "label": "Uterine contraction \u2192 increased placental HPL \u2192 increased maternal glucose \u2192 uterine contraction."
+                },
+                {
+                    "id": "d",
+                    "label": "Cervical stretch \u2192 decreased oxytocin \u2192 increased prostaglandins \u2192 cervical dilation."
+                },
+                {
+                    "id": "e",
+                    "label": "Cervical stretch \u2192 increased oxytocin secretion \u2192 increased uterine contraction \u2192 further cervical stretch."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q11": {
+            "type": "mcq",
+            "prompt": "A 34-year-old pregnant woman is diagnosed with gestational diabetes. The physician explains that a specific placental hormone is shunting glucose toward the fetus by decreasing maternal insulin sensitivity. Which hormone is responsible?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Human placental lactogen (hPL)."
+                },
+                {
+                    "id": "b",
+                    "label": "Human chorionic gonadotropin (hCG)."
+                },
+                {
+                    "id": "c",
+                    "label": "Progesterone."
+                },
+                {
+                    "id": "d",
+                    "label": "Estriol."
+                },
+                {
+                    "id": "e",
+                    "label": "Relaxin."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q12": {
+            "type": "mcq",
+            "prompt": "A neonate's ductus arteriosus normally closes within 48 to 72 hours after birth. Which of the following is the primary physiological trigger for this closure?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "A decrease in the maternal estrogen/progesterone ratio."
+                },
+                {
+                    "id": "b",
+                    "label": "An increase in arterial P_(O2)  and a decrease in placental prostaglandins."
+                },
+                {
+                    "id": "c",
+                    "label": "A sudden rise in pulmonary vascular resistance."
+                },
+                {
+                    "id": "d",
+                    "label": "The reversal of blood flow from the right atrium to the left atrium."
+                },
+                {
+                    "id": "e",
+                    "label": "Activation of the fetal renin-angiotensin-aldosterone system."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q13": {
+            "type": "mcq",
+            "prompt": "A 16-year-old phenotypic female is found to have an XY genotype and intra-abdominal testes. She has never menstruated. Which of the following explains the absence of a uterus and fallopian tubes in this patient?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Total resistance to the actions of dihydrotestosterone."
+                },
+                {
+                    "id": "b",
+                    "label": "Failure of the wolffian ducts to differentiate due to low testosterone."
+                },
+                {
+                    "id": "c",
+                    "label": "Normal fetal secretion of antim\u00fcllerian hormone by Sertoli cells."
+                },
+                {
+                    "id": "d",
+                    "label": "Excessive maternal production of androstenedione."
+                },
+                {
+                    "id": "e",
+                    "label": "Lack of aromatase activity in the fetal granulosa cells."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q14": {
+            "type": "mcq",
+            "prompt": "During the third trimester, the placenta requires a constant supply of a specific precursor from the maternal circulation to synthesize progesterone. What is this precursor?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Acetate."
+                },
+                {
+                    "id": "b",
+                    "label": "DHEA-sulfate."
+                },
+                {
+                    "id": "c",
+                    "label": "16-OH DHEA-sulfate."
+                },
+                {
+                    "id": "d",
+                    "label": "Low-density lipoproteins (LDL)."
+                },
+                {
+                    "id": "e",
+                    "label": "Pregnenolone."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q15": {
+            "type": "mcq",
+            "prompt": "An infant with a 46, XY genotype is born with a normal epididymis and vas deferens but has female-appearing external genitalia. Which of the following is the most likely diagnosis?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Androgen insensitivity syndrome."
+                },
+                {
+                    "id": "b",
+                    "label": "Klinefelter's syndrome."
+                },
+                {
+                    "id": "c",
+                    "label": "Congenital adrenal hyperplasia."
+                },
+                {
+                    "id": "d",
+                    "label": "Deficiency of cholesterol desmolase."
+                },
+                {
+                    "id": "e",
+                    "label": "Deficiency of 5\u03b1-reductase."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q16": {
+            "type": "mcq",
+            "prompt": "Immediately after the delivery of the placenta (the third stage of labor), the mother is given an injection of synthetic oxytocin. What is the primary clinical goal of this intervention?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "To stimulate powerful uterine contractions that constrict blood vessels and limit hemorrhage."
+                },
+                {
+                    "id": "b",
+                    "label": "To initiate the synthesis of milk proteins by the mammary alveolar cells."
+                },
+                {
+                    "id": "c",
+                    "label": "To trigger the regression of the corpus luteum into the corpus albicans."
+                },
+                {
+                    "id": "d",
+                    "label": "To increase the systemic vascular resistance to compensate for blood loss."
+                },
+                {
+                    "id": "e",
+                    "label": "To down-regulate the maternal HPA axis and reduce cortisol levels."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q17": {
+            "type": "mcq",
+            "prompt": "An amniotic fluid sample shows a lecithin-to-sphingomyelin (L-S) ratio of 1.4. Which of the following is the most significant physiological risk if the baby is delivered now?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Development of a right-to-left shunt through a patent foramen ovale."
+                },
+                {
+                    "id": "b",
+                    "label": "Respiratory failure due to high alveolar surface tension and atelectasis."
+                },
+                {
+                    "id": "c",
+                    "label": "Hypoglycemia due to a lack of placental glucose shunting."
+                },
+                {
+                    "id": "d",
+                    "label": "Inability to produce the \"funny current\" (If ) in the SA node."
+                },
+                {
+                    "id": "e",
+                    "label": "Failure of the hepatic UDP-glucuronyl transferase system."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q18": {
+            "type": "mcq",
+            "prompt": "A 40-year-old male with a prolactin-secreting tumor (prolactinoma) is being evaluated for infertility. How does hyperprolactinemia cause a decrease in spermatogenesis?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "By directly stimulating the Leydig cells to produce excess estrogen."
+                },
+                {
+                    "id": "b",
+                    "label": "By increasing the activity of 5\u03b1-reductase in the prostate."
+                },
+                {
+                    "id": "c",
+                    "label": "By inhibiting the synthesis and release of Gonadotropin-Releasing Hormone (GnRH)."
+                },
+                {
+                    "id": "d",
+                    "label": "By causing the premature closure of the seminiferous tubules."
+                },
+                {
+                    "id": "e",
+                    "label": "By blocking the binding of FSH to androgen-binding protein (ABP)."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q19": {
+            "type": "mcq",
+            "prompt": "In the years following menopause, a woman's laboratory tests show very high levels of FSH and LH. This hormonal pattern is primarily the result of which of the following?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Hypertrophy of the pituitary gonadotrophs."
+                },
+                {
+                    "id": "b",
+                    "label": "Increased sensitivity of the ovaries to gonadotropin stimulation."
+                },
+                {
+                    "id": "c",
+                    "label": "Autonomous secretion of GnRH by the arcuate nucleus."
+                },
+                {
+                    "id": "d",
+                    "label": "Loss of negative feedback from estradiol and inhibin due to follicle depletion."
+                },
+                {
+                    "id": "e",
+                    "label": "Upregulation of dopamine receptors in the anterior pituitary."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q20": {
+            "type": "mcq",
+            "prompt": "A medical student is reviewing fetal circulatory hemodynamics. In which of the following fetal vessels is the partial pressure of oxygen (P_(O2) ) at its highest?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Umbilical artery."
+                },
+                {
+                    "id": "b",
+                    "label": "Aorta."
+                },
+                {
+                    "id": "c",
+                    "label": "Ductus arteriosus."
+                },
+                {
+                    "id": "d",
+                    "label": "Inferior vena cava."
+                },
+                {
+                    "id": "e",
+                    "label": "Umbilical vein."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        }
+    }
+}

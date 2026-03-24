@@ -1,0 +1,359 @@
+{
+    "info": {
+        "set_name": "Renal Comprehensive Set 1: Glomerular Filtration (Short Answer)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "short_answer",
+            "prompt": "What are the three main regions of the kidney when viewed in a sagittal section?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Cortex, medulla (outer and inner), and papilla."
+            ]
+        },
+        "q2": {
+            "type": "short_answer",
+            "prompt": "Contrast the location of the glomeruli and the length of the loops of Henle in superficial cortical nephrons versus juxtamedullary nephrons.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Superficial: Glomeruli in outer cortex, short loops. Juxtamedullary: Glomeruli near corticomedullary border, long loops descending into the inner medulla."
+            ]
+        },
+        "q3": {
+            "type": "short_answer",
+            "prompt": "Which type of nephron is essential for the concentration of urine, and what is its specialized vascular component called?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Juxtamedullary nephrons; vasa recta."
+            ]
+        },
+        "q4": {
+            "type": "short_answer",
+            "prompt": "Identify the three layers of the glomerular capillary wall that constitute the filtration barrier.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Endothelium (pores), basement membrane, and epithelium (podocytes)."
+            ]
+        },
+        "q5": {
+            "type": "short_answer",
+            "prompt": "Why are negatively charged macromolecules, such as plasma proteins, filtered less readily than neutral molecules of the same size?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The filtration barrier contains fixed negative charges (glycoproteins) that repel negatively charged solutes."
+            ]
+        },
+        "q6": {
+            "type": "short_answer",
+            "prompt": "Which specialized epithelial cells form the \"filtration slits\" in the glomerular barrier?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Podocytes."
+            ]
+        },
+        "q7": {
+            "type": "short_answer",
+            "prompt": "Write the Starling equation as it specifically applies to the Glomerular Filtration Rate (GFR).",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "GFR=Kf[(PGC-PBS)-\u03c0GC ]."
+            ]
+        },
+        "q8": {
+            "type": "short_answer",
+            "prompt": "Why is the oncotic pressure in Bowman's space (\u03c0_(BS)) normally considered to be zero?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Because the filtration of protein is negligible."
+            ]
+        },
+        "q9": {
+            "type": "short_answer",
+            "prompt": "Contrast the behavior of hydrostatic pressure (P_(GC)) along the length of a glomerular capillary with that of a systemic capillary.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "P_(GC)  remains constant along the entire length of the glomerular capillary, whereas systemic capillary hydrostatic pressure falls."
+            ]
+        },
+        "q10": {
+            "type": "short_answer",
+            "prompt": "What causes the oncotic pressure in the glomerular capillary (\u03c0_(GC)) to increase along its length?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "As fluid is filtered out, protein is left behind and becomes more concentrated."
+            ]
+        },
+        "q11": {
+            "type": "short_answer",
+            "prompt": "Define \"filtration equilibrium\" in the context of glomerular Starling forces.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "The point where the net ultrafiltration pressure becomes zero because \u03c0_(GC)  has risen to equal the net hydrostatic pressure."
+            ]
+        },
+        "q12": {
+            "type": "short_answer",
+            "prompt": "How is the filtration fraction calculated, and what is its approximate normal value?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "FF=GFR/RPF; approximately 0.20 (or 20%)."
+            ]
+        },
+        "q13": {
+            "type": "short_answer",
+            "prompt": "What is the effect of an increased filtration fraction on the oncotic pressure of the peritubular capillaries?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It increases the protein concentration and oncotic pressure (\u03c0c ) of the peritubular capillary blood."
+            ]
+        },
+        "q14": {
+            "type": "short_answer",
+            "prompt": "Explain the \"Myogenic Hypothesis\" of renal autoregulation in response to an increase in renal arterial pressure.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Increased pressure stretches afferent arterioles, causing them to contract (via stretch-activated Ca^(2+)  channels), increasing resistance to maintain constant flow."
+            ]
+        },
+        "q15": {
+            "type": "short_answer",
+            "prompt": "Which region of the distal tubule senses changes in load to provide \"Tubuloglomerular Feedback\"?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Macula densa."
+            ]
+        },
+        "q16": {
+            "type": "short_answer",
+            "prompt": "In the tubuloglomerular feedback mechanism, what is the effector response when the macula densa senses an increased delivered load of NaCl?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It releases a vasoactive substance (e.g., adenosine) to constrict the afferent arteriole, reducing GFR back to normal."
+            ]
+        },
+        "q17": {
+            "type": "short_answer",
+            "prompt": "Why does a high-protein diet lead to an increase in GFR?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It increases NaCl reabsorption in the proximal tubule, decreasing delivery to the macula densa, which triggers the tubuloglomerular feedback to increase GFR."
+            ]
+        },
+        "q18": {
+            "type": "short_answer",
+            "prompt": "How does the sympathetic nervous system affect renal blood flow (RBF) and GFR, and which receptor is primarily involved?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It constricts afferent arterioles more than efferent, decreasing both RBF and GFR; \u03b11  receptors."
+            ]
+        },
+        "q19": {
+            "type": "short_answer",
+            "prompt": "Describe the preferential action of low levels of Angiotensin II on the renal arterioles and its subsequent effect on GFR.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It preferentially constricts efferent arterioles, which increases PGC  and thereby \"protects\" or increases GFR despite a decrease in RPF."
+            ]
+        },
+        "q20": {
+            "type": "short_answer",
+            "prompt": "What are the simultaneous effects of Atrial Natriuretic Peptide (ANP) on the afferent and efferent arterioles?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Dilation of afferent arterioles and constriction of efferent arterioles (both of which increase GFR)."
+            ]
+        },
+        "q21": {
+            "type": "short_answer",
+            "prompt": "Which paracrine substances are produced locally to attenuate the vasoconstrictor effects of the sympathetic nervous system and Angiotensin II?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Prostaglandins (PGE2and PGI2 )."
+            ]
+        },
+        "q22": {
+            "type": "short_answer",
+            "prompt": "How do Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) potentially lead to renal failure during a hemorrhage?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "They inhibit prostaglandin synthesis, removing the protective vasodilatory effect that normally prevents excessive renal ischemia."
+            ]
+        },
+        "q23": {
+            "type": "short_answer",
+            "prompt": "What is the effect of a low-dosage infusion of dopamine on renal arterioles?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It dilates renal arterioles and increases RBF."
+            ]
+        },
+        "q24": {
+            "type": "short_answer",
+            "prompt": "How does a ureteral stone (calculus) decrease GFR in terms of Starling forces?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It increases the hydrostatic pressure in Bowman's space (PBS ), which opposes filtration."
+            ]
+        },
+        "q25": {
+            "type": "short_answer",
+            "prompt": "What is the role of mesangial cells in determining the filtration coefficient (Kf )?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Contraction of mesangial cells reduces the total surface area available for filtration, thus decreasing Kf  and GFR."
+            ]
+        },
+        "q26": {
+            "type": "short_answer",
+            "prompt": "If the afferent arteriole is dilated and no other changes occur, what happens to RPF and GFR?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Both RPF and GFR increase."
+            ]
+        },
+        "q27": {
+            "type": "short_answer",
+            "prompt": "Why does an increase in plasma protein concentration decrease GFR?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It increases the oncotic pressure in the glomerular capillary (\u03c0_(GC)), which opposes filtration."
+            ]
+        }
+    }
+}

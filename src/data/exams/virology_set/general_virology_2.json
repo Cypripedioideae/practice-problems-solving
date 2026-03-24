@@ -1,0 +1,299 @@
+{
+    "info": {
+        "set_name": "General Virology 2",
+        "description": "",
+        "source": ""
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A patient with a high HIV viral load is started on a multidrug antiretroviral regimen that includes the entry inhibitor enfuvirtide. This drug acts by binding to the viral gp41 transmembrane protein. Which specific step of the viral life cycle is blocked by this medication?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Cleavage of the Gag-Pol polyprotein precursor"
+                },
+                {
+                    "id": "b",
+                    "label": "Integration of the provirus into the host genome"
+                },
+                {
+                    "id": "c",
+                    "label": "Binding of the gp120 glycoprotein to the CD4 receptor"
+                },
+                {
+                    "id": "d",
+                    "label": "Fusion of the viral envelope with the host cell membrane"
+                },
+                {
+                    "id": "e",
+                    "label": "Premature termination of the nascent DNA chain"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A lung biopsy from a bone marrow transplant recipient with progressive interstitial pneumonia reveals significantly enlarged cells. Within the nucleus of these cytomegalic cells, a large, dark, basophilic inclusion is observed, surrounded by a clear halo, creating a characteristic \"owl's eye\" appearance. Which virus is the most likely cause of this infection?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Herpes Simplex Virus"
+                },
+                {
+                    "id": "b",
+                    "label": "Epstein-Barr Virus"
+                },
+                {
+                    "id": "c",
+                    "label": "Adenovirus"
+                },
+                {
+                    "id": "d",
+                    "label": "Cytomegalovirus"
+                },
+                {
+                    "id": "e",
+                    "label": "Varicella-Zoster Virus"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "HIV protease inhibitors, such as lopinavir and atazanavir, are critical components of highly active antiretroviral therapy (HAART). These drugs prevent the production of infectious, mature virions. Which biochemical process is inhibited by these agents?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Proteolytic cleavage of viral polyprotein precursors"
+                },
+                {
+                    "id": "b",
+                    "label": "Attachment of the viral docking glycoprotein to CD4"
+                },
+                {
+                    "id": "c",
+                    "label": "Reverse transcription of genomic RNA into double-stranded DNA"
+                },
+                {
+                    "id": "d",
+                    "label": "Covalent insertion of viral DNA into the host cell chromosome"
+                },
+                {
+                    "id": "e",
+                    "label": "Competitive inhibition of host cell RNA polymerase II"
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "While most DNA viruses replicate their genome directly from a DNA template in the nucleus, Hepatitis B virus (HBV) utilizes a unique replication strategy that classifies it as a \"dsDNA RT\" virus. Which step is a required part of the HBV replication cycle?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Semiconservative replication solely in the host cytoplasm"
+                },
+                {
+                    "id": "b",
+                    "label": "Use of host-cell RNA-dependent RNA polymerase for genome synthesis"
+                },
+                {
+                    "id": "c",
+                    "label": "Reverse transcription of a viral RNA intermediate into progeny DNA"
+                },
+                {
+                    "id": "d",
+                    "label": "Integration into the host cell mitochondria for energy production"
+                },
+                {
+                    "id": "e",
+                    "label": "Rolling circle replication that does not require a viral polymerase"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "A 10-year-old child with sickle cell disease presents with sudden-onset severe anemia and a dangerously low reticulocyte count. The clinician suspects a \"transient aplastic crisis\" (TAC) triggered by Parvovirus B19. What is the primary mechanism by which this virus causes this clinical presentation?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Induction of autoimmune antibodies against mature erythrocytes"
+                },
+                {
+                    "id": "b",
+                    "label": "Direct infection and lysis of erythroid progenitor cells"
+                },
+                {
+                    "id": "c",
+                    "label": "Massive sequestration of red blood cells within the spleen"
+                },
+                {
+                    "id": "d",
+                    "label": "Inhibition of erythropoietin secretion by the renal cortex"
+                },
+                {
+                    "id": "e",
+                    "label": "Damage to the vascular endothelium leading to diffuse hemorrhage"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "A healthcare worker undergoing routine screening for Hepatitis B has the following laboratory serology results: Hepatitis B surface antigen (HBsAg) negative, antibody to Hepatitis B core antigen (anti-HBc) negative, and antibody to Hepatitis B surface antigen (anti-HBs) positive. How should these findings be interpreted?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Acute infection with high levels of viral replication"
+                },
+                {
+                    "id": "b",
+                    "label": "Recovery and immunity following a prior natural infection"
+                },
+                {
+                    "id": "c",
+                    "label": "Immunity resulting from a successful HBV vaccination series"
+                },
+                {
+                    "id": "d",
+                    "label": "Chronic Hepatitis B carrier state with low infectivity"
+                },
+                {
+                    "id": "e",
+                    "label": "Window period between the loss of HBsAg and appearance of anti-HBs"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "Epstein-Barr virus (EBV) is the primary cause of infectious mononucleosis and is associated with various lymphoproliferative disorders. To establish infection, the virus must bind to a specific cellular receptor found on human B cells. Which receptor is utilized by EBV for entry?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "CD4"
+                },
+                {
+                    "id": "b",
+                    "label": "CD21"
+                },
+                {
+                    "id": "c",
+                    "label": "CXCR4"
+                },
+                {
+                    "id": "d",
+                    "label": "ICAM-1"
+                },
+                {
+                    "id": "e",
+                    "label": "P antigen"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "The antiviral drugs amantadine and rimantadine are tricyclic amines used for the treatment of Influenza A. These medications target a specific viral protein to prevent the uncoating of the virion within the host cell. Which protein is the target of these drugs?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Hemagglutinin"
+                },
+                {
+                    "id": "b",
+                    "label": "Neuraminidase"
+                },
+                {
+                    "id": "c",
+                    "label": "M2 protein"
+                },
+                {
+                    "id": "d",
+                    "label": "Matrix protein M1"
+                },
+                {
+                    "id": "e",
+                    "label": "RNA-dependent RNA polymerase"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "Human Immunodeficiency Virus (HIV) utilizes several accessory proteins to facilitate infection and evade the host immune system. A specific viral protein, Nef, is known to promote viral persistence and prevent the elimination of infected cells. According to viral life cycle models, what is one primary mechanism of action for the Nef protein?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Inhibiting the viral protease to prevent premature maturation"
+                },
+                {
+                    "id": "b",
+                    "label": "Promoting the degradation and downregulation of host CD4 molecules"
+                },
+                {
+                    "id": "c",
+                    "label": "Directly inhibiting the transcription of host interferon-gamma"
+                },
+                {
+                    "id": "d",
+                    "label": "Blocking the integration of the provirus into the host genome"
+                },
+                {
+                    "id": "e",
+                    "label": "Inducing a hypermutation state in the p24 capsid protein"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "Following the resolution of the acute phase of infectious mononucleosis, the Epstein-Barr virus (EBV) remains in the body indefinitely in a dormant state. In which specific cell type does EBV typically establish its primary site of latent infection?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Neurons within the trigeminal ganglia"
+                },
+                {
+                    "id": "b",
+                    "label": "Myeloid progenitor cells in the bone marrow"
+                },
+                {
+                    "id": "c",
+                    "label": "Memory B lymphocytes"
+                },
+                {
+                    "id": "d",
+                    "label": "Monocytes and macrophages"
+                },
+                {
+                    "id": "e",
+                    "label": "Vascular endothelial cells"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        }
+    }
+}

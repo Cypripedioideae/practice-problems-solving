@@ -1,0 +1,298 @@
+{
+    "info": {
+        "set_name": "Comprehensive Respiratory Set 2: Oxygen Transport and Hemoglobin (MCQ)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A patient with a rare congenital deficiency in methemoglobin reductase is expected to have a higher percentage of hemoglobin in a state where iron is unable to bind oxygen. In which specific iron state is this hemoglobin found?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Ferrous (Fe2+)"
+                },
+                {
+                    "id": "b",
+                    "label": "Heme-bound sulfite"
+                },
+                {
+                    "id": "c",
+                    "label": "Ferrous disulfide"
+                },
+                {
+                    "id": "d",
+                    "label": "Ferric (Fe3+ )"
+                },
+                {
+                    "id": "e",
+                    "label": "Divalent cobalt"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "Hemoglobin exhibits a sigmoidal dissociation curve due to the phenomenon of positive cooperativity. Which of the following best describes this phenomenon as it occurs during the transition from deoxygenated to oxygenated blood?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Binding of the fourth molecule of O2is the most difficult step due to steric hindrance."
+                },
+                {
+                    "id": "b",
+                    "label": "Binding of each successive molecule of O2increases the affinity of the remaining heme sites."
+                },
+                {
+                    "id": "c",
+                    "label": "The first molecule of O2binds with the highest affinity to initiate the process."
+                },
+                {
+                    "id": "d",
+                    "label": "Hemoglobin affinity for O2remains constant throughout the entire saturation range."
+                },
+                {
+                    "id": "e",
+                    "label": "The third molecule of O2  reduces the affinity for the fourth to prevent over-saturation."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "In a patient with chronic hypoxaemia, the body adaptively increases a specific glycolytic byproduct to shift the oxygen-hemoglobin dissociation curve to the right. Which of the following changes is responsible for this shift?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Decreased core body temperature."
+                },
+                {
+                    "id": "b",
+                    "label": "Increased affinity of hemoglobin for oxygen."
+                },
+                {
+                    "id": "c",
+                    "label": "Increased concentration of 2,3-diphosphoglycerate (2,3-DPG)."
+                },
+                {
+                    "id": "d",
+                    "label": "Decreased levels of P_(CO2)  in the blood."
+                },
+                {
+                    "id": "e",
+                    "label": "Increased arterial blood pH."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "A patient suffering from iron-deficiency anemia has a hemoglobin concentration of 10 g/dL. Assuming a normal Pa_(O2)of 100 mmHg and 98% saturation, what is the approximate total O2content of this patient's arterial blood?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "13.4 mL O2/100 mL"
+                },
+                {
+                    "id": "b",
+                    "label": "20.0 mL O2/100 mL"
+                },
+                {
+                    "id": "c",
+                    "label": "15.1 mL O2/100 mL"
+                },
+                {
+                    "id": "d",
+                    "label": "10.3 mL O2/100 mL"
+                },
+                {
+                    "id": "e",
+                    "label": "19.7 mL O2 /100 mL"
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "A patient is brought to the hospital after being found in a garage with a running car engine. Laboratory analysis reveals a Pa_(O2)of 100 mmHg but an O2saturation of only 60%. Which of the following explanations best accounts for this discrepancy?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "The patient is suffering from anemic hypoxia where hemoglobin concentration is reduced."
+                },
+                {
+                    "id": "b",
+                    "label": "A right-to-left cardiac shunt is mixing deoxygenated venous blood with arterialized blood."
+                },
+                {
+                    "id": "c",
+                    "label": "High-altitude exposure has reduced the atmospheric oxygen partial pressure."
+                },
+                {
+                    "id": "d",
+                    "label": "A diffusion defect in the lungs is preventing the equilibration of oxygen into the plasma."
+                },
+                {
+                    "id": "e",
+                    "label": "Carbon monoxide is competitively binding to heme sites with 250 times the affinity of O2 ."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "A hiker ascends to 15,000 feet, where the barometric pressure is significantly reduced. After several days, which of the following integrated physiological responses helps maintain tissue oxygen delivery despite the hypoxemia?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Increased synthesis of 2,3-diphosphoglycerate (2,3-DPG) in red blood cells."
+                },
+                {
+                    "id": "b",
+                    "label": "Decreased renal synthesis of erythropoietin (EPO)."
+                },
+                {
+                    "id": "c",
+                    "label": "Respiratory acidosis due to CO2  retention from high-altitude air."
+                },
+                {
+                    "id": "d",
+                    "label": "Decreased heart rate and cardiac output to conserve energy."
+                },
+                {
+                    "id": "e",
+                    "label": "Reduced synthesis of hemoglobin to decrease blood viscosity."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "Erythropoietin (EPO) is the primary stimulus for the differentiation of proerythroblasts into red blood cells in response to hypoxia. Which specific site in the body is the major source of EPO synthesis?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Alveolar type II pneumocytes."
+                },
+                {
+                    "id": "b",
+                    "label": "Renal fibroblasts in the cortex and medulla."
+                },
+                {
+                    "id": "c",
+                    "label": "Beta cells of the islets of Langerhans."
+                },
+                {
+                    "id": "d",
+                    "label": "Hepatocytes in the liver sinusoids."
+                },
+                {
+                    "id": "e",
+                    "label": "Myocardial cells in the left ventricle."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "Fetal hemoglobin (HbF) has a significantly different structure and function compared to adult hemoglobin (HbA). Which characteristic allows HbF to facilitate the transfer of oxygen from mother to fetus across the placenta?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "HbF has a lower affinity for oxygen than adult HbA at any given P_(O2)."
+                },
+                {
+                    "id": "b",
+                    "label": "The presence of \u03b2 subunits in HbF prevents the binding of 2,3-DPG."
+                },
+                {
+                    "id": "c",
+                    "label": "HbF binds 2,3-DPG less avidly than HbA, leading to a higher affinity for oxygen."
+                },
+                {
+                    "id": "d",
+                    "label": "HbF is composed of four \u03b1 subunits, increasing its binding capacity."
+                },
+                {
+                    "id": "e",
+                    "label": "Fetal blood has a much higher P_(O2)  than maternal blood, driving diffusion."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "The Bohr effect describes a critical regulatory mechanism for oxygen delivery to metabolically active tissues. Which set of conditions in the systemic capillaries would facilitate the unloading of oxygen from hemoglobin?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Decreased P_(CO2), increased pH, and decreased temperature."
+                },
+                {
+                    "id": "b",
+                    "label": "Normal P_(CO2), normal pH, and normal temperature."
+                },
+                {
+                    "id": "c",
+                    "label": "Decreased P_(CO2), decreased pH, and increased temperature."
+                },
+                {
+                    "id": "d",
+                    "label": "Increased P_(CO2), decreased pH, and increased temperature."
+                },
+                {
+                    "id": "e",
+                    "label": "Increased P_(CO2) , increased pH, and decreased temperature."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "A shift of the oxygen-hemoglobin dissociation curve to the left reflects an increased affinity of hemoglobin for oxygen. What is the primary clinical consequence of this leftward shift at the level of the peripheral tissues?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Enhanced loading of oxygen into the pulmonary capillary blood."
+                },
+                {
+                    "id": "b",
+                    "label": "Increased partial pressure of oxygen in the interstitial fluid."
+                },
+                {
+                    "id": "c",
+                    "label": "Reduction in the concentration of 2,3-diphosphoglycerate."
+                },
+                {
+                    "id": "d",
+                    "label": "Significant increase in the total oxygen-carrying capacity of blood."
+                },
+                {
+                    "id": "e",
+                    "label": "Impairment of the release (unloading) of oxygen to the cells."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        }
+    }
+}

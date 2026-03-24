@@ -1,0 +1,443 @@
+{
+    "info": {
+        "set_name": "Reproductive Comprehensive Set 2: Sexual Differentiation (MCQ)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A neonate is found to have a 46, XY genotype. Physical examination reveals female-appearing external genitalia, but internal investigation confirms the presence of an epididymis and vas deferens on both sides. Which of the following enzymes is most likely deficient in this infant?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "5\u03b1-reductase."
+                },
+                {
+                    "id": "b",
+                    "label": "Aromatase."
+                },
+                {
+                    "id": "c",
+                    "label": "17\u03b2-hydroxysteroid dehydrogenase."
+                },
+                {
+                    "id": "d",
+                    "label": "Antim\u00fcllerian hormone."
+                },
+                {
+                    "id": "e",
+                    "label": "21\u03b2-hydroxylase."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A 16-year-old phenotypic female presents for a evaluation of primary amenorrhea. Physical examination reveals normal breast development and a short, blind-ending vagina. Laboratory tests show a 46, XY genotype and significantly elevated plasma testosterone levels. Which of the following is the most likely diagnosis?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "17\u03b1-hydroxylase deficiency."
+                },
+                {
+                    "id": "b",
+                    "label": "Androgen insensitivity syndrome."
+                },
+                {
+                    "id": "c",
+                    "label": "Turner syndrome."
+                },
+                {
+                    "id": "d",
+                    "label": "Klinefelter syndrome."
+                },
+                {
+                    "id": "e",
+                    "label": "5\u03b1-reductase deficiency."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "A fetus with a 46, XX genotype has a congenital enzyme defect that prevents the synthesis of cortisol and aldosterone, leading to an overproduction of adrenal androgens. Which set of structures would most likely be present in this individual at birth?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Testes and male external genitalia."
+                },
+                {
+                    "id": "b",
+                    "label": "Ovaries and male internal genitalia (epididymis, vas deferens)."
+                },
+                {
+                    "id": "c",
+                    "label": "Ovaries and masculinized/ambiguous external genitalia."
+                },
+                {
+                    "id": "d",
+                    "label": "Streak gonads and female internal genitalia."
+                },
+                {
+                    "id": "e",
+                    "label": "Testes and female external genitalia."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "A neonate is born with a 46, XY genotype, but it is discovered that the Sex-determining Region Y (SRY) gene was deleted during meiosis. Which of the following outcomes describes the expected phenotype of this individual?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Gonadal male with female external genitalia."
+                },
+                {
+                    "id": "b",
+                    "label": "Gonadal female with male internal genitalia."
+                },
+                {
+                    "id": "c",
+                    "label": "Gonadal male with ambiguous genitalia."
+                },
+                {
+                    "id": "d",
+                    "label": "Gonadal female with a female phenotype."
+                },
+                {
+                    "id": "e",
+                    "label": "Gonadal male with no internal reproductive tract."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "During male phenotypic differentiation, which of the following processes specifically requires the conversion of testosterone to a more potent metabolite within the target tissues?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Differentiation of the epididymis."
+                },
+                {
+                    "id": "b",
+                    "label": "Maintenance of the blood-testis barrier."
+                },
+                {
+                    "id": "c",
+                    "label": "Differentiation of the seminal vesicles."
+                },
+                {
+                    "id": "d",
+                    "label": "Differentiation of the vas deferens."
+                },
+                {
+                    "id": "e",
+                    "label": "Differentiation of the penis and scrotum."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "An experimental drug administered during the first trimester of a 46, XY pregnancy successfully blocks the receptors for Antim\u00fcllerian Hormone (AMH). If testosterone production and androgen receptor function remain normal, which of the following would be found in the neonate?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Male external genitalia and the presence of both male and female internal ducts."
+                },
+                {
+                    "id": "b",
+                    "label": "Female external genitalia and the presence of ovaries."
+                },
+                {
+                    "id": "c",
+                    "label": "Male internal genitalia and female external genitalia."
+                },
+                {
+                    "id": "d",
+                    "label": "Ambiguous external genitalia and streak gonads."
+                },
+                {
+                    "id": "e",
+                    "label": "Female internal genitalia and female external genitalia."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "If the enzyme 17,20-lyase is completely non-functional in a 46, XY fetus with a functional SRY gene, which of the following characteristics will still be present at birth?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Growth of the vas deferens."
+                },
+                {
+                    "id": "b",
+                    "label": "Presence of testes."
+                },
+                {
+                    "id": "c",
+                    "label": "Normal development of the prostate."
+                },
+                {
+                    "id": "d",
+                    "label": "Masculinized external genitalia."
+                },
+                {
+                    "id": "e",
+                    "label": "Presence of fallopian tubes."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "In a patient with Androgen Insensitivity Syndrome (AIS), the external genitalia appear female, yet the internal female reproductive tract (uterus and fallopian tubes) is absent. What is the physiological basis for the absence of these internal structures?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "High levels of circulating estrogens during gestation."
+                },
+                {
+                    "id": "b",
+                    "label": "Persistence of M\u00fcllerian Inhibiting Substance (MIS) secretion by Sertoli cells."
+                },
+                {
+                    "id": "c",
+                    "label": "Suppression of the hypothalamic-pituitary-ovarian axis."
+                },
+                {
+                    "id": "d",
+                    "label": "Down-regulation of estrogen receptors in the fetal pelvis."
+                },
+                {
+                    "id": "e",
+                    "label": "Testosterone-mediated conversion of M\u00fcllerian ducts into the vagina."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "A 46, XX fetus is exposed to high levels of exogenous testosterone during the 11th week of gestation, which is after internal ductal differentiation has concluded. Which of the following findings is most likely at birth?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Absence of a uterus."
+                },
+                {
+                    "id": "b",
+                    "label": "Formation of an epididymis."
+                },
+                {
+                    "id": "c",
+                    "label": "Absence of ovaries."
+                },
+                {
+                    "id": "d",
+                    "label": "Enlargement of the clitoris."
+                },
+                {
+                    "id": "e",
+                    "label": "Regression of the fallopian tubes."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "In the absence of the SRY gene, the bipotential undifferentiated gonad will develop into an ovary. Which cell type will subsequently differentiate from the primordial stroma to support oocyte maturation and secrete estrogens?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Sertoli cells."
+                },
+                {
+                    "id": "b",
+                    "label": "Leydig cells."
+                },
+                {
+                    "id": "c",
+                    "label": "Chief cells."
+                },
+                {
+                    "id": "d",
+                    "label": "C cells."
+                },
+                {
+                    "id": "e",
+                    "label": "Granulosa cells."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q11": {
+            "type": "mcq",
+            "prompt": "Imagine a variant of Androgen Insensitivity Syndrome where the mutation affects androgen receptors in the skin and external genitalia but leaves the receptors in the hypothalamus and anterior pituitary fully functional. In this individual, compared to a patient with classic AIS, the circulating levels of Luteinizing Hormone (LH) would be:",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Significantly lower."
+                },
+                {
+                    "id": "b",
+                    "label": "Significantly higher."
+                },
+                {
+                    "id": "c",
+                    "label": "Exactly equal."
+                },
+                {
+                    "id": "d",
+                    "label": "Completely undetectable."
+                },
+                {
+                    "id": "e",
+                    "label": "Dependent solely on FSH levels."
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q12": {
+            "type": "mcq",
+            "prompt": "A genotypic male (46, XY) has a mutation that prevents the conversion of testosterone to dihydrotestosterone (DHT) but does not affect testosterone levels or the SRY gene. Predict the status of the Wolffian duct derivatives (epididymis, vas deferens) in this individual.",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "They will be absent because their differentiation requires DHT."
+                },
+                {
+                    "id": "b",
+                    "label": "They will be present because their differentiation requires only testosterone."
+                },
+                {
+                    "id": "c",
+                    "label": "They will be replaced by M\u00fcllerian structures (uterus, tubes)."
+                },
+                {
+                    "id": "d",
+                    "label": "They will be present but will lack any connection to the testes."
+                },
+                {
+                    "id": "e",
+                    "label": "They will differentiate into a prostate and seminal vesicles."
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q13": {
+            "type": "mcq",
+            "prompt": "The formation of tight junctions between which of the following cell types is essential for creating the blood-testis barrier, which protects developing germ cells from the systemic circulation?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Leydig cells."
+                },
+                {
+                    "id": "b",
+                    "label": "Spermatogonia."
+                },
+                {
+                    "id": "c",
+                    "label": "Sertoli cells."
+                },
+                {
+                    "id": "d",
+                    "label": "Endothelial cells of the testicular capillaries."
+                },
+                {
+                    "id": "e",
+                    "label": "Myoepithelial cells."
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q14": {
+            "type": "mcq",
+            "prompt": "A 46, XY fetus has a mutation that causes the complete failure of the testosterone-receptor complex to bind to Steroid-Responsive Elements (SREs) in the nucleus. Which phenotypic characteristic is expected?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Male internal genitalia."
+                },
+                {
+                    "id": "b",
+                    "label": "Male hair pattern at puberty."
+                },
+                {
+                    "id": "c",
+                    "label": "Normal growth of the prostate gland."
+                },
+                {
+                    "id": "d",
+                    "label": "Development of female-appearing external genitalia."
+                },
+                {
+                    "id": "e",
+                    "label": "Normal sperm maturation in the seminiferous tubules."
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q15": {
+            "type": "mcq",
+            "prompt": "A mutation in a 46, XY fetus prevents the expression of the enzyme 17\u03b2-hydroxysteroid dehydrogenase in the fetal testes. What is the most likely phenotypic consequence at birth?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Hypertrophy of the seminal vesicles."
+                },
+                {
+                    "id": "b",
+                    "label": "Fully masculinized external genitalia."
+                },
+                {
+                    "id": "c",
+                    "label": "Absence of the SRY gene product."
+                },
+                {
+                    "id": "d",
+                    "label": "Development of a normal male internal reproductive tract."
+                },
+                {
+                    "id": "e",
+                    "label": "Failure of the Wolffian ducts to differentiate."
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        }
+    }
+}

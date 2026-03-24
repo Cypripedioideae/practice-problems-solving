@@ -1,0 +1,279 @@
+{
+  "info": {
+    "set_name": "General Virology 8",
+    "description": "",
+    "source": ""
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "A patient with a history of chickenpox in childhood presents as an adult with a painful vesicular rash that follows a specific thoracic dermatome. Shingles is diagnosed, representing a reactivation of the Varicella-Zoster Virus (VZV). In which of the following locations did the virus establish its latent infection following the primary childhood infection?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Memory B lymphocytes"
+        },
+        {
+          "id": "b",
+          "label": "Monocytes and hematopoietic stem cells"
+        },
+        {
+          "id": "c",
+          "label": "Sensory nerve ganglia, such as the dorsal root ganglia"
+        },
+        {
+          "id": "d",
+          "label": "Vascular endothelial cells of the epidermis"
+        },
+        {
+          "id": "e",
+          "label": "Myeloid progenitor cells in the bone marrow"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q2": {
+      "type": "mcq",
+      "prompt": "A patient with recurrent genital herpes lesions has been treated with multiple courses of acyclovir. Recently, the lesions have failed to respond to standard therapy, and drug resistance is suspected. Which of the following is the most common primary mechanism of resistance developed by Herpes Simplex Virus (HSV) strains against acyclovir?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Mutations in the viral DNA polymerase preventing nucleoside binding"
+        },
+        {
+          "id": "b",
+          "label": "Deletion or mutation of the viral-encoded thymidine kinase"
+        },
+        {
+          "id": "c",
+          "label": "Overexpression of viral neuraminidase to promote faster viral egress"
+        },
+        {
+          "id": "d",
+          "label": "Alteration of the gp41 transmembrane protein to prevent drug entry"
+        },
+        {
+          "id": "e",
+          "label": "Upregulation of host cell efflux pumps to remove the drug from the cytoplasm"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q3": {
+      "type": "mcq",
+      "prompt": "In the management of a patient with HIV, the clinician considers the pharmacological properties of various reverse transcriptase inhibitors. Which of the following correctly differentiates the classification of tenofovir from lamivudine?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Tenofovir is a non-nucleoside inhibitor (NNRTI) while lamivudine is a nucleoside inhibitor (NRTI)"
+        },
+        {
+          "id": "b",
+          "label": "Lamivudine targets the viral integrase enzyme while tenofovir targets reverse transcriptase"
+        },
+        {
+          "id": "c",
+          "label": "Tenofovir is a nucleotide analog while lamivudine is a nucleoside analog"
+        },
+        {
+          "id": "d",
+          "label": "Tenofovir requires initial activation by a viral kinase while lamivudine does not"
+        },
+        {
+          "id": "e",
+          "label": "Lamivudine causes DNA chain termination while tenofovir inhibits viral maturation"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q4": {
+      "type": "mcq",
+      "prompt": "Palivizumab is a monoclonal antibody used as prophylaxis to prevent severe lower respiratory tract disease in high-risk premature infants. What is the mechanism of action by which this agent prevents infection by the Respiratory Syncytial Virus (RSV)?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Inhibition of the viral RNA-dependent RNA polymerase"
+        },
+        {
+          "id": "b",
+          "label": "Blockade of the viral fusion (F) protein to prevent syncytia formation"
+        },
+        {
+          "id": "c",
+          "label": "Neutralization of viral neuraminidase to prevent the release of progeny virions"
+        },
+        {
+          "id": "d",
+          "label": "Competitive inhibition of the M2 proton channel to prevent uncoating"
+        },
+        {
+          "id": "e",
+          "label": "Interference with the binding of viral hemagglutinin to sialic acid"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q5": {
+      "type": "mcq",
+      "prompt": "A 35-year-old HIV-positive patient is being treated with an antiretroviral regimen that includes zidovudine (AZT). The clinician monitors the patient's complete blood count closely due to a well-known adverse effect of this medication. What is the primary dose-limiting toxicity associated with the use of zidovudine?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Crystalline-induced obstructive nephropathy"
+        },
+        {
+          "id": "b",
+          "label": "Reversible sensory peripheral neuropathy"
+        },
+        {
+          "id": "c",
+          "label": "Myelosuppression resulting in anemia and neutropenia"
+        },
+        {
+          "id": "d",
+          "label": "Acute pancreatitis and systemic lactic acidosis"
+        },
+        {
+          "id": "e",
+          "label": "Stevens-Johnson syndrome and toxic epidermal necrolysis"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q6": {
+      "type": "mcq",
+      "prompt": "Ribavirin is an antiviral agent used as an adjunct or in the treatment of severe cases of Respiratory Syncytial Virus (RSV). What is the primary biochemical mechanism of action for ribavirin?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Inhibition of the enzyme inosine monophosphate dehydrogenase to deplete guanine pools"
+        },
+        {
+          "id": "b",
+          "label": "Blockade of the gp41-mediated fusion of the viral envelope with host membranes"
+        },
+        {
+          "id": "c",
+          "label": "Competitive inhibition of the HIV-1 protease active site"
+        },
+        {
+          "id": "d",
+          "label": "Neutralization of the acidic environment of endosomes to prevent viral uncoating"
+        },
+        {
+          "id": "e",
+          "label": "Direct inhibition of host cell ribosomal protein synthesis"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "HIV Protease Inhibitors, such as saquinavir and ritonavir, are critical components of highly active antiretroviral therapy (HAART). How do these drugs specifically interfere with the production of infectious viral progeny?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Prevention of the integration of viral cDNA into the host cell chromosome"
+        },
+        {
+          "id": "b",
+          "label": "Blockade of the cleavage of Gag-Pol polyproteins into functional structural units"
+        },
+        {
+          "id": "c",
+          "label": "Inhibition of the docking step between the viral gp120 and the host CCR5 coreceptor"
+        },
+        {
+          "id": "d",
+          "label": "Interference with the initiation of negative-strand DNA synthesis from RNA"
+        },
+        {
+          "id": "e",
+          "label": "Competitive inhibition of the host cell RNA polymerase II enzyme"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q8": {
+      "type": "mcq",
+      "prompt": "Entry inhibitors represent a class of antiretroviral drugs that act at the cell surface. Which of the following describes the mechanism of action for enfuvirtide?",
+      "options": [
+        {
+          "id": "a",
+          "label": "It binds to the host CCR5 coreceptor to block viral docking"
+        },
+        {
+          "id": "b",
+          "label": "It inhibits the integrase enzyme to prevent the formation of the provirus"
+        },
+        {
+          "id": "c",
+          "label": "It binds to the viral gp41 protein to inhibit viral envelope fusion"
+        },
+        {
+          "id": "d",
+          "label": "It acts as a guanosine analog to cause premature DNA chain termination"
+        },
+        {
+          "id": "e",
+          "label": "It prevents the attachment of the viral gp120 glycoprotein to the host CD4 receptor"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q9": {
+      "type": "mcq",
+      "prompt": "A patient with HIV who has been managed with highly active antiretroviral therapy (HAART) containing protease inhibitors for several years presents for a routine check-up. Which common metabolic adverse effect is associated with the long-term use of this drug class?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Development of severe hemolytic anemia"
+        },
+        {
+          "id": "b",
+          "label": "Systemic lactic acidosis and hepatic steatosis"
+        },
+        {
+          "id": "c",
+          "label": "Hyperglycemia and abnormal fat redistribution (lipodystrophy)"
+        },
+        {
+          "id": "d",
+          "label": "Significant hypocalcemia leading to cardiac arrhythmias"
+        },
+        {
+          "id": "e",
+          "label": "Obstructive crystalline nephropathy and acute kidney injury"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q10": {
+      "type": "mcq",
+      "prompt": "In the replication cycle of a retrovirus like HIV, the viral enzyme integrase plays a vital role after the viral genome has entered the host cell nucleus. Which step is directly facilitated by this enzyme?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Cleavage of the Gag-Pol polyprotein into mature, functional units"
+        },
+        {
+          "id": "b",
+          "label": "Reverse transcription of viral RNA into double-stranded DNA"
+        },
+        {
+          "id": "c",
+          "label": "Insertion of the viral DNA genome into the host cell chromosome"
+        },
+        {
+          "id": "d",
+          "label": "Attachment of the viral envelope to the host cell CD4 receptor"
+        },
+        {
+          "id": "e",
+          "label": "Synthesis of viral mRNA from the integrated provirus template"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    }
+  }
+}

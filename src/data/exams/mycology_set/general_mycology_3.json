@@ -1,0 +1,279 @@
+{
+  "info": {
+    "set_name": "General Mycology 3",
+    "description": "-",
+    "source": "-"
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "A 40-year-old immunocompromised patient is diagnosed with meningitis caused by *Cryptococcus neoformans*. Which of the following is a recognized virulence factor for this causative agent?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Amidase"
+        },
+        {
+          "id": "b",
+          "label": "Cord factor"
+        },
+        {
+          "id": "c",
+          "label": "Melanin"
+        },
+        {
+          "id": "d",
+          "label": "Phospholipase C"
+        },
+        {
+          "id": "e",
+          "label": "Pyocyanin"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q2": {
+      "type": "mcq",
+      "prompt": "A 45-year-old patient with onychomycosis is being considered for systemic therapy with an azole antifungal. The physician considered itraconazole but after further examination, it is discarded and replaced with other medication. Which of the following pre-existing conditions is a recognized relative contraindication for this treatment?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Chronic obstructive pulmonary disease"
+        },
+        {
+          "id": "b",
+          "label": "Congestive heart failure"
+        },
+        {
+          "id": "c",
+          "label": "Hyperthyroidism"
+        },
+        {
+          "id": "d",
+          "label": "Nephrolithiasis"
+        },
+        {
+          "id": "e",
+          "label": "Peptic ulcer disease"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q3": {
+      "type": "mcq",
+      "prompt": "An HIV-positive patient with a CD4+ count of 150 cells/mm^3 presents with a nonproductive cough and bilateral ground-glass opacities on chest imaging. A Gomori methenamine silver (GMS) stain of bronchoalveolar lavage fluid is performed to visualize the suspected causative agent, *Pneumocystis jirovecii*. Which of the following morphological features is characteristic of the mature cyst form in this stain?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Budding yeast with a narrow base"
+        },
+        {
+          "id": "b",
+          "label": "Cigar-shaped yeast"
+        },
+        {
+          "id": "c",
+          "label": "Fission yeast"
+        },
+        {
+          "id": "d",
+          "label": "Disc-shaped yeast"
+        },
+        {
+          "id": "e",
+          "label": "Spherules filled with endospores"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q4": {
+      "type": "mcq",
+      "prompt": "A patient from Southeast Asia with AIDS presents with fever, weight loss, and several central umbilicated skin papules. A biopsy of a skin lesion reveals numerous intracellular organisms that replicate by fission. Which of the following is the most likely causative agent?",
+      "options": [
+        {
+          "id": "a",
+          "label": "*Blastomyces dermatitidis*"
+        },
+        {
+          "id": "b",
+          "label": "*Candida albicans*"
+        },
+        {
+          "id": "c",
+          "label": "*Cryptococcus neoformans*"
+        },
+        {
+          "id": "d",
+          "label": "*Histoplasma capsulatum*"
+        },
+        {
+          "id": "e",
+          "label": "*Talaromyces marneffei*"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q5": {
+      "type": "mcq",
+      "prompt": "A 42-year-old farm worker presents with eye pain, redness, and blurred vision in his right eye after being struck by a plant branch. Physical examination reveals a corneal ulcer. A scraping of the lesion is performed, and microscopic examination shows branching, hyaline, septate hyphae. Which of the following species is most likely the causative agent?",
+      "options": [
+        {
+          "id": "a",
+          "label": "*Candida* spp."
+        },
+        {
+          "id": "b",
+          "label": "*Mucor* spp."
+        },
+        {
+          "id": "c",
+          "label": "*Aspergillus* spp. "
+        },
+        {
+          "id": "d",
+          "label": "*Fusarium* spp."
+        },
+        {
+          "id": "e",
+          "label": "*Scedosporium* spp."
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q6": {
+      "type": "mcq",
+      "prompt": "A 10-year-old child presents with a scaly, non-inflammatory \"gray patch\" of hair loss on the scalp. A Wood light examination is performed and reveals fluorescent yellow-green hair shafts. Which of the following fungal genera is most likely responsible for this infection?",
+      "options": [
+        {
+          "id": "a",
+          "label": "*Aspergillus* spp."
+        },
+        {
+          "id": "b",
+          "label": "*Epidermophyton* spp."
+        },
+        {
+          "id": "c",
+          "label": "*Microsporum* spp."
+        },
+        {
+          "id": "d",
+          "label": "*Rhizopus* spp."
+        },
+        {
+          "id": "e",
+          "label": "*Trichophyton* spp."
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "A laboratory technician observes a mold isolated from a diabetic patient with rhinocerebral disease. The microscopic examination reveals hyphae that are broad, irregular, and non-septate, branching at wide angles. These features are most characteristic of which group of fungi?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Ascomycetes"
+        },
+        {
+          "id": "b",
+          "label": "Basidiomycetes"
+        },
+        {
+          "id": "c",
+          "label": "Dermatophytes"
+        },
+        {
+          "id": "d",
+          "label": "Hyaline septate molds"
+        },
+        {
+          "id": "e",
+          "label": "Mucormycetes"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q8": {
+      "type": "mcq",
+      "prompt": "Dermatophytes such as *Trichophyton rubrum* are specialized to infect keratinized tissues including skin, hair, and nails. Which of the following enzymes is used by these fungi to invade the stratum corneum by breaking down its primary protein component?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Amidase"
+        },
+        {
+          "id": "b",
+          "label": "Catalase"
+        },
+        {
+          "id": "c",
+          "label": "Keratinase"
+        },
+        {
+          "id": "d",
+          "label": "Lipase"
+        },
+        {
+          "id": "e",
+          "label": "Superoxide dismutase"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q9": {
+      "type": "mcq",
+      "prompt": "A patient with cryptococcal meningitis is started on an induction regimen consisting of amphotericin B and 5-fluorocytosine (flucytosine). Which of the following adverse effects is associated with flucytosine therapy and requires close monitoring?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Reversible bone marrow suppression"
+        },
+        {
+          "id": "b",
+          "label": "Infusion-related \"shake and bake\" reactions"
+        },
+        {
+          "id": "c",
+          "label": "Nephrotoxicity with hypokalemia"
+        },
+        {
+          "id": "d",
+          "label": "Optic neuritis"
+        },
+        {
+          "id": "e",
+          "label": "Red-orange discoloration of secretions"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q10": {
+      "type": "mcq",
+      "prompt": "An agricultural worker in a tropical region presents with small, white, soft nodules that are easily removed from the hair shafts of his scalp. Which of the following organisms is the most likely cause of this condition?",
+      "options": [
+        {
+          "id": "a",
+          "label": "*Exophiala dermatitidis*"
+        },
+        {
+          "id": "b",
+          "label": "*Malassezia furfur*"
+        },
+        {
+          "id": "c",
+          "label": "*Microsporum canis*"
+        },
+        {
+          "id": "d",
+          "label": "*Trichophyton rubrum*"
+        },
+        {
+          "id": "e",
+          "label": "*Trichosporon* spp."
+        }
+      ],
+      "correctOptionIds": ["e"]
+    }
+  }
+}

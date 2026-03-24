@@ -1,0 +1,255 @@
+{
+    "info": {
+        "set_name": "Cardiovascular Comprehensive Set 1: Microcirculation and Lymphatics (Short answer)",
+        "source": "Costanzo"
+    },
+    "questions": {
+        "q1": {
+            "type": "short_answer",
+            "prompt": "What is the primary mechanism for the exchange of O_2 and CO_2 across capillary walls?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Simple diffusion through the endothelial cell membranes."
+            ]
+        },
+        "q2": {
+            "type": "short_answer",
+            "prompt": "How do water-soluble substances like glucose and amino acids typically cross the capillary endothelium?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Through water-filled clefts (pores) between the endothelial cells."
+            ]
+        },
+        "q3": {
+            "type": "short_answer",
+            "prompt": "Define the filtration coefficient (K_f) in the context of the Starling equation.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It represents the water permeability or hydraulic conductance of the capillary wall."
+            ]
+        },
+        "q4": {
+            "type": "short_answer",
+            "prompt": "Which Starling force is the primary driver of fluid filtration out of the capillary?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Capillary hydrostatic pressure (P_c)."
+            ]
+        },
+        "q5": {
+            "type": "short_answer",
+            "prompt": "Explain why capillary oncotic pressure (\u03c0_c) is considered a force that opposes filtration.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It is the effective osmotic pressure of capillary blood due to plasma proteins, which stay in the vessel and create a force that draws water back into the capillary."
+            ]
+        },
+        "q6": {
+            "type": "short_answer",
+            "prompt": "Why does capillary hydrostatic pressure (P_c) typically decrease from the arteriolar end to the venous end of a capillary?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It falls because of the frictional resistance to flow as blood moves through the vessel."
+            ]
+        },
+        "q7": {
+            "type": "short_answer",
+            "prompt": "What is the typical value of interstitial hydrostatic pressure (P_i) in most tissues, and what is its role in fluid movement?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It is normally close to zero (or slightly negative) and acts as a force opposing filtration if positive."
+            ]
+        },
+        "q8": {
+            "type": "short_answer",
+            "prompt": "Describe the \"reflection coefficient\" (\u03c3) and its significance for the effective osmotic pressure.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It is a dimensionless number (0 to 1) describing the ease with which a solute crosses a membrane; a value of 1.0 means the solute is impermeable and exerts its full osmotic effect."
+            ]
+        },
+        "q9": {
+            "type": "short_answer",
+            "prompt": "What happens to the net fluid movement (J_v) if the sum of the Starling forces results in a negative value?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Net absorption of fluid from the interstitium into the capillary will occur."
+            ]
+        },
+        "q10": {
+            "type": "short_answer",
+            "prompt": "How does a significant decrease in plasma protein concentration, as seen in liver failure, affect the Starling forces?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It decreases the capillary oncotic pressure (\u03c0_c), which reduces the force opposing filtration and increases fluid movement into the interstitium."
+            ]
+        },
+        "q11": {
+            "type": "short_answer",
+            "prompt": "Which type of specialized capillaries found in the liver and bone marrow are characterized by wide intercellular clefts that allow protein passage?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Sinusoids."
+            ]
+        },
+        "q12": {
+            "type": "short_answer",
+            "prompt": "What is the role of the lymphatic system in maintaining interstitial fluid balance?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It returns excess filtered fluid and filtered proteins from the interstitium back to the vascular compartment."
+            ]
+        },
+        "q13": {
+            "type": "short_answer",
+            "prompt": "How do lymphatic capillaries ensure the unidirectional flow of lymph?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Through one-way flap valves and the use of a smooth muscle wall that contracts."
+            ]
+        },
+        "q14": {
+            "type": "short_answer",
+            "prompt": "Define \"edema\" in terms of the balance between capillary filtration and lymphatic drainage.",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "Edema occurs when the volume of interstitial fluid filtered exceeds the capacity of the lymphatics to return it to the circulation."
+            ]
+        },
+        "q15": {
+            "type": "short_answer",
+            "prompt": "How does arteriolar constriction reduce the likelihood of edema formation?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It decreases capillary hydrostatic pressure (P_c), thereby decreasing net filtration."
+            ]
+        },
+        "q16": {
+            "type": "short_answer",
+            "prompt": "Explain the effect of increased venous pressure on capillary hydrostatic pressure (P_c).",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It leads to an increase in P_c, which favors filtration out of the capillary."
+            ]
+        },
+        "q17": {
+            "type": "short_answer",
+            "prompt": "What is the \"triple response\" in the skin, and which vasoactive substance is primarily responsible for the resulting \"wheal\"?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "A red line, a red flare, and a wheal; the wheal is caused by histamine."
+            ]
+        },
+        "q18": {
+            "type": "short_answer",
+            "prompt": "By what mechanism does nitric oxide (NO) produce local relaxation of vascular smooth muscle?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It activates guanylate cyclase, leading to the production of cyclic GMP (cGMP)."
+            ]
+        },
+        "q19": {
+            "type": "short_answer",
+            "prompt": "How does histamine affect the Starling forces to produce local edema at the site of tissue trauma?",
+            "options": [
+                {
+                    "id": "text_input",
+                    "label": ""
+                }
+            ],
+            "correctOptionIds": [
+                "It causes arteriolar dilation and venous constriction, which significantly increases Pc and favors filtration."
+            ]
+        }
+    }
+}
