@@ -5,7 +5,7 @@ import react from "@vitejs/plugin-react";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "/practice-problems-solving",
+  base: "/practice-problems-solving/",
   server: {
     allowedHosts: ["johnson-insertable-nonsynonymously.ngrok-free.dev"],
   },
