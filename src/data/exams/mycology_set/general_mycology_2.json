@@ -1,7 +1,7 @@
 {
   "info": {
     "set_name": "General Mycology 2",
-    "description": "-",
+    "description": "This problem set focuses on fungal pathogens and antifungal agents. The difficulty may vary a lot through out the set, since this set contains a mix of four different cognitive levels of complexity (recall, understand, apply, analyze). The questions are already reviewed, so mistakes should have already been minimized, but if you come across one, you can report through the Forms in the \"Info and Links\".",
     "source": "-"
   },
   "questions": {
@@ -250,7 +250,7 @@
     },
     "q10": {
       "type": "mcq",
-      "prompt": "A 7-year-old child presents with a scaly, itchy patch of hair loss on the scalp. The clinician examines the area with a Wood light and observes yellow-green fluorescence. Which of the following fungal genera is most likely responsible for this infection?",
+      "prompt": "A 7-year-old child presents with a scaly, itchy patch of hair loss on the scalp. The parents note that the child recently began playing with a stray kitten found in the neighborhood. Which of the following fungal genera is most likely responsible for this infection?",
       "options": [
         {
           "id": "a",

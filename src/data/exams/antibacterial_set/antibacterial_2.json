@@ -1,6 +1,7 @@
 {
   "info": {
     "set_name": "Antibacterial Agents 2",
+    "description": "This problem set focuses on usage and mechanisms of antibacterial agents. The questions are already reviewed, so mistakes should have already been minimized, but if you come across one, you can report through the Forms in the \"Info and Links\".",
     "source": "-"
   },
   "questions": {
@@ -118,7 +119,7 @@
       "options": [
         {
           "id": "a",
-          "label": "Sulfamethoxazole (as part of TMP-SMX)"
+          "label": "Sulfamethoxazole"
         },
         {
           "id": "b",
@@ -141,7 +142,7 @@
     },
     "q6": {
       "type": "mcq",
-      "prompt": "A patient being treated for pulmonary tuberculosis develops reduced visual acuity and an inability to distinguish red from green. Which of the following drugs is responsible for this effect by inhibiting arabinosyl transferase?",
+      "prompt": "A patient being treated for pulmonary tuberculosis develops reduced visual acuity and an inability to distinguish red from green. Which of the following drugs is responsible for this effect?",
       "options": [
         {
           "id": "a",
@@ -195,7 +196,7 @@
     },
     "q8": {
       "type": "mcq",
-      "prompt": "For which of the following clinical reasons is nitrofurantoin contraindicated in patients with a creatinine clearance (CrCl) less than 60 mL/min?",
+      "prompt": "For which of the following clinical reasons is nitrofurantoin contraindicated in patients with a creatinine clearance (Cr_(Cl)) less than 60 mL/min?",
       "options": [
         {
           "id": "a",
@@ -203,7 +204,7 @@
         },
         {
           "id": "b",
-          "label": "Low plasma levels resulting in insufficient urinary concentration"
+          "label": "Failure to achieve therapeutic concentrations in the urine"
         },
         {
           "id": "c",

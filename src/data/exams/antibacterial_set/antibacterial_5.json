@@ -1,6 +1,7 @@
 {
   "info": {
     "set_name": "Antibacterial Agents 5",
+    "description": "This problem set focuses on usage and mechanisms of antibacterial agents. The questions are already reviewed, so mistakes should have already been minimized, but if you come across one, you can report through the Forms in the \"Info and Links\".",
     "source": "-"
   },
   "questions": {
@@ -168,7 +169,7 @@
     },
     "q7": {
       "type": "mcq",
-      "prompt": "A 72-year-old male with a history of hypertension is prescribed an oral antimicrobial agent for the treatment of community-acquired pneumonia. Four days later, he is brought to the emergency department after experiencing a sudden episode of palpitations followed by a brief loss of consciousness. An electrocardiogram performed upon arrival demonstrates a significantly prolonged QTc interval and an intermittent ventricular arrhythmia. Which of the following drugs is most likely responsible for this patient's presentation??",
+      "prompt": "A 72-year-old male with a history of hypertension is prescribed an oral antimicrobial agent for the treatment of community-acquired pneumonia. Four days later, he is brought to the emergency department after experiencing a sudden episode of palpitations followed by a brief loss of consciousness. An electrocardiogram performed upon arrival demonstrates a significantly prolonged QTc interval and an intermittent ventricular arrhythmia. Which of the following drugs is most likely responsible for this patient's presentation?",
       "options": [
         {
           "id": "a",

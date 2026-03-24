@@ -1,7 +1,7 @@
 {
   "info": {
     "set_name": "General Mycology 3",
-    "description": "-",
+    "description": "This problem set focuses on fungal pathogens and antifungal agents. The difficulty may vary a lot through out the set, since this set contains a mix of four different cognitive levels of complexity (recall, understand, apply, analyze). The questions are already reviewed, so mistakes should have already been minimized, but if you come across one, you can report through the Forms in the \"Info and Links\".",
     "source": "-"
   },
   "questions": {
@@ -142,27 +142,27 @@
     },
     "q6": {
       "type": "mcq",
-      "prompt": "A 10-year-old child presents with a scaly, non-inflammatory \"gray patch\" of hair loss on the scalp. A Wood light examination is performed and reveals fluorescent yellow-green hair shafts. Which of the following fungal genera is most likely responsible for this infection?",
+      "prompt": "A patient is prescribed intravenous pentamidine for the treatment of *Pneumocystis jirovecii* pneumonia. Which of the following best describes the mechanism of action for this medication?",
       "options": [
         {
           "id": "a",
-          "label": "*Aspergillus* spp."
+          "label": "Inhibition of the folic acid pathway"
         },
         {
           "id": "b",
-          "label": "*Epidermophyton* spp."
+          "label": "Disruption of fungal cell mitosis by binding to tubulin"
         },
         {
           "id": "c",
-          "label": "*Microsporum* spp."
+          "label": "Inhibition of DNA, RNA, and protein synthesis"
         },
         {
           "id": "d",
-          "label": "*Rhizopus* spp."
+          "label": "Binding to ergosterol to increase membrane permeability"
         },
         {
           "id": "e",
-          "label": "*Trichophyton* spp."
+          "label": "Inhibition of \u03b2-glucan synthesis in the cell wall"
         }
       ],
       "correctOptionIds": ["c"]

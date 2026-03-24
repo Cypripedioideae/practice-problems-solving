@@ -1,12 +1,13 @@
 {
   "info": {
     "set_name": "Antibacterial Agents 4",
+    "description": "This problem set focuses on usage and mechanisms of antibacterial agents. The questions are already reviewed, so mistakes should have already been minimized, but if you come across one, you can report through the Forms in the \"Info and Links\".",
     "source": "-"
   },
   "questions": {
     "q1": {
       "type": "mcq",
-      "prompt": "A 68-year-old female is hospitalized for a complicated intra-abdominal infection. Culture results identify an extended-spectrum β-lactamase (ESBL) producing *Escherichia coli*. The patient is initiated on aantimicrobial agent that is considered the drug of choice for this resistance pattern. Shortly after starting the medication, the patient experiences a generalized tonic-clonic seizure. Which of the following agents was most likely administered?",
+      "prompt": "A 68-year-old female is hospitalized for a complicated intra-abdominal infection. Culture results identify an extended-spectrum β-lactamase (ESBL) producing *Escherichia coli*. The patient is initiated on an antimicrobial agent that is considered the drug of choice for this resistance pattern. Shortly after starting the medication, the patient experiences a generalized tonic-clonic seizure. Which of the following agents was most likely administered?",
       "options": [
         {
           "id": "a",

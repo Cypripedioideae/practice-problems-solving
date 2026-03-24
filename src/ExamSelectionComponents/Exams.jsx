@@ -205,8 +205,6 @@ import antibacterial_5 from "../data/exams/antibacterial_set/antibacterial_5.jso
 import antibacterial_6 from "../data/exams/antibacterial_set/antibacterial_6.json";
 import antibacterial_7 from "../data/exams/antibacterial_set/antibacterial_7.json";
 import antibacterial_8 from "../data/exams/antibacterial_set/antibacterial_8.json";
-import antibacterial_9 from "../data/exams/antibacterial_set/antibacterial_9.json";
-import antibacterial_10 from "../data/exams/antibacterial_set/antibacterial_10.json";
 import general_mycology_1 from "../data/exams/mycology_set/general_mycology_1.json";
 import general_mycology_2 from "../data/exams/mycology_set/general_mycology_2.json";
 import general_mycology_3 from "../data/exams/mycology_set/general_mycology_3.json";
@@ -488,8 +486,6 @@ export default function Exams({ topicName, onSelection }) {
       antibacterial_6,
       antibacterial_7,
       antibacterial_8,
-      antibacterial_9,
-      antibacterial_10,
     ],
     general_mycology: [
       general_mycology_1,
@@ -504,25 +500,25 @@ export default function Exams({ topicName, onSelection }) {
       general_mycology_10,
     ],
     general_virology: [
-      general_virology_1,
-      general_virology_2,
-      general_virology_3,
-      general_virology_4,
-      general_virology_5,
-      general_virology_6,
-      general_virology_7,
-      general_virology_8,
-      general_virology_9,
-      general_virology_10,
+      // general_virology_1,
+      // general_virology_2,
+      // general_virology_3,
+      // general_virology_4,
+      // general_virology_5,
+      // general_virology_6,
+      // general_virology_7,
+      // general_virology_8,
+      // general_virology_9,
+      // general_virology_10,
     ],
     general_parasitology: [
-      general_parasitology_1,
-      general_parasitology_2,
-      general_parasitology_3,
-      general_parasitology_4,
-      general_parasitology_5,
-      general_parasitology_6,
-      general_parasitology_7,
+      // general_parasitology_1,
+      // general_parasitology_2,
+      // general_parasitology_3,
+      // general_parasitology_4,
+      // general_parasitology_5,
+      // general_parasitology_6,
+      // general_parasitology_7,
       // general_parasitology_8,
       // general_parasitology_9,
       // general_parasitology_10,

@@ -1,12 +1,13 @@
 {
   "info": {
     "set_name": "Antibacterial Agents 6",
+    "description": "This problem set focuses on usage and mechanisms of antibacterial agents. The questions are already reviewed, so mistakes should have already been minimized, but if you come across one, you can report through the Forms in the \"Info and Links\".",
     "source": "-"
   },
   "questions": {
     "q1": {
       "type": "mcq",
-      "prompt": "Which glycylcycline antibiotic binds to the 30S ribosomal subunit and is specifically indicated for the treatment of multidrug-resistant organisms such as MRSA and VRE?",
+      "prompt": "Which antibiotic binds to the 30S ribosomal subunit and is specifically indicated for the treatment of multidrug-resistant organisms such as MRSA and VRE?",
       "options": [
         {
           "id": "a",
@@ -122,7 +123,7 @@
         },
         {
           "id": "b",
-          "label": "PGS"
+          "label": "Penicillin G"
         },
         {
           "id": "c",
@@ -168,7 +169,7 @@
     },
     "q7": {
       "type": "mcq",
-      "prompt": "A 45-year-old male is diagnosed with subacute endocarditis caused by Enterococcus faecalis. To achieve a synergistic bactericidal effect, the physician prescribes a combination of ampicillin and gentamicin. Which of the following best explains the rationale for adding ampicillin to the treatment regimen?",
+      "prompt": "A 45-year-old male is diagnosed with subacute endocarditis caused by *Enterococcus faecalis*. To achieve a synergistic bactericidal effect, the physician prescribes a combination of ampicillin and gentamicin. Which of the following best explains the rationale for adding ampicillin to the treatment regimen?",
       "options": [
         {
           "id": "a",
@@ -265,7 +266,7 @@
         },
         {
           "id": "d",
-          "label": "Erythromycin"
+          "label": "Azithromycin"
         },
         {
           "id": "e",

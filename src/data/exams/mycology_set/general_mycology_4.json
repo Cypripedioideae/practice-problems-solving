@@ -1,40 +1,40 @@
 {
   "info": {
     "set_name": "General Mycology 4",
-    "description": "-",
+    "description": "This problem set focuses on fungal pathogens and antifungal agents. The difficulty may vary a lot through out the set, since this set contains a mix of four different cognitive levels of complexity (recall, understand, apply, analyze). The questions are already reviewed, so mistakes should have already been minimized, but if you come across one, you can report through the Forms in the \"Info and Links\".",
     "source": "-"
   },
   "questions": {
     "q1": {
       "type": "mcq",
-      "prompt": "A 45-year-old renal transplant recipient receiving long-term fluconazole prophylaxis develops a breakthrough bloodstream infection. The laboratory isolates *Candida glabrata*. According to the provided documents, which of the following molecular mechanisms is most likely responsible for the azole resistance in this specific species? CHECK IF THIS IS TOO HARD",
+      "prompt": "A laboratory is classifying various pathogenic fungi based on their morphology in clinical specimens. An organism is identified as a monomorphic mold with hyaline septate hyphae that lacks specific structures such as arthroconidia. Which of the following fits this description?",
       "options": [
         {
           "id": "a",
-          "label": "Alteration of the cell wall 1,3-\u03b2-D-glucan"
+          "label": "*Trichophyton*"
         },
         {
           "id": "b",
-          "label": "Destruction of the drug by extracellular \u03b2-lactamases"
+          "label": "*Microsporum*"
         },
         {
           "id": "c",
-          "label": "Modification of the terminal pentapeptide chain"
+          "label": "*Talaromyces*"
         },
         {
           "id": "d",
-          "label": "Mutation in the DNA-dependent RNA polymerase"
+          "label": "*Histoplasma*"
         },
         {
           "id": "e",
-          "label": "Upregulation of drug efflux pumps"
+          "label": "*Scedosporium*"
         }
       ],
       "correctOptionIds": ["e"]
     },
     "q2": {
       "type": "mcq",
-      "prompt": "A thermally dimorphic fungus is isolated from an HIV-positive patient in Southeast Asia. The organism is observed in tissue as small intracellular yeast-like cells that replicate by fission rather than budding. Which of the following is the most likely causative agent?",
+      "prompt": "A thermally dimorphic fungus is isolated from an HIV-positive patient in Southeast Asia. The organism is observed in tissue as small intracellular yeast-like cells that replicate by fission. Which of the following is the most likely causative agent?",
       "options": [
         {
           "id": "a",

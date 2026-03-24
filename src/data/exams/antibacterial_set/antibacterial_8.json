@@ -1,6 +1,7 @@
 {
   "info": {
     "set_name": "Antibacterial Agents 8",
+    "description": "This problem set focuses on usage and mechanisms of antibacterial agents. The questions are already reviewed, so mistakes should have already been minimized, but if you come across one, you can report through the Forms in the \"Info and Links\".",
     "source": "-"
   },
   "questions": {
@@ -33,27 +34,27 @@
     },
     "q2": {
       "type": "mcq",
-      "prompt": "",
+      "prompt": "A laboratory technician is testing various protein synthesis inhibitors to determine their mode of action. Which of the following agents is uniquely classified as bactericidal rather than bacteriostatic?",
       "options": [
         {
           "id": "a",
-          "label": "DNA-dependent RNA polymerase"
+          "label": "Chloramphenicol"
         },
         {
           "id": "b",
-          "label": "16S ribosomal RNA"
+          "label": "Clindamycin"
         },
         {
           "id": "c",
-          "label": "Peptidoglycan pentapeptide"
+          "label": "Doxycycline"
         },
         {
           "id": "d",
-          "label": "Dihydropteroate synthase"
+          "label": "Azithromycin"
         },
         {
           "id": "e",
-          "label": "23S ribosomal RNA"
+          "label": "Gentamicin"
         }
       ],
       "correctOptionIds": ["e"]

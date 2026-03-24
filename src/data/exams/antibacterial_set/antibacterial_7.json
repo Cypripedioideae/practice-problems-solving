@@ -1,6 +1,7 @@
 {
   "info": {
     "set_name": "Antibacterial Agents 7",
+    "description": "This problem set focuses on usage and mechanisms of antibacterial agents. The questions are already reviewed, so mistakes should have already been minimized, but if you come across one, you can report through the Forms in the \"Info and Links\".",
     "source": "-"
   },
   "questions": {
@@ -114,27 +115,27 @@
     },
     "q5": {
       "type": "mcq",
-      "prompt": "",
+      "prompt": "A microbiology laboratory report confirms the isolation of *Bacteroides fragilis* from a patient's intra-abdominal abscess. The attending physician notes that aminoglycosides, such as gentamicin, are intrinsically ineffective against this organism. Which of the following best describes the mechanism of resistance in this case?",
       "options": [
         {
           "id": "a",
-          "label": "Reduction of drug permeability through porin channel mutations"
+          "label": "Production of aminoglycoside-modifying enzymes"
         },
         {
           "id": "b",
-          "label": "Synthesis of a dipeptide with reduced affinity for glycopeptides"
+          "label": "Methylation of the 16S rRNA ribosomal subunit"
         },
         {
           "id": "c",
-          "label": "Acquisition of the mecA gene encoding an altered PBP2a"
+          "label": "Active efflux of the drug via energy-dependent pumps"
         },
         {
           "id": "d",
-          "label": "Production of \u03b2-lactamases that cleave the antibiotic nucleus"
+          "label": "Alteration of the 30S ribosomal binding site through chromosomal mutation"
         },
         {
           "id": "e",
-          "label": "Production of aminoglycoside-modifying enzymes (AMEs)"
+          "label": "Lack of an oxygen-dependent transport system for drug uptake"
         }
       ],
       "correctOptionIds": ["e"]
