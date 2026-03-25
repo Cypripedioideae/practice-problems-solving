@@ -14,6 +14,7 @@ export default function ExamSelection({
   const updateMedia = () => {
     setWide(window.innerWidth > 1310);
   };
+
   const [isTall, setTall] = useState(window.innerHeight > 650);
   const updateMediaTall = () => {
     setTall(window.innerHeight > 650);
@@ -81,16 +82,16 @@ export default function ExamSelection({
         </section>
         <div className="selection-page:h-full h-1 border-3 border-dashed border-[#2a3543]"></div>
         <section className="selection-page:p-5 flex w-full flex-col overflow-hidden">
-          {/* <div className="flex flex-row items-baseline gap-3 p-5 pt-0 text-left">
-            {topicToggleState === null && isTall === false ? null : (
+          <div className="flex flex-row items-baseline gap-3 p-5 pt-0 text-left">
+            {topicToggleState !== null && isTall ? (
               <p className="text-xl font-bold">
                 &#x2757;
                 <span className="underline">
                   Please give "Info and Links" a read first!
                 </span>
               </p>
-            )}
-          </div> */}
+            ) : null}
+          </div>
           <div className="flex-1 overflow-y-auto">
             {topicToggleState === "physiology" ? (
               <div className="max-selection-page:gap-3 flex w-full flex-col items-start lg:flex-row">

@@ -468,7 +468,7 @@ export default function Exams({ topicName, onSelection }) {
     ],
     case_based_set: [
       case_1_bacteria,
-      // case_2_bacteria
+      case_2_bacteria
     ],
     bacteriology_gen: [
       bacteriology_general_1,

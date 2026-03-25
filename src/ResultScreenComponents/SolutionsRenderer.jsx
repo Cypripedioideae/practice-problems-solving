@@ -1,5 +1,3 @@
-import Markdown from "react-markdown";
-
 export default function SolutionsRenderer({
   questions,
   storedAnswers,
@@ -7,20 +5,6 @@ export default function SolutionsRenderer({
   textFormatter,
 }) {
   const cap = (s) => (s ? s[0].toUpperCase() + s.slice(1) : s);
-  // const renderMarkdown = (label, desc = false) => {
-  //   const nonDescSpan = ({ node, ...rest }) => {
-  //     return <span {...rest} />;
-  //   };
-  //   const descSpan = ({ node, ...rest }) => {
-  //     return <span className="block whitespace-pre-wrap" {...rest} />;
-  //   };
-
-  //   if (desc === true) {
-  //     return <Markdown components={{ p: descSpan }}>{label}</Markdown>;
-  //   } else {
-  //     return <Markdown components={{ p: nonDescSpan }}>{label}</Markdown>;
-  //   }
-  // };
 
   return (
     <div>

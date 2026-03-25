@@ -1,1 +1,1 @@
-﻿# Practice-Problems Solving Platforms
+﻿# Problem-Solving Platform

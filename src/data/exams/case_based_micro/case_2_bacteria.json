@@ -1,1 +1,123 @@
-{}
+{
+  "info": {
+    "set_name": "Case-Based Problems 2 [Bacteria]",
+    "description": "This set of questions contain a constructed patient's history, which serves to give an example of how a disease may be manifested. The questions should be done in order (that is no skipping), in order to maximize learning value.",
+    "persistentInformation": "\tA 28-year-old man presents to the clinic with a painless lesion on his penis that he noticed 10 days ago. He reports recent unprotected sexual contact with a new partner. He denies dysuria, urethral discharge, or systemic symptoms. \n\tOn examination, there is a single, well-demarcated ulcer with a clean base and indurated borders located on the shaft of the penis. The lesion is non-tender. Bilateral, non-tender inguinal lymphadenopathy is present.\n\tDark-field microscopy of fluid obtained from the lesion demonstrates motile spirochetes.",
+    "source": "-"
+  },
+  "questions": {
+    "q1": {
+      "type": "short_answer",
+      "prompt": "What is most likely the diagnosis?",
+      "options": [
+        {
+          "id": "text_input",
+          "label": ""
+        }
+      ],
+      "correctOptionIds": [
+        "Acute rheumatic fever following untreated streptococcal pharyngitis"
+      ]
+    },
+    "q2": {
+      "type": "short_answer",
+      "prompt": "What is the most likely causative organism, and what is its morphology on Gram stain?",
+      "options": [
+        {
+          "id": "text_input",
+          "label": ""
+        }
+      ],
+      "correctOptionIds": [
+        "*Streptococcus pyogenes*, Gram-positive cocci in chains"
+      ]
+    },
+    "q3": {
+      "type": "short_answer",
+      "prompt": "What is the hemolytic pattern of this organism? Which test differentiates it from other organisms with similar morphology and hemolysis, and what is the expected result?",
+      "options": [
+        {
+          "id": "text_input",
+          "label": ""
+        }
+      ],
+      "correctOptionIds": [
+        "\u03b2-hemolytic; bacitracin sensitivity test; organism is bacitracin-sensitive"
+      ]
+    },
+    "q4": {
+      "type": "short_answer",
+      "prompt": "This organism can cause a toxic shock-like syndrome. Which toxin is responsible for this?",
+      "options": [
+        {
+          "id": "text_input",
+          "label": ""
+        }
+      ],
+      "correctOptionIds": ["Streptococcal pyrogenic exotoxins (SpeA, SpeC)"]
+    },
+    "q5": {
+      "type": "short_answer",
+      "prompt": "What are the two major nonsuppurative sequelae of infection with this organism, and which type of infection is each associated with?",
+      "options": [
+        {
+          "id": "text_input",
+          "label": ""
+        }
+      ],
+      "correctOptionIds": [
+        "Acute rheumatic fever, follows pharyngitis only; Poststreptococcal glomerulonephritis, follows pharyngitis or skin infection (impetigo)"
+      ]
+    },
+    "q6": {
+      "type": "short_answer",
+      "prompt": "What is the treatment of choice for pharyngitis caused by this organism?",
+      "options": [
+        {
+          "id": "text_input",
+          "label": ""
+        }
+      ],
+      "correctOptionIds": ["Amoxicillin or penicillin V"]
+    },
+    "q7": {
+      "type": "short_answer",
+      "prompt": "What virulence factors of this organism promote immune evasion?",
+      "options": [
+        {
+          "id": "text_input",
+          "label": ""
+        }
+      ],
+      "correctOptionIds": [
+        "Hyaluronic acid capsule: interferes with phagocytosis. M protein: blocks the binding of complement compoent C3b -> impair phagocytosis."
+      ]
+    },
+    "q8": {
+      "type": "short_answer",
+      "prompt": "Explain the pathophysiology of this patient's condition and identify the type of hypersensitivity reaction involved.",
+      "options": [
+        {
+          "id": "text_input",
+          "label": ""
+        }
+      ],
+      "correctOptionIds": [
+        "Molecular mimicry: antibodies against M protein cross-react with host tissues (heart, joints, CNS), leading to inflammation; this is a type II hypersensitivity reaction"
+      ]
+    },
+    "q9": {
+      "type": "short_answer",
+      "prompt": "[Extra] Why are antistreptolysin O (ASO) titers used instead of antibodies to streptolysin S? Name one additional laboratory test that can detect prior infection.",
+      "options": [
+        {
+          "id": "text_input",
+          "label": ""
+        }
+      ],
+      "correctOptionIds": [
+        "Streptolysin O is antigenic, therefore can cause the body to produce antibodies against this toxin. On the other hand, streptolysin S is not antigenic, so there is no production of antibodies against this toxin, so it cannot be used as a diagnostic test for past *Streptococcus pyogenes* infections. Some other diagnostic tests are anti-DNase B and anti-hyaluronidase for example."
+      ]
+    }
+  }
+}
