@@ -1,1 +1,1 @@
-﻿# Problem-Solving Platform
+# Problem Solving Platform
