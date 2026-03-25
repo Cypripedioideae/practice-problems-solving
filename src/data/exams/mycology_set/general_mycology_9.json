@@ -7,7 +7,7 @@
   "questions": {
     "q1": {
       "type": "mcq",
-      "prompt": "A patient with invasive aspergillosis is being treated with an echinocandin, such as caspofungin, which works by inhibiting 1,3-\u03b2-D-glucan synthase. Which of the following is a recognized adverse effect associated with the administration of this drug class?",
+      "prompt": "A patient with invasive aspergillosis is being treated with an antifungal agent, which works by inhibiting 1,3-\u03b2-D-glucan synthase. Which of the following is a recognized adverse effect associated with the administration of this drug class?",
       "options": [
         {
           "id": "a",
@@ -123,7 +123,7 @@
         },
         {
           "id": "b",
-          "label": "Fluconazole"
+          "label": "Clotrimazole"
         },
         {
           "id": "c",
@@ -135,7 +135,7 @@
         },
         {
           "id": "e",
-          "label": "Trimethoprim-sulfamethoxazole"
+          "label": "Co-trimoxazole"
         }
       ],
       "correctOptionIds": ["e"]
@@ -165,7 +165,7 @@
           "label": "Ketoconazole"
         }
       ],
-      "correctOptionIds": ["e"]
+      "correctOptionIds": ["b"]
     },
     "q7": {
       "type": "mcq",

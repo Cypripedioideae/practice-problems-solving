@@ -61,27 +61,27 @@
     },
     "q3": {
       "type": "mcq",
-      "prompt": "One question on scedosporium",
+      "prompt": "A 58-year-old female with a blood glucose level of 475 mg/dL presents with eye swelling, a frontal headache, and a black necrotic eschar on her face. A biopsy of the tissue is likely to reveal which of the following morphologies",
       "options": [
         {
           "id": "a",
-          "label": "Aspergillus fumigatus"
+          "label": "Hyaline, septate hyphae branching at 45-degree angles"
         },
         {
           "id": "b",
-          "label": "Candida glabrata"
+          "label": "Encapsulated budding yeasts"
         },
         {
           "id": "c",
-          "label": "Cryptococcus neoformans"
+          "label": "Intracellular budding yeasts within macrophages"
         },
         {
           "id": "d",
-          "label": "Pneumocystis jirovecii"
+          "label": "Irregular, broad, non-septate hyphae branching at wide angles"
         },
         {
           "id": "e",
-          "label": "Rhizopus oryzae"
+          "label": "Pseudo-hyphae with germ tube formation at 37\u00b0C"
         }
       ],
       "correctOptionIds": ["d"]

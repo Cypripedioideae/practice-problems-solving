@@ -25,13 +25,11 @@ export default function DisplayMessage({ topicCaller, onBackToSelection }) {
       เซ็ตนี้ประกอบไปด้วยคำถามในวิชา microbiology ซึ่งจะค่อนข้าง
       up-to-date มากกว่าคำถามใน section ของ physiology ซึ่งคำถามต่าง ๆ
       ก็ถูกสร้างโดย NotebookLM
-      และส่วนใหญ่ผมก็ได้ตรวจเช็คแล้วว่าคำถามเหล่านั้นมีข้อบกพร่องหรือจุดที่ควรเปลี่ยนแปลงใด
-      ๆ หรือไม่ ในตอนนี้เซ็ตคำถามที่มีคำอธิบายก็จะมีแค่ Antibacterial
-      Agents 1-3 ซึ่งในการเขียนคำอธิบายนั้นค่อนข้างใช้เวลานาน
-      ดังนั้นก็อยากให้เพื่อน ๆ ที่เข้ามาชมนั้น feedback
-      กลับมาว่าควรจะเขียนเพิ่มหรือไม่ หรือมีอะไรอื่น ๆ
-      ที่อยากให้มีอีกเพิ่มเติมหรือไม่ เพราะเนื่องจากเป็น project ที่ทำคนเดียว
-      ดังนั้น feedback ค่อนข้างสำคัญมากครับ
+      แต่ผมก็ได้ตรวจเช็คแล้วว่าคำถามเหล่านั้นมีข้อบกพร่องหรือจุดที่ควรเปลี่ยนแปลงใด
+      ๆ หรือไม่ หากมีสิ่งใดที่รู้สึกว่าควรทำ ก็อยากให้ feedback เข้ามากันนะครับ 
+      เพราะว่าหนึ่งเรื่องที่ consider อยู่ตอนนี้คือการเขียนคำอธิบายแต่ละข้อ 
+      แต่เนื่องจากเป็น project ที่ทำคนเดียวและการเขียนคำอธิบายค่อนข้างใช้เวลานาน 
+      feedback ที่ได้กลับมาจึงมีประโยชน์มากครับ
     `;
     updateMessage = "none";
   }
@@ -66,17 +64,22 @@ export default function DisplayMessage({ topicCaller, onBackToSelection }) {
           </h1>
           <p className="mb-2 pl-5 text-left">None</p>
           {/* <div className="flex flex-col"></div> */}
-          {/* <div className="flex flex-col">
-            <p>Link สำหรับ feedback ในภาพรวม:</p>
+          <div className="flex flex-col">
+            <p>Link สำหรับ feedback ในภาพรวมหรือ report ข้อสอบที่อาจมีปัญหา:</p>
             <a
-              href=""
+              href="https://forms.gle/m5PsMefXd7doJQPn9"
               target="_blank"
               rel="noopener noreferrer"
-              className="self-start pl-5"
+              className="self-start pl-5 text-blue-300 underline"
             >
-              customize button
+              Google Form สำหรับ feedback หรือ report ข้อสอบ
             </a>
-          </div> */}
+          </div>
+          <img
+            src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXg2NTEwZGhqYjFjeTdxcno5MWR1dXA3Z3BibnRzYWU3OTY4OTg2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1AE8LbiGWJHjXXjEU7/giphy.gif"
+            alt="car"
+            className="m-auto block"
+          />
         </section>
         <div
           onClick={onBackToSelection}

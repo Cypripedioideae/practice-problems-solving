@@ -123,7 +123,7 @@
         },
         {
           "id": "b",
-          "label": "Prolonged QTc interval"
+          "label": "Prolonged QT interval"
         },
         {
           "id": "c",
@@ -169,7 +169,7 @@
     },
     "q7": {
       "type": "mcq",
-      "prompt": "A 29-year-old male with a history of HIV (CD4 count 45 cells/mm³) presents to a clinic in Northern Thailand with a two-week history of fever, a nonproductive cough, and significant weight loss. Physical examination reveals generalized lymphadenopathy, hepatosplenomegaly, and numerous skin lesions consisting of small, centrally umbilicated papules on the face and trunk. A skin biopsy is performed and sent for histopathological evaluation and fungal culture. Histopathological examination of the skin biopsy specimen is likely to reveal which of the following microscopic morphologies?",
+      "prompt": "A 29-year-old male with a history of HIV (CD4 count 45 cells/mm^3) presents to a clinic in Northern Thailand with a two-week history of fever, a nonproductive cough, and significant weight loss. Physical examination reveals generalized lymphadenopathy, hepatosplenomegaly, and numerous skin lesions consisting of small, centrally umbilicated papules on the face and trunk. A skin biopsy is performed; a portion is sent for histopathology and another for fungal culture. The culture, when grown at room temperature, produces a mold colony that secretes a characteristic diffusible red pigment into the medium. Histopathological examination of the skin biopsy specimen is likely to reveal which of the following microscopic morphologies?",
       "options": [
         {
           "id": "a",
@@ -196,7 +196,7 @@
     },
     "q8": {
       "type": "mcq",
-      "prompt": "A 29-year-old male with a history of HIV (CD4 count 45 cells/mm³) presents to a clinic in Northern Thailand with a two-week history of fever, a nonproductive cough, and significant weight loss. Physical examination reveals generalized lymphadenopathy, hepatosplenomegaly, and numerous skin lesions consisting of small, centrally umbilicated papules on the face and trunk. Which of the following is the primary mode of transmission for this fungal infection?",
+      "prompt": "A 29-year-old male with a history of HIV (CD4 count 45 cells/mm^3) presents to a clinic in Northern Thailand with a two-week history of fever, a nonproductive cough, and significant weight loss. Physical examination reveals generalized lymphadenopathy, hepatosplenomegaly, and numerous skin lesions consisting of small, centrally umbilicated papules on the face and trunk. A skin biopsy is performed; a portion is sent for histopathology and another for fungal culture. The culture, when grown at room temperature, produces a mold colony that secretes a characteristic diffusible red pigment into the medium. Which of the following is the primary mode of transmission for this fungal infection?",
       "options": [
         {
           "id": "a",
@@ -231,7 +231,7 @@
         },
         {
           "id": "b",
-          "label": "pH > 4.5; epithelial cells coated with bacteria (clue cells)"
+          "label": "pH > 4.5; presence of clue cells"
         },
         {
           "id": "c",
@@ -243,7 +243,7 @@
         },
         {
           "id": "e",
-          "label": "pH > 5.0; intracellular Gram-negative diplococci"
+          "label": "pH > 5.0; septate hyphae with arthroconidia"
         }
       ],
       "correctOptionIds": ["c"]

@@ -142,11 +142,11 @@
     },
     "q6": {
       "type": "mcq",
-      "prompt": "A 10-day-old neonate presents with adherent white, curd-like plaques on the tongue and buccal mucosa. The physician prescribes a topical antifungal medication formulated as a suspension. Which of the following best describes the pharmacological profile of the agent being administered? ",
+      "prompt": "A 10-day-old neonate presents with adherent white, curd-like plaques on the tongue and buccal mucosa. The physician prescribes a topical antifungal medication formulated as a suspension. Which of the following best describes the pharmacological profile of the agent being administered?",
       "options": [
         {
           "id": "a",
-          "label": "t inhibits \u03b2-(1,3)-D-glucan synthase, resulting in fungal cell wall instability."
+          "label": "It inhibits \u03b2-(1,3)-D-glucan synthase, resulting in fungal cell wall instability."
         },
         {
           "id": "b",
@@ -196,7 +196,7 @@
     },
     "q8": {
       "type": "mcq",
-      "prompt": "A 52-year-old agricultural worker presents with a chronic infection of the skin and nails on his right hand. A laboratory culture of the lesion yields a hyaline septate mold identified as Fusarium. According to the provided sources, which of the following virulence factors is produced by this organism to inhibit host cell-mediated and humoral immunity?",
+      "prompt": "A 52-year-old agricultural worker presents with a chronic infection of the skin and nails on his right hand. A laboratory culture of the lesion yields a hyaline septate mold identified as *Fusarium*. According to the provided sources, which of the following virulence factors is produced by this organism to inhibit host cell-mediated and humoral immunity?",
       "options": [
         {
           "id": "a",

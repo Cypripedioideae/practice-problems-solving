@@ -273,7 +273,7 @@ export default function ExamSelection({
                       setToggleState={setToggleState}
                     />
                   </div>
-                  <div className="ml-5 flex flex-col items-start">
+                  {/* <div className="ml-5 flex flex-col items-start">
                     <DropDownSelection
                       examTopicTitle={"General Virology"}
                       examTopicCaller={"general_virology"}
@@ -290,7 +290,7 @@ export default function ExamSelection({
                       toggleState={toggleState}
                       setToggleState={setToggleState}
                     />
-                  </div>
+                  </div> */}
                 </section>
               </div>
             ) : null}
