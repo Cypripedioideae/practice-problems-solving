@@ -115,81 +115,54 @@
     },
     "q5": {
       "type": "mcq",
-      "prompt": "Hepatitis B virus (HBV) utilizes a unique replication strategy among DNA viruses. Following the entry of the viral genome into the host nucleus and the production of mRNA, which enzymatic process is required to generate the DNA genome of progeny virions?",
+      "prompt": "Individuals who are homozygous for the CCR5-delta 32 mutation exhibit significant natural resistance to infection by common macrophage-tropic strains of HIV. Which specific process of the viral life cycle is fundamentally blocked by this genetic variation?",
       "options": [
         {
           "id": "a",
-          "label": "Semiconservative DNA replication by host cell DNA polymerase"
+          "label": "Production of high-titer neutralizing anti-envelope antibodies"
         },
         {
           "id": "b",
-          "label": "Reverse transcription of a pregenomic RNA intermediate into DNA"
+          "label": "Docking and entry mediated by the coreceptor interaction"
         },
         {
           "id": "c",
-          "label": "Integration of the viral DNA into the host chromosome via integrase"
+          "label": "Intracellular degradation of viral genomic RNA"
         },
         {
           "id": "d",
-          "label": "Direct translation of the DNA genome by host cell ribosomes"
+          "label": "Translation of the viral Gag-Pol polyprotein precursor"
         },
         {
           "id": "e",
-          "label": "Rolling circle replication occurring in the host cytoplasm"
+          "label": "Syncytium formation between infected CD4+ T cells"
         }
       ],
       "correctOptionIds": ["b"]
     },
     "q6": {
       "type": "mcq",
-      "prompt": "A 5-year-old child presents with a high fever, cough, and conjunctivitis. During the physical examination, the clinician observes small, bright red spots with blue-white centers on the buccal mucosa. This pathognomonic clinical finding is associated with which viral infection?",
+      "prompt": "Zika virus is an enveloped flavivirus associated with congenital Zika syndrome and microcephaly in neonates. To establish infection in target cells, such as neural progenitor cells, the virus utilizes which specific cellular receptor for entry?",
       "options": [
         {
           "id": "a",
-          "label": "Negri bodies"
+          "label": "CD21"
         },
         {
           "id": "b",
-          "label": "Koplik spots"
+          "label": "ACE2"
         },
         {
           "id": "c",
-          "label": "Owl's eye inclusions"
+          "label": "AXL"
         },
         {
           "id": "d",
-          "label": "Cowdry type A inclusions"
+          "label": "P antigen"
         },
         {
           "id": "e",
-          "label": "Guarnieri bodies"
-        }
-      ],
-      "correctOptionIds": ["b"]
-    },
-    "q7": {
-      "type": "mcq",
-      "prompt": "An HIV-positive patient managed with a long-term antiretroviral regimen presents for a follow-up. Laboratory results indicate new-onset hyperglycemia, and a physical exam reveals abnormal fat redistribution (lipodystrophy). Which class of antiretroviral drugs is most likely responsible for these metabolic side effects?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Nucleoside reverse transcriptase inhibitors (NRTIs)"
-        },
-        {
-          "id": "b",
-          "label": "Non-nucleoside reverse transcriptase inhibitors (NNRTIs)"
-        },
-        {
-          "id": "c",
-          "label": "Protease inhibitors (PIs)"
-        },
-        {
-          "id": "d",
-          "label": "Fusion inhibitors"
-        },
-        {
-          "id": "e",
-          "label": "Integrase inhibitors"
+          "label": "Nicotinic AChR"
         }
       ],
       "correctOptionIds": ["c"]
@@ -250,30 +223,30 @@
     },
     "q10": {
       "type": "mcq",
-      "prompt": "A lung biopsy is performed on a bone marrow transplant recipient who has developed progressive interstitial pneumonia. Microscopic examination of the tissue reveals significantly enlarged cells containing large, basophilic intranuclear inclusion bodies surrounded by a clear halo. Which virus is the most likely cause?",
+      "prompt": "A patient with HIV who has been poorly adherent to their antiretroviral therapy (ART) is found to have high-level resistance to the Protease Inhibitor (PI) class of drugs. This mechanism of resistance allows the virus to bypass the drug-induced blockade of which essential life cycle step?",
       "options": [
         {
           "id": "a",
-          "label": "Adenovirus"
+          "label": "Integration of the linear viral DNA into the host genome"
         },
         {
           "id": "b",
-          "label": "Herpes Simplex Virus"
+          "label": "Cleavage of the Gag-Pol polyprotein required for viral maturation"
         },
         {
           "id": "c",
-          "label": "Cytomegalovirus"
+          "label": "Fusion of the viral envelope mediated by the gp41 protein"
         },
         {
           "id": "d",
-          "label": "Respiratory Syncytial Virus"
+          "label": "Synthesis of a DNA copy from the genomic RNA template"
         },
         {
           "id": "e",
-          "label": "Epstein-Barr Virus"
+          "label": "Binding of the gp120 glycoprotein to the CCR5 coreceptor"
         }
       ],
-      "correctOptionIds": ["c"]
+      "correctOptionIds": ["b"]
     }
   }
 }

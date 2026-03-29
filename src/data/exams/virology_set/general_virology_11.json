@@ -5,60 +5,6 @@
     "source": ""
   },
   "questions": {
-    "q1": {
-      "type": "mcq",
-      "prompt": "Influenza A virus is capable of causing major global pandemics through a process known as \"antigenic shift,\" whereas the measles virus (a paramyxovirus) only undergoes minor \"antigenic drift.\" Which genomic characteristic of Influenza A allows for the reassortment of genetic material that leads to this sudden shift?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Presence of a circular RNA genome"
-        },
-        {
-          "id": "b",
-          "label": "Possession of a segmented RNA genome"
-        },
-        {
-          "id": "c",
-          "label": "Integration into the host cell chromosome"
-        },
-        {
-          "id": "d",
-          "label": "Use of a diploid positive-sense RNA genome"
-        },
-        {
-          "id": "e",
-          "label": "Lack of a viral-encoded RNA polymerase"
-        }
-      ],
-      "correctOptionIds": ["b"]
-    },
-    "q2": {
-      "type": "mcq",
-      "prompt": "During the maturation of the Human Immunodeficiency Virus (HIV), the precursor glycoprotein gp160 is cleaved into two functional subunits. Which of these resulting proteins is primarily responsible for the initial attachment of the virion to the host CD4 receptor?",
-      "options": [
-        {
-          "id": "a",
-          "label": "p24"
-        },
-        {
-          "id": "b",
-          "label": "p17"
-        },
-        {
-          "id": "c",
-          "label": "gp41"
-        },
-        {
-          "id": "d",
-          "label": "gp120"
-        },
-        {
-          "id": "e",
-          "label": "Reverse transcriptase"
-        }
-      ],
-      "correctOptionIds": ["d"]
-    },
     "q3": {
       "type": "mcq",
       "prompt": "Acyclovir is a guanosine analog used to treat Herpes Simplex Virus (HSV) infections. It acts as a potent inhibitor of viral DNA synthesis because it lacks a 3'-hydroxyl group on its side chain. What is the immediate biochemical consequence when this drug is incorporated into a growing viral DNA strand?",
@@ -113,56 +59,29 @@
       ],
       "correctOptionIds": ["d"]
     },
-    "q5": {
-      "type": "mcq",
-      "prompt": "Rhinovirus is the most common cause of the \"common cold\" but, unlike other members of the Picornaviridae family such as Poliovirus or Hepatitis A, it does not cause gastrointestinal disease. Which property of Rhinovirus accounts for its inability to establish an infection in the digestive tract?",
-      "options": [
-        {
-          "id": "a",
-          "label": "It possesses a helical rather than icosahedral capsid"
-        },
-        {
-          "id": "b",
-          "label": "It is acid-labile and destroyed by gastric pH"
-        },
-        {
-          "id": "c",
-          "label": "It is an enveloped virus susceptible to detergents"
-        },
-        {
-          "id": "d",
-          "label": "It requires a coreceptor found only in the lung"
-        },
-        {
-          "id": "e",
-          "label": "It replicates optimally only at 37\u00b0C"
-        }
-      ],
-      "correctOptionIds": ["b"]
-    },
     "q6": {
       "type": "mcq",
-      "prompt": "In the typical clinical course of an untreated HIV infection, the virus utilizes specific host cell coreceptors to gain entry. Which shift in coreceptor tropism is commonly observed as the disease progresses from the early asymptomatic phase to late-stage AIDS?",
+      "prompt": "Human Immunodeficiency Virus (HIV) utilizes several accessory proteins to facilitate infection and evade the host immune system. A specific viral protein, Nef, is known to promote viral persistence and prevent the elimination of infected cells. According to viral life cycle models, what is one primary mechanism of action for the Nef protein?",
       "options": [
         {
           "id": "a",
-          "label": "From CXCR4 to CCR5"
+          "label": "Inhibiting the viral protease to prevent premature maturation"
         },
         {
           "id": "b",
-          "label": "From CCR5 to CXCR4"
+          "label": "Promoting the degradation and downregulation of host CD4 molecules"
         },
         {
           "id": "c",
-          "label": "From CD4 to CD8"
+          "label": "Directly inhibiting the transcription of host interferon-gamma"
         },
         {
           "id": "d",
-          "label": "From gp120 to gp41"
+          "label": "Blocking the integration of the provirus into the host genome"
         },
         {
           "id": "e",
-          "label": "From P antigen to ICAM-1"
+          "label": "Inducing a hypermutation state in the p24 capsid protein"
         }
       ],
       "correctOptionIds": ["b"]

@@ -7,54 +7,54 @@
   "questions": {
     "q1": {
       "type": "mcq",
-      "prompt": "A patient with a history of chickenpox in childhood presents as an adult with a painful vesicular rash that follows a specific thoracic dermatome. Shingles is diagnosed, representing a reactivation of the Varicella-Zoster Virus (VZV). In which of the following locations did the virus establish its latent infection following the primary childhood infection?",
+      "prompt": "A 5-year-old child is brought to the clinic with a 3-day history of high fever, cough, coryza, and conjunctivitis. Physical examination reveals bright red spots with blue-white centers, on the buccal mucosa. This infection is preventable by a vaccine, what is the vaccine platform used in the said vaccine?",
       "options": [
         {
           "id": "a",
-          "label": "Memory B lymphocytes"
+          "label": "Subunit vaccine"
         },
         {
           "id": "b",
-          "label": "Monocytes and hematopoietic stem cells"
+          "label": "Inactivated vaccine"
         },
         {
           "id": "c",
-          "label": "Sensory nerve ganglia, such as the dorsal root ganglia"
+          "label": "Live attenuated vaccine"
         },
         {
           "id": "d",
-          "label": "Vascular endothelial cells of the epidermis"
+          "label": "Toxoid vaccine"
         },
         {
           "id": "e",
-          "label": "Myeloid progenitor cells in the bone marrow"
+          "label": "mRNA vaccine"
         }
       ],
       "correctOptionIds": ["c"]
     },
     "q2": {
       "type": "mcq",
-      "prompt": "A patient with recurrent genital herpes lesions has been treated with multiple courses of acyclovir. Recently, the lesions have failed to respond to standard therapy, and drug resistance is suspected. Which of the following is the most common primary mechanism of resistance developed by Herpes Simplex Virus (HSV) strains against acyclovir?",
+      "prompt": "A 38-year-old HIV-positive patient recently started a new antiretroviral therapy regimen and presents to the emergency department with a high fever and a painful, blistering rash involving the skin and oral mucosa. A diagnosis of Stevens-Johnson Syndrome is made. Which of the following antiretroviral drugs is most likely responsible for this severe cutaneous adverse reaction?",
       "options": [
         {
           "id": "a",
-          "label": "Mutations in the viral DNA polymerase preventing nucleoside binding"
+          "label": "Zidovudine"
         },
         {
           "id": "b",
-          "label": "Deletion or mutation of the viral-encoded thymidine kinase"
+          "label": "Efavirenz"
         },
         {
           "id": "c",
-          "label": "Overexpression of viral neuraminidase to promote faster viral egress"
+          "label": "Ritonavir"
         },
         {
           "id": "d",
-          "label": "Alteration of the gp41 transmembrane protein to prevent drug entry"
+          "label": "Raltegravir"
         },
         {
           "id": "e",
-          "label": "Upregulation of host cell efflux pumps to remove the drug from the cytoplasm"
+          "label": "Tenofovir"
         }
       ],
       "correctOptionIds": ["b"]
@@ -88,111 +88,111 @@
     },
     "q4": {
       "type": "mcq",
-      "prompt": "Palivizumab is a monoclonal antibody used as prophylaxis to prevent severe lower respiratory tract disease in high-risk premature infants. What is the mechanism of action by which this agent prevents infection by the Respiratory Syncytial Virus (RSV)?",
+      "prompt": "A 3-year-old child presents to the emergency department with a 2-day history of low-grade fever, rhinorrhea, and a distinctive \"seal-like\" barking cough. On physical examination, the child exhibits inspiratory stridor and a hoarse voice. An anteroposterior neck radiograph demonstrates subglottic swelling and narrowing of the upper trachea. The causative agent belongs to which viral family?",
       "options": [
         {
           "id": "a",
-          "label": "Inhibition of the viral RNA-dependent RNA polymerase"
+          "label": "Orthomyxoviridae"
         },
         {
           "id": "b",
-          "label": "Blockade of the viral fusion (F) protein to prevent syncytia formation"
+          "label": "Paramyxoviridae"
         },
         {
           "id": "c",
-          "label": "Neutralization of viral neuraminidase to prevent the release of progeny virions"
+          "label": "Pneumoviridae"
         },
         {
           "id": "d",
-          "label": "Competitive inhibition of the M2 proton channel to prevent uncoating"
+          "label": "Flaviviridae"
         },
         {
           "id": "e",
-          "label": "Interference with the binding of viral hemagglutinin to sialic acid"
+          "label": "Coronaviridae"
         }
       ],
       "correctOptionIds": ["b"]
     },
     "q5": {
       "type": "mcq",
-      "prompt": "A 35-year-old HIV-positive patient is being treated with an antiretroviral regimen that includes zidovudine (AZT). The clinician monitors the patient's complete blood count closely due to a well-known adverse effect of this medication. What is the primary dose-limiting toxicity associated with the use of zidovudine?",
+      "prompt": "A 5-year-old child presents with a 3-day history of high fever, cough, and conjunctivitis. Physical examination reveals bright red spots with blue-white centers on the buccal mucosa and a confluent maculopapular rash starting behind the ears and moving down the body. Which of the following is a recognized serious complication of this infection",
       "options": [
         {
           "id": "a",
-          "label": "Crystalline-induced obstructive nephropathy"
+          "label": "Kaposi sarcoma"
         },
         {
           "id": "b",
-          "label": "Reversible sensory peripheral neuropathy"
+          "label": "Microcephaly"
         },
         {
           "id": "c",
-          "label": "Myelosuppression resulting in anemia and neutropenia"
+          "label": "Subacute sclerosing pancencephalitis"
         },
         {
           "id": "d",
-          "label": "Acute pancreatitis and systemic lactic acidosis"
+          "label": "Guillain-Barré syndrome"
         },
         {
           "id": "e",
-          "label": "Stevens-Johnson syndrome and toxic epidermal necrolysis"
+          "label": "Acute orchitis"
         }
       ],
       "correctOptionIds": ["c"]
     },
     "q6": {
       "type": "mcq",
-      "prompt": "Ribavirin is an antiviral agent used as an adjunct or in the treatment of severe cases of Respiratory Syncytial Virus (RSV). What is the primary biochemical mechanism of action for ribavirin?",
+      "prompt": "A 3-month-old infant, born prematurely at 28 weeks' gestation, is evaluated during the winter season for the prevention of severe lower respiratory tract disease. The physician decides to provide passive immunization against the most common cause of infant bronchiolitis and pneumonia in this high-risk patient. Which of the following agents is most appropriate to administer?",
       "options": [
         {
           "id": "a",
-          "label": "Inhibition of the enzyme inosine monophosphate dehydrogenase to deplete guanine pools"
+          "label": "Ribavarin"
         },
         {
           "id": "b",
-          "label": "Blockade of the gp41-mediated fusion of the viral envelope with host membranes"
+          "label": "Palivizumab"
         },
         {
           "id": "c",
-          "label": "Competitive inhibition of the HIV-1 protease active site"
+          "label": "Oseltamivir"
         },
         {
           "id": "d",
-          "label": "Neutralization of the acidic environment of endosomes to prevent viral uncoating"
+          "label": "Ganciclovir"
         },
         {
           "id": "e",
-          "label": "Direct inhibition of host cell ribosomal protein synthesis"
-        }
-      ],
-      "correctOptionIds": ["a"]
-    },
-    "q7": {
-      "type": "mcq",
-      "prompt": "HIV Protease Inhibitors, such as saquinavir and ritonavir, are critical components of highly active antiretroviral therapy (HAART). How do these drugs specifically interfere with the production of infectious viral progeny?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Prevention of the integration of viral cDNA into the host cell chromosome"
-        },
-        {
-          "id": "b",
-          "label": "Blockade of the cleavage of Gag-Pol polyproteins into functional structural units"
-        },
-        {
-          "id": "c",
-          "label": "Inhibition of the docking step between the viral gp120 and the host CCR5 coreceptor"
-        },
-        {
-          "id": "d",
-          "label": "Interference with the initiation of negative-strand DNA synthesis from RNA"
-        },
-        {
-          "id": "e",
-          "label": "Competitive inhibition of the host cell RNA polymerase II enzyme"
+          "label": "Favipiravir"
         }
       ],
       "correctOptionIds": ["b"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "A patient undergoing induction therapy for Cytomegalovirus retinitis is found to have a significantly decreased absolute neutrophil count and platelet count on routine laboratory monitoring. Which of the following drugs is most likely responsible for this adverse effect?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Foscarnet"
+        },
+        {
+          "id": "b",
+          "label": "Acyclovir"
+        },
+        {
+          "id": "c",
+          "label": "Ganciclovir"
+        },
+        {
+          "id": "d",
+          "label": "Cidofovir"
+        },
+        {
+          "id": "e",
+          "label": "Tenofovir"
+        }
+      ],
+      "correctOptionIds": ["c"]
     },
     "q8": {
       "type": "mcq",
@@ -223,54 +223,54 @@
     },
     "q9": {
       "type": "mcq",
-      "prompt": "A patient with HIV who has been managed with highly active antiretroviral therapy (HAART) containing protease inhibitors for several years presents for a routine check-up. Which common metabolic adverse effect is associated with the long-term use of this drug class?",
+      "prompt": "A 45-year-old renal transplant recipient presents with worsening renal function and signs of nephropathy. The physician suspects BK virus infection and orders a urine specimen for viral isolation. According to the laboratory protocols for viral diagnostics, which of the following is the most appropriate method for handling and transporting this specimen?",
       "options": [
         {
           "id": "a",
-          "label": "Development of severe hemolytic anemia"
+          "label": "Dry sterile container at room temperature"
         },
         {
           "id": "b",
-          "label": "Systemic lactic acidosis and hepatic steatosis"
+          "label": "Dry sterile container at 4\u00b0C"
         },
         {
           "id": "c",
-          "label": "Hyperglycemia and abnormal fat redistribution (lipodystrophy)"
+          "label": "Viral transport medium at room temperature"
         },
         {
           "id": "d",
-          "label": "Significant hypocalcemia leading to cardiac arrhythmias"
+          "label": "Viral transport medium at 4\u00b0C"
         },
         {
           "id": "e",
-          "label": "Obstructive crystalline nephropathy and acute kidney injury"
+          "label": "Wet sterile container at 4\u00b0C"
         }
       ],
-      "correctOptionIds": ["c"]
+      "correctOptionIds": ["b"]
     },
     "q10": {
       "type": "mcq",
-      "prompt": "In the replication cycle of a retrovirus like HIV, the viral enzyme integrase plays a vital role after the viral genome has entered the host cell nucleus. Which step is directly facilitated by this enzyme?",
+      "prompt": "A 6-year-old male presents to the clinic with a 2-day history of painful urination and bright red blood in his urine. He recently recovered from a mild bout of sore throat and fever. A urine culture is performed and shows no bacterial growth. Which of the following viruses is the most likely cause of this patient's acute hemorrhagic cystitis?",
       "options": [
         {
           "id": "a",
-          "label": "Cleavage of the Gag-Pol polyprotein into mature, functional units"
+          "label": "JC virus"
         },
         {
           "id": "b",
-          "label": "Reverse transcription of viral RNA into double-stranded DNA"
+          "label": "BK virus"
         },
         {
           "id": "c",
-          "label": "Insertion of the viral DNA genome into the host cell chromosome"
+          "label": "Adenovirus"
         },
         {
           "id": "d",
-          "label": "Attachment of the viral envelope to the host cell CD4 receptor"
+          "label": "Parvovirus B19"
         },
         {
           "id": "e",
-          "label": "Synthesis of viral mRNA from the integrated provirus template"
+          "label": "Rhinovirus"
         }
       ],
       "correctOptionIds": ["c"]

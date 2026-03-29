@@ -7,61 +7,61 @@
   "questions": {
     "q1": {
       "type": "mcq",
-      "prompt": "While most DNA viruses replicate their genomes within the host cell nucleus, one family of large, complex DNA viruses is unique because its members replicate entirely within the host cell cytoplasm. Which of the following is an example of such a virus?",
+      "prompt": "The serologic tests of patients with acute and chronic infection is different. Which of the followings can be found in the serologic results of acute infection but not that of chronic infection",
       "options": [
         {
           "id": "a",
-          "label": "Herpesviridae"
+          "label": "HBsAg is positive in acute infection but not in chronic infection"
         },
         {
           "id": "b",
-          "label": "Adenoviridae"
+          "label": "Anti-HBs is negative in acute infection but positive in chronic infection"
         },
         {
           "id": "c",
-          "label": "Papillomaviridae"
+          "label": "Anti-HBe is negative in acute infection but positive in chronic infection"
         },
         {
           "id": "d",
-          "label": "Poxviridae"
+          "label": "Anti-HBc IgM is positive in acute infeciton but negative in chronic infection"
         },
         {
           "id": "e",
-          "label": "Hepadnaviridae"
+          "label": "HBsAg is negative in acute infection but positive in chronic infection"
         }
       ],
       "correctOptionIds": ["d"]
     },
     "q2": {
       "type": "mcq",
-      "prompt": "Naked capsid viruses, such as Norovirus and Hepatitis A virus, are commonly transmitted via the fecal-oral route. Which structural property of these viruses primarily allows them to survive transit through the stomach and remain infectious despite exposure to detergents and acidic pH?",
+      "prompt": "A 35-year-old male presents with a 3-day history of high fever, severe polyarthralgia, and a maculopapular rash after returning from a tropical region. He is suspected of having a Chikungunya virus infection. Which of the following cell types serves as the primary site of initial viral replication following the mosquito bite?",
       "options": [
         {
           "id": "a",
-          "label": "A lipid-rich lipoprotein envelope derived from host membranes"
+          "label": "Alveolar macrophage"
         },
         {
           "id": "b",
-          "label": "A complex, pleomorphic outer coat with attachment fiber proteins"
+          "label": "B lymphocytes"
         },
         {
           "id": "c",
-          "label": "A stable, proteinaceous icosahedral capsid"
+          "label": "Dermal fibroblasts"
         },
         {
           "id": "d",
-          "label": "A helical nucleocapsid symmetry that resists environmental drying"
+          "label": "Endothelial cells"
         },
         {
           "id": "e",
-          "label": "The presence of a dense, protein-rich tegument layer"
+          "label": "Neural progenitor cells"
         }
       ],
       "correctOptionIds": ["c"]
     },
     "q3": {
       "type": "mcq",
-      "prompt": "A laboratory is using electron microscopy to identify a virus isolated from a patient who died of a progressive neurological infection following a bat bite. The virions are observed to have a highly characteristic morphology associated with the Rhabdoviridae family. How are these virions described?",
+      "prompt": "A laboratory is using electron microscopy to identify a virus isolated from a patient who died of a progressive neurological infection following a bat bite. The virions are observed to have a highly characteristic morphology, How are these virions described?",
       "options": [
         {
           "id": "a",
@@ -115,34 +115,34 @@
     },
     "q5": {
       "type": "mcq",
-      "prompt": "Hepatitis B virus (HBV) is classified as a \"dsDNA RT\" virus because its replication strategy differs significantly from most other DNA viruses. Which specific enzymatic process is utilized by HBV to produce its progeny DNA genome?",
+      "prompt": "A 24-year-old patient presents with high fever, severe myalgias, and retro-orbital pain after returning from a tropical region. On day 4 of illness, they develop worsening abdominal pain and tenderness. Examination reveals hepatomegaly with the liver palpable 3 cm below the costal margin. Laboratory studies show an increased hematocrit with a rapidly declining platelet count. According to the documented course of this illness, which of the following clinical concerns is most critical for the patient during this current phase?",
       "options": [
         {
           "id": "a",
-          "label": "Utilization of host cell DNA polymerase for semi-conservative replication"
+          "label": "Dehydration due to high fever"
         },
         {
           "id": "b",
-          "label": "Direct translation of the DNA genome by host cell ribosomes in the cytoplasm"
+          "label": "Fluid overload during reabsorption"
         },
         {
           "id": "c",
-          "label": "Use of reverse transcriptase to synthesize DNA from an RNA intermediate"
+          "label": "Plasma leakage from vessels"
         },
         {
           "id": "d",
-          "label": "Integration of the circular double-stranded DNA genome into host mitochondria"
+          "label": "Development of a maculopapular rash"
         },
         {
           "id": "e",
-          "label": "Semiconservative replication occurring solely within the host cytoplasm"
+          "label": "Chronic polyarthralgia and arthritis"
         }
       ],
       "correctOptionIds": ["c"]
     },
     "q6": {
       "type": "mcq",
-      "prompt": "Rotavirus is a major cause of severe infantile gastroenteritis worldwide. Its genome has a specific structure that permits the exchange of genetic material between different strains (reassortment), potentially leading to significant antigenic variation. How is the Rotavirus genome structured?",
+      "prompt": "Rotavirus is a major cause of severe infantile gastroenteritis worldwide. How is the Rotavirus genome structured?",
       "options": [
         {
           "id": "a",
@@ -154,11 +154,11 @@
         },
         {
           "id": "c",
-          "label": "A partially double-stranded circular DNA genome"
+          "label": "A partially double-stranded circular RNA genome"
         },
         {
           "id": "d",
-          "label": "A single-stranded, linear DNA genome"
+          "label": "A single-stranded, linear RNA genome"
         },
         {
           "id": "e",
@@ -169,27 +169,27 @@
     },
     "q7": {
       "type": "mcq",
-      "prompt": "A 19-year-old student presents with fever, pharyngitis, and cervical lymphadenopathy. The clinician suspects infectious mononucleosis caused by the Epstein-Barr Virus (EBV). Which laboratory test is specifically used to detect the heterophile antibodies associated with this acute infection?",
+      "prompt": "A 35-year-old patient presents with fatigue, anorexia, nausea, and right upper quadrant abdominal discomfort. Over the next few days, they develop dark urine and jaundice. Physical examination reveals mild hepatomegaly and scleral icterus. Laboratory testing shows elevated liver enzymes. Serology confirms that the infection arises from a DNA virus. Which of the following statements correctly describes a characteristic of HBV structure or replication.",
       "options": [
         {
           "id": "a",
-          "label": "Tzanck smear for multinucleated giant cells"
+          "label": "The virus possesses a segmented double-stranded DNA genome"
         },
         {
           "id": "b",
-          "label": "Monospot test"
+          "label": "The viral envelope is acquired from the host cell nuclear membrane"
         },
         {
           "id": "c",
-          "label": "Quellung reaction for capsular swelling"
+          "label": "The viral DNA polymerase exhibits reverse transcriptase activity"
         },
         {
           "id": "d",
-          "label": "Southern blot for viral integration sites"
+          "label": "The virus is enveloped and resistant to gastrointestinal acids"
         },
         {
           "id": "e",
-          "label": "Darkfield microscopy for spiral organisms"
+          "label": "Entry into hepatocytes is mediated by the CCR5 coreceptor"
         }
       ],
       "correctOptionIds": ["b"]
@@ -223,54 +223,54 @@
     },
     "q9": {
       "type": "mcq",
-      "prompt": "The Rabies virus enters the host via an animal bite and must gain entry into peripheral neurons to travel to the central nervous system. Which host cell receptor is utilized by the virus to initiate this entry process?",
+      "prompt": "A neonate is delivered with bilateral cataracts, sensorineural deafness, and a patent ductus arteriosus. The mother reports having had a maculopapular rash and postauricular lymphadenopathy during the second month of her pregnancy. Which of the following laboratory findings in the mother's serum would be most useful in confirming a diagnosis of this condition?",
       "options": [
         {
           "id": "a",
-          "label": "CD4 glycoprotein on helper T cells"
+          "label": "Presence of specific anti-rubella IgG antibodies"
         },
         {
           "id": "b",
-          "label": "Intercellular adhesion molecule-1 (ICAM-1)"
+          "label": "Detection of multinucleated giant cells on Tzanck smear"
         },
         {
           "id": "c",
-          "label": "Nicotinic acetylcholine receptor"
+          "label": "Positive heterophile antibody agglutination reaction"
         },
         {
           "id": "d",
-          "label": "P antigen (globoside) on erythroid precursors"
+          "label": "Presence of intranuclear \"owl's eye\" inclusion bodies "
         },
         {
           "id": "e",
-          "label": "ACE2 receptor on respiratory epithelial cells"
+          "label": "Reactive non-treponemal (VDRL) screening test"
         }
       ],
-      "correctOptionIds": ["c"]
+      "correctOptionIds": ["a"]
     },
     "q10": {
       "type": "mcq",
-      "prompt": "A patient's Hepatitis B serology panel shows the following results: Negative HBsAg, negative anti-HBs, and positive IgM anti-HBc. These results are characteristic of which clinical stage of Hepatitis B infection?",
+      "prompt": "A 5-year-old child is brought to the clinic with a 3-day history of high fever, cough, coryza, and conjunctivitis. Physical examination reveals bright red spots with blue-white centers, on the buccal mucosa. Which of the following clinical findings is most likely to develop next in this patient?",
       "options": [
         {
           "id": "a",
-          "label": "The \"window period\" of an acute infection"
+          "label": "A maculopapular rash that begins at the head and neck and spreads downward"
         },
         {
           "id": "b",
-          "label": "Early acute infection with high levels of viral replication"
+          "label": "Bilateral swelling of the parotid glands and development of pancreatitis"
         },
         {
           "id": "c",
-          "label": "Immunity resulting from a successful vaccination series"
+          "label": "A sandpaper-like erythematous rash moving from the neck to the trunk"
         },
         {
           "id": "d",
-          "label": "Chronic carrier state with low infectivity"
+          "label": "Vesicular lesions in different stages of development with an erythematous base"
         },
         {
           "id": "e",
-          "label": "Complete recovery and immunity following a prior natural infection"
+          "label": "A \"seal-like\" barking cough associated with narrowing of the upper trachea"
         }
       ],
       "correctOptionIds": ["a"]

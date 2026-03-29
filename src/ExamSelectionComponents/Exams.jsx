@@ -223,8 +223,6 @@ import general_virology_5 from "../data/exams/virology_set/general_virology_5.js
 import general_virology_6 from "../data/exams/virology_set/general_virology_6.json";
 import general_virology_7 from "../data/exams/virology_set/general_virology_7.json";
 import general_virology_8 from "../data/exams/virology_set/general_virology_8.json";
-import general_virology_9 from "../data/exams/virology_set/general_virology_9.json";
-import general_virology_10 from "../data/exams/virology_set/general_virology_10.json";
 import general_parasitology_1 from "../data/exams/parasitology_set/general_parasitology_1.json";
 import general_parasitology_2 from "../data/exams/parasitology_set/general_parasitology_2.json";
 import general_parasitology_3 from "../data/exams/parasitology_set/general_parasitology_3.json";
@@ -466,10 +464,7 @@ export default function Exams({ topicName, onSelection }) {
       cvs_mechanism_3,
       cardiac_cycle,
     ],
-    case_based_set: [
-      case_1_bacteria,
-      case_2_bacteria
-    ],
+    case_based_set: [case_1_bacteria, case_2_bacteria],
     bacteriology_gen: [
       bacteriology_general_1,
       bacteriology_general_2,
@@ -500,16 +495,14 @@ export default function Exams({ topicName, onSelection }) {
       general_mycology_10,
     ],
     general_virology: [
-      // general_virology_1,
-      // general_virology_2,
-      // general_virology_3,
-      // general_virology_4,
-      // general_virology_5,
-      // general_virology_6,
-      // general_virology_7,
-      // general_virology_8,
-      // general_virology_9,
-      // general_virology_10,
+      general_virology_1,
+      general_virology_2,
+      general_virology_3,
+      general_virology_4,
+      general_virology_5,
+      general_virology_6,
+      general_virology_7,
+      general_virology_8,
     ],
     general_parasitology: [
       // general_parasitology_1,
