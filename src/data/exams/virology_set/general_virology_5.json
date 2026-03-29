@@ -1,279 +1,298 @@
 {
-  "info": {
-    "set_name": "General Virology 5",
-    "description": "",
-    "source": ""
-  },
-  "questions": {
-    "q1": {
-      "type": "mcq",
-      "prompt": "An HIV-positive patient managed with a long-term antiretroviral regimen presents for a follow-up. Laboratory results indicate new-onset hyperglycemia, and a physical exam reveals abnormal fat redistribution (lipodystrophy). Which class of antiretroviral drugs is most likely responsible for these metabolic side effects?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Nucleoside reverse transcriptase inhibitors (NRTIs)"
-        },
-        {
-          "id": "b",
-          "label": "Non-nucleoside reverse transcriptase inhibitors (NNRTIs)"
-        },
-        {
-          "id": "c",
-          "label": "Protease inhibitors (PIs)"
-        },
-        {
-          "id": "d",
-          "label": "Fusion inhibitors"
-        },
-        {
-          "id": "e",
-          "label": "Integrase inhibitors"
-        }
-      ],
-      "correctOptionIds": ["c"]
+    "info": {
+        "set_name": "General Virology 5",
+        "source": ""
     },
-    "q2": {
-      "type": "mcq",
-      "prompt": "Remdesivir is an intravenous antiviral agent utilized in the treatment of hospitalized patients with severe COVID-19. Once entered into the host cell, it is converted into an active triphosphate form by intracellular kinases. What is the primary mechanism of action for this active metabolite?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Inhibition of the SARS-CoV-2 Mpro protease"
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "An HIV-positive patient managed with a long-term antiretroviral regimen presents for a follow-up. Laboratory results indicate new-onset hyperglycemia, and a physical exam reveals abnormal fat redistribution (lipodystrophy). Which class of antiretroviral drugs is most likely responsible for these metabolic side effects?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Integrase inhibitors"
+                },
+                {
+                    "id": "b",
+                    "label": "Protease inhibitors (PIs)"
+                },
+                {
+                    "id": "c",
+                    "label": "Non-nucleoside reverse transcriptase inhibitors (NNRTIs)"
+                },
+                {
+                    "id": "d",
+                    "label": "Fusion inhibitors"
+                },
+                {
+                    "id": "e",
+                    "label": "Nucleoside reverse transcriptase inhibitors (NRTIs)"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
         },
-        {
-          "id": "b",
-          "label": "Inhibition of the viral RNA-dependent RNA polymerase"
+        "q2": {
+            "type": "mcq",
+            "prompt": "Remdesivir is an intravenous antiviral agent utilized in the treatment of hospitalized patients with severe COVID-19. Once entered into the host cell, it is converted into an active triphosphate form by intracellular kinases. What is the primary mechanism of action for this active metabolite?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Blockade of the viral attachment to host sialoglycans"
+                },
+                {
+                    "id": "b",
+                    "label": "Interference with the proteolytic processing of viral polyproteins"
+                },
+                {
+                    "id": "c",
+                    "label": "Inhibition of the SARS-CoV-2 Mpro protease"
+                },
+                {
+                    "id": "d",
+                    "label": "Inhibition of the viral RNA-dependent RNA polymerase"
+                },
+                {
+                    "id": "e",
+                    "label": "Competitive inhibition of the host cell DNA polymerase"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
         },
-        {
-          "id": "c",
-          "label": "Blockade of the viral attachment to host sialoglycans"
+        "q3": {
+            "type": "mcq",
+            "prompt": "A 65-year-old patient with COVID-19 is prescribed Paxlovid, a combination of nirmatrelvir and ritonavir. While nirmatrelvir is the primary antiviral component targeting the viral protease, ritonavir is included in the formulation despite having no direct activity against SARS-CoV-2. What is the pharmacological purpose of ritonavir in this combination?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "It acts as a CYP450 inhibitor to increase the plasma concentration of nirmatrelvir"
+                },
+                {
+                    "id": "b",
+                    "label": "It blocks the attachment of the viral spike protein to the ACE2 receptor"
+                },
+                {
+                    "id": "c",
+                    "label": "It inhibits the host cell TMPRSS2 enzyme to prevent viral entry"
+                },
+                {
+                    "id": "d",
+                    "label": "It directly inhibits the viral RNA-dependent RNA polymerase"
+                },
+                {
+                    "id": "e",
+                    "label": "It prevents the fusion of the viral envelope with the host cell membrane"
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
         },
-        {
-          "id": "d",
-          "label": "Interference with the proteolytic processing of viral polyproteins"
+        "q4": {
+            "type": "mcq",
+            "prompt": "Rotavirus is the most common cause of severe, dehydrating viral diarrhea in infants and young children. The virus produces a non-structural protein, NSP4, which plays a critical role in the pathogenesis of watery diarrhea. What is the specific role of the NSP4 protein during infection?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "It forms the icosahedral triple-layered capsid of the mature virion"
+                },
+                {
+                    "id": "b",
+                    "label": "It serves as the primary viral attachment protein for intestinal enterocytes"
+                },
+                {
+                    "id": "c",
+                    "label": "It is the viral RNA-dependent RNA polymerase required for genome replication"
+                },
+                {
+                    "id": "d",
+                    "label": "It inhibits host brush border enzymes such as maltase and sucrase"
+                },
+                {
+                    "id": "e",
+                    "label": "It acts as a viral enterotoxin that increases intracellular calcium and disrupts tight junctions"
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
         },
-        {
-          "id": "e",
-          "label": "Competitive inhibition of the host cell DNA polymerase"
+        "q5": {
+            "type": "mcq",
+            "prompt": "A lung biopsy is performed on a bone marrow transplant recipient who has developed progressive interstitial pneumonia. Microscopic examination of the tissue reveals significantly enlarged cells containing large, basophilic intranuclear inclusion bodies surrounded by a clear halo. Which virus is the most likely cause?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Adenovirus"
+                },
+                {
+                    "id": "b",
+                    "label": "Epstein-Barr Virus"
+                },
+                {
+                    "id": "c",
+                    "label": "Cytomegalovirus"
+                },
+                {
+                    "id": "d",
+                    "label": "Herpes Simplex Virus"
+                },
+                {
+                    "id": "e",
+                    "label": "Respiratory Syncytial Virus"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "An patient on immunosuppressants develop a presents with progressive weakness, visual disturbances, and difficulty speaking over several weeks. MRI shows multifocal, non-enhancing white matter lesions. What is the genome characteristic of the causative viral agent?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Double stranded DNA"
+                },
+                {
+                    "id": "b",
+                    "label": "Double stranded RNA"
+                },
+                {
+                    "id": "c",
+                    "label": "Single stranded RNA, positive-sense"
+                },
+                {
+                    "id": "d",
+                    "label": "Single stranded RNA, negative-sense"
+                },
+                {
+                    "id": "e",
+                    "label": "Single stranded DNA"
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "An patient on immunosuppressants develop a presents with progressive weakness, visual disturbances, and difficulty speaking over several weeks. MRI shows multifocal, non-enhancing white matter lesions. The causative viral agent may develop a latent infection in which of the following sites?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Monocytes"
+                },
+                {
+                    "id": "b",
+                    "label": "Kidneys"
+                },
+                {
+                    "id": "c",
+                    "label": "Neurons"
+                },
+                {
+                    "id": "d",
+                    "label": "CD4+ T cells"
+                },
+                {
+                    "id": "e",
+                    "label": "Memory B cells"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "Raltegravir is an antiretroviral agent used in the management of HIV infection. By acting as an Integrase Strand Transfer Inhibitor (INSTI), it prevents the production of a functional provirus. Which specific step of the viral life cycle is blocked by this medication?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Proteolytic cleavage of the Gag-Pol polyprotein"
+                },
+                {
+                    "id": "b",
+                    "label": "Docking of the viral gp120 to host chemokine receptors"
+                },
+                {
+                    "id": "c",
+                    "label": "Fusion of the viral envelope with the plasma membrane"
+                },
+                {
+                    "id": "d",
+                    "label": "Covalent insertion of viral DNA into the host cell genome"
+                },
+                {
+                    "id": "e",
+                    "label": "Competitive inhibition of reverse transcriptase"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "A 10-year-old child develops red, painful eyes with excessive tearing and photophobia a few days after visiting a water park. Examination shows conjunctival injection and corneal involvement. What is the primary replication site of this virus?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Macrophages"
+                },
+                {
+                    "id": "b",
+                    "label": "Enterocytes"
+                },
+                {
+                    "id": "c",
+                    "label": "Mucoepithelial cells"
+                },
+                {
+                    "id": "d",
+                    "label": "Neurons"
+                },
+                {
+                    "id": "e",
+                    "label": "Keratinocytes"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "A 42-year-old patient with advanced AIDS presents with progressive loss of vision and is diagnosed with Cytomegalovirus retinitis. Which of the following antiviral agents is considered the drug of choice for treating this condition in immunocompromised individuals?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Ganciclovir"
+                },
+                {
+                    "id": "b",
+                    "label": "Ribavirin"
+                },
+                {
+                    "id": "c",
+                    "label": "Oseltamivir"
+                },
+                {
+                    "id": "d",
+                    "label": "Acyclovir"
+                },
+                {
+                    "id": "e",
+                    "label": "Amantadine"
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
         }
-      ],
-      "correctOptionIds": ["b"]
-    },
-    "q3": {
-      "type": "mcq",
-      "prompt": "A 65-year-old patient with COVID-19 is prescribed Paxlovid, a combination of nirmatrelvir and ritonavir. While nirmatrelvir is the primary antiviral component targeting the viral protease, ritonavir is included in the formulation despite having no direct activity against SARS-CoV-2. What is the pharmacological purpose of ritonavir in this combination?",
-      "options": [
-        {
-          "id": "a",
-          "label": "It directly inhibits the viral RNA-dependent RNA polymerase"
-        },
-        {
-          "id": "b",
-          "label": "It acts as a CYP450 inhibitor to increase the plasma concentration of nirmatrelvir"
-        },
-        {
-          "id": "c",
-          "label": "It prevents the fusion of the viral envelope with the host cell membrane"
-        },
-        {
-          "id": "d",
-          "label": "It blocks the attachment of the viral spike protein to the ACE2 receptor"
-        },
-        {
-          "id": "e",
-          "label": "It inhibits the host cell TMPRSS2 enzyme to prevent viral entry"
-        }
-      ],
-      "correctOptionIds": ["b"]
-    },
-    "q4": {
-      "type": "mcq",
-      "prompt": "Rotavirus is the most common cause of severe, dehydrating viral diarrhea in infants and young children. The virus produces a non-structural protein, NSP4, which plays a critical role in the pathogenesis of watery diarrhea. What is the specific role of the NSP4 protein during infection?",
-      "options": [
-        {
-          "id": "a",
-          "label": "It serves as the primary viral attachment protein for intestinal enterocytes"
-        },
-        {
-          "id": "b",
-          "label": "It acts as a viral enterotoxin that increases intracellular calcium and disrupts tight junctions"
-        },
-        {
-          "id": "c",
-          "label": "It forms the icosahedral triple-layered capsid of the mature virion"
-        },
-        {
-          "id": "d",
-          "label": "It is the viral RNA-dependent RNA polymerase required for genome replication"
-        },
-        {
-          "id": "e",
-          "label": "It inhibits host brush border enzymes such as maltase and sucrase"
-        }
-      ],
-      "correctOptionIds": ["b"]
-    },
-    "q5": {
-      "type": "mcq",
-      "prompt": "A lung biopsy is performed on a bone marrow transplant recipient who has developed progressive interstitial pneumonia. Microscopic examination of the tissue reveals significantly enlarged cells containing large, basophilic intranuclear inclusion bodies surrounded by a clear halo. Which virus is the most likely cause?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Adenovirus"
-        },
-        {
-          "id": "b",
-          "label": "Herpes Simplex Virus"
-        },
-        {
-          "id": "c",
-          "label": "Cytomegalovirus"
-        },
-        {
-          "id": "d",
-          "label": "Respiratory Syncytial Virus"
-        },
-        {
-          "id": "e",
-          "label": "Epstein-Barr Virus"
-        }
-      ],
-      "correctOptionIds": ["c"]
-    },
-    "q6": {
-      "type": "mcq",
-      "prompt": "An patient on immunosuppressants develop a presents with progressive weakness, visual disturbances, and difficulty speaking over several weeks. MRI shows multifocal, non-enhancing white matter lesions. What is the genome characteristic of the causative viral agent?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Single stranded DNA"
-        },
-        {
-          "id": "b",
-          "label": "Double stranded DNA"
-        },
-        {
-          "id": "c",
-          "label": "Single stranded RNA, positive-sense"
-        },
-        {
-          "id": "d",
-          "label": "Single stranded RNA, negative-sense"
-        },
-        {
-          "id": "e",
-          "label": "Double stranded RNA"
-        }
-      ],
-      "correctOptionIds": ["b"]
-    },
-    "q7": {
-      "type": "mcq",
-      "prompt": "An patient on immunosuppressants develop a presents with progressive weakness, visual disturbances, and difficulty speaking over several weeks. MRI shows multifocal, non-enhancing white matter lesions. The causative viral agent may develop a latent infection in which of the following sites?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Neurons"
-        },
-        {
-          "id": "b",
-          "label": "Memory B cells"
-        },
-        {
-          "id": "c",
-          "label": "Kidneys"
-        },
-        {
-          "id": "d",
-          "label": "Monocytes"
-        },
-        {
-          "id": "e",
-          "label": "CD4+ T cells"
-        }
-      ],
-      "correctOptionIds": ["c"]
-    },
-    "q8": {
-      "type": "mcq",
-      "prompt": "Raltegravir is an antiretroviral agent used in the management of HIV infection. By acting as an Integrase Strand Transfer Inhibitor (INSTI), it prevents the production of a functional provirus. Which specific step of the viral life cycle is blocked by this medication?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Proteolytic cleavage of the Gag-Pol polyprotein"
-        },
-        {
-          "id": "b",
-          "label": "Covalent insertion of viral DNA into the host cell genome"
-        },
-        {
-          "id": "c",
-          "label": "Competitive inhibition of reverse transcriptase"
-        },
-        {
-          "id": "d",
-          "label": "Docking of the viral gp120 to host chemokine receptors"
-        },
-        {
-          "id": "e",
-          "label": "Fusion of the viral envelope with the plasma membrane"
-        }
-      ],
-      "correctOptionIds": ["b"]
-    },
-    "q9": {
-      "type": "mcq",
-      "prompt": "A 10-year-old child develops red, painful eyes with excessive tearing and photophobia a few days after visiting a water park. Examination shows conjunctival injection and corneal involvement. What is the primary replication site of this virus?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Neurons"
-        },
-        {
-          "id": "b",
-          "label": "Macrophages"
-        },
-        {
-          "id": "c",
-          "label": "Mucoepithelial cells"
-        },
-        {
-          "id": "d",
-          "label": "Keratinocytes"
-        },
-        {
-          "id": "e",
-          "label": "Enterocytes"
-        }
-      ],
-      "correctOptionIds": ["c"]
-    },
-    "q10": {
-      "type": "mcq",
-      "prompt": "A 42-year-old patient with advanced AIDS presents with progressive loss of vision and is diagnosed with Cytomegalovirus retinitis. Which of the following antiviral agents is considered the drug of choice for treating this condition in immunocompromised individuals?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Acyclovir"
-        },
-        {
-          "id": "b",
-          "label": "Oseltamivir"
-        },
-        {
-          "id": "c",
-          "label": "Ganciclovir"
-        },
-        {
-          "id": "d",
-          "label": "Amantadine"
-        },
-        {
-          "id": "e",
-          "label": "Ribavirin"
-        }
-      ],
-      "correctOptionIds": ["c"]
     }
-  }
 }

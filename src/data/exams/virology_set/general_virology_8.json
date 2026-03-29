@@ -1,279 +1,298 @@
 {
-  "info": {
-    "set_name": "General Virology 8",
-    "description": "",
-    "source": ""
-  },
-  "questions": {
-    "q1": {
-      "type": "mcq",
-      "prompt": "A 5-year-old child is brought to the clinic with a 3-day history of high fever, cough, coryza, and conjunctivitis. Physical examination reveals bright red spots with blue-white centers, on the buccal mucosa. This infection is preventable by a vaccine, what is the vaccine platform used in the said vaccine?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Subunit vaccine"
-        },
-        {
-          "id": "b",
-          "label": "Inactivated vaccine"
-        },
-        {
-          "id": "c",
-          "label": "Live attenuated vaccine"
-        },
-        {
-          "id": "d",
-          "label": "Toxoid vaccine"
-        },
-        {
-          "id": "e",
-          "label": "mRNA vaccine"
-        }
-      ],
-      "correctOptionIds": ["c"]
+    "info": {
+        "set_name": "General Virology 8",
+        "source": ""
     },
-    "q2": {
-      "type": "mcq",
-      "prompt": "A 38-year-old HIV-positive patient recently started a new antiretroviral therapy regimen and presents to the emergency department with a high fever and a painful, blistering rash involving the skin and oral mucosa. A diagnosis of Stevens-Johnson Syndrome is made. Which of the following antiretroviral drugs is most likely responsible for this severe cutaneous adverse reaction?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Zidovudine"
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A 5-year-old child is brought to the clinic with a 3-day history of high fever, cough, coryza, and conjunctivitis. Physical examination reveals bright red spots with blue-white centers, on the buccal mucosa. This infection is preventable by a vaccine, what is the vaccine platform used in the said vaccine?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "mRNA vaccine"
+                },
+                {
+                    "id": "b",
+                    "label": "Toxoid vaccine"
+                },
+                {
+                    "id": "c",
+                    "label": "Live attenuated vaccine"
+                },
+                {
+                    "id": "d",
+                    "label": "Subunit vaccine"
+                },
+                {
+                    "id": "e",
+                    "label": "Inactivated vaccine"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
         },
-        {
-          "id": "b",
-          "label": "Efavirenz"
+        "q2": {
+            "type": "mcq",
+            "prompt": "A 38-year-old HIV-positive patient recently started a new antiretroviral therapy regimen and presents to the emergency department with a high fever and a painful, blistering rash involving the skin and oral mucosa. A diagnosis of Stevens-Johnson Syndrome is made. Which of the following antiretroviral drugs is most likely responsible for this severe cutaneous adverse reaction?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Efavirenz"
+                },
+                {
+                    "id": "b",
+                    "label": "Raltegravir"
+                },
+                {
+                    "id": "c",
+                    "label": "Tenofovir"
+                },
+                {
+                    "id": "d",
+                    "label": "Ritonavir"
+                },
+                {
+                    "id": "e",
+                    "label": "Zidovudine"
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
         },
-        {
-          "id": "c",
-          "label": "Ritonavir"
+        "q3": {
+            "type": "mcq",
+            "prompt": "In the management of a patient with HIV, the clinician considers the pharmacological properties of various reverse transcriptase inhibitors. Which of the following correctly differentiates the classification of tenofovir from lamivudine?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Lamivudine causes DNA chain termination while tenofovir inhibits viral maturation"
+                },
+                {
+                    "id": "b",
+                    "label": "Tenofovir is a non-nucleoside inhibitor (NNRTI) while lamivudine is a nucleoside inhibitor (NRTI)"
+                },
+                {
+                    "id": "c",
+                    "label": "Lamivudine targets the viral integrase enzyme while tenofovir targets reverse transcriptase"
+                },
+                {
+                    "id": "d",
+                    "label": "Tenofovir is a nucleotide analog while lamivudine is a nucleoside analog"
+                },
+                {
+                    "id": "e",
+                    "label": "Tenofovir requires initial activation by a viral kinase while lamivudine does not"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
         },
-        {
-          "id": "d",
-          "label": "Raltegravir"
+        "q4": {
+            "type": "mcq",
+            "prompt": "A 3-year-old child presents to the emergency department with a 2-day history of low-grade fever, rhinorrhea, and a distinctive \"seal-like\" barking cough. On physical examination, the child exhibits inspiratory stridor and a hoarse voice. An anteroposterior neck radiograph demonstrates subglottic swelling and narrowing of the upper trachea. The causative agent belongs to which viral family?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Pneumoviridae"
+                },
+                {
+                    "id": "b",
+                    "label": "Coronaviridae"
+                },
+                {
+                    "id": "c",
+                    "label": "Flaviviridae"
+                },
+                {
+                    "id": "d",
+                    "label": "Orthomyxoviridae"
+                },
+                {
+                    "id": "e",
+                    "label": "Paramyxoviridae"
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
         },
-        {
-          "id": "e",
-          "label": "Tenofovir"
+        "q5": {
+            "type": "mcq",
+            "prompt": "A 5-year-old child presents with a 3-day history of high fever, cough, and conjunctivitis. Physical examination reveals bright red spots with blue-white centers on the buccal mucosa and a confluent maculopapular rash starting behind the ears and moving down the body. Which of the following is a recognized serious complication of this infection",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Microcephaly"
+                },
+                {
+                    "id": "b",
+                    "label": "Acute orchitis"
+                },
+                {
+                    "id": "c",
+                    "label": "Subacute sclerosing pancencephalitis"
+                },
+                {
+                    "id": "d",
+                    "label": "Kaposi sarcoma"
+                },
+                {
+                    "id": "e",
+                    "label": "Guillain-Barr\u00e9 syndrome"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "A 3-month-old infant, born prematurely at 28 weeks' gestation, is evaluated during the winter season for the prevention of severe lower respiratory tract disease. The physician decides to provide passive immunization against the most common cause of infant bronchiolitis and pneumonia in this high-risk patient. Which of the following agents is most appropriate to administer?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Ganciclovir"
+                },
+                {
+                    "id": "b",
+                    "label": "Ribavarin"
+                },
+                {
+                    "id": "c",
+                    "label": "Oseltamivir"
+                },
+                {
+                    "id": "d",
+                    "label": "Palivizumab"
+                },
+                {
+                    "id": "e",
+                    "label": "Favipiravir"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "A patient undergoing induction therapy for Cytomegalovirus retinitis is found to have a significantly decreased absolute neutrophil count and platelet count on routine laboratory monitoring. Which of the following drugs is most likely responsible for this adverse effect?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Acyclovir"
+                },
+                {
+                    "id": "b",
+                    "label": "Ganciclovir"
+                },
+                {
+                    "id": "c",
+                    "label": "Tenofovir"
+                },
+                {
+                    "id": "d",
+                    "label": "Cidofovir"
+                },
+                {
+                    "id": "e",
+                    "label": "Foscarnet"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "Entry inhibitors represent a class of antiretroviral drugs that act at the cell surface. Which of the following describes the mechanism of action for enfuvirtide?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "It inhibits the integrase enzyme to prevent the formation of the provirus"
+                },
+                {
+                    "id": "b",
+                    "label": "It binds to the viral gp41 protein to inhibit viral envelope fusion"
+                },
+                {
+                    "id": "c",
+                    "label": "It acts as a guanosine analog to cause premature DNA chain termination"
+                },
+                {
+                    "id": "d",
+                    "label": "It binds to the host CCR5 coreceptor to block viral docking"
+                },
+                {
+                    "id": "e",
+                    "label": "It prevents the attachment of the viral gp120 glycoprotein to the host CD4 receptor"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "A 45-year-old renal transplant recipient presents with worsening renal function and signs of nephropathy. The physician suspects BK virus infection and orders a urine specimen for viral isolation. According to the laboratory protocols for viral diagnostics, which of the following is the most appropriate method for handling and transporting this specimen?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Viral transport medium at 4\u00b0C"
+                },
+                {
+                    "id": "b",
+                    "label": "Wet sterile container at 4\u00b0C"
+                },
+                {
+                    "id": "c",
+                    "label": "Dry sterile container at room temperature"
+                },
+                {
+                    "id": "d",
+                    "label": "Viral transport medium at room temperature"
+                },
+                {
+                    "id": "e",
+                    "label": "Dry sterile container at 4\u00b0C"
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "A 6-year-old male presents to the clinic with a 2-day history of painful urination and bright red blood in his urine. He recently recovered from a mild bout of sore throat and fever. A urine culture is performed and shows no bacterial growth. Which of the following viruses is the most likely cause of this patient's acute hemorrhagic cystitis?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Rhinovirus"
+                },
+                {
+                    "id": "b",
+                    "label": "Parvovirus B19"
+                },
+                {
+                    "id": "c",
+                    "label": "BK virus"
+                },
+                {
+                    "id": "d",
+                    "label": "JC virus"
+                },
+                {
+                    "id": "e",
+                    "label": "Adenovirus"
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
         }
-      ],
-      "correctOptionIds": ["b"]
-    },
-    "q3": {
-      "type": "mcq",
-      "prompt": "In the management of a patient with HIV, the clinician considers the pharmacological properties of various reverse transcriptase inhibitors. Which of the following correctly differentiates the classification of tenofovir from lamivudine?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Tenofovir is a non-nucleoside inhibitor (NNRTI) while lamivudine is a nucleoside inhibitor (NRTI)"
-        },
-        {
-          "id": "b",
-          "label": "Lamivudine targets the viral integrase enzyme while tenofovir targets reverse transcriptase"
-        },
-        {
-          "id": "c",
-          "label": "Tenofovir is a nucleotide analog while lamivudine is a nucleoside analog"
-        },
-        {
-          "id": "d",
-          "label": "Tenofovir requires initial activation by a viral kinase while lamivudine does not"
-        },
-        {
-          "id": "e",
-          "label": "Lamivudine causes DNA chain termination while tenofovir inhibits viral maturation"
-        }
-      ],
-      "correctOptionIds": ["c"]
-    },
-    "q4": {
-      "type": "mcq",
-      "prompt": "A 3-year-old child presents to the emergency department with a 2-day history of low-grade fever, rhinorrhea, and a distinctive \"seal-like\" barking cough. On physical examination, the child exhibits inspiratory stridor and a hoarse voice. An anteroposterior neck radiograph demonstrates subglottic swelling and narrowing of the upper trachea. The causative agent belongs to which viral family?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Orthomyxoviridae"
-        },
-        {
-          "id": "b",
-          "label": "Paramyxoviridae"
-        },
-        {
-          "id": "c",
-          "label": "Pneumoviridae"
-        },
-        {
-          "id": "d",
-          "label": "Flaviviridae"
-        },
-        {
-          "id": "e",
-          "label": "Coronaviridae"
-        }
-      ],
-      "correctOptionIds": ["b"]
-    },
-    "q5": {
-      "type": "mcq",
-      "prompt": "A 5-year-old child presents with a 3-day history of high fever, cough, and conjunctivitis. Physical examination reveals bright red spots with blue-white centers on the buccal mucosa and a confluent maculopapular rash starting behind the ears and moving down the body. Which of the following is a recognized serious complication of this infection",
-      "options": [
-        {
-          "id": "a",
-          "label": "Kaposi sarcoma"
-        },
-        {
-          "id": "b",
-          "label": "Microcephaly"
-        },
-        {
-          "id": "c",
-          "label": "Subacute sclerosing pancencephalitis"
-        },
-        {
-          "id": "d",
-          "label": "Guillain-Barré syndrome"
-        },
-        {
-          "id": "e",
-          "label": "Acute orchitis"
-        }
-      ],
-      "correctOptionIds": ["c"]
-    },
-    "q6": {
-      "type": "mcq",
-      "prompt": "A 3-month-old infant, born prematurely at 28 weeks' gestation, is evaluated during the winter season for the prevention of severe lower respiratory tract disease. The physician decides to provide passive immunization against the most common cause of infant bronchiolitis and pneumonia in this high-risk patient. Which of the following agents is most appropriate to administer?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Ribavarin"
-        },
-        {
-          "id": "b",
-          "label": "Palivizumab"
-        },
-        {
-          "id": "c",
-          "label": "Oseltamivir"
-        },
-        {
-          "id": "d",
-          "label": "Ganciclovir"
-        },
-        {
-          "id": "e",
-          "label": "Favipiravir"
-        }
-      ],
-      "correctOptionIds": ["b"]
-    },
-    "q7": {
-      "type": "mcq",
-      "prompt": "A patient undergoing induction therapy for Cytomegalovirus retinitis is found to have a significantly decreased absolute neutrophil count and platelet count on routine laboratory monitoring. Which of the following drugs is most likely responsible for this adverse effect?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Foscarnet"
-        },
-        {
-          "id": "b",
-          "label": "Acyclovir"
-        },
-        {
-          "id": "c",
-          "label": "Ganciclovir"
-        },
-        {
-          "id": "d",
-          "label": "Cidofovir"
-        },
-        {
-          "id": "e",
-          "label": "Tenofovir"
-        }
-      ],
-      "correctOptionIds": ["c"]
-    },
-    "q8": {
-      "type": "mcq",
-      "prompt": "Entry inhibitors represent a class of antiretroviral drugs that act at the cell surface. Which of the following describes the mechanism of action for enfuvirtide?",
-      "options": [
-        {
-          "id": "a",
-          "label": "It binds to the host CCR5 coreceptor to block viral docking"
-        },
-        {
-          "id": "b",
-          "label": "It inhibits the integrase enzyme to prevent the formation of the provirus"
-        },
-        {
-          "id": "c",
-          "label": "It binds to the viral gp41 protein to inhibit viral envelope fusion"
-        },
-        {
-          "id": "d",
-          "label": "It acts as a guanosine analog to cause premature DNA chain termination"
-        },
-        {
-          "id": "e",
-          "label": "It prevents the attachment of the viral gp120 glycoprotein to the host CD4 receptor"
-        }
-      ],
-      "correctOptionIds": ["c"]
-    },
-    "q9": {
-      "type": "mcq",
-      "prompt": "A 45-year-old renal transplant recipient presents with worsening renal function and signs of nephropathy. The physician suspects BK virus infection and orders a urine specimen for viral isolation. According to the laboratory protocols for viral diagnostics, which of the following is the most appropriate method for handling and transporting this specimen?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Dry sterile container at room temperature"
-        },
-        {
-          "id": "b",
-          "label": "Dry sterile container at 4\u00b0C"
-        },
-        {
-          "id": "c",
-          "label": "Viral transport medium at room temperature"
-        },
-        {
-          "id": "d",
-          "label": "Viral transport medium at 4\u00b0C"
-        },
-        {
-          "id": "e",
-          "label": "Wet sterile container at 4\u00b0C"
-        }
-      ],
-      "correctOptionIds": ["b"]
-    },
-    "q10": {
-      "type": "mcq",
-      "prompt": "A 6-year-old male presents to the clinic with a 2-day history of painful urination and bright red blood in his urine. He recently recovered from a mild bout of sore throat and fever. A urine culture is performed and shows no bacterial growth. Which of the following viruses is the most likely cause of this patient's acute hemorrhagic cystitis?",
-      "options": [
-        {
-          "id": "a",
-          "label": "JC virus"
-        },
-        {
-          "id": "b",
-          "label": "BK virus"
-        },
-        {
-          "id": "c",
-          "label": "Adenovirus"
-        },
-        {
-          "id": "d",
-          "label": "Parvovirus B19"
-        },
-        {
-          "id": "e",
-          "label": "Rhinovirus"
-        }
-      ],
-      "correctOptionIds": ["c"]
     }
-  }
 }

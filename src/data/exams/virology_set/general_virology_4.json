@@ -1,279 +1,298 @@
 {
-  "info": {
-    "set_name": "General Virology 4",
-    "description": "",
-    "source": ""
-  },
-  "questions": {
-    "q1": {
-      "type": "mcq",
-      "prompt": "A 4-year-old unvaccinated child develops fever, sore throat, and malaise followed by asymmetric flaccid paralysis of the lower limbs without sensory loss. What is the mode of transmission of the viral causative agent in this patient?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Respiratory droplets"
-        },
-        {
-          "id": "b",
-          "label": "Fecal-oral route"
-        },
-        {
-          "id": "c",
-          "label": "Direct contact"
-        },
-        {
-          "id": "d",
-          "label": "Sexual transmission"
-        },
-        {
-          "id": "e",
-          "label": "Vector-borne transmission"
-        }
-      ],
-      "correctOptionIds": ["b"]
+    "info": {
+        "set_name": "General Virology 4",
+        "source": ""
     },
-    "q2": {
-      "type": "mcq",
-      "prompt": "Upon a direct examaination of a tissue sample, an inclusion body called molluscum bodies are found. The agent that causes the formation of these inclusion bodies is in the same family as which of the following viruses?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Rubella virus"
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A 4-year-old unvaccinated child develops fever, sore throat, and malaise followed by asymmetric flaccid paralysis of the lower limbs without sensory loss. What is the mode of transmission of the viral causative agent in this patient?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Sexual transmission"
+                },
+                {
+                    "id": "b",
+                    "label": "Direct contact"
+                },
+                {
+                    "id": "c",
+                    "label": "Respiratory droplets"
+                },
+                {
+                    "id": "d",
+                    "label": "Fecal-oral route"
+                },
+                {
+                    "id": "e",
+                    "label": "Vector-borne transmission"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
         },
-        {
-          "id": "b",
-          "label": "Coxsackie virus"
+        "q2": {
+            "type": "mcq",
+            "prompt": "Upon a direct examaination of a tissue sample, an inclusion body called molluscum bodies are found. The agent that causes the formation of these inclusion bodies is in the same family as which of the following viruses?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Varicella-zoster virus"
+                },
+                {
+                    "id": "b",
+                    "label": "Variola virus"
+                },
+                {
+                    "id": "c",
+                    "label": "Coxsackie virus"
+                },
+                {
+                    "id": "d",
+                    "label": "Rubella virus"
+                },
+                {
+                    "id": "e",
+                    "label": "JC virus"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
         },
-        {
-          "id": "c",
-          "label": "Variola virus"
+        "q3": {
+            "type": "mcq",
+            "prompt": "Hepatitis B virus (HBV) utilizes a unique replication strategy among DNA viruses. Following the entry of the viral genome into the host nucleus and the production of mRNA, which enzymatic process is required to generate the DNA genome of progeny virions?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Rolling circle replication occurring in the host cytoplasm"
+                },
+                {
+                    "id": "b",
+                    "label": "Direct translation of the DNA genome by host cell ribosomes"
+                },
+                {
+                    "id": "c",
+                    "label": "Integration of the viral DNA into the host chromosome via integrase"
+                },
+                {
+                    "id": "d",
+                    "label": "Semiconservative DNA replication by host cell DNA polymerase"
+                },
+                {
+                    "id": "e",
+                    "label": "Reverse transcription of a pregenomic RNA intermediate into DNA"
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
         },
-        {
-          "id": "d",
-          "label": "Varicella-zoster virus"
+        "q4": {
+            "type": "mcq",
+            "prompt": "A 5-year-old child presents with a high fever, cough, and conjunctivitis. During the physical examination, the clinician observes small, bright red spots with blue-white centers on the buccal mucosa. This pathognomonic clinical finding is termed what?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Owl's eye inclusions"
+                },
+                {
+                    "id": "b",
+                    "label": "Cowdry type A inclusions"
+                },
+                {
+                    "id": "c",
+                    "label": "Koplik spots"
+                },
+                {
+                    "id": "d",
+                    "label": "Guarnieri bodies"
+                },
+                {
+                    "id": "e",
+                    "label": "Negri bodies"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
         },
-        {
-          "id": "e",
-          "label": "JC virus"
+        "q5": {
+            "type": "mcq",
+            "prompt": "A 5-year-old child presents with a high fever, cough, and conjunctivitis. During the physical examination, the clinician observes small, bright red spots with blue-white centers on the buccal mucosa. This pathognomonic clinical finding is associated with which viral infection?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Parvovirus B19"
+                },
+                {
+                    "id": "b",
+                    "label": "Cytomegalovirus"
+                },
+                {
+                    "id": "c",
+                    "label": "Rubella virus"
+                },
+                {
+                    "id": "d",
+                    "label": "Measles virus"
+                },
+                {
+                    "id": "e",
+                    "label": "Adenovirus"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "Favipiravir is an antiviral medication utilized in the treatment of various RNA viruses, including SARS-CoV-2 and certain influenza strains. What is the primary mechanism of action for the active triphosphate form of this drug?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Interference with the host cell's ribosomal protein synthesis"
+                },
+                {
+                    "id": "b",
+                    "label": "Blockade of viral attachment to the host cell membrane"
+                },
+                {
+                    "id": "c",
+                    "label": "Prevention of mature virion release from the cell surface"
+                },
+                {
+                    "id": "d",
+                    "label": "Inhibition of the viral RNA-dependent RNA polymerase"
+                },
+                {
+                    "id": "e",
+                    "label": "Competitive inhibition of the viral integrase enzyme"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q7": {
+            "type": "mcq",
+            "prompt": "A 19-year-old patient presents with painful vesicular lesions on the genitalia. A Tzanck smear prepared from the lesion reveals the presence of multinucleated giant cells. This microscopic finding confirms an infection by a member of which viral family?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Herpesviridae"
+                },
+                {
+                    "id": "b",
+                    "label": "Papillomaviridae"
+                },
+                {
+                    "id": "c",
+                    "label": "Adenoviridae"
+                },
+                {
+                    "id": "d",
+                    "label": "Picornaviridae"
+                },
+                {
+                    "id": "e",
+                    "label": "Hepadnaviridae"
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
+        },
+        "q8": {
+            "type": "mcq",
+            "prompt": "In the replication cycle of HIV, the viral enzyme integrase is responsible for a critical step following the synthesis of double-stranded DNA. What is the primary function of this enzyme?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Facilitating the uncoating of the viral core in the cytoplasm"
+                },
+                {
+                    "id": "b",
+                    "label": "Inserting the linear viral DNA into the host cell chromosome"
+                },
+                {
+                    "id": "c",
+                    "label": "Promoting the budding of new viral particles from the membrane"
+                },
+                {
+                    "id": "d",
+                    "label": "Cleaving large viral polyproteins into functional subunits"
+                },
+                {
+                    "id": "e",
+                    "label": "Synthesizing a DNA copy from the viral RNA template"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q9": {
+            "type": "mcq",
+            "prompt": "The process of \"reassortment,\" which can lead to major antigenic shifts and global pandemics, occurs when two different viral strains infect the same cell and exchange genetic material. This process is possible only in viruses that possess which of the following genomic features?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "A positive-sense single-stranded RNA genome"
+                },
+                {
+                    "id": "b",
+                    "label": "A circular DNA genome"
+                },
+                {
+                    "id": "c",
+                    "label": "A diploid DNA genome"
+                },
+                {
+                    "id": "d",
+                    "label": "A double-stranded DNA genome"
+                },
+                {
+                    "id": "e",
+                    "label": "A segmented RNA genome"
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        },
+        "q10": {
+            "type": "mcq",
+            "prompt": "In a laboratory experiment, a cell is simultaneously infected with Virus A and Virus B. During the assembly phase, the genome of Virus A is packaged within a protein coat (capsid/envelope) derived entirely from Virus B. What determines the tropism (the ability to infect a specific cell type) of this resulting hybrid progeny?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Reassortment of genomic segments between both viruses"
+                },
+                {
+                    "id": "b",
+                    "label": "The protein coat derived from Virus B"
+                },
+                {
+                    "id": "c",
+                    "label": "The site of viral replication in the cytoplasm"
+                },
+                {
+                    "id": "d",
+                    "label": "Host cell-derived tRNA molecules"
+                },
+                {
+                    "id": "e",
+                    "label": "The genetic material derived from Virus A"
+                }
+            ],
+            "correctOptionIds": [
+                "a"
+            ]
         }
-      ],
-      "correctOptionIds": ["c"]
-    },
-    "q3": {
-      "type": "mcq",
-      "prompt": "Hepatitis B virus (HBV) utilizes a unique replication strategy among DNA viruses. Following the entry of the viral genome into the host nucleus and the production of mRNA, which enzymatic process is required to generate the DNA genome of progeny virions?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Semiconservative DNA replication by host cell DNA polymerase"
-        },
-        {
-          "id": "b",
-          "label": "Reverse transcription of a pregenomic RNA intermediate into DNA"
-        },
-        {
-          "id": "c",
-          "label": "Integration of the viral DNA into the host chromosome via integrase"
-        },
-        {
-          "id": "d",
-          "label": "Direct translation of the DNA genome by host cell ribosomes"
-        },
-        {
-          "id": "e",
-          "label": "Rolling circle replication occurring in the host cytoplasm"
-        }
-      ],
-      "correctOptionIds": ["b"]
-    },
-    "q4": {
-      "type": "mcq",
-      "prompt": "A 5-year-old child presents with a high fever, cough, and conjunctivitis. During the physical examination, the clinician observes small, bright red spots with blue-white centers on the buccal mucosa. This pathognomonic clinical finding is termed what?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Negri bodies"
-        },
-        {
-          "id": "b",
-          "label": "Koplik spots"
-        },
-        {
-          "id": "c",
-          "label": "Owl's eye inclusions"
-        },
-        {
-          "id": "d",
-          "label": "Cowdry type A inclusions"
-        },
-        {
-          "id": "e",
-          "label": "Guarnieri bodies"
-        }
-      ],
-      "correctOptionIds": ["b"]
-    },
-    "q5": {
-      "type": "mcq",
-      "prompt": "A 5-year-old child presents with a high fever, cough, and conjunctivitis. During the physical examination, the clinician observes small, bright red spots with blue-white centers on the buccal mucosa. This pathognomonic clinical finding is associated with which viral infection?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Adenovirus"
-        },
-        {
-          "id": "b",
-          "label": "Cytomegalovirus"
-        },
-        {
-          "id": "c",
-          "label": "Rubella virus"
-        },
-        {
-          "id": "d",
-          "label": "Measles virus"
-        },
-        {
-          "id": "e",
-          "label": "Parvovirus B19"
-        }
-      ],
-      "correctOptionIds": ["d"]
-    },
-    "q6": {
-      "type": "mcq",
-      "prompt": "Favipiravir is an antiviral medication utilized in the treatment of various RNA viruses, including SARS-CoV-2 and certain influenza strains. What is the primary mechanism of action for the active triphosphate form of this drug?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Blockade of viral attachment to the host cell membrane"
-        },
-        {
-          "id": "b",
-          "label": "Inhibition of the viral RNA-dependent RNA polymerase"
-        },
-        {
-          "id": "c",
-          "label": "Interference with the host cell's ribosomal protein synthesis"
-        },
-        {
-          "id": "d",
-          "label": "Prevention of mature virion release from the cell surface"
-        },
-        {
-          "id": "e",
-          "label": "Competitive inhibition of the viral integrase enzyme"
-        }
-      ],
-      "correctOptionIds": ["b"]
-    },
-    "q7": {
-      "type": "mcq",
-      "prompt": "A 19-year-old patient presents with painful vesicular lesions on the genitalia. A Tzanck smear prepared from the lesion reveals the presence of multinucleated giant cells. This microscopic finding confirms an infection by a member of which viral family?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Adenoviridae"
-        },
-        {
-          "id": "b",
-          "label": "Herpesviridae"
-        },
-        {
-          "id": "c",
-          "label": "Picornaviridae"
-        },
-        {
-          "id": "d",
-          "label": "Papillomaviridae"
-        },
-        {
-          "id": "e",
-          "label": "Hepadnaviridae"
-        }
-      ],
-      "correctOptionIds": ["b"]
-    },
-    "q8": {
-      "type": "mcq",
-      "prompt": "In the replication cycle of HIV, the viral enzyme integrase is responsible for a critical step following the synthesis of double-stranded DNA. What is the primary function of this enzyme?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Cleaving large viral polyproteins into functional subunits"
-        },
-        {
-          "id": "b",
-          "label": "Synthesizing a DNA copy from the viral RNA template"
-        },
-        {
-          "id": "c",
-          "label": "Inserting the linear viral DNA into the host cell chromosome"
-        },
-        {
-          "id": "d",
-          "label": "Promoting the budding of new viral particles from the membrane"
-        },
-        {
-          "id": "e",
-          "label": "Facilitating the uncoating of the viral core in the cytoplasm"
-        }
-      ],
-      "correctOptionIds": ["c"]
-    },
-    "q9": {
-      "type": "mcq",
-      "prompt": "The process of \"reassortment,\" which can lead to major antigenic shifts and global pandemics, occurs when two different viral strains infect the same cell and exchange genetic material. This process is possible only in viruses that possess which of the following genomic features?",
-      "options": [
-        {
-          "id": "a",
-          "label": "A double-stranded DNA genome"
-        },
-        {
-          "id": "b",
-          "label": "A segmented RNA genome"
-        },
-        {
-          "id": "c",
-          "label": "A circular DNA genome"
-        },
-        {
-          "id": "d",
-          "label": "A positive-sense single-stranded RNA genome"
-        },
-        {
-          "id": "e",
-          "label": "A diploid DNA genome"
-        }
-      ],
-      "correctOptionIds": ["b"]
-    },
-    "q10": {
-      "type": "mcq",
-      "prompt": "In a laboratory experiment, a cell is simultaneously infected with Virus A and Virus B. During the assembly phase, the genome of Virus A is packaged within a protein coat (capsid/envelope) derived entirely from Virus B. What determines the tropism (the ability to infect a specific cell type) of this resulting hybrid progeny?",
-      "options": [
-        {
-          "id": "a",
-          "label": "The genetic material derived from Virus A"
-        },
-        {
-          "id": "b",
-          "label": "The protein coat derived from Virus B"
-        },
-        {
-          "id": "c",
-          "label": "Reassortment of genomic segments between both viruses"
-        },
-        {
-          "id": "d",
-          "label": "Host cell-derived tRNA molecules"
-        },
-        {
-          "id": "e",
-          "label": "The site of viral replication in the cytoplasm"
-        }
-      ],
-      "correctOptionIds": ["c"]
     }
-  }
 }

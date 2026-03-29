@@ -7,34 +7,34 @@
   "questions": {
     "q1": {
       "type": "mcq",
-      "prompt": "A 42-year-old resident of Rhode Island presents with fever and hemolytic anemia; microscopy of a Giemsa-stained thin blood smear reveals tetrad arrangements of ring forms within the erythrocytes. Which of the following is the most likely causative agent?",
+      "prompt": "A 34-year-old male returns from a tropical region and presents with periodic fever paroxysms. A Giemsa-stained thin blood smear is performed, revealing enlarged, pale-staining infected erythrocytes that are distinctly oval in shape with characteristic fimbriated (jagged) edges. James'/Schüffner's dots are clearly visible within the host cell cytoplasm. Which of the following Plasmodium species is the most likely causative agent?",
       "options": [
         {
           "id": "a",
-          "label": "*Babesia microti*"
+          "label": "*Plasmodium falciparum*"
         },
         {
           "id": "b",
-          "label": "Plasmodium falciparum"
+          "label": "*Plasmodium knowlesi*"
         },
         {
           "id": "c",
-          "label": "Plasmodium vivax"
+          "label": "*Plasmodium malariae*"
         },
         {
           "id": "d",
-          "label": "Toxoplasma gondii"
+          "label": "*Plasmodium ovale*"
         },
         {
           "id": "e",
-          "label": "Trypanosoma cruzi"
+          "label": "*Plasmodium vivax*"
         }
       ],
-      "correctOptionIds": ["a"]
+      "correctOptionIds": ["d"]
     },
     "q2": {
       "type": "mcq",
-      "prompt": "A 55-year-old man presents with fatigue and numbness in his lower extremities; laboratory investigations reveal megaloblastic anemia and a vitamin B12 deficiency. He reports a long-standing habit of consuming raw freshwater fish. Which organism is most likely responsible for this clinical presentation?",
+      "prompt": "A 40-year-old fisherman from a coastal Southeast Asian village presents with chronic watery diarrhea, weight loss, progressive weakness, with gurgling stomach. He reports frequent consumption of raw freshwater fish. Examination shows muscle wasting and signs of malnutrition. Which of the followig is the key characteristic of the egg of the causative agent?",
       "options": [
         {
           "id": "a",
@@ -42,7 +42,7 @@
         },
         {
           "id": "b",
-          "label": "Clonorchis sinensis"
+          "label": "Pitted shell with bipolar flattened plugs"
         },
         {
           "id": "c",
