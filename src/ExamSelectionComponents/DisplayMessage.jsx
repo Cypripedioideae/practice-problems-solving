@@ -31,7 +31,7 @@ export default function DisplayMessage({ topicCaller, onBackToSelection }) {
       แต่เนื่องจากเป็น project ที่ทำคนเดียวและการเขียนคำอธิบายค่อนข้างใช้เวลานาน 
       feedback ที่ได้กลับมาจึงมีประโยชน์มากครับ
     `;
-    updateMessage = "none";
+    updateMessage = "29/3/2026: Added 8 virology question sets";
   }
 
   return (
@@ -48,7 +48,9 @@ export default function DisplayMessage({ topicCaller, onBackToSelection }) {
               <h1 className="text-left text-2xl font-bold">
                 Update Log of the Topic
               </h1>
-              <p className="pl-5 text-left">{updateMessage}</p>
+              <p className="pl-5 text-left whitespace-pre-wrap">
+                {updateMessage}
+              </p>
             </div>
           ) : null}
         </section>
