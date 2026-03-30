@@ -1,8 +1,8 @@
 {
   "info": {
     "set_name": "General parasitology 7",
-    "description": "",
-    "source": ""
+    "description": "This problem set focuses on parasites and antiparasitic agents. The difficulty may vary a lot through out the set, since this set contains a mix of four different cognitive levels of complexity (recall, understand, apply, analyze). The questions are already reviewed, so mistakes should have already been minimized, but if you come across one, you can report through the Forms in the \"Info and Links\".",
+    "source": "-"
   },
   "questions": {
     "q1": {
@@ -34,30 +34,30 @@
     },
     "q2": {
       "type": "mcq",
-      "prompt": "A patient presents with an excruciating headache and neck stiffness; laboratory analysis of the cerebrospinal fluid (CSF) reveals a significant number of eosinophils, leading to a diagnosis of eosinophilic meningitis. The patient reports a recent history of consuming raw Pila snails. Which of the following organisms is the most likely causative agent?",
+      "prompt": "A 45-year-old hunter presents with high fever, severe myalgias, and periorbital edema two weeks after consuming undercooked bear meat; physical examination also reveals small splinter hemorrhages under his fingernails. Which parasite is the most likely cause?",
       "options": [
         {
           "id": "a",
-          "label": "Angiostrongylus cantonensis"
+          "label": "*Ancylostoma duodenale*"
         },
         {
           "id": "b",
-          "label": "Gnathostoma spinigerum"
+          "label": "*Fasciola hepatica*"
         },
         {
           "id": "c",
-          "label": "Paragonimus westermani"
+          "label": "*Taenia saginata*"
         },
         {
           "id": "d",
-          "label": "Schistosoma japonicum"
+          "label": "*Toxocara canis*"
         },
         {
           "id": "e",
-          "label": "Taenia solium"
+          "label": "*Trichinella spiralis*"
         }
       ],
-      "correctOptionIds": ["a"]
+      "correctOptionIds": ["e"]
     },
     "q3": {
       "type": "mcq",

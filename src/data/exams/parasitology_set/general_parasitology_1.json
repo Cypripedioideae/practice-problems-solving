@@ -1,67 +1,71 @@
 {
   "info": {
     "set_name": "General parasitology 1",
-    "description": "-",
+    "description": "This problem set focuses on parasites and antiparasitic agents. The difficulty may vary a lot through out the set, since this set contains a mix of four different cognitive levels of complexity (recall, understand, apply, analyze). The questions are already reviewed, so mistakes should have already been minimized, but if you come across one, you can report through the Forms in the \"Info and Links\".",
     "source": "-"
   },
   "questions": {
     "q1": {
       "type": "mcq",
-      "prompt": "A 34-year-old male returns from a tropical region and presents with periodic fever paroxysms. A Giemsa-stained thin blood smear is performed, revealing enlarged, pale-staining infected erythrocytes that are distinctly oval in shape with characteristic fimbriated (jagged) edges. James'/Schüffner's dots are clearly visible within the host cell cytoplasm. Which of the following Plasmodium species is the most likely causative agent?",
+      "prompt": "During a microscopic examination of a stained stool specimen from an asymptomatic patient, a laboratory technologist identifies a large spherical cyst (20 \u00b5m) containing eight distinct nuclei and an eccentric karyosome. Which of the following has been identified?",
       "options": [
         {
           "id": "a",
-          "label": "*Plasmodium falciparum*"
+          "label": "*Giardia lamblia*"
         },
         {
           "id": "b",
-          "label": "*Plasmodium knowlesi*"
+          "label": "*Dientamoeba fragilis*"
         },
         {
           "id": "c",
-          "label": "*Plasmodium malariae*"
+          "label": "*Entamoeba histolytica*"
         },
         {
           "id": "d",
-          "label": "*Plasmodium ovale*"
+          "label": "*Entamoeba coli*"
         },
         {
           "id": "e",
-          "label": "*Plasmodium vivax*"
+          "label": "*Balantidium coli*"
         }
       ],
-      "correctOptionIds": ["d"]
+      "correctOptionIds": [
+        "d"
+      ]
     },
     "q2": {
       "type": "mcq",
-      "prompt": "A 40-year-old fisherman from a coastal Southeast Asian village presents with chronic watery diarrhea, weight loss, progressive weakness, with gurgling stomach. He reports frequent consumption of raw freshwater fish. Examination shows muscle wasting and signs of malnutrition. Which of the followig is the key characteristic of the egg of the causative agent?",
+      "prompt": "A 40-year-old fisherman from a coastal Southeast Asian village presents with chronic profuse watery diarrhea, severe weight loss, hypoalbuminemia, and muscle wasting, with gurgling stomach. He reports frequent consumption of raw freshwater fish. Examination shows muscle wasting and signs of malnutrition. Which of the following is the key characteristic of the egg of the causative agent?",
       "options": [
         {
           "id": "a",
-          "label": "Ancylostoma duodenale"
-        },
-        {
-          "id": "b",
           "label": "Pitted shell with bipolar flattened plugs"
         },
         {
+          "id": "b",
+          "label": "Smooth, barrel-shaped"
+        },
+        {
           "id": "c",
-          "label": "Diphyllobothrium latum"
+          "label": "Oval and thin-shelled"
         },
         {
           "id": "d",
-          "label": "Fasciola hepatica"
+          "label": "Presence of radial striations"
         },
         {
           "id": "e",
-          "label": "Taenia saginata"
+          "label": "Thick, mammillated shell"
         }
       ],
-      "correctOptionIds": ["c"]
+      "correctOptionIds": [
+        "a"
+      ]
     },
     "q3": {
       "type": "mcq",
-      "prompt": "A 48-year-old Cambodian man with a history of corticosteroid therapy for asthma develops refractory septic shock caused by Escherichia coli bacteremia. Bronchoscopy reveals numerous rhabditiform larvae in the endotracheal secretions. Which mechanism explains how the bacteria reached the bloodstream?",
+      "prompt": "A 48-year-old man with a history of corticosteroid therapy for asthma develops refractory septic shock caused by *Escherichia coli* bacteremia. Bronchoscopy reveals numerous rhabditiform larvae in the endotracheal secretions. Which mechanism explains how the bacteria reached the bloodstream?",
       "options": [
         {
           "id": "a",
@@ -69,11 +73,11 @@
         },
         {
           "id": "b",
-          "label": "Entry of larvae through the cribriform plate"
+          "label": "Ingestion of infectious eggs contaminating food"
         },
         {
           "id": "c",
-          "label": "Ingestion of infectious eggs contaminating food"
+          "label": "Migration of adult worms into the biliary tract"
         },
         {
           "id": "d",
@@ -81,10 +85,12 @@
         },
         {
           "id": "e",
-          "label": "Migration of adult worms into the biliary tract"
+          "label": "Entry of larvae through the cribriform plate"
         }
       ],
-      "correctOptionIds": ["d"]
+      "correctOptionIds": [
+        "d"
+      ]
     },
     "q4": {
       "type": "mcq",
@@ -92,26 +98,28 @@
       "options": [
         {
           "id": "a",
-          "label": "Activation of chloride channels causing flaccid paralysis"
+          "label": "Promotion of calcium influx leading to spastic paralysis"
         },
         {
           "id": "b",
-          "label": "Inhibition of microtubule polymerization by binding to \u03b2-tubulin"
-        },
-        {
-          "id": "c",
           "label": "Inhibition of parasite haemoglobin digestion in the vacuole"
         },
         {
-          "id": "d",
+          "id": "c",
           "label": "Prevention of DNA synthesis by inhibiting reverse transcriptase"
         },
         {
+          "id": "d",
+          "label": "Inhibition of microtubule polymerization by binding to \u03b2-tubulin"
+        },
+        {
           "id": "e",
-          "label": "Promotion of calcium influx leading to spastic paralysis"
+          "label": "Activation of chloride channels causing flaccid paralysis"
         }
       ],
-      "correctOptionIds": ["e"]
+      "correctOptionIds": [
+        "a"
+      ]
     },
     "q5": {
       "type": "mcq",
@@ -119,26 +127,28 @@
       "options": [
         {
           "id": "a",
-          "label": "Diphyllobothrium latum"
+          "label": "*Dipylidium caninum*"
         },
         {
           "id": "b",
-          "label": "Dipylidium caninum"
+          "label": "*Hymenolepis nana*"
         },
         {
           "id": "c",
-          "label": "Hymenolepis nana"
+          "label": "*Taenia saginata*"
         },
         {
           "id": "d",
-          "label": "Taenia saginata"
+          "label": "*Diphyllobothrium latum*"
         },
         {
           "id": "e",
-          "label": "Taenia solium"
+          "label": "*Taenia solium*"
         }
       ],
-      "correctOptionIds": ["d"]
+      "correctOptionIds": [
+        "c"
+      ]
     },
     "q6": {
       "type": "mcq",
@@ -146,92 +156,98 @@
       "options": [
         {
           "id": "a",
-          "label": "Diffuse inflammatory foci throughout the mucosa"
-        },
-        {
-          "id": "b",
-          "label": "Flask-shaped ulcers in the submucosa"
-        },
-        {
-          "id": "c",
           "label": "Multiple inflammatory nodules in the lamina propria"
         },
         {
+          "id": "b",
+          "label": "Diffuse inflammatory foci throughout the mucosa"
+        },
+        {
+          "id": "c",
+          "label": "Flask-shaped ulcers in the submucosa"
+        },
+        {
           "id": "d",
-          "label": "Presence of adult worms embedded in the mucosal layer"
+          "label": "Squamous cell carcinoma of the intestinal wall"
         },
         {
           "id": "e",
-          "label": "Squamous cell carcinoma of the intestinal wall"
+          "label": "Presence of adult worms embedded in the mucosal layer"
         }
       ],
-      "correctOptionIds": ["b"]
+      "correctOptionIds": [
+        "c"
+      ]
     },
     "q7": {
       "type": "mcq",
-      "prompt": "A 50-year-old sheep farmer is found to have a 10-centimetre unilocular cyst in the right lobe of the liver with \"eggshell calcification\" on CT scan. During surgical resection, which complication is the surgeon most concerned about if the cyst ruptures?",
+      "prompt": "A 35-year-old male with a history of AIDS and a CD4+ T-lymphocyte count of 80 cells/mm^3 presents with a 3-day history of worsening headache and left upper limb weakness. Physical examination reveals oral thrush and significant weight loss. A brain MRI demonstrates multiple ring-enhancing lesions. The patient reports that he frequently consumes raw, unwashed vegetables harvested from a garden where several stray cats are known to roam. Through which parasitic stage did this patient most likely acquire the primary infection?",
       "options": [
         {
           "id": "a",
-          "label": "Acute biliary obstruction"
+          "label": "Tachyzoite"
         },
         {
           "id": "b",
-          "label": "Anaphylactic shock"
+          "label": "Bradyzoite"
         },
         {
           "id": "c",
-          "label": "Chronic cholangiohepatitis"
+          "label": "Tissue cyst"
         },
         {
           "id": "d",
-          "label": "Immediate progression to cirrhosis"
+          "label": "Gametocytes"
         },
         {
           "id": "e",
-          "label": "Spontaneous intestinal perforation"
+          "label": "Mature oocyst"
         }
       ],
-      "correctOptionIds": ["b"]
+      "correctOptionIds": [
+        "e"
+      ]
     },
     "q8": {
       "type": "mcq",
-      "prompt": "A 40-year-old man from Brazil presents with dilated cardiomyopathy and megacolon; physical examination reveals a laterally displaced point of maximal impact. Which of the following vectors is associated with the transmission of this disease?",
+      "prompt": "A 10-year-old boy is brought to the emergency department with a 2-day history of explosive headache, high fever, and neck stiffness. His parents report that he was diving into a local warm freshwater pond six days ago. On physical examination, he is lethargic and demonstrates signs of meningeal irritation. A lumbar puncture is performed, and the cerebrospinal fluid (CSF) appears grayish and hemorrhagic with a significantly increased opening pressure. Which of the following CSF profiles is most consistent with the expected findings for this patient's diagnosis?",
       "options": [
         {
           "id": "a",
-          "label": "Deer fly"
+          "label": "Normal glucose, normal protein, lymphocyte predominance"
         },
         {
           "id": "b",
-          "label": "Ixodes tick"
+          "label": "Normal glucose, high protein, neutrophil predominance"
         },
         {
           "id": "c",
-          "label": "Reduviid bug"
+          "label": "Low glucose, high protein, lymphocyte predominance"
         },
         {
           "id": "d",
-          "label": "Sandfly"
+          "label": "Normal glucose, high protein, lymphocyte predominance"
         },
         {
           "id": "e",
-          "label": "Tsetse fly"
+          "label": "Low glucose, high protein, neutrophil predominance"
         }
       ],
-      "correctOptionIds": ["c"]
+      "correctOptionIds": [
+        "e"
+      ]
     },
     "q9": {
       "type": "mcq",
-      "prompt": "A patient presents with fever, upper abdominal pain, and marked eosinophilia; an investigation reveals the presence of a liver fluke infection associated with the frequent consumption of raw watercress. What is the infective stage of this parasite?",
+      "prompt": "A 45-year-old male from Northeastern Thailand presents with intermittent upper abdominal pain and jaundice. He reports a lifelong dietary habit of consuming \"koi pla,\" a dish containing raw freshwater fish. A stool examination reveals yellow-brown, flask-shaped eggs with a distinct shoulder and a terminal knob. What is the infective stage of the parasite responsible for this patient's condition?",
       "options": [
         {
           "id": "a",
-          "label": "Cercariae"
+          "label": "Cysticercus"
         },
         {
           "id": "b",
-          "label": "Cysticercus"
+          "label": "Rhabditiform larvae"
         },
         {
           "id": "c",
@@ -243,37 +259,41 @@
         },
         {
           "id": "e",
-          "label": "Rhabditiform larvae"
+          "label": "Cercariae"
         }
       ],
-      "correctOptionIds": ["d"]
+      "correctOptionIds": [
+        "d"
+      ]
     },
     "q10": {
       "type": "mcq",
-      "prompt": "A routine stool examination of an asymptomatic child reveals brownish, barrel-shaped eggs (60 x 45 \u00b5m) with characteristic clear mucoid plugs at both ends. Which parasite does this represent?",
+      "prompt": "A routine stool examination of an asymptomatic child reveals brownish, barrel-shaped eggs with characteristic clear mucoid plugs at both ends. Which parasite does this represent?",
       "options": [
         {
           "id": "a",
-          "label": "Ascaris lumbricoides"
+          "label": "*Ascaris lumbricoides*"
         },
         {
           "id": "b",
-          "label": "Enterobius vermicularis"
+          "label": "*Trichuris trichiura*"
         },
         {
           "id": "c",
-          "label": "Necator americanus"
+          "label": "*Enterobius vermicularis*"
         },
         {
           "id": "d",
-          "label": "Strongyloides stercoralis"
+          "label": "*Strongyloides stercoralis*"
         },
         {
           "id": "e",
-          "label": "Trichuris trichiura"
+          "label": "*Capillaria philippinensis*"
         }
       ],
-      "correctOptionIds": ["e"]
+      "correctOptionIds": [
+        "b"
+      ]
     }
   }
 }

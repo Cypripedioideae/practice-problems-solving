@@ -1,298 +1,279 @@
 {
-    "info": {
-        "set_name": "General Virology 3",
-        "source": ""
-    },
-    "questions": {
-        "q1": {
-            "type": "mcq",
-            "prompt": "A 45-year-old patient is bitten by a raccoon and subsequently develops symptoms of a progressive neurological infection. The Rabies virus is known to enter the host through such wounds and travel to the central nervous system. By which mechanism does the virus reach the brain from the peripheral site of entry?",
-            "options": [
-                {
-                    "id": "a",
-                    "label": "Diffusion through the cerebrospinal fluid"
-                },
-                {
-                    "id": "b",
-                    "label": "Slow migration through the lymphatic system"
-                },
-                {
-                    "id": "c",
-                    "label": "Retrograde axoplasmic transport within neurons"
-                },
-                {
-                    "id": "d",
-                    "label": "Direct movement through vascular endothelial cells"
-                },
-                {
-                    "id": "e",
-                    "label": "Rapid hematogenous spread through the venous system"
-                }
-            ],
-            "correctOptionIds": [
-                "c"
-            ]
+  "info": {
+    "set_name": "General Virology 3",
+    "description": "This problem set focuses on viral pathogens and antiviral agents. The difficulty may vary a lot through out the set, since this set contains a mix of four different cognitive levels of complexity (recall, understand, apply, analyze). The questions are already reviewed, so mistakes should have already been minimized, but if you come across one, you can report through the Forms in the \"Info and Links\".",
+    "source": "-"
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "A 45-year-old patient is bitten by a raccoon and subsequently develops symptoms of a progressive neurological infection. The Rabies virus is known to enter the host through such wounds and travel to the central nervous system. By which mechanism does the virus reach the brain from the peripheral site of entry?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Diffusion through the cerebrospinal fluid"
         },
-        "q2": {
-            "type": "mcq",
-            "prompt": "A 68-year-old patient presents with a painful, vesicular rash that follows a T6 dermatome distribution on the chest. The clinician diagnoses shingles, which results from the reactivation of a virus that has remained dormant since a childhood chickenpox infection. Where is the primary site of latency for this virus?",
-            "options": [
-                {
-                    "id": "a",
-                    "label": "Sensory nerve ganglia"
-                },
-                {
-                    "id": "b",
-                    "label": "Erythroid progenitor cells"
-                },
-                {
-                    "id": "c",
-                    "label": "Memory B lymphocytes"
-                },
-                {
-                    "id": "d",
-                    "label": "Vascular endothelial cells"
-                },
-                {
-                    "id": "e",
-                    "label": "Monocytes and macrophages"
-                }
-            ],
-            "correctOptionIds": [
-                "a"
-            ]
+        {
+          "id": "b",
+          "label": "Slow migration through the lymphatic system"
         },
-        "q3": {
-            "type": "mcq",
-            "prompt": "A 28-year-old male is diagnosed with both chronic Hepatitis B and HIV infection. To simplify his treatment, the clinician considers an antiviral agent that is active against both viruses. Which of the following drugs is appropriate for treating both chronic HBV and HIV?",
-            "options": [
-                {
-                    "id": "a",
-                    "label": "Efavirenz"
-                },
-                {
-                    "id": "b",
-                    "label": "Atazanavir"
-                },
-                {
-                    "id": "c",
-                    "label": "Maraviroc"
-                },
-                {
-                    "id": "d",
-                    "label": "Enfuvirtide"
-                },
-                {
-                    "id": "e",
-                    "label": "Lamivudine"
-                }
-            ],
-            "correctOptionIds": [
-                "e"
-            ]
+        {
+          "id": "c",
+          "label": "Retrograde axoplasmic transport within neurons"
         },
-        "q4": {
-            "type": "mcq",
-            "prompt": "A 22-year-old male presents to the clinic with a 2-day history of runny nose, sore throat, and a dry cough. The physician suspects a viral upper respiratory tract infection and performs a nasopharyngeal swab for diagnostic testing. Which of the following is the most appropriate method for the storage and transportation of this specimen to the laboratory?",
-            "options": [
-                {
-                    "id": "a",
-                    "label": "Dry sterile container at 4\u00b0C"
-                },
-                {
-                    "id": "b",
-                    "label": "Viral transport medium at room temperature"
-                },
-                {
-                    "id": "c",
-                    "label": "Dry sterile container at room temperature"
-                },
-                {
-                    "id": "d",
-                    "label": "Viral transport medium at 4\u00b0C"
-                },
-                {
-                    "id": "e",
-                    "label": "Wet sterile container at 4\u00b0C"
-                }
-            ],
-            "correctOptionIds": [
-                "a"
-            ]
+        {
+          "id": "d",
+          "label": "Direct movement through vascular endothelial cells"
         },
-        "q5": {
-            "type": "mcq",
-            "prompt": "Influenza A virus is unique in its ability to cause global pandemics. This is primarily due to its segmented genome, which allows two different strains infecting the same cell to exchange genetic material and create a novel subtype. Which term describes this specific genetic process?",
-            "options": [
-                {
-                    "id": "a",
-                    "label": "Antigenic drift via random point mutations"
-                },
-                {
-                    "id": "b",
-                    "label": "Complementation of nonfunctional proteins"
-                },
-                {
-                    "id": "c",
-                    "label": "Integration into the host cell chromosome"
-                },
-                {
-                    "id": "d",
-                    "label": "Reassortment of genomic segments"
-                },
-                {
-                    "id": "e",
-                    "label": "Latent infection within peripheral neurons"
-                }
-            ],
-            "correctOptionIds": [
-                "d"
-            ]
-        },
-        "q6": {
-            "type": "mcq",
-            "prompt": "A patient experienced vesicular skin eruptions of unknown cause, the physician suspects a that the causative agent is a member of herpesviridae family. The scraping at the base of the lesion was obtained to investigate for cytopathologic effects, what is the stain that would be used?",
-            "options": [
-                {
-                    "id": "a",
-                    "label": "Trichome stain"
-                },
-                {
-                    "id": "b",
-                    "label": "Giemsa stain"
-                },
-                {
-                    "id": "c",
-                    "label": "Modified Acid-fast stain"
-                },
-                {
-                    "id": "d",
-                    "label": "Periodic acid-Schiff stain"
-                },
-                {
-                    "id": "e",
-                    "label": "Gram stain"
-                }
-            ],
-            "correctOptionIds": [
-                "b"
-            ]
-        },
-        "q7": {
-            "type": "mcq",
-            "prompt": "What is the main vector for Zika virus tranmission?",
-            "options": [
-                {
-                    "id": "a",
-                    "label": "Sandfly"
-                },
-                {
-                    "id": "b",
-                    "label": "*Anopheles* spp."
-                },
-                {
-                    "id": "c",
-                    "label": "*Aedes* spp."
-                },
-                {
-                    "id": "d",
-                    "label": "Culex spp."
-                },
-                {
-                    "id": "e",
-                    "label": "Tsetse fly"
-                }
-            ],
-            "correctOptionIds": [
-                "c"
-            ]
-        },
-        "q8": {
-            "type": "mcq",
-            "prompt": "Ganciclovir is used for the treatment of Cytomegalovirus (CMV) infections in immunocompromised patients. Unlike Acyclovir, which is activated by a thymidine kinase, Ganciclovir undergoes its initial phosphorylation in CMV-infected cells by which specific viral enzyme?",
-            "options": [
-                {
-                    "id": "a",
-                    "label": "Host cell hexokinase"
-                },
-                {
-                    "id": "b",
-                    "label": "RNA-dependent RNA polymerase"
-                },
-                {
-                    "id": "c",
-                    "label": "Viral phosphotransferase"
-                },
-                {
-                    "id": "d",
-                    "label": "NS3/4A protease"
-                },
-                {
-                    "id": "e",
-                    "label": "Viral thymidine kinase"
-                }
-            ],
-            "correctOptionIds": [
-                "c"
-            ]
-        },
-        "q9": {
-            "type": "mcq",
-            "prompt": "Naked capsid viruses, such as Rotavirus and Hepatitis A virus, are commonly transmitted via the fecal-oral route. Which structural property of these viruses primarily allows them to survive transit through the stomach and establish infection?",
-            "options": [
-                {
-                    "id": "a",
-                    "label": "Presence of a lipid bilayer derived from the host cell"
-                },
-                {
-                    "id": "b",
-                    "label": "Resistance to acidic pH and detergents"
-                },
-                {
-                    "id": "c",
-                    "label": "Use of a viral-encoded reverse transcriptase"
-                },
-                {
-                    "id": "d",
-                    "label": "Replication exclusively within a protective envelope"
-                },
-                {
-                    "id": "e",
-                    "label": "Possession of a diploid RNA genome"
-                }
-            ],
-            "correctOptionIds": [
-                "b"
-            ]
-        },
-        "q10": {
-            "type": "mcq",
-            "prompt": "The replication cycle of the Human Immunodeficiency Virus involves the conversion of its RNA genome into DNA. This process is catalyzed by the viral enzyme reverse transcriptase, which is considered a major driver of viral evolution. Which characteristic of reverse transcriptase contributes most significantly to the development of drug resistance?",
-            "options": [
-                {
-                    "id": "a",
-                    "label": "It proofreads and corrects mutations to ensure high viral fitness"
-                },
-                {
-                    "id": "b",
-                    "label": "It is a highly error-prone enzyme"
-                },
-                {
-                    "id": "c",
-                    "label": "It catalyzes the rapid glycosylation of viral envelope glycoproteins"
-                },
-                {
-                    "id": "d",
-                    "label": "It prevents the integration of the provirus into the host genome"
-                },
-                {
-                    "id": "e",
-                    "label": "It allows the virus to reassort its genome with other unrelated RNA viruses"
-                }
-            ],
-            "correctOptionIds": [
-                "b"
-            ]
+        {
+          "id": "e",
+          "label": "Rapid hematogenous spread through the venous system"
         }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q2": {
+      "type": "mcq",
+      "prompt": "A 68-year-old patient presents with a painful, vesicular rash that follows a T6 dermatome distribution on the chest. The clinician diagnoses shingles, which results from the reactivation of a virus that has remained dormant since a childhood chickenpox infection. Where is the primary site of latency for this virus?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Sensory nerve ganglia"
+        },
+        {
+          "id": "b",
+          "label": "Erythroid progenitor cells"
+        },
+        {
+          "id": "c",
+          "label": "Memory B lymphocytes"
+        },
+        {
+          "id": "d",
+          "label": "Vascular endothelial cells"
+        },
+        {
+          "id": "e",
+          "label": "Monocytes and macrophages"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q3": {
+      "type": "mcq",
+      "prompt": "A 28-year-old male is diagnosed with both chronic Hepatitis B and HIV infection. To simplify his treatment, the clinician considers an antiviral agent that is active against both viruses. Which of the following drugs is appropriate for treating both chronic HBV and HIV?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Efavirenz"
+        },
+        {
+          "id": "b",
+          "label": "Atazanavir"
+        },
+        {
+          "id": "c",
+          "label": "Maraviroc"
+        },
+        {
+          "id": "d",
+          "label": "Enfuvirtide"
+        },
+        {
+          "id": "e",
+          "label": "Lamivudine"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q4": {
+      "type": "mcq",
+      "prompt": "A 22-year-old male presents to the clinic with a 2-day history of runny nose, sore throat, and a dry cough. The physician suspects a viral upper respiratory tract infection and performs a nasopharyngeal swab for diagnostic testing. Which of the following is the most appropriate method for the storage and transportation of this specimen to the laboratory?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Dry sterile container at 4\u00b0C"
+        },
+        {
+          "id": "b",
+          "label": "Viral transport medium at room temperature"
+        },
+        {
+          "id": "c",
+          "label": "Dry sterile container at room temperature"
+        },
+        {
+          "id": "d",
+          "label": "Viral transport medium at 4\u00b0C"
+        },
+        {
+          "id": "e",
+          "label": "Wet sterile container at 4\u00b0C"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q5": {
+      "type": "mcq",
+      "prompt": "Influenza A virus is unique in its ability to cause global pandemics. This is primarily due to its segmented genome, which allows two different strains infecting the same cell to exchange genetic material and create a novel subtype. Which term describes this specific genetic process?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Antigenic drift via random point mutations"
+        },
+        {
+          "id": "b",
+          "label": "Complementation of nonfunctional proteins"
+        },
+        {
+          "id": "c",
+          "label": "Integration into the host cell chromosome"
+        },
+        {
+          "id": "d",
+          "label": "Reassortment of genomic segments"
+        },
+        {
+          "id": "e",
+          "label": "Latent infection within peripheral neurons"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q6": {
+      "type": "mcq",
+      "prompt": "A patient experienced vesicular skin eruptions of unknown cause, the physician suspects a that the causative agent is a member of herpesviridae family. The scraping at the base of the lesion was obtained to investigate for cytopathologic effects, what is the stain that would be used?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Trichome stain"
+        },
+        {
+          "id": "b",
+          "label": "Giemsa stain"
+        },
+        {
+          "id": "c",
+          "label": "Modified Acid-fast stain"
+        },
+        {
+          "id": "d",
+          "label": "Periodic acid-Schiff stain"
+        },
+        {
+          "id": "e",
+          "label": "Gram stain"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "What is the main vector for Zika virus tranmission?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Sandfly"
+        },
+        {
+          "id": "b",
+          "label": "*Anopheles* spp."
+        },
+        {
+          "id": "c",
+          "label": "*Aedes* spp."
+        },
+        {
+          "id": "d",
+          "label": "Culex spp."
+        },
+        {
+          "id": "e",
+          "label": "Tsetse fly"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q8": {
+      "type": "mcq",
+      "prompt": "Ganciclovir is used for the treatment of Cytomegalovirus (CMV) infections in immunocompromised patients. Unlike Acyclovir, which is activated by a thymidine kinase, Ganciclovir undergoes its initial phosphorylation in CMV-infected cells by which specific viral enzyme?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Host cell hexokinase"
+        },
+        {
+          "id": "b",
+          "label": "RNA-dependent RNA polymerase"
+        },
+        {
+          "id": "c",
+          "label": "Viral phosphotransferase"
+        },
+        {
+          "id": "d",
+          "label": "NS3/4A protease"
+        },
+        {
+          "id": "e",
+          "label": "Viral thymidine kinase"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q9": {
+      "type": "mcq",
+      "prompt": "Naked capsid viruses, such as Rotavirus and Hepatitis A virus, are commonly transmitted via the fecal-oral route. Which structural property of these viruses primarily allows them to survive transit through the stomach and establish infection?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Presence of a lipid bilayer derived from the host cell"
+        },
+        {
+          "id": "b",
+          "label": "Resistance to acidic pH and detergents"
+        },
+        {
+          "id": "c",
+          "label": "Use of a viral-encoded reverse transcriptase"
+        },
+        {
+          "id": "d",
+          "label": "Replication exclusively within a protective envelope"
+        },
+        {
+          "id": "e",
+          "label": "Possession of a diploid RNA genome"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q10": {
+      "type": "mcq",
+      "prompt": "The replication cycle of the Human Immunodeficiency Virus involves the conversion of its RNA genome into DNA. This process is catalyzed by the viral enzyme reverse transcriptase, which is considered a major driver of viral evolution. Which characteristic of reverse transcriptase contributes most significantly to the development of drug resistance?",
+      "options": [
+        {
+          "id": "a",
+          "label": "It proofreads and corrects mutations to ensure high viral fitness"
+        },
+        {
+          "id": "b",
+          "label": "It is a highly error-prone enzyme"
+        },
+        {
+          "id": "c",
+          "label": "It catalyzes the rapid glycosylation of viral envelope glycoproteins"
+        },
+        {
+          "id": "d",
+          "label": "It prevents the integration of the provirus into the host genome"
+        },
+        {
+          "id": "e",
+          "label": "It allows the virus to reassort its genome with other unrelated RNA viruses"
+        }
+      ],
+      "correctOptionIds": ["b"]
     }
+  }
 }

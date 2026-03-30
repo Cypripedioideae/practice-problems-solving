@@ -31,7 +31,10 @@ export default function DisplayMessage({ topicCaller, onBackToSelection }) {
       แต่เนื่องจากเป็น project ที่ทำคนเดียวและการเขียนคำอธิบายค่อนข้างใช้เวลานาน 
       feedback ที่ได้กลับมาจึงมีประโยชน์มากครับ
     `;
-    updateMessage = "29/3/2026: Added 8 virology question sets";
+    updateMessage = `
+      29/3/2026: Added 8 virology question sets\n
+      30/3/2026: Added 5 parasitology question sets
+    `;
   }
 
   return (

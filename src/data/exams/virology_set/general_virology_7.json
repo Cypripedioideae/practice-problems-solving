@@ -1,298 +1,279 @@
 {
-    "info": {
-        "set_name": "General Virology 7",
-        "source": ""
-    },
-    "questions": {
-        "q1": {
-            "type": "mcq",
-            "prompt": "The serologic tests of patients with acute and chronic infection is different. Which of the followings can be found in the serologic results of acute infection but not that of chronic infection",
-            "options": [
-                {
-                    "id": "a",
-                    "label": "HBsAg is positive in acute infection but not in chronic infection"
-                },
-                {
-                    "id": "b",
-                    "label": "Anti-HBe is negative in acute infection but positive in chronic infection"
-                },
-                {
-                    "id": "c",
-                    "label": "Anti-HBs is negative in acute infection but positive in chronic infection"
-                },
-                {
-                    "id": "d",
-                    "label": "Anti-HBc IgM is positive in acute infeciton but negative in chronic infection"
-                },
-                {
-                    "id": "e",
-                    "label": "HBsAg is negative in acute infection but positive in chronic infection"
-                }
-            ],
-            "correctOptionIds": [
-                "d"
-            ]
+  "info": {
+    "set_name": "General Virology 7",
+    "description": "This problem set focuses on viral pathogens and antiviral agents. The difficulty may vary a lot through out the set, since this set contains a mix of four different cognitive levels of complexity (recall, understand, apply, analyze). The questions are already reviewed, so mistakes should have already been minimized, but if you come across one, you can report through the Forms in the \"Info and Links\".",
+    "source": "-"
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "The serologic tests of patients with acute and chronic infection is different. Which of the followings can be found in the serologic results of acute infection but not that of chronic infection",
+      "options": [
+        {
+          "id": "a",
+          "label": "HBsAg is positive in acute infection but not in chronic infection"
         },
-        "q2": {
-            "type": "mcq",
-            "prompt": "A 35-year-old male presents with a 3-day history of high fever, severe polyarthralgia, and a maculopapular rash after returning from a tropical region. He is suspected of having a Chikungunya virus infection. Which of the following cell types serves as the primary site of initial viral replication following the mosquito bite?",
-            "options": [
-                {
-                    "id": "a",
-                    "label": "B lymphocytes"
-                },
-                {
-                    "id": "b",
-                    "label": "Neural progenitor cells"
-                },
-                {
-                    "id": "c",
-                    "label": "Endothelial cells"
-                },
-                {
-                    "id": "d",
-                    "label": "Alveolar macrophage"
-                },
-                {
-                    "id": "e",
-                    "label": "Dermal fibroblasts"
-                }
-            ],
-            "correctOptionIds": [
-                "e"
-            ]
+        {
+          "id": "b",
+          "label": "Anti-HBe is negative in acute infection but positive in chronic infection"
         },
-        "q3": {
-            "type": "mcq",
-            "prompt": "A laboratory is using electron microscopy to identify a virus isolated from a patient who died of a progressive neurological infection following a bat bite. The virions are observed to have a highly characteristic morphology, How are these virions described?",
-            "options": [
-                {
-                    "id": "a",
-                    "label": "Pleomorphic and spherical with large surface spikes"
-                },
-                {
-                    "id": "b",
-                    "label": "Icosahedral with wheel-like spokes on the capsid"
-                },
-                {
-                    "id": "c",
-                    "label": "Bullet-shaped with a helical nucleocapsid"
-                },
-                {
-                    "id": "d",
-                    "label": "Long, filamentous threads with a hooked end"
-                },
-                {
-                    "id": "e",
-                    "label": "Brick-shaped with complex internal filaments"
-                }
-            ],
-            "correctOptionIds": [
-                "c"
-            ]
+        {
+          "id": "c",
+          "label": "Anti-HBs is negative in acute infection but positive in chronic infection"
         },
-        "q4": {
-            "type": "mcq",
-            "prompt": "Influenza A viruses utilize specific surface glycoproteins to facilitate their replication cycle. Which specific role is performed by the Hemagglutinin (HA) protein during the initial stages of infection?",
-            "options": [
-                {
-                    "id": "a",
-                    "label": "Formation of a transmembrane proton channel for genomic uncoating"
-                },
-                {
-                    "id": "b",
-                    "label": "Cleavage of sialic acid residues to allow the release of progeny virions"
-                },
-                {
-                    "id": "c",
-                    "label": "Proteolytic cleavage of the viral polyprotein precursor"
-                },
-                {
-                    "id": "d",
-                    "label": "Synthesis of a positive-strand mRNA template from the negative-strand genome"
-                },
-                {
-                    "id": "e",
-                    "label": "Binding to cell-surface sialic acid receptors to facilitate viral attachment"
-                }
-            ],
-            "correctOptionIds": [
-                "e"
-            ]
+        {
+          "id": "d",
+          "label": "Anti-HBc IgM is positive in acute infeciton but negative in chronic infection"
         },
-        "q5": {
-            "type": "mcq",
-            "prompt": "A 24-year-old patient presents with high fever, severe myalgias, and retro-orbital pain after returning from a tropical region. On day 4 of illness, they develop worsening abdominal pain and tenderness. Examination reveals hepatomegaly with the liver palpable 3 cm below the costal margin. Laboratory studies show an increased hematocrit with a rapidly declining platelet count. According to the documented course of this illness, which of the following clinical concerns is most critical for the patient during this current phase?",
-            "options": [
-                {
-                    "id": "a",
-                    "label": "Fluid overload during reabsorption"
-                },
-                {
-                    "id": "b",
-                    "label": "Plasma leakage from vessels"
-                },
-                {
-                    "id": "c",
-                    "label": "Development of a maculopapular rash"
-                },
-                {
-                    "id": "d",
-                    "label": "Dehydration due to high fever"
-                },
-                {
-                    "id": "e",
-                    "label": "Chronic polyarthralgia and arthritis"
-                }
-            ],
-            "correctOptionIds": [
-                "b"
-            ]
-        },
-        "q6": {
-            "type": "mcq",
-            "prompt": "Rotavirus is a major cause of severe infantile gastroenteritis worldwide. How is the Rotavirus genome structured?",
-            "options": [
-                {
-                    "id": "a",
-                    "label": "A double-stranded, segmented RNA genome"
-                },
-                {
-                    "id": "b",
-                    "label": "A single-stranded, nonsegmented positive-sense RNA genome"
-                },
-                {
-                    "id": "c",
-                    "label": "A diploid positive-sense RNA genome"
-                },
-                {
-                    "id": "d",
-                    "label": "A partially double-stranded circular RNA genome"
-                },
-                {
-                    "id": "e",
-                    "label": "A single-stranded, linear RNA genome"
-                }
-            ],
-            "correctOptionIds": [
-                "a"
-            ]
-        },
-        "q7": {
-            "type": "mcq",
-            "prompt": "A 35-year-old patient presents with fatigue, anorexia, nausea, and right upper quadrant abdominal discomfort. Over the next few days, they develop dark urine and jaundice. Physical examination reveals mild hepatomegaly and scleral icterus. Laboratory testing shows elevated liver enzymes. Serology confirms that the infection arises from a DNA virus. Which of the following statements correctly describes a characteristic of HBV structure or replication.",
-            "options": [
-                {
-                    "id": "a",
-                    "label": "The virus possesses a segmented double-stranded DNA genome"
-                },
-                {
-                    "id": "b",
-                    "label": "The virus is enveloped and resistant to gastrointestinal acids"
-                },
-                {
-                    "id": "c",
-                    "label": "The viral envelope is acquired from the host cell nuclear membrane"
-                },
-                {
-                    "id": "d",
-                    "label": "The viral DNA polymerase exhibits reverse transcriptase activity"
-                },
-                {
-                    "id": "e",
-                    "label": "Entry into hepatocytes is mediated by the CCR5 coreceptor"
-                }
-            ],
-            "correctOptionIds": [
-                "c"
-            ]
-        },
-        "q8": {
-            "type": "mcq",
-            "prompt": "Cytomegalovirus (CMV) is a significant cause of congenital infection when primary infection occurs during pregnancy. Which of the following clinical findings is part of the classic presentation of a neonate with symptomatic congenital CMV infection?",
-            "options": [
-                {
-                    "id": "a",
-                    "label": "Acute hemorrhagic cystitis and epidemic keratoconjunctivitis"
-                },
-                {
-                    "id": "b",
-                    "label": "Barking cough and inspiratory stridor due to subglottic swelling"
-                },
-                {
-                    "id": "c",
-                    "label": "High fever followed by the sudden appearance of a maculopapular truncal rash"
-                },
-                {
-                    "id": "d",
-                    "label": "Microcephaly, sensorineural deafness, and a \"blueberry muffin\" rash"
-                },
-                {
-                    "id": "e",
-                    "label": "Aplastic crisis in the setting of chronic hemolytic anemia"
-                }
-            ],
-            "correctOptionIds": [
-                "d"
-            ]
-        },
-        "q9": {
-            "type": "mcq",
-            "prompt": "A neonate is delivered with bilateral cataracts, sensorineural deafness, and a patent ductus arteriosus. The mother reports having had a maculopapular rash and postauricular lymphadenopathy during the second month of her pregnancy. Which of the following laboratory findings in the mother's serum would be most useful in confirming a diagnosis of this condition?",
-            "options": [
-                {
-                    "id": "a",
-                    "label": "Presence of specific anti-rubella IgG antibodies"
-                },
-                {
-                    "id": "b",
-                    "label": "Reactive non-treponemal (VDRL) screening test"
-                },
-                {
-                    "id": "c",
-                    "label": "Positive heterophile antibody agglutination reaction"
-                },
-                {
-                    "id": "d",
-                    "label": "Detection of multinucleated giant cells on Tzanck smear"
-                },
-                {
-                    "id": "e",
-                    "label": "Presence of intranuclear \"owl's eye\" inclusion bodies "
-                }
-            ],
-            "correctOptionIds": [
-                "a"
-            ]
-        },
-        "q10": {
-            "type": "mcq",
-            "prompt": "A 5-year-old child is brought to the clinic with a 3-day history of high fever, cough, coryza, and conjunctivitis. Physical examination reveals bright red spots with blue-white centers, on the buccal mucosa. Which of the following clinical findings is most likely to develop next in this patient?",
-            "options": [
-                {
-                    "id": "a",
-                    "label": "Bilateral swelling of the parotid glands and development of pancreatitis"
-                },
-                {
-                    "id": "b",
-                    "label": "A \"seal-like\" barking cough associated with narrowing of the upper trachea"
-                },
-                {
-                    "id": "c",
-                    "label": "A sandpaper-like erythematous rash moving from the neck to the trunk"
-                },
-                {
-                    "id": "d",
-                    "label": "Vesicular lesions in different stages of development with an erythematous base"
-                },
-                {
-                    "id": "e",
-                    "label": "A maculopapular rash that begins at the head and neck and spreads downward"
-                }
-            ],
-            "correctOptionIds": [
-                "e"
-            ]
+        {
+          "id": "e",
+          "label": "HBsAg is negative in acute infection but positive in chronic infection"
         }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q2": {
+      "type": "mcq",
+      "prompt": "A 35-year-old male presents with a 3-day history of high fever, severe polyarthralgia, and a maculopapular rash after returning from a tropical region. He is suspected of having a Chikungunya virus infection. Which of the following cell types serves as the primary site of initial viral replication following the mosquito bite?",
+      "options": [
+        {
+          "id": "a",
+          "label": "B lymphocytes"
+        },
+        {
+          "id": "b",
+          "label": "Neural progenitor cells"
+        },
+        {
+          "id": "c",
+          "label": "Endothelial cells"
+        },
+        {
+          "id": "d",
+          "label": "Alveolar macrophage"
+        },
+        {
+          "id": "e",
+          "label": "Dermal fibroblasts"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q3": {
+      "type": "mcq",
+      "prompt": "A laboratory is using electron microscopy to identify a virus isolated from a patient who died of a progressive neurological infection following a bat bite. The virions are observed to have a highly characteristic morphology, How are these virions described?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Pleomorphic and spherical with large surface spikes"
+        },
+        {
+          "id": "b",
+          "label": "Icosahedral with wheel-like spokes on the capsid"
+        },
+        {
+          "id": "c",
+          "label": "Bullet-shaped with a helical nucleocapsid"
+        },
+        {
+          "id": "d",
+          "label": "Long, filamentous threads with a hooked end"
+        },
+        {
+          "id": "e",
+          "label": "Brick-shaped with complex internal filaments"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q4": {
+      "type": "mcq",
+      "prompt": "Influenza A viruses utilize specific surface glycoproteins to facilitate their replication cycle. Which specific role is performed by the Hemagglutinin (HA) protein during the initial stages of infection?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Formation of a transmembrane proton channel for genomic uncoating"
+        },
+        {
+          "id": "b",
+          "label": "Cleavage of sialic acid residues to allow the release of progeny virions"
+        },
+        {
+          "id": "c",
+          "label": "Proteolytic cleavage of the viral polyprotein precursor"
+        },
+        {
+          "id": "d",
+          "label": "Synthesis of a positive-strand mRNA template from the negative-strand genome"
+        },
+        {
+          "id": "e",
+          "label": "Binding to cell-surface sialic acid receptors to facilitate viral attachment"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q5": {
+      "type": "mcq",
+      "prompt": "A 24-year-old patient presents with high fever, severe myalgias, and retro-orbital pain after returning from a tropical region. On day 4 of illness, they develop worsening abdominal pain and tenderness. Examination reveals hepatomegaly with the liver palpable 3 cm below the costal margin. Laboratory studies show an increased hematocrit with a rapidly declining platelet count. According to the documented course of this illness, which of the following clinical concerns is most critical for the patient during this current phase?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Fluid overload during reabsorption"
+        },
+        {
+          "id": "b",
+          "label": "Plasma leakage from vessels"
+        },
+        {
+          "id": "c",
+          "label": "Development of a maculopapular rash"
+        },
+        {
+          "id": "d",
+          "label": "Dehydration due to high fever"
+        },
+        {
+          "id": "e",
+          "label": "Chronic polyarthralgia and arthritis"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q6": {
+      "type": "mcq",
+      "prompt": "Rotavirus is a major cause of severe infantile gastroenteritis worldwide. How is the Rotavirus genome structured?",
+      "options": [
+        {
+          "id": "a",
+          "label": "A double-stranded, segmented RNA genome"
+        },
+        {
+          "id": "b",
+          "label": "A single-stranded, nonsegmented positive-sense RNA genome"
+        },
+        {
+          "id": "c",
+          "label": "A diploid positive-sense RNA genome"
+        },
+        {
+          "id": "d",
+          "label": "A partially double-stranded circular RNA genome"
+        },
+        {
+          "id": "e",
+          "label": "A single-stranded, linear RNA genome"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "A 35-year-old patient presents with fatigue, anorexia, nausea, and right upper quadrant abdominal discomfort. Over the next few days, they develop dark urine and jaundice. Physical examination reveals mild hepatomegaly and scleral icterus. Laboratory testing shows elevated liver enzymes. Serology confirms that the infection arises from a DNA virus. Which of the following statements correctly describes a characteristic of HBV structure or replication.",
+      "options": [
+        {
+          "id": "a",
+          "label": "The virus possesses a segmented double-stranded DNA genome"
+        },
+        {
+          "id": "b",
+          "label": "The virus is enveloped and resistant to gastrointestinal acids"
+        },
+        {
+          "id": "c",
+          "label": "The viral envelope is acquired from the host cell nuclear membrane"
+        },
+        {
+          "id": "d",
+          "label": "The viral DNA polymerase exhibits reverse transcriptase activity"
+        },
+        {
+          "id": "e",
+          "label": "Entry into hepatocytes is mediated by the CCR5 coreceptor"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q8": {
+      "type": "mcq",
+      "prompt": "Cytomegalovirus (CMV) is a significant cause of congenital infection when primary infection occurs during pregnancy. Which of the following clinical findings is part of the classic presentation of a neonate with symptomatic congenital CMV infection?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Acute hemorrhagic cystitis and epidemic keratoconjunctivitis"
+        },
+        {
+          "id": "b",
+          "label": "Barking cough and inspiratory stridor due to subglottic swelling"
+        },
+        {
+          "id": "c",
+          "label": "High fever followed by the sudden appearance of a maculopapular truncal rash"
+        },
+        {
+          "id": "d",
+          "label": "Microcephaly, sensorineural deafness, and a \"blueberry muffin\" rash"
+        },
+        {
+          "id": "e",
+          "label": "Aplastic crisis in the setting of chronic hemolytic anemia"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q9": {
+      "type": "mcq",
+      "prompt": "A neonate is delivered with bilateral cataracts, sensorineural deafness, and a patent ductus arteriosus. The mother reports having had a maculopapular rash and postauricular lymphadenopathy during the second month of her pregnancy. Which of the following laboratory findings in the mother's serum would be most useful in confirming a diagnosis of this condition?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Presence of specific anti-rubella IgG antibodies"
+        },
+        {
+          "id": "b",
+          "label": "Reactive non-treponemal (VDRL) screening test"
+        },
+        {
+          "id": "c",
+          "label": "Positive heterophile antibody agglutination reaction"
+        },
+        {
+          "id": "d",
+          "label": "Detection of multinucleated giant cells on Tzanck smear"
+        },
+        {
+          "id": "e",
+          "label": "Presence of intranuclear \"owl's eye\" inclusion bodies "
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q10": {
+      "type": "mcq",
+      "prompt": "A 5-year-old child is brought to the clinic with a 3-day history of high fever, cough, coryza, and conjunctivitis. Physical examination reveals bright red spots with blue-white centers, on the buccal mucosa. Which of the following clinical findings is most likely to develop next in this patient?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Bilateral swelling of the parotid glands and development of pancreatitis"
+        },
+        {
+          "id": "b",
+          "label": "A \"seal-like\" barking cough associated with narrowing of the upper trachea"
+        },
+        {
+          "id": "c",
+          "label": "A sandpaper-like erythematous rash moving from the neck to the trunk"
+        },
+        {
+          "id": "d",
+          "label": "Vesicular lesions in different stages of development with an erythematous base"
+        },
+        {
+          "id": "e",
+          "label": "A maculopapular rash that begins at the head and neck and spreads downward"
+        }
+      ],
+      "correctOptionIds": ["e"]
     }
+  }
 }

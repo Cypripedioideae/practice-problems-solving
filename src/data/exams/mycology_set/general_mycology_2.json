@@ -7,27 +7,27 @@
   "questions": {
     "q1": {
       "type": "mcq",
-      "prompt": "A specimen from a patient with a suspected pulmonary infection demonstrates long, branching filaments that stain positively with a 1% sulfuric acid decolorizer. Which of the following stains is specifically used to highlight the waxy, lipid-rich cell wall of this organism?",
+      "prompt": "A 22-year-old woman presents with several fine, scaly, hypopigmented macules on her upper back, and a KOH preparation of skin scrapings reveals a characteristic \"spaghetti and meatballs\" appearance. Which of the following biochemical characteristics is unique to the genus responsible for this condition?",
       "options": [
         {
           "id": "a",
-          "label": "Gomori methenamine silver stain"
+          "label": "Ability to form endospores"
         },
         {
           "id": "b",
-          "label": "Gram stain"
+          "label": "Production of aflatoxins"
         },
         {
           "id": "c",
-          "label": "India ink preparation"
+          "label": "Presence of a thick carbohydrate capsule"
         },
         {
           "id": "d",
-          "label": "Modified acid-fast stain"
+          "label": "Lipophilic growth requirement"
         },
         {
           "id": "e",
-          "label": "Periodic acid-Schiff stain"
+          "label": "Lack of a cell wall"
         }
       ],
       "correctOptionIds": ["d"]
