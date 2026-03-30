@@ -30,9 +30,7 @@
           "label": "*Balantidium coli*"
         }
       ],
-      "correctOptionIds": [
-        "d"
-      ]
+      "correctOptionIds": ["d"]
     },
     "q2": {
       "type": "mcq",
@@ -59,42 +57,38 @@
           "label": "Thick, mammillated shell"
         }
       ],
-      "correctOptionIds": [
-        "a"
-      ]
+      "correctOptionIds": ["a"]
     },
     "q3": {
       "type": "mcq",
-      "prompt": "A 48-year-old man with a history of corticosteroid therapy for asthma develops refractory septic shock caused by *Escherichia coli* bacteremia. Bronchoscopy reveals numerous rhabditiform larvae in the endotracheal secretions. Which mechanism explains how the bacteria reached the bloodstream?",
+      "prompt": "A 48-year-old man with a history of corticosteroid therapy for asthma develops refractory septic shock caused by *Escherichia coli* bacteremia. Bronchoscopy reveals numerous rhabditiform larvae in the endotracheal secretions. Which of the following events most likely occurred in this patient, that is most directly associaed with the bacteremia?",
       "options": [
         {
           "id": "a",
-          "label": "Direct penetration of the larvae through the skin"
+          "label": "Penetration of filariform larvae through the skin"
         },
         {
           "id": "b",
-          "label": "Ingestion of infectious eggs contaminating food"
+          "label": "Migration of larvae through the pulmonary alveoli"
         },
         {
           "id": "c",
-          "label": "Migration of adult worms into the biliary tract"
+          "label": "Residing of adult female worms in the intestinal mucosa"
         },
         {
           "id": "d",
-          "label": "Larval transport of bacteria during internal autoinfection"
+          "label": "Internal transformation of rhabditiform into filariform larvae"
         },
         {
           "id": "e",
-          "label": "Entry of larvae through the cribriform plate"
+          "label": "Shedding of rhabditiform larvae in stool specimens"
         }
       ],
-      "correctOptionIds": [
-        "d"
-      ]
+      "correctOptionIds": ["d"]
     },
     "q4": {
       "type": "mcq",
-      "prompt": "A patient is treated for an intestinal fluke infection with Praziquantel. Which of the following best describes the primary mechanism of action of this medication against the parasite?",
+      "prompt": "A patient is treated for an intestinal fluke infection with praziquantel. Which of the following best describes the primary mechanism of action of this medication against the parasite?",
       "options": [
         {
           "id": "a",
@@ -117,9 +111,7 @@
           "label": "Activation of chloride channels causing flaccid paralysis"
         }
       ],
-      "correctOptionIds": [
-        "a"
-      ]
+      "correctOptionIds": ["a"]
     },
     "q5": {
       "type": "mcq",
@@ -146,9 +138,7 @@
           "label": "*Taenia solium*"
         }
       ],
-      "correctOptionIds": [
-        "c"
-      ]
+      "correctOptionIds": ["c"]
     },
     "q6": {
       "type": "mcq",
@@ -175,9 +165,7 @@
           "label": "Presence of adult worms embedded in the mucosal layer"
         }
       ],
-      "correctOptionIds": [
-        "c"
-      ]
+      "correctOptionIds": ["c"]
     },
     "q7": {
       "type": "mcq",
@@ -204,9 +192,7 @@
           "label": "Mature oocyst"
         }
       ],
-      "correctOptionIds": [
-        "e"
-      ]
+      "correctOptionIds": ["e"]
     },
     "q8": {
       "type": "mcq",
@@ -233,9 +219,7 @@
           "label": "Low glucose, high protein, neutrophil predominance"
         }
       ],
-      "correctOptionIds": [
-        "e"
-      ]
+      "correctOptionIds": ["e"]
     },
     "q9": {
       "type": "mcq",
@@ -262,9 +246,7 @@
           "label": "Cercariae"
         }
       ],
-      "correctOptionIds": [
-        "d"
-      ]
+      "correctOptionIds": ["d"]
     },
     "q10": {
       "type": "mcq",
@@ -291,9 +273,7 @@
           "label": "*Capillaria philippinensis*"
         }
       ],
-      "correctOptionIds": [
-        "b"
-      ]
+      "correctOptionIds": ["b"]
     }
   }
 }

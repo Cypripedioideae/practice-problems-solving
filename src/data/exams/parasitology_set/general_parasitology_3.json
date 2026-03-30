@@ -30,9 +30,7 @@
           "label": "*Entamoeba histolytica*"
         }
       ],
-      "correctOptionIds": [
-        "a"
-      ]
+      "correctOptionIds": ["a"]
     },
     "q2": {
       "type": "mcq",
@@ -59,9 +57,7 @@
           "label": "Ivermectin"
         }
       ],
-      "correctOptionIds": [
-        "d"
-      ]
+      "correctOptionIds": ["d"]
     },
     "q3": {
       "type": "mcq",
@@ -88,9 +84,7 @@
           "label": "Albendazole"
         }
       ],
-      "correctOptionIds": [
-        "d"
-      ]
+      "correctOptionIds": ["d"]
     },
     "q4": {
       "type": "mcq",
@@ -98,7 +92,7 @@
       "options": [
         {
           "id": "a",
-          "label": "Larval transport of intestinal bacteria through the diaphragm"
+          "label": "Trophozoite transport of intestinal bacteria through the diaphragm"
         },
         {
           "id": "b",
@@ -106,24 +100,22 @@
         },
         {
           "id": "c",
-          "label": "Direct migration of adult worms from the biliary tract"
+          "label": "Direct migration of adult trophozoites from the biliary tract"
         },
         {
           "id": "d",
-          "label": "Ingestion of infectious eggs that hatch in the hepatic parenchyma"
+          "label": "Ingestion of infectious cysts that hatch in the hepatic parenchyma"
         },
         {
           "id": "e",
           "label": "Hematogenous spread via the portal vein after intestinal invasion"
         }
       ],
-      "correctOptionIds": [
-        "e"
-      ]
+      "correctOptionIds": ["e"]
     },
     "q5": {
       "type": "mcq",
-      "prompt": "A public health officer is investigating a giardiasis outbreak at a local daycare center. To prevent further transmission through the facility's water supply, which characteristic of the infectious Giardia cyst is most critical to consider regarding water treatment?",
+      "prompt": "A public health officer is investigating a giardiasis outbreak at a local daycare center. To prevent further transmission through the facility's water supply, which characteristic of the infectious *Giardia* cyst is most critical to consider regarding water treatment?",
       "options": [
         {
           "id": "a",
@@ -146,9 +138,7 @@
           "label": "Requirement for a high infectious dose to establish disease"
         }
       ],
-      "correctOptionIds": [
-        "b"
-      ]
+      "correctOptionIds": ["b"]
     },
     "q6": {
       "type": "mcq",
@@ -175,9 +165,7 @@
           "label": "*Naegleria fowleri*"
         }
       ],
-      "correctOptionIds": [
-        "e"
-      ]
+      "correctOptionIds": ["e"]
     },
     "q7": {
       "type": "mcq",
@@ -204,9 +192,7 @@
           "label": "Primary infection during the current immunosuppressed state"
         }
       ],
-      "correctOptionIds": [
-        "b"
-      ]
+      "correctOptionIds": ["b"]
     },
     "q8": {
       "type": "mcq",
@@ -233,13 +219,11 @@
           "label": "A globular shape possessing an armed rostellum with hooks"
         }
       ],
-      "correctOptionIds": [
-        "c"
-      ]
+      "correctOptionIds": ["d"]
     },
     "q9": {
       "type": "mcq",
-      "prompt": "A laboratory technologist is examining infectious larvae recovered from a soil sample in a tropical region. Microscopic examination of a 500 \u00b5m long filariform larva is performed to differentiate between *Strongyloides stercoralis* and hookworm species. Which of the following morphological features is uniquely characteristic of the Strongyloides stercoralis filariform larva?",
+      "prompt": "A laboratory technologist is examining infectious larvae recovered from a soil sample in a tropical region. Microscopic examination of a 500 \u00b5m long filariform larva is performed to differentiate between *Strongyloides stercoralis* and hookworm species. Which of the following morphological features is uniquely characteristic of the *Strongyloides stercoralis* filariform larva?",
       "options": [
         {
           "id": "a",
@@ -262,9 +246,7 @@
           "label": "A notched tail"
         }
       ],
-      "correctOptionIds": [
-        "e"
-      ]
+      "correctOptionIds": ["e"]
     },
     "q10": {
       "type": "mcq",
@@ -291,9 +273,7 @@
           "label": "Early morning urine"
         }
       ],
-      "correctOptionIds": [
-        "c"
-      ]
+      "correctOptionIds": ["c"]
     }
   }
 }

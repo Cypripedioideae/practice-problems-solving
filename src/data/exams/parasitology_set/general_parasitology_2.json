@@ -30,9 +30,7 @@
           "label": "Albendazole plus dexamethasone"
         }
       ],
-      "correctOptionIds": [
-        "e"
-      ]
+      "correctOptionIds": ["e"]
     },
     "q2": {
       "type": "mcq",
@@ -59,9 +57,7 @@
           "label": "*Ascaris lumbricoides*"
         }
       ],
-      "correctOptionIds": [
-        "d"
-      ]
+      "correctOptionIds": ["e"]
     },
     "q3": {
       "type": "mcq",
@@ -88,9 +84,7 @@
           "label": "Detection of trophozoites in a fresh liquid stool"
         }
       ],
-      "correctOptionIds": [
-        "c"
-      ]
+      "correctOptionIds": ["c"]
     },
     "q4": {
       "type": "mcq",
@@ -117,9 +111,7 @@
           "label": "*Acanthamoeba* spp."
         }
       ],
-      "correctOptionIds": [
-        "d"
-      ]
+      "correctOptionIds": ["d"]
     },
     "q5": {
       "type": "mcq",
@@ -146,9 +138,7 @@
           "label": "A straight posterior tail"
         }
       ],
-      "correctOptionIds": [
-        "e"
-      ]
+      "correctOptionIds": ["e"]
     },
     "q6": {
       "type": "mcq",
@@ -175,9 +165,7 @@
           "label": "*Enterobius vermicularis*"
         }
       ],
-      "correctOptionIds": [
-        "c"
-      ]
+      "correctOptionIds": ["c"]
     },
     "q7": {
       "type": "mcq",
@@ -204,9 +192,7 @@
           "label": "Praziquantel"
         }
       ],
-      "correctOptionIds": [
-        "c"
-      ]
+      "correctOptionIds": ["c"]
     },
     "q8": {
       "type": "mcq",
@@ -214,28 +200,26 @@
       "options": [
         {
           "id": "a",
-          "label": "Angiostrongylus cantonensis"
+          "label": "*Angiostrongylus cantonensis*"
         },
         {
           "id": "b",
-          "label": "Schistosoma japonicum"
+          "label": "*Schistosoma japonicum*"
         },
         {
           "id": "c",
-          "label": "Taenia solium"
+          "label": "*Taenia solium*"
         },
         {
           "id": "d",
-          "label": "Paragonimus westermani"
+          "label": "*Paragonimus westermani*"
         },
         {
           "id": "e",
-          "label": "Gnathostoma spinigerum"
+          "label": "*Gnathostoma spinigerum*"
         }
       ],
-      "correctOptionIds": [
-        "a"
-      ]
+      "correctOptionIds": ["a"]
     },
     "q9": {
       "type": "mcq",
@@ -262,9 +246,7 @@
           "label": "*Plasmodium malariae*"
         }
       ],
-      "correctOptionIds": [
-        "d"
-      ]
+      "correctOptionIds": ["d"]
     },
     "q10": {
       "type": "mcq",
@@ -291,9 +273,7 @@
           "label": "Rhabditiform larva"
         }
       ],
-      "correctOptionIds": [
-        "b"
-      ]
+      "correctOptionIds": ["b"]
     }
   }
 }

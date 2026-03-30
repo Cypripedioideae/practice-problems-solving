@@ -30,9 +30,7 @@
           "label": "Formation of tissue cysts containing bradyzoites"
         }
       ],
-      "correctOptionIds": [
-        "c"
-      ]
+      "correctOptionIds": ["c"]
     },
     "q2": {
       "type": "mcq",
@@ -59,13 +57,11 @@
           "label": "*Strongyloides stercoralis*"
         }
       ],
-      "correctOptionIds": [
-        "d"
-      ]
+      "correctOptionIds": ["d"]
     },
     "q3": {
       "type": "mcq",
-      "prompt": "A 12-year-old boy presents with a 2-day history of high fever, severe headache, photophobia, and projectile vomiting. His parents note that he has been confused and complained of a loss of smell. History reveals he was swimming in a freshwater lake five days prior to the onset of symptoms. Physical examination confirms a stiff neck and altered mental status. A cerebrospinal fluid (CSF) analysis reveals a high neutrophil count, elevated protein, and low glucose. Which of the following findings is most likely to be observed on brain imaging for this patient?",
+      "prompt": "A 35-year-old male with a history of HIV infection (CD4+ count 120 cells/mm³) presents with a 3-week history of worsening headache, low-grade fever, and focal neurological deficits. Physical examination reveals confusion and behavioral abnormalities. A lumbar puncture is performed, and the cerebrospinal fluid (CSF) analysis demonstrates mild pleocytosis with a predominance of lymphocytes, a high protein concentration, and a low glucose level. Which of the following findings is most likely to be observed on brain imaging for this patient?",
       "options": [
         {
           "id": "a",
@@ -88,9 +84,7 @@
           "label": "Diffuse cerebral edema with no definite focal lesions"
         }
       ],
-      "correctOptionIds": [
-        "e"
-      ]
+      "correctOptionIds": ["d"]
     },
     "q4": {
       "type": "mcq",
@@ -117,9 +111,7 @@
           "label": "*Entamoeba histolytica*"
         }
       ],
-      "correctOptionIds": [
-        "e"
-      ]
+      "correctOptionIds": ["e"]
     },
     "q5": {
       "type": "mcq",
@@ -146,9 +138,7 @@
           "label": "Acetylation by cytoplasmic transferases"
         }
       ],
-      "correctOptionIds": [
-        "a"
-      ]
+      "correctOptionIds": ["a"]
     },
     "q6": {
       "type": "mcq",
@@ -175,9 +165,7 @@
           "label": "Nasal mucosa biopsy"
         }
       ],
-      "correctOptionIds": [
-        "b"
-      ]
+      "correctOptionIds": ["b"]
     },
     "q7": {
       "type": "mcq",
@@ -204,9 +192,7 @@
           "label": "Raw land snails"
         }
       ],
-      "correctOptionIds": [
-        "b"
-      ]
+      "correctOptionIds": ["b"]
     },
     "q8": {
       "type": "mcq",
@@ -233,9 +219,7 @@
           "label": "Co-trimoxazole"
         }
       ],
-      "correctOptionIds": [
-        "e"
-      ]
+      "correctOptionIds": ["e"]
     },
     "q9": {
       "type": "mcq",
@@ -262,9 +246,7 @@
           "label": "Invasion of colonic enterocytes causing extensive cell death and ulceration"
         }
       ],
-      "correctOptionIds": [
-        "d"
-      ]
+      "correctOptionIds": ["d"]
     },
     "q10": {
       "type": "mcq",
@@ -291,9 +273,7 @@
           "label": "Hematogenous dissemination of adult female worms from the small intestine to distal organ systems"
         }
       ],
-      "correctOptionIds": [
-        "b"
-      ]
+      "correctOptionIds": ["b"]
     }
   }
 }
