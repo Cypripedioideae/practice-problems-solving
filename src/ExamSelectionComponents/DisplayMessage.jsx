@@ -17,7 +17,9 @@ export default function DisplayMessage({ topicCaller, onBackToSelection }) {
       (จุดประสงค์หลักของการ deploy เว็บนี้ออกมานั้นคือเพื่อให้เพื่อน ๆ
       ได้ลองใช้งานและฝึก active recall ในส่วนของ microbiology มากกว่า)
     `;
-    updateMessage = "none";
+    updateMessage = `
+      9/4/2026: Added 3 autonomic pharmacology sets
+    `;
   } else if (topicCaller == "microbiology") {
     displayTopic = true;
     topicName = "Microbiology";
@@ -51,9 +53,7 @@ export default function DisplayMessage({ topicCaller, onBackToSelection }) {
               <h1 className="text-left text-2xl font-bold">
                 Update Log of the Topic
               </h1>
-              <p className="pl-5 text-left whitespace-pre-wrap">
-                {updateMessage}
-              </p>
+              <p className="text-left whitespace-pre-wrap">{updateMessage}</p>
             </div>
           ) : null}
         </section>

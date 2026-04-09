@@ -238,6 +238,9 @@ import general_parasitology_12 from "../data/exams/parasitology_set/general_para
 import general_parasitology_13 from "../data/exams/parasitology_set/general_parasitology_13.json";
 import general_parasitology_14 from "../data/exams/parasitology_set/general_parasitology_14.json";
 import general_parasitology_15 from "../data/exams/parasitology_set/general_parasitology_15.json";
+import autonomic_phar_1 from "../data/exams/autonomic_pharmaco/autonomic_phar_1.json";
+import autonomic_phar_2 from "../data/exams/autonomic_pharmaco/autonomic_phar_2.json";
+import autonomic_phar_3 from "../data/exams/autonomic_pharmaco/autonomic_phar_3.json";
 
 // all sets but physio has 50 questions each
 export default function Exams({ topicName, onSelection }) {
@@ -520,6 +523,11 @@ export default function Exams({ topicName, onSelection }) {
       // general_parasitology_13,
       // general_parasitology_14,
       // general_parasitology_15,
+    ],
+    autonomic_pharmacology: [
+      autonomic_phar_1,
+      autonomic_phar_2,
+      autonomic_phar_3,
     ],
   };
 
