@@ -233,11 +233,6 @@ import general_parasitology_7 from "../data/exams/parasitology_set/general_paras
 import general_parasitology_8 from "../data/exams/parasitology_set/general_parasitology_8.json";
 import general_parasitology_9 from "../data/exams/parasitology_set/general_parasitology_9.json";
 import general_parasitology_10 from "../data/exams/parasitology_set/general_parasitology_10.json";
-import general_parasitology_11 from "../data/exams/parasitology_set/general_parasitology_11.json";
-import general_parasitology_12 from "../data/exams/parasitology_set/general_parasitology_12.json";
-import general_parasitology_13 from "../data/exams/parasitology_set/general_parasitology_13.json";
-import general_parasitology_14 from "../data/exams/parasitology_set/general_parasitology_14.json";
-import general_parasitology_15 from "../data/exams/parasitology_set/general_parasitology_15.json";
 import autonomic_phar_1 from "../data/exams/autonomic_pharmaco/autonomic_phar_1.json";
 import autonomic_phar_2 from "../data/exams/autonomic_pharmaco/autonomic_phar_2.json";
 import autonomic_phar_3 from "../data/exams/autonomic_pharmaco/autonomic_phar_3.json";
@@ -513,16 +508,11 @@ export default function Exams({ topicName, onSelection }) {
       general_parasitology_3,
       general_parasitology_4,
       general_parasitology_5,
-      // general_parasitology_6,
-      // general_parasitology_7,
-      // general_parasitology_8,
-      // general_parasitology_9,
-      // general_parasitology_10,
-      // general_parasitology_11,
-      // general_parasitology_12,
-      // general_parasitology_13,
-      // general_parasitology_14,
-      // general_parasitology_15,
+      general_parasitology_6,
+      general_parasitology_7,
+      general_parasitology_8,
+      general_parasitology_9,
+      general_parasitology_10,
     ],
     autonomic_pharmacology: [
       autonomic_phar_1,

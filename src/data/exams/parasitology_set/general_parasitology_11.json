@@ -1,1 +1,252 @@
-{}
+{
+  "info": {
+    "set_name": "General Parasitology 11",
+    "description": "This problem set focuses on parasites and antiparasitic agents. The difficulty may vary a lot through out the set, since this set contains a mix of four different cognitive levels of complexity (recall, understand, apply, analyze). The questions are already reviewed, so mistakes should have already been minimized, but if you come across one, you can report through the Forms in the \\\"Info and Links\\\".",
+    "source": "-"
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "A traveler presenting with a localized \"oriental sore\" at the site of an insect bite is diagnosed with cutaneous leishmaniasis. Which of the following is the mandatory biological vector responsible for the transmission of the infective promastigotes to this patient?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Aedes mosquito"
+        },
+        {
+          "id": "b",
+          "label": "Anopheles mosquito"
+        },
+        {
+          "id": "c",
+          "label": "Chrysops deerfly"
+        },
+        {
+          "id": "d",
+          "label": "Phlebotomus sandfly"
+        },
+        {
+          "id": "e",
+          "label": "Simulium blackfly"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q2": {
+      "type": "mcq",
+      "prompt": "A patient with lymphatic filariasis is treated with doxycycline. Which of the following best explains the biological rationale for using this antibiotic to manage filarial nematode infections?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Direct inhibition of the adult worm's glucose uptake"
+        },
+        {
+          "id": "b",
+          "label": "Disruption of the helminthic microtubule polymerization"
+        },
+        {
+          "id": "c",
+          "label": "Elimination of endosymbiotic Wolbachia bacteria"
+        },
+        {
+          "id": "d",
+          "label": "Induction of immediate paralysis in the microfilariae"
+        },
+        {
+          "id": "e",
+          "label": "Prevention of larval penetration into host lymphatics"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q3": {
+      "type": "mcq",
+      "prompt": "A 28-year-old woman develops violent upper abdominal pain and vomiting approximately four hours after consuming a meal of raw saltwater fish (sashimi). An upper endoscopy is performed to visualize the gastric mucosa. Which of the following is the most likely diagnosis?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Anisakiasis"
+        },
+        {
+          "id": "b",
+          "label": "Ascariasis"
+        },
+        {
+          "id": "c",
+          "label": "Capillariasis"
+        },
+        {
+          "id": "d",
+          "label": "Clonorchiasis"
+        },
+        {
+          "id": "e",
+          "label": "Diphyllobothriasis"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q4": {
+      "type": "mcq",
+      "prompt": "A patient who previously recovered from a mild febrile illness caused by one serotype of Dengue virus is later infected with a different serotype. Which of the following clinical outcomes is this patient at significantly increased risk for developing due to the prior exposure?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Chronic asymptomatic carriage in the gallbladder"
+        },
+        {
+          "id": "b",
+          "label": "Congenital microcephaly in future offspring"
+        },
+        {
+          "id": "c",
+          "label": "Development of a solitary pulmonary nodule"
+        },
+        {
+          "id": "d",
+          "label": "Progressive demyelinating meningoencephalitis"
+        },
+        {
+          "id": "e",
+          "label": "Severe plasma leakage and hemorrhagic fever"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q5": {
+      "type": "mcq",
+      "prompt": "A 7-year-old child is diagnosed with Hymenolepis nana infection. Which characteristic of this parasite's life cycle makes it unique among medically important cestodes?",
+      "options": [
+        {
+          "id": "a",
+          "label": "It requires a large freshwater fish as a second intermediate host"
+        },
+        {
+          "id": "b",
+          "label": "It can complete its entire lifecycle within a single human host"
+        },
+        {
+          "id": "c",
+          "label": "It utilizes the pig as the mandatory definitive host for maturation"
+        },
+        {
+          "id": "d",
+          "label": "Its eggs must be ingested by a copepod to become infectious"
+        },
+        {
+          "id": "e",
+          "label": "It undergoes an obligate heart-lung migration phase in humans"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q6": {
+      "type": "mcq",
+      "prompt": "A laboratory technician is reviewing a blood smear from a patient who experiences cyclical fevers every 72 hours (quartan malaria). The technician identifies a schizont containing approximately eight merozoites arranged in a \"rosette-like\" configuration. Which species is most likely responsible?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Plasmodium falciparum"
+        },
+        {
+          "id": "b",
+          "label": "Plasmodium knowlesi"
+        },
+        {
+          "id": "c",
+          "label": "Plasmodium malariae"
+        },
+        {
+          "id": "d",
+          "label": "Plasmodium ovale"
+        },
+        {
+          "id": "e",
+          "label": "Plasmodium vivax"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "A patient presents with intense nocturnal pruritus and characteristic linear tracks (burrows) in the interdigital webs of the hands. Microscopic examination of skin scrapings confirms the presence of eight-legged mites. Which of the following is the most appropriate initial management?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Application of topical sulfur ointment"
+        },
+        {
+          "id": "b",
+          "label": "Oral administration of diethylcarbamazine"
+        },
+        {
+          "id": "c",
+          "label": "Parenteral administration of Vitamin B12"
+        },
+        {
+          "id": "d",
+          "label": "Surgical excision of subcutaneous nodules"
+        },
+        {
+          "id": "e",
+          "label": "Treatment with a single dose of praziquantel"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q8": {
+      "type": "mcq",
+      "prompt": "A researcher is mapping the geographic distribution of the sandfly vector to identify regions at risk for a specific parasitic disease. Which of the following clinical manifestations is the primary hallmark of the cutaneous form of this infection?",
+      "options": [
+        {
+          "id": "a",
+          "label": "\"Calabar\" swellings on the extremities"
+        },
+        {
+          "id": "b",
+          "label": "\"Hanging groin\" with depigmentation"
+        },
+        {
+          "id": "c",
+          "label": "\"Oriental sore\" at the site of the bite"
+        },
+        {
+          "id": "d",
+          "label": "\"Strawberry cervix\" with punctate hemorrhage"
+        },
+        {
+          "id": "e",
+          "label": "Serpiginous, pruritic \"creeping eruption\""
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q9": {
+      "type": "mcq",
+      "prompt": "Trichomonas vaginalis is characterized as an obligate parasite that exists only in the trophozoite stage. Which of the following best explains how this lack of a resistant cyst stage dictates its mode of transmission?",
+      "options": [
+        {
+          "id": "a",
+          "label": "It must be transmitted via the bite of an arthropod vector"
+        },
+        {
+          "id": "b",
+          "label": "It requires a period of maturation in soil to become infectious"
+        },
+        {
+          "id": "c",
+          "label": "It can only be acquired through the ingestion of undercooked meat"
+        },
+        {
+          "id": "d",
+          "label": "It necessitates direct sexual contact for survival and spread"
+        },
+        {
+          "id": "e",
+          "label": "It relies on the ingestion of contaminated stagnant water"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    }
+  }
+}

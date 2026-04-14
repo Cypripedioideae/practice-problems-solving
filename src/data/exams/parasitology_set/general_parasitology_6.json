@@ -34,34 +34,34 @@
     },
     "q2": {
       "type": "mcq",
-      "prompt": "A 24-year-old woman presents with a profuse, frothy, yellow-green vaginal discharge and intense itching; physical examination reveals punctate hemorrhages on the cervix (\"strawberry cervix\"). Which organism is responsible for these findings?",
+      "prompt": "A patient with lymphatic filariasis is administered diethylcarbamazine (DEC). Shortly after the first dose, the patient develops a systemic reaction characterized by fever, malaise, and muscle pain. Which of the following best explains the pathophysiology of this clinical response?",
       "options": [
         {
           "id": "a",
-          "label": "Candida albicans"
+          "label": "Accidental activation of host glutamate-gated chloride channels"
         },
         {
           "id": "b",
-          "label": "Chlamydia trachomatis"
+          "label": "Direct toxic effect of the drug on the vascular endothelium"
         },
         {
           "id": "c",
-          "label": "Gardnerella vaginalis"
+          "label": "Host inflammatory response to protein release from dying parasites"
         },
         {
           "id": "d",
-          "label": "Neisseria gonorrhoeae"
+          "label": "Immediate type I hypersensitivity to the chemical structure of DEC"
         },
         {
           "id": "e",
-          "label": "Trichomonas vaginalis"
+          "label": "Rapid accumulation of the drug within the central nervous system"
         }
       ],
-      "correctOptionIds": ["e"]
+      "correctOptionIds": ["c"]
     },
     "q3": {
       "type": "mcq",
-      "prompt": "A public health official is investigating a food-borne outbreak of Cyclospora cayetanensis linked to imported raspberries. Why is direct person-to-person transmission via fresh fecal matter not observed with this parasite?",
+      "prompt": "A public health official is investigating a food-borne outbreak of *Cyclospora cayetanensis* linked to imported raspberries. Why is direct person-to-person transmission via fresh fecal matter not observed with this parasite?",
       "options": [
         {
           "id": "a",
@@ -88,7 +88,7 @@
     },
     "q4": {
       "type": "mcq",
-      "prompt": "A 34-year-old male returns from a tropical region and presents with periodic fever paroxysms. A Giemsa-stained thin blood smear is performed, revealing enlarged, pale-staining infected erythrocytes that are distinctly oval in shape with characteristic fimbriated (jagged) edges. James'/Schüffner's dots are clearly visible within the host cell cytoplasm. Which of the following Plasmodium species is the most likely causative agent?",
+      "prompt": "A 34-year-old male returns from a tropical region and presents with periodic fever paroxysms. A Giemsa-stained thin blood smear is performed, revealing enlarged, pale-staining infected erythrocytes that are distinctly oval in shape with characteristic fimbriated (jagged) edges. Schüffner's dots are clearly visible within the host cell cytoplasm. Which of the following *Plasmodium* species is the most likely causative agent?",
       "options": [
         {
           "id": "a",
@@ -115,165 +115,165 @@
     },
     "q5": {
       "type": "mcq",
-      "prompt": "A 42-year-old patient with chronic Schistosoma mansoni infection presents with hematemesis and splenomegaly; clinical evaluation confirms the presence of portal hypertension and periportal fibrosis. Which event in the parasite's life cycle is the primary cause of these manifestations?",
+      "prompt": "A patient is treated for malaria, but the infection returns several weeks later. The physician determines the recurrence is a \"relapse\" rather than a \"recrudescence.\" Which of the following mechanisms differentiates a relapse in *Plasmodium vivax* from a recrudescence in *Plasmodium falciparum*?",
       "options": [
         {
           "id": "a",
-          "label": "Attachment of adult worms to the bladder wall"
+          "label": "Activation of dormant hypnozoites in the liver"
         },
         {
           "id": "b",
-          "label": "Deposition of eggs in the mesenteric vessels and liver"
+          "label": "Infection of new erythrocytes by surviving gametocytes"
         },
         {
           "id": "c",
-          "label": "Direct invasion of the spleen by cercariae"
+          "label": "Persistence of a low-level erythrocytic parasitemia"
         },
         {
           "id": "d",
-          "label": "Migration of miracidia through the pulmonary capillaries"
+          "label": "Infection of new erythrocytes by surviving merozoites"
         },
         {
           "id": "e",
-          "label": "Multiplication of schizonts within the hepatocytes"
-        }
-      ],
-      "correctOptionIds": ["b"]
-    },
-    "q6": {
-      "type": "mcq",
-      "prompt": "A patient being treated for a Bacteroides fragilis infection is prescribed Metronidazole; two days later, after consuming a single beer, they develop severe facial flushing, tachycardia, and nausea. What is the mechanism behind this adverse reaction?",
-      "options": [
-        {
-          "id": "a",
-          "label": "Accumulation of acetaldehyde due to enzyme inhibition"
-        },
-        {
-          "id": "b",
-          "label": "Hypersensitivity reaction to the nitroimidazole ring"
-        },
-        {
-          "id": "c",
-          "label": "Induction of the cytochrome P-450 system"
-        },
-        {
-          "id": "d",
-          "label": "Irreversible inhibition of the DNA synthesis complex"
-        },
-        {
-          "id": "e",
-          "label": "Massive release of toxins from killed anaerobic bacteria"
+          "label": "Re-entry of the parasite from the splenic reservoir"
         }
       ],
       "correctOptionIds": ["a"]
     },
-    "q7": {
+    "q6": {
       "type": "mcq",
-      "prompt": "A patient with chronic malabsorption and fatty stools undergoes a string test (Entero-Test); microscopy of the bile-stained mucus reveals pear-shaped, flagellated trophozoites containing two nuclei. Which parasite is the most likely cause?",
+      "prompt": "A patient with a chronic, latent Toxoplasma gondii infection is at risk for reactivation if they become immunocompromised. Which of the following stages of the parasite is responsible for maintaining this lifelong infection within host tissue cysts?",
       "options": [
         {
           "id": "a",
-          "label": "Chilomastix mesnili"
+          "label": "Amastigote"
         },
         {
           "id": "b",
-          "label": "Dientamoeba fragilis"
+          "label": "Bradyzoite"
         },
         {
           "id": "c",
-          "label": "Entamoeba histolytica"
+          "label": "Epimastigote"
         },
         {
           "id": "d",
-          "label": "Giardia lamblia"
+          "label": "Tachyzoite"
         },
         {
           "id": "e",
-          "label": "Trichomonas hominis"
+          "label": "Oocyst"
         }
       ],
-      "correctOptionIds": ["d"]
+      "correctOptionIds": ["b"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "A public health initiative aims to disrupt the life cycle of *Opisthorchis viverrini* in an endemic region. Which of the following organisms serves as the primary first intermediate host that must be targeted?",
+      "options": [
+        {
+          "id": "a",
+          "label": "*Bithynia* snail"
+        },
+        {
+          "id": "b",
+          "label": "*Cyclops* copepod"
+        },
+        {
+          "id": "c",
+          "label": "Cyprinid fish"
+        },
+        {
+          "id": "d",
+          "label": "Freshwater crab"
+        },
+        {
+          "id": "e",
+          "label": "Pig"
+        }
+      ],
+      "correctOptionIds": ["a"]
     },
     "q8": {
       "type": "mcq",
-      "prompt": "A physician in an endemic region is screening patients for lymphatic filariasis using a thick peripheral blood film. Which diagnostic stage is the technologist looking for under the microscope?",
+      "prompt": "Which developmental stages of Giardia lamblia (also known as G. duodenalis) represent the infectious form and the diagnostic form found in feces, respectively?",
       "options": [
         {
           "id": "a",
-          "label": "Adult worms"
+          "label": "Trophozoite and mature cyst"
         },
         {
           "id": "b",
-          "label": "Cercariae"
+          "label": "Mature cyst and trophozoite or cyst"
         },
         {
           "id": "c",
-          "label": "Embryonated eggs"
+          "label": "Immature cyst and trophozoite"
         },
         {
           "id": "d",
-          "label": "Microfilariae"
+          "label": "Sporulated oocyst and trophozoite"
         },
         {
           "id": "e",
-          "label": "Rhabditiform larvae"
+          "label": "Trophozoite and embryonated egg"
         }
       ],
-      "correctOptionIds": ["d"]
+      "correctOptionIds": ["b"]
     },
     "q9": {
       "type": "mcq",
-      "prompt": "A 70-year-old man who lived in an endemic region decades ago is prescribed high-dose corticosteroids for an autoimmune condition; shortly after, he develops a hyperinfection syndrome with disseminated larvae. Which mechanism allowed this parasite to persist within the host for such a long duration?",
+      "prompt": "A patient presents with severe weight loss, muscle wasting, and persistent, massive watery diarrhea. Stool examination reveals peanut-shaped eggs with striated shells and flattened mucoid plugs at both poles. The patient most likely acquired this infection from consuming which of the following?",
       "options": [
         {
           "id": "a",
-          "label": "Formation of calcified hydatid cysts in the liver"
+          "label": "Raw freshwater fish"
         },
         {
           "id": "b",
-          "label": "Internal autoinfection by filariform larvae"
+          "label": "Undercooked poultry"
         },
         {
           "id": "c",
-          "label": "Sequestration of bradyzoites in skeletal muscle"
+          "label": "Contaminated soil on vegetables"
         },
         {
           "id": "d",
-          "label": "Survival of adult worms in the mesenteric veins"
+          "label": "Raw buffalo meat"
         },
         {
           "id": "e",
-          "label": "Transformation of eggs into dormant hypnozoites"
+          "label": "Undercooked pork"
         }
       ],
-      "correctOptionIds": ["b"]
+      "correctOptionIds": ["a"]
     },
     "q10": {
       "type": "mcq",
-      "prompt": "A community's municipal water supply is found to be contaminated with protozoal cysts. Which of the following interventions is most effective for rendering the water safe for consumption given that standard chlorination is insufficient?",
+      "prompt": "A public health researcher is investigating the transmission of lymphatic filariasis in a region where both *Wuchereria bancrofti* and *Brugia malayi* are endemic. Which of the following features is unique to *Wuchereria bancrofti* and distinguishes it from *Brugia malayi*?",
       "options": [
         {
           "id": "a",
-          "label": "Addition of fluoride"
+          "label": "Possession of a sheath in the microfilaria stage"
         },
         {
           "id": "b",
-          "label": "Boiling the water"
+          "label": "Requirement of a mosquito intermediate host"
         },
         {
           "id": "c",
-          "label": "Increasing water pressure"
+          "label": "Absence of a known animal reservoir host"
         },
         {
           "id": "d",
-          "label": "Prolonged sedimentation"
+          "label": "Presence of two distinct terminal nuclei in the tail"
         },
         {
           "id": "e",
-          "label": "UV light exposure for 30 seconds"
+          "label": "Clinical presentation of elephantiasis in the lower limbs"
         }
       ],
-      "correctOptionIds": ["b"]
+      "correctOptionIds": ["c"]
     }
   }
 }

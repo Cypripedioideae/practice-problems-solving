@@ -7,30 +7,30 @@
   "questions": {
     "q1": {
       "type": "mcq",
-      "prompt": "Many individuals of West African descent exhibit a natural genetic resistance to infection by Plasmodium vivax. Which of the following mechanisms best explains this resistance?",
+      "prompt": "A symptomatic patient provides a stool sample that reveals large, ovoid trophozoites. The laboratory technician identifies a prominent, kidney-shaped macronucleus within the organism. Which of the following is the most likely diagnosis?",
       "options": [
         {
           "id": "a",
-          "label": "Absence of Duffy blood group antigens on the surface of red blood cells"
+          "label": "Amebiasis"
         },
         {
           "id": "b",
-          "label": "High concentrations of foetal haemoglobin within mature erythrocytes"
+          "label": "Balantidiasis"
         },
         {
           "id": "c",
-          "label": "Inheritance of the sickle cell trait (haemoglobin S)"
+          "label": "Cryptosporidiosis"
         },
         {
           "id": "d",
-          "label": "Presence of red blood cell Sch\u00fcffner stippling"
+          "label": "Cyclosporiasis"
         },
         {
           "id": "e",
-          "label": "Production of PfEMP1 proteins on the erythrocyte membrane"
+          "label": "Giardiasis"
         }
       ],
-      "correctOptionIds": ["a"]
+      "correctOptionIds": ["b"]
     },
     "q2": {
       "type": "mcq",
@@ -61,61 +61,61 @@
     },
     "q3": {
       "type": "mcq",
-      "prompt": "A patient with a chronic, latent Strongyloides stercoralis infection is prescribed high-dose corticosteroid therapy for an inflammatory condition. Shortly after, the patient develops a life-threatening hyperinfection syndrome characterized by disseminated larvae and Escherichia coli bacteremia. Which process is primarily responsible for this clinical progression?",
+      "prompt": "A laboratory technician is reviewing a Giemsa-stained peripheral blood smear from a patient who experiences fevers every 72 hours. Which of the following is the characteristic feature of the causative agent?",
       "options": [
         {
           "id": "a",
-          "label": "Acceleration of the internal autoinfection cycle"
+          "label": "Amoeboid shape with extensive pseudopods"
         },
         {
           "id": "b",
-          "label": "Enhanced maturation of eggs in the external environment"
+          "label": "Appearance of \"band and bar\" forms within erythrocytes"
         },
         {
           "id": "c",
-          "label": "Inhibition of the transition from rhabditiform to filariform larvae"
+          "label": "Presence of multiple ring forms with double chromatin dots"
         },
         {
           "id": "d",
-          "label": "Migration of adult worms from the small bowel into the biliary tract"
+          "label": "Reddish-granule stippling throughout the cytoplasm"
         },
         {
           "id": "e",
-          "label": "Promotion of direct skin penetration by rhabditiform larvae"
+          "label": "Tapered crescent or banana-shaped gametocytes"
         }
       ],
-      "correctOptionIds": ["a"]
+      "correctOptionIds": ["b"]
     },
     "q4": {
       "type": "mcq",
-      "prompt": "A biopsy of striated muscle is performed on a patient presenting with high-grade fever, severe myalgia, and periorbital edema after consuming undercooked wild game. The pathologist identifies a characteristic \"nurse cell\" containing an encysted larva. Which parasite has been identified?",
+      "prompt": "A public health official is investigating an outbreak of trichinosis linked to a local farm. Which of the following represents the specific infective stage that humans acquire?",
       "options": [
         {
           "id": "a",
-          "label": "Ancylostoma duodenale"
+          "label": "Eggs in the striated muscles"
         },
         {
           "id": "b",
-          "label": "Echinococcus granulosus"
+          "label": "Encysted larva in the gastrointestinal mucosa"
         },
         {
           "id": "c",
-          "label": "Strongyloides stercoralis"
+          "label": "Larva in the feces"
         },
         {
           "id": "d",
-          "label": "Taenia solium"
+          "label": "Adults in the feces"
         },
         {
           "id": "e",
-          "label": "Trichinella spiralis"
+          "label": "Larva in a nurse cell"
         }
       ],
       "correctOptionIds": ["e"]
     },
     "q5": {
       "type": "mcq",
-      "prompt": "During the complex life cycle of the Plasmodium species, different morphological stages are observed in the human host. Which of the following stages is specifically responsible for the transmission of the parasite from the human host back to the Anopheles mosquito vector?",
+      "prompt": "During the complex life cycle of the *Plasmodium* species, different morphological stages are observed in the human host. Which of the following stages is specifically responsible for the transmission of the parasite from the human host back to the *Anopheles* mosquito vector?",
       "options": [
         {
           "id": "a",
@@ -142,34 +142,34 @@
     },
     "q6": {
       "type": "mcq",
-      "prompt": "A 45-year-old traveler returning from an endemic region presents with Plasmodium falciparum malaria complicated by an altered level of consciousness and high parasitemia. According to standard clinical guidelines, which of the following is the first-line treatment for this patient?",
+      "prompt": "A thin blood film reveals enlarged erythrocytes containing malarial parasites. The laboratory technician notes the presence of numerous small, pink granules throughout the host cell cytoplasm. Which of the following terms correctly identifies these granules?",
       "options": [
         {
           "id": "a",
-          "label": "Intravenous artesunate"
+          "label": "James' dots"
         },
         {
           "id": "b",
-          "label": "Oral chloroquine"
+          "label": "Knobs"
         },
         {
           "id": "c",
-          "label": "Oral mefloquine"
+          "label": "Malarial pigment"
         },
         {
           "id": "d",
-          "label": "Oral primaquine"
+          "label": "Maurer's dots"
         },
         {
           "id": "e",
-          "label": "Oral pyrimethamine-sulfadoxine"
+          "label": "Sch\u00fcffner's dots"
         }
       ],
-      "correctOptionIds": ["a"]
+      "correctOptionIds": ["e"]
     },
     "q7": {
       "type": "mcq",
-      "prompt": "A patient diagnosed with Plasmodium vivax malaria is being evaluated for radical curative therapy to prevent future relapses. Before initiating treatment, a quantitative test for the Glucose-6-Phosphate Dehydrogenase (G6PD) enzyme is required. Which medication is strictly contraindicated if the patient is found to have a severe deficiency of this enzyme?",
+      "prompt": "A patient diagnosed with *Plasmodium vivax* malaria is being evaluated for radical curative therapy to prevent future relapses. Before initiating treatment, a quantitative test for the Glucose-6-Phosphate Dehydrogenase enzyme is required. Which medication is strictly contraindicated if the patient is found to have a severe deficiency of this enzyme?",
       "options": [
         {
           "id": "a",
@@ -196,84 +196,84 @@
     },
     "q8": {
       "type": "mcq",
-      "prompt": "A patient presents with migratory subcutaneous swellings and a marked peripheral eosinophilia. The clinical history reveals the frequent consumption of \"som fak,\" a local dish made of raw fermented freshwater fish. Which organism is most likely responsible for this presentation?",
+      "prompt": "A patient presents with migratory subcutaneous swellings and a marked peripheral eosinophilia. The clinical history reveals the frequent consumption of a local dish made of raw fermented freshwater fish. Which organism is most likely responsible for this presentation?",
       "options": [
         {
           "id": "a",
-          "label": "Anisakis spp."
+          "label": "*Opisthorcis viverrini*"
         },
         {
           "id": "b",
-          "label": "Capillaria philippinensis"
+          "label": "*Capillaria philippinensis*"
         },
         {
           "id": "c",
-          "label": "Fasciola hepatica"
+          "label": "*Fasciolopsis buski*"
         },
         {
           "id": "d",
-          "label": "Gnathostoma spinigerum"
+          "label": "*Gnathostoma spinigerum*"
         },
         {
           "id": "e",
-          "label": "Toxocara canis"
+          "label": "*Strongyloides stercolaris*"
         }
       ],
       "correctOptionIds": ["d"]
     },
     "q9": {
       "type": "mcq",
-      "prompt": "During a physical examination of a child in South America, the physician notes a classic \"Roma\u00f1a sign,\" characterized by unilateral, painless periorbital swelling. This finding is a classic clinical indicator for which condition?",
+      "prompt": "A patient in a crowded residential facility presents with a high fever and a rash. Epidemiological tracking confirms an outbreak of epidemic typhus caused by *Rickettsia prowazekii*. Which of the following ectoparasites serves as the primary vector for this disease?",
       "options": [
         {
           "id": "a",
-          "label": "Acute phase of Chagas disease"
+          "label": "*Pediculus humanus corporis*"
         },
         {
           "id": "b",
-          "label": "Chronic phase of Chagas disease"
+          "label": "*Pediculus humanus capitis*"
         },
         {
           "id": "c",
-          "label": "Early stage of African sleeping sickness"
+          "label": "*Phthirus pubis*"
         },
         {
           "id": "d",
-          "label": "Late stage of visceral leishmaniasis"
+          "label": "*Sarcoptes scabiei*"
         },
         {
           "id": "e",
-          "label": "Reactivation of cerebral toxoplasmosis"
+          "label": "*Dermacentor* spp."
         }
       ],
       "correctOptionIds": ["a"]
     },
     "q10": {
       "type": "mcq",
-      "prompt": "Fasciola hepatica and Fasciolopsis buski are both trematodes that can infect humans, but they occupy different primary habitats. Which of the following correctly identifies the adult habitat for each parasite?",
+      "prompt": "A 35-year-old traveler returns from Southeast Asia with daily spikes of fever and chills. A peripheral blood smear is diagnostic for malaria. Which of the following Plasmodium species is unique for having an asexual erythrocytic cycle that occurs every 24 hours?",
       "options": [
         {
           "id": "a",
-          "label": "F. hepatica in the bile ducts; F. buski in the small intestine"
+          "label": "Plasmodium falciparum"
         },
         {
           "id": "b",
-          "label": "F. hepatica in the lungs; F. buski in the large intestine"
+          "label": "Plasmodium knowlesi"
         },
         {
           "id": "c",
-          "label": "F. hepatica in the mesenteric veins; F. buski in the bile ducts"
+          "label": "Plasmodium malariae"
         },
         {
           "id": "d",
-          "label": "F. hepatica in the small intestine; F. buski in the bile ducts"
+          "label": "Plasmodium ovale"
         },
         {
           "id": "e",
-          "label": "F. hepatica in the urinary bladder; F. buski in the small intestine"
+          "label": "Plasmodium vivax"
         }
       ],
-      "correctOptionIds": ["a"]
+      "correctOptionIds": ["b"]
     }
   }
 }

@@ -1,1 +1,279 @@
-{}
+{
+  "info": {
+    "set_name": "General Parasitology 9",
+    "description": "This problem set focuses on parasites and antiparasitic agents. The difficulty may vary a lot through out the set, since this set contains a mix of four different cognitive levels of complexity (recall, understand, apply, analyze). The questions are already reviewed, so mistakes should have already been minimized, but if you come across one, you can report through the Forms in the \\\"Info and Links\\\".",
+    "source": "-"
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "A 45-year-old patient is diagnosed with an intestinal nematode infection and is prescribed albendazole. Which of the following best describes the primary mechanism of action of this benzimidazole compound?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Activation of glutamate-gated chloride channels causing flaccid paralysis"
+        },
+        {
+          "id": "b",
+          "label": "Inhibition of heme detoxification into non-toxic hemozoin"
+        },
+        {
+          "id": "c",
+          "label": "Inhibition of microtubule polymerization by binding to beta-tubulin"
+        },
+        {
+          "id": "d",
+          "label": "Interference with oxidative phosphorylation in adult tapeworms"
+        },
+        {
+          "id": "e",
+          "label": "Reductive bioactivation by ferredoxin leading to DNA fragmentation"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q2": {
+      "type": "mcq",
+      "prompt": "A traveler returning from a tropical region in the Middle East presents with a painless, ulcerative skin lesion with a raised outer border. The physician suspects cutaneous leishmaniasis. Which of the following organisms is the mandatory biological vector for the transmission of this parasite to humans?",
+      "options": [
+        {
+          "id": "a",
+          "label": "*Aedes* mosquito"
+        },
+        {
+          "id": "b",
+          "label": "*Anopheles* mosquito"
+        },
+        {
+          "id": "c",
+          "label": "*Ixodes* tick"
+        },
+        {
+          "id": "d",
+          "label": "Reduviid (kissing) bug"
+        },
+        {
+          "id": "e",
+          "label": "Sandfly (*Phlebotomus* spp.)"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q3": {
+      "type": "mcq",
+      "prompt": "A skin biopsy is performed on a patient presenting with an ulcerative lesion with raised outer borders on the arm. Microscopic examination of the tissue specimen reveals numerous intracellular parasitic forms within macrophages. Which stage of the Leishmania parasite is being observed?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Promastigote"
+        },
+        {
+          "id": "b",
+          "label": "Amastigote"
+        },
+        {
+          "id": "c",
+          "label": "Epimastigote"
+        },
+        {
+          "id": "d",
+          "label": "Trypomastigote"
+        },
+        {
+          "id": "e",
+          "label": "Trophozoite"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q4": {
+      "type": "mcq",
+      "prompt": "A 28-year-old patient presents with a severe, pounding headache and a stiff neck. A brain MRI demonstrates multiple inflammatory foci within the parenchyma but no evidence of hemorrhagic tracks. Cerebrospinal fluid analysis reveals a high percentage of eosinophils (25%), confirming a diagnosis of eosinophilic meningitis. The patient most likely acquired this infection from consuming which of the ",
+      "options": [
+        {
+          "id": "a",
+          "label": "Raw land snails"
+        },
+        {
+          "id": "b",
+          "label": "Undercooked freshwater fish"
+        },
+        {
+          "id": "c",
+          "label": "Raw buffalo meat"
+        },
+        {
+          "id": "d",
+          "label": "Undercooked pork"
+        },
+        {
+          "id": "e",
+          "label": "Contaminated aquatic vegetation"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q5": {
+      "type": "mcq",
+      "prompt": "A 19-year-old male presents with persistent pubic pruritus. Physical examination reveals small, bluish-gray hemorrhagic marks, known as maculae caeruleae, on the lower abdomen. Which organism is most likely responsible for this finding?",
+      "options": [
+        {
+          "id": "a",
+          "label": "*Sarcoptes scabiei*"
+        },
+        {
+          "id": "b",
+          "label": "*Pediculus humanus corporis*"
+        },
+        {
+          "id": "c",
+          "label": "*Phthirus pubis*"
+        },
+        {
+          "id": "d",
+          "label": "*Trichosporon* spp."
+        },
+        {
+          "id": "e",
+          "label": "*Demodex* spp."
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q6": {
+      "type": "mcq",
+      "prompt": "A patient with severe malaria caused by Plasmodium falciparum develops cerebral complications. Which of the following virulence factors is unique to this species and responsible for high virulence by mediating cytoadherence and microvascular sequestration?",
+      "options": [
+        {
+          "id": "a",
+          "label": "CARDS toxin"
+        },
+        {
+          "id": "b",
+          "label": "Internalin A and B"
+        },
+        {
+          "id": "c",
+          "label": "P1 adhesin"
+        },
+        {
+          "id": "d",
+          "label": "PfEMP1 protein"
+        },
+        {
+          "id": "e",
+          "label": "Polyribitol phosphate"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "A patient presents with a chronic cough and productive sputum containing rust-colored blood. Microscopic examination of the sputum reveals large, golden-brown, asymmetrical eggs with a thick shell and a flattened operculum. The patient most likely acquired this infection from consuming which of the following?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Undercooked freshwater crabs"
+        },
+        {
+          "id": "b",
+          "label": "Raw freshwater fish"
+        },
+        {
+          "id": "c",
+          "label": "Contaminated watercress"
+        },
+        {
+          "id": "d",
+          "label": "Raw buffalo meat"
+        },
+        {
+          "id": "e",
+          "label": "Undercooked pork"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q8": {
+      "type": "mcq",
+      "prompt": "In the life cycle of the hookworms *Ancylostoma duodenale* and *Necator americanus*, which developmental stages serve as the infective form for humans and the primary diagnostic stage detected in fresh stool, respectively?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Filariform larva and egg"
+        },
+        {
+          "id": "b",
+          "label": "Rhabditiform larva and egg"
+        },
+        {
+          "id": "c",
+          "label": "Embryonated egg and rhabditiform larva"
+        },
+        {
+          "id": "d",
+          "label": "Filariform larva and rhabditiform larva"
+        },
+        {
+          "id": "e",
+          "label": "Embryonated egg and adult worm"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q9": {
+      "type": "mcq",
+      "prompt": "During a laboratory session on helminthology, a medical student examines a preserved nematode specimen measuring approximately 3 cm in length. The student observes a \"barber's pole\" pattern, which is created by the dark intestine of the parasite winding around a cream-colored uterus. Which of the following is the correct identification and sex of this specimen? ",
+      "options": [
+        {
+          "id": "a",
+          "label": "*Ascaris lumbricoides*, male"
+        },
+        {
+          "id": "b",
+          "label": "*Gnathostoma spinigerum*, female"
+        },
+        {
+          "id": "c",
+          "label": "*Angiostrongylus cantonensis*, male"
+        },
+        {
+          "id": "d",
+          "label": "*Angiostrongylus cantonensis*, female"
+        },
+        {
+          "id": "e",
+          "label": "*Trichuris trichiura*, female"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q10": {
+      "type": "mcq",
+      "prompt": "A 28-year-old woman who is four months pregnant is diagnosed with scabies after a skin scraping confirms the presence of mites and eggs. Which of the following treatments is specifically indicated as safe for use in pregnant women?",
+      "options": [
+        {
+          "id": "a",
+          "label": "1% Lindane lotion"
+        },
+        {
+          "id": "b",
+          "label": "5% Sulfur ointment"
+        },
+        {
+          "id": "c",
+          "label": "25% Benzyl benzoate emulsion"
+        },
+        {
+          "id": "d",
+          "label": "1% Pyrethrin cream rinse"
+        },
+        {
+          "id": "e",
+          "label": "Oral Ivermectin"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  }
+}

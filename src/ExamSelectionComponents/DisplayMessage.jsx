@@ -35,7 +35,8 @@ export default function DisplayMessage({ topicCaller, onBackToSelection }) {
     `;
     updateMessage = `
       29/3/2026: Added 8 virology question sets\n
-      30/3/2026: Added 5 parasitology question sets
+      30/3/2026: Added 5 parasitology question sets\n
+      14/4/2026: Added another 5 parasitology question sets
     `;
   }
 

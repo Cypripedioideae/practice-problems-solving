@@ -1,1 +1,279 @@
-{}
+{
+  "info": {
+    "set_name": "General Parasitology 8",
+    "description": "This problem set focuses on parasites and antiparasitic agents. The difficulty may vary a lot through out the set, since this set contains a mix of four different cognitive levels of complexity (recall, understand, apply, analyze). The questions are already reviewed, so mistakes should have already been minimized, but if you come across one, you can report through the Forms in the \"Info and Links\".",
+    "source": "-"
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "A laboratory technician is identifying malarial species on a peripheral blood smear. Within erythrocytes of normal size, the technician observes large, comma-shaped reddish granules (3 to 8 per cell). These findings are the specific hallmark for which species?",
+      "options": [
+        {
+          "id": "a",
+          "label": "*Plasmodium falciparum*"
+        },
+        {
+          "id": "b",
+          "label": "*Plasmodium knowlesi*"
+        },
+        {
+          "id": "c",
+          "label": "*Plasmodium malariae*"
+        },
+        {
+          "id": "d",
+          "label": "*Plasmodium ovale*"
+        },
+        {
+          "id": "e",
+          "label": "*Plasmodium vivax*"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q2": {
+      "type": "mcq",
+      "prompt": "During a blood meal in an endemic region, an infected sandfly injects a specific developmental stage of Leishmania into the skin of a human host. Which of the following represents the infective stage for humans?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Amastigote"
+        },
+        {
+          "id": "b",
+          "label": "Promastigote"
+        },
+        {
+          "id": "c",
+          "label": "Sporozoite"
+        },
+        {
+          "id": "d",
+          "label": "Trypomastigote"
+        },
+        {
+          "id": "e",
+          "label": "Tachyzoite"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q3": {
+      "type": "mcq",
+      "prompt": "A 24-year-old male presents with an intense, itchy rash on his wrists and finger webs that is worse at night. He reports having had a similar condition six months ago. His current symptoms appeared only 48 hours after his most recent exposure. Which of the following best explains the rapid onset of symptoms in this patient?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Direct toxic effects of mite protease"
+        },
+        {
+          "id": "b",
+          "label": "Delayed Type IV hypersensitivity upon reinfestation"
+        },
+        {
+          "id": "c",
+          "label": "Immediate Type I hypersensitivity to mite eggs"
+        },
+        {
+          "id": "d",
+          "label": "Massive Th2-mediated eosinophilic response"
+        },
+        {
+          "id": "e",
+          "label": "Secondary bacterial cellulitis"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q4": {
+      "type": "mcq",
+      "prompt": "A traveler returning from an endemic area is diagnosed with malaria caused by *Plasmodium vivax*. In addition to blood schizonticidal therapy, the physician prescribes primaquine. What is the primary clinical rationale for incorporating primaquine into this patient's management?",
+      "options": [
+        {
+          "id": "a",
+          "label": "To eliminate active trophozoites within the red blood cells"
+        },
+        {
+          "id": "b",
+          "label": "To eradicate dormant hypnozoites in the liver to prevent relapse"
+        },
+        {
+          "id": "c",
+          "label": "To inhibit the further development of gametocytes in the bloodstream"
+        },
+        {
+          "id": "d",
+          "label": "To provide immediate protection against reinfection by the mosquito vector"
+        },
+        {
+          "id": "e",
+          "label": "To treat associated hemolytic anemia caused by the rupture of erythrocytes"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q5": {
+      "type": "mcq",
+      "prompt": "During a clinical microbiology lecture, a student asks about the acquisition of the \"oriental lung fluke\". The instructor explains that human infection occurs through the ingestion of a specific larval stage encysted within the tissues of a second intermediate host, such as a crab or crayfish. Which stage of this parasite life cycle is infectious to humans?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Plerocercoid larvae"
+        },
+        {
+          "id": "b",
+          "label": "Coracidia"
+        },
+        {
+          "id": "c",
+          "label": "Cercariae"
+        },
+        {
+          "id": "d",
+          "label": "Metacercariae"
+        },
+        {
+          "id": "e",
+          "label": "Miracidia"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q6": {
+      "type": "mcq",
+      "prompt": "A patient from an endemic region presents with spiking fevers, massive splenomegaly, and hyperpigmentation of the skin. Which of the following microscopic findings in a tissue sample would definitively identify the visceral form of this parasite?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Amastigotes residing within host macrophages"
+        },
+        {
+          "id": "b",
+          "label": "Flagellated trypomastigotes in the peripheral blood"
+        },
+        {
+          "id": "c",
+          "label": "Fusiform promastigotes with an anterior flagellum"
+        },
+        {
+          "id": "d",
+          "label": "Trophozoite ring forms within red blood cells"
+        },
+        {
+          "id": "e",
+          "label": "Sarcocysts embedded within skeletal muscle tissue"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "A 42-year-old patient presents with right upper quadrant pain and fever. An ultrasound reveals a large mass in the liver. Percutaneous drainage of the abscess obtains an exudate described as \"anchovy paste-like\" or \"chocolate-like\" pus. Which organism is most likely responsible for this finding?",
+      "options": [
+        {
+          "id": "a",
+          "label": "*Leishmania donovani*"
+        },
+        {
+          "id": "b",
+          "label": "*Entamoeba coli*"
+        },
+        {
+          "id": "c",
+          "label": "*Entamoeba histolytica*"
+        },
+        {
+          "id": "d",
+          "label": "*Balantidium coli*"
+        },
+        {
+          "id": "e",
+          "label": "*Toxoplasma gondii*"
+        }
+      ],
+      "correctOptionIds": ["c"]
+    },
+    "q8": {
+      "type": "mcq",
+      "prompt": "A laboratory technician is identifying malarial species on a thin blood film. The technician identifies infected erythrocytes containing characteristic crescent or \"banana-shaped\" gametocytes. Which of the following species is identified by this morphological hallmark?",
+      "options": [
+        {
+          "id": "a",
+          "label": "*Plasmodium falciparum*"
+        },
+        {
+          "id": "b",
+          "label": "*Plasmodium knowlesi*"
+        },
+        {
+          "id": "c",
+          "label": "*Plasmodium malariae*"
+        },
+        {
+          "id": "d",
+          "label": "*Plasmodium ovale*"
+        },
+        {
+          "id": "e",
+          "label": "*Plasmodium vivax*"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q9": {
+      "type": "mcq",
+      "prompt": "A patient is diagnosed with neurocysticercosis after presenting with new-onset seizures and cystic lesions in the brain. According to the life cycle of Taenia solium, which of the following exposures is the specific cause of this systemic form of the disease?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Ingestion of embryonated eggs in food contaminated with human feces"
+        },
+        {
+          "id": "b",
+          "label": "Ingestion of larvae encysted in undercooked pork"
+        },
+        {
+          "id": "c",
+          "label": "Ingestion of plerocercoid larvae found in raw freshwater fish"
+        },
+        {
+          "id": "d",
+          "label": "Ingestion of proglottids found in undercooked contaminated beef"
+        },
+        {
+          "id": "e",
+          "label": "Skin penetration by larvae present in contaminated soil"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q10": {
+      "type": "mcq",
+      "prompt": "Which of the following correctly pairs the infective stage and the diagnostic stage for *Cyclospora cayetanensis*?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Mature oocyst and unsporulated oocyst"
+        },
+        {
+          "id": "b",
+          "label": "Unsporulated oocyst and mature cyst"
+        },
+        {
+          "id": "c",
+          "label": "Mature cyst and trophozoite"
+        },
+        {
+          "id": "d",
+          "label": "Sporulated oocyst and trophozoite"
+        },
+        {
+          "id": "e",
+          "label": "Embryonated egg and unsporulated oocyst"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    }
+  }
+}

@@ -1,1 +1,183 @@
-{}
+{
+    "info": {
+        "set_name": "General Parasitology 12",
+        "description": "This problem set focuses on parasites and antiparasitic agents. The difficulty may vary a lot through out the set, since this set contains a mix of four different cognitive levels of complexity (recall, understand, apply, analyze). The questions are already reviewed, so mistakes should have already been minimized, but if you come across one, you can report through the Forms in the \\\"Info and Links\\\".",
+        "source": "-"
+    },
+    "questions": {
+        "q1": {
+            "type": "mcq",
+            "prompt": "A patient with Human African Trypanosomiasis (HAT) progresses from the initial hemolymphatic stage to the neurological stage. Which of the following clinical presentations is most characteristic of this stage of the infection?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Acute hemolytic anemia and hemoglobinuria"
+                },
+                {
+                    "id": "b",
+                    "label": "Development of painful, indurated skin ulcers (chancre)"
+                },
+                {
+                    "id": "c",
+                    "label": "Massive splenomegaly and spiking fever cycles"
+                },
+                {
+                    "id": "d",
+                    "label": "Progressive somnolence, slurred speech, and coma"
+                },
+                {
+                    "id": "e",
+                    "label": "Unilateral painless periorbital swelling (Roma\u00f1a sign)"
+                }
+            ],
+            "correctOptionIds": [
+                "d"
+            ]
+        },
+        "q2": {
+            "type": "mcq",
+            "prompt": "A healthy teenager develops rapidly progressive and fatal encephalitis. Brain tissue examination reveals cysts and trophozoites of a free-living ameba. Which of the following characteristics distinguishes Balamuthia mandrillaris from other free-living amebae causing central nervous system disease?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "It enters the host primarily via the cribriform plate during diving"
+                },
+                {
+                    "id": "b",
+                    "label": "It exclusively infects immunocompromised individuals with HIV"
+                },
+                {
+                    "id": "c",
+                    "label": "It is acquired through contact with soil, air, or water reservoirs"
+                },
+                {
+                    "id": "d",
+                    "label": "It is only found in stagnant tropical freshwater ponds"
+                },
+                {
+                    "id": "e",
+                    "label": "It lacks a cyst stage in its life cycle within human tissue"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q3": {
+            "type": "mcq",
+            "prompt": "A laboratory technician is examining a thick blood film to differentiate between the microfilariae of Wuchereria bancrofti and Brugia malayi. Which of the following morphological features is the definitive hallmark of Brugia malayi?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Absence of a protective sheath around the larva"
+                },
+                {
+                    "id": "b",
+                    "label": "Presence of exactly two terminal nuclei at the end of the tail"
+                },
+                {
+                    "id": "c",
+                    "label": "Short cephalic space with a 1:1 ratio to the body width"
+                },
+                {
+                    "id": "d",
+                    "label": "Smoothly curved body appearance without twisting"
+                },
+                {
+                    "id": "e",
+                    "label": "Uniformly arranged nuclei that do not overlap"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q4": {
+            "type": "mcq",
+            "prompt": "A 68-year-old patient who regularly consumes raw freshwater fish presents with symptoms of megaloblastic anemia. Which of the following mechanisms best explains the development of Vitamin B12 deficiency in this parasitic infection?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Chronic blood loss due to attachment to the large intestine"
+                },
+                {
+                    "id": "b",
+                    "label": "Destruction of gastric parietal cells and loss of intrinsic factor"
+                },
+                {
+                    "id": "c",
+                    "label": "Direct competition for and depletion of host B12 in the intestine"
+                },
+                {
+                    "id": "d",
+                    "label": "Malabsorption caused by the internal autoinfection of larvae"
+                },
+                {
+                    "id": "e",
+                    "label": "Systemic inflammatory response to migrating rhabditiform larvae"
+                }
+            ],
+            "correctOptionIds": [
+                "c"
+            ]
+        },
+        "q5": {
+            "type": "mcq",
+            "prompt": "Adult schistosomes are able to reside within the human intravascular system for long periods without being eradicated by the host's immune system. Which of the following molecular mechanisms best explains this immune evasion?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Inhibition of NF-\u03baB to prevent host cell apoptosis"
+                },
+                {
+                    "id": "b",
+                    "label": "Masking by incorporating host MHC and blood group antigens"
+                },
+                {
+                    "id": "c",
+                    "label": "Rapid VSG-mediated antigenic variation of the surface coat"
+                },
+                {
+                    "id": "d",
+                    "label": "Secretion of hyaluronidase to penetrate the vascular endothelium"
+                },
+                {
+                    "id": "e",
+                    "label": "Sequestration within sequestered splenic macrophages"
+                }
+            ],
+            "correctOptionIds": [
+                "b"
+            ]
+        },
+        "q6": {
+            "type": "mcq",
+            "prompt": "A traveler returning from a tropical beach vacation presents with a painful, inflamed lesion on the sole of the foot. The physician identifies the dark posterior portion of a flea embedded in the skin. Which of the following is the most likely diagnosis?",
+            "options": [
+                {
+                    "id": "a",
+                    "label": "Cutaneous larva migrans"
+                },
+                {
+                    "id": "b",
+                    "label": "Leishmaniasis"
+                },
+                {
+                    "id": "c",
+                    "label": "Pediculosis"
+                },
+                {
+                    "id": "d",
+                    "label": "Scabies"
+                },
+                {
+                    "id": "e",
+                    "label": "Tungiasis"
+                }
+            ],
+            "correctOptionIds": [
+                "e"
+            ]
+        }
+    }
+}

@@ -1,1 +1,279 @@
-{}
+{
+  "info": {
+    "set_name": "General Parasitology 10",
+    "description": "This problem set focuses on parasites and antiparasitic agents. The difficulty may vary a lot through out the set, since this set contains a mix of four different cognitive levels of complexity (recall, understand, apply, analyze). The questions are already reviewed, so mistakes should have already been minimized, but if you come across one, you can report through the Forms in the \"Info and Links\".",
+    "source": "-"
+  },
+  "questions": {
+    "q1": {
+      "type": "mcq",
+      "prompt": "A 29-year-old patient presents with a history of passing flat, motile segments in his stool. He admits to frequently consuming undercooked beef. Laboratory examination of a gravid proglottid reveals 22 primary uterine branches. Which of the following is the drug of choice for treating this intestinal infection?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Praziquantel"
+        },
+        {
+          "id": "b",
+          "label": "Ivermectin"
+        },
+        {
+          "id": "c",
+          "label": "Albendazole"
+        },
+        {
+          "id": "d",
+          "label": "Diethylcarbamazine"
+        },
+        {
+          "id": "e",
+          "label": "Triclabendazole"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q2": {
+      "type": "mcq",
+      "prompt": "A 40-year-old male presents with chronic epigastric pain and a pruritic, serpiginous skin lesion on his lower back that moves several centimetres per hour. Stool examination using a concentration technique reveals the presence of rhabditiform larvae. What is the drug of choice for this patient's condition?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Ivermectin"
+        },
+        {
+          "id": "b",
+          "label": "Albendazole"
+        },
+        {
+          "id": "c",
+          "label": "Praziquantel"
+        },
+        {
+          "id": "d",
+          "label": "Pyrantel pamoate"
+        },
+        {
+          "id": "e",
+          "label": "Diethylcarbamazine"
+        }
+      ],
+      "correctOptionIds": ["a"]
+    },
+    "q3": {
+      "type": "mcq",
+      "prompt": "A 30-year-old male traveler presents with a 2-month history of spiking fevers, significant weight loss, and fatigue. Physical examination reveals massive splenomegaly and hepatomegaly, along with distinct hyperpigmentation of the skin. Laboratory studies confirm pancytopenia. Which of the following is the most likely diagnosis?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Granulomatous amebic encephalitis"
+        },
+        {
+          "id": "b",
+          "label": "Malaria"
+        },
+        {
+          "id": "c",
+          "label": "Toxoplasmosis"
+        },
+        {
+          "id": "d",
+          "label": "Cutaneous gnathostomiasis"
+        },
+        {
+          "id": "e",
+          "label": "Visceral leishmaniasis"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q4": {
+      "type": "mcq",
+      "prompt": "A laboratory technician is examining a Giemsa-stained peripheral blood smear from a patient with chronic lymphedema of the lower extremities. The technician identifies sheathed microfilariae. The absence of which of the following morphological features would definitively identify the organism as *Wuchereria bancrofti* rather than a *Brugia* species?",
+      "options": [
+        {
+          "id": "a",
+          "label": "A single, large, central nucleus"
+        },
+        {
+          "id": "b",
+          "label": "A smooth, non-undulating membrane"
+        },
+        {
+          "id": "c",
+          "label": "A tapered, pointed posterior end"
+        },
+        {
+          "id": "d",
+          "label": "An elongated, transparent cephalic space"
+        },
+        {
+          "id": "e",
+          "label": "Terminal nuclei at the end of the tail"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q5": {
+      "type": "mcq",
+      "prompt": "A laboratory technician is examining a Giemsa-stained peripheral blood smear from a patient with chronic lymphedema of the lower extremities. The technician identifies sheathed microfilariae. The absence of which of the following morphological features would definitively identify the organism as *Wuchereria bancrofti* rather than a *Brugia* species?",
+      "options": [
+        {
+          "id": "a",
+          "label": "A single, large, central nucleus"
+        },
+        {
+          "id": "b",
+          "label": "A smooth, non-undulating membrane"
+        },
+        {
+          "id": "c",
+          "label": "A tapered, pointed posterior end"
+        },
+        {
+          "id": "d",
+          "label": "An elongated, transparent cephalic space"
+        },
+        {
+          "id": "e",
+          "label": "Terminal nuclei at the end of the tail"
+        }
+      ],
+      "correctOptionIds": ["e"]
+    },
+    "q6": {
+      "type": "mcq",
+      "prompt": "A 45-year-old patient with a history of renal transplantation presents with a slow-onset headache and focal neurological deficits. Brain MRI reveals multiple space-occupying lesions with ring enhancement. A brain biopsy is performed. Which of the following microscopic findings in the brain tissue would be most compatible with the radiology findings?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Rapidly moving amebae with semispherical pseudopods"
+        },
+        {
+          "id": "b",
+          "label": "Presence of both trophozoites and thick-walled, polygonal cysts"
+        },
+        {
+          "id": "c",
+          "label": "Migratory larvae with head bulb with 4 rows of spines"
+        },
+        {
+          "id": "d",
+          "label": "Young adult worms with a characteristic \"barber-pole\" appearance"
+        },
+        {
+          "id": "e",
+          "label": "Crescent-shaped tachyzoites and bradyzoite-containing cysts"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q7": {
+      "type": "mcq",
+      "prompt": "A 42-year-old male presents with recurrent fever and chills. He reports that he was successfully treated for a malaria infection eighteen months ago after a trip to Southeast Asia. His current symptoms are identical to his previous illness, and a reactivation of dormant liver stages is suspected. Which of the following species pairs is most likely responsible for this clinical presentation?",
+      "options": [
+        {
+          "id": "a",
+          "label": "*Plasmodium falciparum* and *Plasmodium malariae*"
+        },
+        {
+          "id": "b",
+          "label": "*Plasmodium vivax* and *Plasmodium ovale*"
+        },
+        {
+          "id": "c",
+          "label": "*Plasmodium ovale* and *Plasmodium knowlesi*"
+        },
+        {
+          "id": "d",
+          "label": "*Plasmodium malariae* and *Plasmodium knowlesi*"
+        },
+        {
+          "id": "e",
+          "label": "*Plasmodium falciparum* and *Plasmodium vivax*"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q8": {
+      "type": "mcq",
+      "prompt": "A thick blood film is prepared from a patient exhibiting significant lymphedema of the right leg. Microscopic examination reveals sheathed microfilariae characterized by a long cephalic space (2:1 ratio) and overlapping nuclei in the body. Which parasite is the most likely cause of these findings?",
+      "options": [
+        {
+          "id": "a",
+          "label": "*Wuchereria bancrofti*"
+        },
+        {
+          "id": "b",
+          "label": "*Brugia malayi*"
+        },
+        {
+          "id": "c",
+          "label": "*Loa loa*"
+        },
+        {
+          "id": "d",
+          "label": "*Onchocerca volvulus*"
+        },
+        {
+          "id": "e",
+          "label": "*Trichinella spiralis*"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    },
+    "q9": {
+      "type": "mcq",
+      "prompt": "During a blood meal, an infected *Anopheles* mosquito introduces a specific developmental stage of *Wuchereria bancrofti* into the skin of a human host. Which of the following represents the infective stage of this parasite?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Microfilaria"
+        },
+        {
+          "id": "b",
+          "label": "First-stage larva (L1)"
+        },
+        {
+          "id": "c",
+          "label": "Second-stage larva (L2)"
+        },
+        {
+          "id": "d",
+          "label": "Third-stage larva (L3)"
+        },
+        {
+          "id": "e",
+          "label": "Adult worm"
+        }
+      ],
+      "correctOptionIds": ["d"]
+    },
+    "q10": {
+      "type": "mcq",
+      "prompt": "During the transmission cycle of malaria, a female *Anopheles* mosquito bites a human host and introduces a specific developmental stage of the parasite into the bloodstream from its salivary glands. Which of the following represents this infective stage for humans?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Merozoite"
+        },
+        {
+          "id": "b",
+          "label": "Sporozoite"
+        },
+        {
+          "id": "c",
+          "label": "Trophozoite"
+        },
+        {
+          "id": "d",
+          "label": "Gametocyte"
+        },
+        {
+          "id": "e",
+          "label": "Hypnozoite"
+        }
+      ],
+      "correctOptionIds": ["b"]
+    }
+  }
+}
