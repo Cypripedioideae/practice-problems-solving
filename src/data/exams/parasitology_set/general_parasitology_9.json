@@ -1,7 +1,7 @@
 {
   "info": {
     "set_name": "General Parasitology 9",
-    "description": "This problem set focuses on parasites and antiparasitic agents. The difficulty may vary a lot through out the set, since this set contains a mix of four different cognitive levels of complexity (recall, understand, apply, analyze). The questions are already reviewed, so mistakes should have already been minimized, but if you come across one, you can report through the Forms in the \\\"Info and Links\\\".",
+    "description": "This problem set focuses on parasites and antiparasitic agents. The difficulty may vary a lot through out the set, since this set contains a mix of four different cognitive levels of complexity (recall, understand, apply, analyze). The questions are already reviewed, so mistakes should have already been minimized, but if you come across one, you can report through the Forms in the \"Info and Links\".",
     "source": "-"
   },
   "questions": {
@@ -34,27 +34,27 @@
     },
     "q2": {
       "type": "mcq",
-      "prompt": "A traveler returning from a tropical region in the Middle East presents with a painless, ulcerative skin lesion with a raised outer border. The physician suspects cutaneous leishmaniasis. Which of the following organisms is the mandatory biological vector for the transmission of this parasite to humans?",
+      "prompt": "A 29-year-old traveler returning from a 3-month trip to the Middle East presents with a painless, 2-cm ulcerative skin lesion on his forearm that has a characteristic raised, indurated border. A skin biopsy of the lesion is performed, and microscopic examination reveals numerous small (2-3 µm), oval, non-flagellated parasitic forms residing within host macrophages. Which of the following organisms is the mandatory biological vector for the transmission of this parasite to humans?",
       "options": [
         {
           "id": "a",
-          "label": "*Aedes* mosquito"
-        },
-        {
-          "id": "b",
           "label": "*Anopheles* mosquito"
         },
         {
+          "id": "b",
+          "label": "*Aedes* mosquito"
+        },
+        {
           "id": "c",
-          "label": "*Ixodes* tick"
+          "label": "*Triatomine* reduviid bug"
         },
         {
           "id": "d",
-          "label": "Reduviid (kissing) bug"
+          "label": "*Chrysops* deerfly "
         },
         {
           "id": "e",
-          "label": "Sandfly (*Phlebotomus* spp.)"
+          "label": "*Phlebotomus* Sandfly"
         }
       ],
       "correctOptionIds": ["e"]
@@ -142,7 +142,7 @@
     },
     "q6": {
       "type": "mcq",
-      "prompt": "A patient with severe malaria caused by Plasmodium falciparum develops cerebral complications. Which of the following virulence factors is unique to this species and responsible for high virulence by mediating cytoadherence and microvascular sequestration?",
+      "prompt": "A patient with severe malaria caused by *Plasmodium falciparum* develops cerebral complications. Which of the following virulence factors is unique to this species and responsible for high virulence by mediating cytoadherence and microvascular sequestration?",
       "options": [
         {
           "id": "a",

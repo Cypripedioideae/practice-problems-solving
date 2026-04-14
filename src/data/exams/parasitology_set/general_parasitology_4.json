@@ -1,6 +1,6 @@
 {
   "info": {
-    "set_name": "General parasitology 4",
+    "set_name": "General Parasitology 4",
     "description": "This problem set focuses on parasites and antiparasitic agents. The difficulty may vary a lot through out the set, since this set contains a mix of four different cognitive levels of complexity (recall, understand, apply, analyze). The questions are already reviewed, so mistakes should have already been minimized, but if you come across one, you can report through the Forms in the \"Info and Links\".",
     "source": "-"
   },
@@ -30,9 +30,7 @@
           "label": "A terminal spine on the cyst wall"
         }
       ],
-      "correctOptionIds": [
-        "b"
-      ]
+      "correctOptionIds": ["b"]
     },
     "q2": {
       "type": "mcq",
@@ -59,9 +57,7 @@
           "label": "Intestinal obstruction"
         }
       ],
-      "correctOptionIds": [
-        "d"
-      ]
+      "correctOptionIds": ["d"]
     },
     "q3": {
       "type": "mcq",
@@ -88,9 +84,7 @@
           "label": "Intestinal obstruction"
         }
       ],
-      "correctOptionIds": [
-        "a"
-      ]
+      "correctOptionIds": ["a"]
     },
     "q4": {
       "type": "mcq",
@@ -117,9 +111,7 @@
           "label": "Rupture of thin-walled oocysts within the intestinal lumen"
         }
       ],
-      "correctOptionIds": [
-        "e"
-      ]
+      "correctOptionIds": ["e"]
     },
     "q5": {
       "type": "mcq",
@@ -146,9 +138,7 @@
           "label": "*Balantidium coli*"
         }
       ],
-      "correctOptionIds": [
-        "d"
-      ]
+      "correctOptionIds": ["d"]
     },
     "q6": {
       "type": "mcq",
@@ -175,9 +165,7 @@
           "label": "Cercariae"
         }
       ],
-      "correctOptionIds": [
-        "c"
-      ]
+      "correctOptionIds": ["c"]
     },
     "q7": {
       "type": "mcq",
@@ -204,9 +192,7 @@
           "label": "*Fasciola hepatica* and *Salmonella typhi*"
         }
       ],
-      "correctOptionIds": [
-        "b"
-      ]
+      "correctOptionIds": ["b"]
     },
     "q8": {
       "type": "mcq",
@@ -233,9 +219,7 @@
           "label": "*Endolimax nana*"
         }
       ],
-      "correctOptionIds": [
-        "b"
-      ]
+      "correctOptionIds": ["b"]
     },
     "q9": {
       "type": "mcq",
@@ -262,9 +246,7 @@
           "label": "Microscopic examination of sputum for eggs"
         }
       ],
-      "correctOptionIds": [
-        "c"
-      ]
+      "correctOptionIds": ["c"]
     },
     "q10": {
       "type": "mcq",
@@ -291,9 +273,7 @@
           "label": "The organism reaches its definitive habitat to complete its life cycle"
         }
       ],
-      "correctOptionIds": [
-        "d"
-      ]
+      "correctOptionIds": ["d"]
     }
   }
 }

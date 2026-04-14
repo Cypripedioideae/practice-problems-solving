@@ -30,11 +30,11 @@
           "label": "*Plasmodium vivax*"
         }
       ],
-      "correctOptionIds": ["b"]
+      "correctOptionIds": ["a"]
     },
     "q2": {
       "type": "mcq",
-      "prompt": "During a blood meal in an endemic region, an infected sandfly injects a specific developmental stage of Leishmania into the skin of a human host. Which of the following represents the infective stage for humans?",
+      "prompt": "During a blood meal in an endemic region, an infected sandfly injects a specific developmental stage of *Leishmania* into the skin of a human host. Which of the following represents the infective stage for humans?",
       "options": [
         {
           "id": "a",
@@ -223,7 +223,7 @@
     },
     "q9": {
       "type": "mcq",
-      "prompt": "A patient is diagnosed with neurocysticercosis after presenting with new-onset seizures and cystic lesions in the brain. According to the life cycle of Taenia solium, which of the following exposures is the specific cause of this systemic form of the disease?",
+      "prompt": "A patient is diagnosed with neurocysticercosis after presenting with new-onset seizures and cystic lesions in the brain. According to the life cycle of *Taenia solium*, which of the following exposures is the specific cause of this systemic form of the disease?",
       "options": [
         {
           "id": "a",

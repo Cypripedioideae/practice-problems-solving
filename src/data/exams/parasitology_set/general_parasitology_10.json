@@ -88,57 +88,57 @@
     },
     "q4": {
       "type": "mcq",
-      "prompt": "A laboratory technician is examining a Giemsa-stained peripheral blood smear from a patient with chronic lymphedema of the lower extremities. The technician identifies sheathed microfilariae. The absence of which of the following morphological features would definitively identify the organism as *Wuchereria bancrofti* rather than a *Brugia* species?",
+      "prompt": "A 40-year-old patient presents with a 3-day history of bloody, mucoid diarrhea, lower abdominal pain, and tenesmus. Stool examination reveals motile trophozoites. Which of the following features specifically identifies the pathogen as invasive *Entamoeba histolytica*?",
       "options": [
         {
           "id": "a",
-          "label": "A single, large, central nucleus"
+          "label": "Presence of an eccentric karyosome"
         },
         {
           "id": "b",
-          "label": "A smooth, non-undulating membrane"
+          "label": "Blunt, dome-shaped pseudopods"
         },
         {
           "id": "c",
-          "label": "A tapered, pointed posterior end"
+          "label": "Presence of ingested erythrocytes"
         },
         {
           "id": "d",
-          "label": "An elongated, transparent cephalic space"
+          "label": "Cysts containing eight nuclei"
         },
         {
           "id": "e",
-          "label": "Terminal nuclei at the end of the tail"
+          "label": "Trophozoites with a kidney-shaped macronucleus"
         }
       ],
-      "correctOptionIds": ["e"]
+      "correctOptionIds": ["c"]
     },
     "q5": {
       "type": "mcq",
-      "prompt": "A laboratory technician is examining a Giemsa-stained peripheral blood smear from a patient with chronic lymphedema of the lower extremities. The technician identifies sheathed microfilariae. The absence of which of the following morphological features would definitively identify the organism as *Wuchereria bancrofti* rather than a *Brugia* species?",
+      "prompt": "A 32-year-old male presents to the emergency department with a 3-day history of a severe, \"pounding\" headache, nausea, and a stiff neck. He reports that he recently consumed a local delicacy featuring raw golden apple snails. Laboratory studies show a peripheral blood eosinophil count of 22%. A cerebrospinal fluid analysis reveals 550 WBCs/mm^3 with 35% eosinophils and elevated protein levels. Brain MRI demonstrates multiple inflammatory foci within the parenchyma. Which of the following is the most appropriate management strategy for this patient?",
       "options": [
         {
           "id": "a",
-          "label": "A single, large, central nucleus"
+          "label": "Intravenous amphotericin B"
         },
         {
           "id": "b",
-          "label": "A smooth, non-undulating membrane"
+          "label": "Oral corticosteroid therapy and therapeutic lumbar puncture"
         },
         {
           "id": "c",
-          "label": "A tapered, pointed posterior end"
+          "label": "Immediate surgical drainage of ring-enhancing lesions"
         },
         {
           "id": "d",
-          "label": "An elongated, transparent cephalic space"
+          "label": "Administration of sodium stibogluconate"
         },
         {
           "id": "e",
-          "label": "Terminal nuclei at the end of the tail"
+          "label": "Oral ivermectin therapy"
         }
       ],
-      "correctOptionIds": ["e"]
+      "correctOptionIds": ["b"]
     },
     "q6": {
       "type": "mcq",

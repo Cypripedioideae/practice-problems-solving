@@ -1,6 +1,6 @@
 {
   "info": {
-    "set_name": "General parasitology 7",
+    "set_name": "General Parasitology 7",
     "description": "This problem set focuses on parasites and antiparasitic agents. The difficulty may vary a lot through out the set, since this set contains a mix of four different cognitive levels of complexity (recall, understand, apply, analyze). The questions are already reviewed, so mistakes should have already been minimized, but if you come across one, you can report through the Forms in the \"Info and Links\".",
     "source": "-"
   },
@@ -96,7 +96,7 @@
         },
         {
           "id": "b",
-          "label": "Encysted larva in the gastrointestinal mucosa"
+          "label": "Larva in the gastrointestinal mucosa"
         },
         {
           "id": "c",
@@ -254,23 +254,23 @@
       "options": [
         {
           "id": "a",
-          "label": "Plasmodium falciparum"
+          "label": "*Plasmodium falciparum*"
         },
         {
           "id": "b",
-          "label": "Plasmodium knowlesi"
+          "label": "*Plasmodium knowlesi*"
         },
         {
           "id": "c",
-          "label": "Plasmodium malariae"
+          "label": "*Plasmodium malariae*"
         },
         {
           "id": "d",
-          "label": "Plasmodium ovale"
+          "label": "*Plasmodium ovale*"
         },
         {
           "id": "e",
-          "label": "Plasmodium vivax"
+          "label": "*Plasmodium vivax*"
         }
       ],
       "correctOptionIds": ["b"]

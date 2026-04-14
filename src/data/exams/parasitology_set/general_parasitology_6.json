@@ -1,6 +1,6 @@
 {
   "info": {
-    "set_name": "General parasitology 6",
+    "set_name": "General Parasitology 6",
     "description": "This problem set focuses on parasites and antiparasitic agents. The difficulty may vary a lot through out the set, since this set contains a mix of four different cognitive levels of complexity (recall, understand, apply, analyze). The questions are already reviewed, so mistakes should have already been minimized, but if you come across one, you can report through the Forms in the \"Info and Links\".",
     "source": "-"
   },
@@ -142,7 +142,7 @@
     },
     "q6": {
       "type": "mcq",
-      "prompt": "A patient with a chronic, latent Toxoplasma gondii infection is at risk for reactivation if they become immunocompromised. Which of the following stages of the parasite is responsible for maintaining this lifelong infection within host tissue cysts?",
+      "prompt": "A patient with a chronic, latent *Toxoplasma gondii* infection is at risk for reactivation if they become immunocompromised. Which of the following stages of the parasite is responsible for maintaining this lifelong infection within host tissue cysts?",
       "options": [
         {
           "id": "a",
@@ -196,7 +196,7 @@
     },
     "q8": {
       "type": "mcq",
-      "prompt": "Which developmental stages of Giardia lamblia (also known as G. duodenalis) represent the infectious form and the diagnostic form found in feces, respectively?",
+      "prompt": "Which developmental stages of *Giardia lamblia* represent the infectious form and the diagnostic form found in feces, respectively?",
       "options": [
         {
           "id": "a",
