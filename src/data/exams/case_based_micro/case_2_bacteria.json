@@ -2,7 +2,7 @@
   "info": {
     "set_name": "Case-Based Problems 2 [Bacteria]",
     "description": "This set of questions contain a constructed patient's history, which serves to give an example of how a disease may be manifested. The questions should be done in order (that is no skipping), in order to maximize learning value.",
-    "persistentInformation": "\tA 28-year-old man presents to the clinic with a painless lesion on his penis that he noticed 10 days ago. He reports recent unprotected sexual contact with a new partner. He denies dysuria, urethral discharge, or systemic symptoms. \n\tOn examination, there is a single, well-demarcated ulcer with a clean base and indurated borders located on the shaft of the penis. The lesion is non-tender. Bilateral, non-tender inguinal lymphadenopathy is present.\n\tDark-field microscopy of fluid obtained from the lesion demonstrates motile spirochetes.",
+    "persistentInformation": "\tA 10-year-old boy is brought to the clinic with fever, joint pain, and fatigue. Three weeks ago, he had a sore throat that resolved without medical treatment. Over the past several days, he developed migratory pain and swelling involving his knees and ankles. His parents also report that he has been more irritable and has had occasional involuntary movements of his hands.\nOn examination, his temperature is 38.2°C. There is swelling and tenderness of the right knee and left ankle with limited range of motion. A new holosystolic murmur is heard best at the apex. Subcutaneous nodules are noted over the extensor surfaces of his elbows, and a faint, nonpruritic, serpiginous rash is present on his trunk.\nLaboratory studies show elevated ESR and CRP. Antistreptolysin O (ASO) titers are elevated.",
     "source": "-"
   },
   "questions": {

@@ -185,7 +185,7 @@
         },
         {
           "id": "d",
-          "label": "Sequestration of merozoites in the cerebral icrovasculature"
+          "label": "Sequestration of merozoites in the cerebral microvasculature"
         },
         {
           "id": "e",
@@ -250,7 +250,7 @@
     },
     "q10": {
       "type": "mcq",
-      "prompt": "A 21-year-old man emigrates from an endemic region and presents with some non-specific symptoms; he reports a history of consuming raw freshwater crabs. To confirm a diagnosis of paragonimiasis, which specimen should be primarily collected to look for operculated eggs?",
+      "prompt": "A 21-year-old man emigrates from an endemic region and presents with some symptoms; he reports a history of consuming raw freshwater crabs. To confirm a diagnosis of paragonimiasis, which specimen should be primarily collected to look for operculated eggs?",
       "options": [
         {
           "id": "a",
