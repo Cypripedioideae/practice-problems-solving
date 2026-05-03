@@ -36,7 +36,7 @@ export default function DisplayMessage({ topicCaller, onBackToSelection }) {
     updateMessage = `
       29/3/2026: Added 8 virology question sets\n
       30/3/2026: Added 5 parasitology question sets\n
-      14/4/2026: Added another 5 parasitology question sets
+      14/4/2026: Added another 5 parasitology question sets\n
       3/5/2026: แก้ไขโจทย์ข้อที่ 5 ของ antibacterial agents 2: ผู้ป่วย simple urinary tract infection (ปกติจะ refer ถึงพวก acute cystitis ที่ไม่ได้ progress ขึ้นไปที่ไต) มี G6PD ควรหลีกเลี่ยงยาตัวใด ซึ่งในตัวเลือกมีทั้ง nitrofurantoin และ co-trimoxazole ซึ่งถูกทั้งคู่และก็มี indication สามารถใช้ได้ใน simple urinary tract infection ทั้งคู่ (ตาม guideline UTI ปี 2568) ซึ่งได้เปลี่ยนตัวเลือก co-trimoxazole ออกไปแล้ว และ แก้ไขโจทย์ case-based bacterial infection ที่ให้ scenario ผิด (ขออภัยที่แก้ไขล่าช้า)  
     `;
   }
@@ -83,7 +83,7 @@ export default function DisplayMessage({ topicCaller, onBackToSelection }) {
             </a>
           </div>
           <img
-            src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXg2NTEwZGhqYjFjeTdxcno5MWR1dXA3Z3BibnRzYWU3OTY4OTg2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1AE8LbiGWJHjXXjEU7/giphy.gif"
+            src="https://tenor.com/view/cat-dance-nick-wilde-zootopia-beatbox-gif-13289949116862819575"
             alt="car"
             className="m-auto block"
           />
