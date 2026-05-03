@@ -83,7 +83,7 @@ export default function DisplayMessage({ topicCaller, onBackToSelection }) {
             </a>
           </div>
           <img
-            src="https://tenor.com/view/cat-dance-nick-wilde-zootopia-beatbox-gif-13289949116862819575"
+            src="https://media1.tenor.com/m/uG9iTwGf7PcAAAAd/cat-dance.gif"
             alt="car"
             className="m-auto block"
           />
